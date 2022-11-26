@@ -22,3 +22,7 @@ third_nav_title: Acheivements
 	 <p><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Certificate-Presentation-1536x1152.jpg"><br><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Participants-Actual-Day-1536x1152.jpg">
     </div>
 	</li>
+	
+![](/images/2021-GCE-O-Level-Results_Slide-1.jpg)
+![](/images/2021-GCE-O-Level-Results_Slide-2.jpg)
+![](/images/2021-GCE-O-Level-Results_Slide-3.jpg)
