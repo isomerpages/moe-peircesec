@@ -2,7 +2,7 @@ collections:
   about-school:
     output: true
     order:
-      - folder-page.md
+      - School Advisory Committee.md
       - Staff/Staff List.md
       - Staff/.keep
       - Staff/Form Teachers.md
