@@ -2,4 +2,4 @@ collections:
   curriculum:
     output: true
     order:
-      - example-page.md
+      - Physical Education.md
