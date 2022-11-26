@@ -33,15 +33,15 @@ third_nav_title: Staff
 | Mr Lin Kuen Ping 	| Assistant Year Head (S1) / SH ICT 	| [lin_kuen_ping@moe.edu.sg](mailto:lin_kuen_ping@moe.edu.sg) 	|
 | Tan Pei Ghee (Mrs Loo) 	| SH Chinese Language 	| [tan_pei_ghee@moe.edu.sg](mailto:tan_pei_ghee@moe.edu.sg) 	|
 | Lee Mei Chen Cheryl (Mrs Lin) 	| SH Mathematics 	| [lee_mei_chen_cheryl@moe.edu.sg](mailto:lee_mei_chen_cheryl@moe.edu.sg) 	|
-| Mr Lee Yang Hui Clement 	| SH Science 	| lee_yang_hui@moe.edu.sg 	|
-| Mr Mohammad Zabid Bin Jabar 	| ST Art 	| mohammad_zabid_jabar@moe.edu.sg 	|
-| Mr Ng Bing Fu 	| ST Biology 	| ng_bing_fu@moe.edu.sg 	|
-| Lim Christina (Mrs Lai) 	| ST Educational Support 	| christina_camillus_lim@moe.edu.sg 	|
-| Ms Nai Chheu Yee (Ms) 	| ST Mathematics 	| nai_chheu_yee@moe.edu.sg 	|
-| Mdm Loh Hwee Hwa (Mdm) 	| ST Principles of Accounts 	| loh_hwee_hwa@moe.edu.sg 	|
-| Msm Yow Ee-Linn Cynthia 	| Teacher 	| yow_ee-linn_cynthia@moe.edu.sg 	|
-| Ms Ng Meiyu Adelia 	| Teacher 	| adelia_ng_meiyu@moe.edu.sg 	|
-| Ms Galkisage Amanda P Fernando 	| Teacher 	| amanda_fernando@moe.edu.sg 	|
+| Mr Lee Yang Hui Clement 	| SH Science 	| [lee_yang_hui@moe.edu.sg](mailto:lee_yang_hui@moe.edu.sg) 	|
+| Mr Mohammad Zabid Bin Jabar 	| ST Art 	| [mohammad_zabid_jabar@moe.edu.sg](mailto:mohammad_zabid_jabar@moe.edu.sg) 	|
+| Mr Ng Bing Fu 	| ST Biology 	| [ng_bing_fu@moe.edu.sg](mailto:ng_bing_fu@moe.edu.sg) 	|
+| Lim Christina (Mrs Lai) 	| ST Educational Support 	| [christina_camillus_lim@moe.edu.sg](mailto:christina_camillus_lim@moe.edu.sg) 	|
+| Ms Nai Chheu Yee (Ms) 	| ST Mathematics 	| [nai_chheu_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg) 	|
+| Mdm Loh Hwee Hwa (Mdm) 	| ST Principles of Accounts 	| [loh_hwee_hwa@moe.edu.sg](mailto:loh_hwee_hwa@moe.edu.sg) 	|
+| Msm Yow Ee-Linn Cynthia 	| Teacher 	| yow_ee-[linn_cynthia@moe.edu.sg](mailto:linn_cynthia@moe.edu.sg) 	|
+| Ms Ng Meiyu Adelia 	| Teacher 	| [adelia_ng_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg) 	|
+| Ms Galkisage Amanda P Fernando 	| Teacher 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| Teacher 	| bai_meiqi@moe.edu.sg 	|
 | Ms Bhavana Thiagarajan 	| Teacher 	| bhavana_thiagarajan@moe.edu.sg 	|
 | Ms Chai Hsueh Chi Michelle 	| Teacher 	| chai_hsueh_chi_michelle@moe.edu.sg 	|
