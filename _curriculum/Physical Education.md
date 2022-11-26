@@ -57,3 +57,15 @@ Objectives:
 – To promote the importance of healthy lifestyle.
 
 Conducted in the last week of term 3, the Health & Fitness (H&F) Week aims to celebrate and remind Peirceans the importance of healthy living. During this period, the PE department and a team of student leaders organize activities to engage Peirceans in body and mind. Some of the activities include inter class games, inter CCA challenges, health quiz, Staff versus Students 1-minute challenge and Learn @ Peirce modules. Learn @ Peirce are short exposure physical activities conducted by external instructors, examples of such courses are inline skating, muay thai, k-pop dance and archery. The H & F Week culminates in the All Children Exercising Simultaneously (ACES) Day workout. On ACES Day, Peirceans will be reminded the importance of eating fruits and drinking water. Everyone brings a fruit and eat together before the workout.
+
+### 3\. Photos
+
+![](/images/Photo-1-scaled.jpg)
+
+![](/images/Photo-2-scaled.jpg)
+
+![](/images/Photo-3-scaled.jpg)
+
+![](/images/Photo-4-1.jpg)
+
+![](/images/Photo-5-1-scaled.jpg)
