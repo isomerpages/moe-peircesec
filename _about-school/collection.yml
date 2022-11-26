@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - folder-page.md
+      - Staff/Staff List.md
       - Staff/.keep
       - Staff/Form Teachers.md
