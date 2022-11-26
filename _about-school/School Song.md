@@ -22,3 +22,4 @@ Fax Mentis Incendium Gloriae
 
 (school song needs to be uploaded to YT)
 
+![](/images/Fax-Mentis-Incendium-Gloriae-Music-Sheet.png)
