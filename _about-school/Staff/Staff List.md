@@ -42,35 +42,35 @@ third_nav_title: Staff
 | Msm Yow Ee-Linn Cynthia 	| Teacher 	| yow_ee-[linn_cynthia@moe.edu.sg](mailto:linn_cynthia@moe.edu.sg) 	|
 | Ms Ng Meiyu Adelia 	| Teacher 	| [adelia_ng_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg) 	|
 | Ms Galkisage Amanda P Fernando 	| Teacher 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
-| Mdm Bai Meiqi 	| Teacher 	| bai_meiqi@moe.edu.sg 	|
-| Ms Bhavana Thiagarajan 	| Teacher 	| bhavana_thiagarajan@moe.edu.sg 	|
-| Ms Chai Hsueh Chi Michelle 	| Teacher 	| chai_hsueh_chi_michelle@moe.edu.sg 	|
-| Mr Chan Jie Yong 	| Teacher 	| chan_jie_yong@moe.edu.sg 	|
-| Mr Chia Teck Hong 	| Teacher 	| chia_teck_hong@moe.edu.sg 	|
-| Mr Chiz Poh Seng 	| Teacher 	| chiz_poh_seng@moe.edu.sg 	|
-| Mr Kelvin Chong Chee Leong 	| Teacher 	| chong_chee_leong@moe.edu.sg 	|
-| Ms Chua Geok Song 	| Teacher 	| chua_geok_song@moe.edu.sg 	|
-| Mdm Chua Weilin 	| Teacher 	| chua_weilin@moe.edu.sg 	|
-| Mrs Chung-Gay Mee Choo 	| Teacher 	| gay_mee_choo@moe.edu.sg 	|
-| Ms Hong Wee Fui 	| Teacher 	| hong_wee_fui@moe.edu.sg 	|
-| Mrs Irene Stevens-Ong Ching Ling 	| Teacher 	| irene_ong_ching_ling@moe.edu.sg 	|
-| Mr Kan Cheng Mun 	| Teacher 	| kang_cheng_mun@moe.edu.sg 	|
-| Miss Kang Yiling Chanel 	| Teacher 	| kang_yiling_chanel@moe.edu.sg 	|
-| Ms Kavitha D/O Supramaniam 	| Teacher 	| kavitha_supramaniam@moe.edu.sg 	|
-| Ms Kimberley Ong Sher-min 	| Teacher 	| kimberley_ong_sher_min@moe.edu.sg 	|
-| Ms Lai Jia Hui 	| Teacher 	| lai_jia_hui@moe.edu.sg 	|
-| Ms Lam Yong Peng 	| Teacher 	| lam_yong_peng@moe.edu.sg 	|
-| Mdm Lee Chun Nee 	| Teacher 	| lee_chun_nee@moe.edu.sg 	|
-| Ms Lee Peiyi 	| Teacher 	| lee_peiyi@moe.edu.sg 	|
-| Ms Lee Xiu-Ping 	| Teacher 	| lee_xiu-ping@moe.edu.sg 	|
-| Ms Lin Yuzhi Karyl 	| Teacher 	| lin_yuzhi@moe.edu.sg 	|
-| Mr Brandon Low 	| Teacher 	| low_delong_brandon@moe.edu.sg 	|
-| Mrs Jasmine Yau-Low Ngiap Lee 	| Teacher 	| low_ngiap_lee@moe.edu.sg 	|
-| Ms Tham Yee Mui Miranda Mirabelle 	| Teacher 	| miranda_tham@moe.edu.sg 	|
-| Ms Nettie Tan 	| Teacher 	| nettie_tan@moe.edu.sg 	|
-| Mrs Chia-Ng Jia Lin Hana 	| Teacher 	| ng_jia_lin_hana@moe.edu.sg 	|
-| Mdm Ng Yee Lee 	| Teacher 	| ng_yee_lee@moe.edu.sg 	|
-| Ms Nicole Lee Kim Hui 	| Teacher 	| nicole_lee_kim_hui@moe.edu.sg 	|
+| Mdm Bai Meiqi 	| Teacher 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
+| Ms Bhavana Thiagarajan 	| Teacher 	| [bhavana_thiagarajan@moe.edu.sg](mailto:bhavana_thiagarajan@moe.edu.sg) 	|
+| Ms Chai Hsueh Chi Michelle 	| Teacher 	| [chai_hsueh_chi_michelle@moe.edu.sg](mailto:chai_hsueh_chi_michelle@moe.edu.sg) 	|
+| Mr Chan Jie Yong 	| Teacher 	| [chan_jie_yong@moe.edu.sg](mailto:chan_jie_yong@moe.edu.sg) 	|
+| Mr Chia Teck Hong 	| Teacher 	| [chia_teck_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg) 	|
+| Mr Chiz Poh Seng 	| Teacher 	| [chiz_poh_seng@moe.edu.sg](mailto:chiz_poh_seng@moe.edu.sg) 	|
+| Mr Kelvin Chong Chee Leong 	| Teacher 	| [chong_chee_leong@moe.edu.sg](mailto:chong_chee_leong@moe.edu.sg) 	|
+| Ms Chua Geok Song 	| Teacher 	| [chua_geok_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg) 	|
+| Mdm Chua Weilin 	| Teacher 	| [chua_weilin@moe.edu.sg](mailto:chua_weilin@moe.edu.sg) 	|
+| Mrs Chung-Gay Mee Choo 	| Teacher 	| [gay_mee_choo@moe.edu.sg](mailto:gay_mee_choo@moe.edu.sg) 	|
+| Ms Hong Wee Fui 	| Teacher 	| [hong_wee_fui@moe.edu.sg](mailto:hong_wee_fui@moe.edu.sg) 	|
+| Mrs Irene Stevens-Ong Ching Ling 	| Teacher 	| [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) 	|
+| Mr Kan Cheng Mun 	| Teacher 	| [kang_cheng_mun@moe.edu.sg](mailto:kang_cheng_mun@moe.edu.sg) 	|
+| Miss Kang Yiling Chanel 	| Teacher 	| [kang_yiling_chanel@moe.edu.sg](mailto:kang_yiling_chanel@moe.edu.sg) 	|
+| Ms Kavitha D/O Supramaniam 	| Teacher 	| [kavitha_supramaniam@moe.edu.sg](mailto:kavitha_supramaniam@moe.edu.sg) 	|
+| Ms Kimberley Ong Sher-min 	| Teacher 	| [kimberley_ong_sher_min@moe.edu.sg](mailto:kimberley_ong_sher_min@moe.edu.sg) 	|
+| Ms Lai Jia Hui 	| Teacher 	| [lai_jia_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg) 	|
+| Ms Lam Yong Peng 	| Teacher 	| [lam_yong_peng@moe.edu.sg](mailto:lam_yong_peng@moe.edu.sg) 	|
+| Mdm Lee Chun Nee 	| Teacher 	| [lee_chun_nee@moe.edu.sg](mailto:lee_chun_nee@moe.edu.sg) 	|
+| Ms Lee Peiyi 	| Teacher 	| [lee_peiyi@moe.edu.sg](mailto:lee_peiyi@moe.edu.sg) 	|
+| Ms Lee Xiu-Ping 	| Teacher 	| [lee_xiu-ping@moe.edu.sg](mailto:lee_xiu-ping@moe.edu.sg) 	|
+| Ms Lin Yuzhi Karyl 	| Teacher 	| [lin_yuzhi@moe.edu.sg](mailto:lin_yuzhi@moe.edu.sg) 	|
+| Mr Brandon Low 	| Teacher 	| [low_delong_brandon@moe.edu.sg](mailto:low_delong_brandon@moe.edu.sg) 	|
+| Mrs Jasmine Yau-Low Ngiap Lee 	| Teacher 	| [low_ngiap_lee@moe.edu.sg](mailto:low_ngiap_lee@moe.edu.sg) 	|
+| Ms Tham Yee Mui Miranda Mirabelle 	| Teacher 	| [miranda_tham@moe.edu.sg](mailto:miranda_tham@moe.edu.sg) 	|
+| Ms Nettie Tan 	| Teacher 	| [ettie_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg) 	|
+| Mrs Chia-Ng Jia Lin Hana 	| Teacher 	| [ng_jia_lin_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg) 	|
+| Mdm Ng Yee Lee 	| Teacher 	| [ng_yee_lee@moe.edu.sg](mailto:ng_yee_lee@moe.edu.sg) 	|
+| Ms Nicole Lee Kim Hui 	| Teacher 	| [nicole_lee_kim_hui@moe.edu.sg](mailto:nicole_lee_kim_hui@moe.edu.sg) 	|
 | Ms Noelene Liew Oi-Yin 	| Teacher 	| noelene_liew_oi-yin@moe.edu.sg 	|
 | Ms Nurul Syakinah Binti Sahak 	| Teacher 	| nurul_syakinah_sahak@moe.edu.sg 	|
 | Mr P Sivapathasundaram 	| Teacher 	| p_sivapathasundaram@moe.edu.sg 	|
