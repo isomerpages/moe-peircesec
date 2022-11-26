@@ -2,6 +2,7 @@ collections:
   about-school:
     output: true
     order:
+      - Acheivements/Good Stories.md
       - Acheivements/Academic Achievements.md
       - Acheivements/.keep
       - School Advisory Committee.md
