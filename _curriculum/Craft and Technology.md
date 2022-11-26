@@ -77,6 +77,3 @@ D&T elective module
 
 ![](/images/FN-Elective-768x1024-1.jpg)
 F&N Elective
-
-
-
