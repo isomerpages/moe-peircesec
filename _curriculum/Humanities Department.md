@@ -53,3 +53,5 @@ Humanities Inquiry Approach
 ![](/images/Picture-2.jpg)
 Secondary 1 Geography Investigation at Bishan Park
 
+![](/images/Picture-3.jpg)
+Water Testing by the Secondary 1 Geography students
