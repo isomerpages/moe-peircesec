@@ -46,3 +46,10 @@ The inquiry projects give students opportunities to appreciate the real world ap
 The department adopts an Inquiry Based Approach (see Figure 1)  in the teaching of all its Humanities subjects.
 
 There are four pedagogical elements that underlie the approach which will require learning to be Question-Driven and Evidence-Based, and involves Reflection and Knowledge Construction. These elements are further exemplified through students’ learning as they undergo the four stages of the inquiry process, which are Sparking Curiosity, Gathering Data, Exercising Reasoning and Reflective Thinking. Having a good understanding of these elements, the different stages of inquiry and strategies that facilitate these elements in a lesson will help teachers design meaningful inquiry lessons for Humanities. Our students go through this process in their Humanities lessons to make them critical, inquisitive and curious individuals with the ability to make sound judgements through reasoning, reflection and analysis.
+
+![](/images/Photo-1-Humanities-Inquiry-Approach.png)
+Humanities Inquiry Approach
+
+![](/images/Picture-2.jpg)
+Secondary 1 Geography Investigation at Bishan Park
+
