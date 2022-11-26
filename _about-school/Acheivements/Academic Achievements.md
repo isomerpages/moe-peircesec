@@ -34,3 +34,4 @@ third_nav_title: Acheivements
 ![](/images/2021-GCE-O-Level-Results_Slide-9.jpg)
 ![](/images/2021-GCE-O-Level-Results_Slide-10.jpg)
 ![](/images/2021-GCE-O-Level-Results_Slide-11.jpg)
+![](/images/2021-GCE-O-Level-Results_Slide-12.jpg)
