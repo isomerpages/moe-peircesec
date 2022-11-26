@@ -41,3 +41,6 @@ The PSLE Achievement Levels (ALs) of our 2022 Secondary One cohort are:
 
 
 ### School Colours
+
+
+![](/images/School%20Crest.jpg)
