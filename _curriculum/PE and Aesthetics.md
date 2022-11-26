@@ -3,19 +3,18 @@ title: PE and Aesthetics
 permalink: /curriculum/pe-and-aesthetics/
 description: ""
 ---
-
 # **Physical Education**
 
 ### 1\. Department Teachers
 
 | Name 	| Email Address 	|
 |---	|---	|
-| Mdm Foong Sau Wan (HOD CCA & PE) 	| foong_sau_wan@moe.edu.sg 	|
-| Mrs Jasmine Yau-Low Ngiap Lee 	| low_ngiap_lee@moe.edu.sg 	|
-| Mr Chia Teck Hong 	| chia_teck_hong@moe.edu.sg 	|
-| Mr Kelvin Chong Chee Leong 	| chong_chee_leong@moe.edu.sg 	|
-| Mr P Sivapathasundaram 	| p_sivapathasundaram@moe.edu.sg 	|
-| Ms Lam Yong Peng 	| lam_yong_peng@moe.edu.sg 	|
+| Mdm Foong Sau Wan (HOD CCA & PE) 	| [foong_sau_wan@moe.edu.sg](mailto:foong_sau_wan@moe.edu.sg) 	|
+| Mrs Jasmine Yau-Low Ngiap Lee 	| [low_ngiap_lee@moe.edu.sg](mailto:low_ngiap_lee@moe.edu.sg) 	|
+| Mr Chia Teck Hong 	| [chia_teck_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg) 	|
+| Mr Kelvin Chong Chee Leong 	| [chong_chee_leong@moe.edu.sg](mailto:chong_chee_leong@moe.edu.sg) 	|
+| Mr P Sivapathasundaram 	| [p_sivapathasundaram@moe.edu.sg](mailto:p_sivapathasundaram@moe.edu.sg) 	|
+| Ms Lam Yong Peng 	| [lam_yong_peng@moe.edu.sg](mailto:lam_yong_peng@moe.edu.sg) 	|
 
 
 **Vision**
