@@ -53,3 +53,30 @@ Objective: To develop interest in Food and Beverages (F&B) related business in S
 Advanced Electives Modules are programme conducted by polytechnic to teach aspiring students on how to start and manage their own food and beverage (F&B) business. Through a variety of hands-on activities, students will craft and present a simple and sustainable F&B business plan and design their dream restaurant.
 
 Elective Modules are school-based customized programme to expose students to the working life of a professional chief and learn the operations in the commercial food kitchen.
+
+
+### 3\. Photos
+
+![](/images/AEM-on-FB-business-1024x768-1.jpg)
+AEM on F&B business
+
+![](/images/Art-Museum-1024x768-1.jpg)
+Art Museum
+
+![](/images/Art-Museum-2-768x1024-1.jpg)
+Art Museum 2
+
+![](/images/DT-computer-aided-design-1024x768-1.jpg)
+D&T computer-aided design
+
+![](/images/DT-design-and-make-1024x768-1.jpg)
+D&T design and make
+
+![](/images/DT-elective-module-1024x768-1.jpeg)
+D&T elective module
+
+![](/images/FN-Elective-768x1024-1.jpg)
+F&N Elective
+
+
+
