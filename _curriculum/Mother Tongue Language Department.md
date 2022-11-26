@@ -20,7 +20,6 @@ description: ""
 | Ms Toh Xin Rong 	| [toh_xin_rong@moe.edu.sg](mailto:toh_xin_rong@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
 | Ms Nurul Syakinah Binti Sahak 	| [nurul_syakinah_sahak@moe.edu.sg](mailto:nurul_syakinah_sahak@moe.edu.sg) 	|
-| Mr Ee Chong Choon 	| [ee_chong_choon@moe.edu.sg](mailto:ee_chong_choon@moe.edu.sg) 	|
 
 
 ### 2\. Department Programmes
