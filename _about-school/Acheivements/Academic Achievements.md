@@ -19,19 +19,6 @@ third_nav_title: Acheivements
     <label for="accordion2">2021 GCE 'O' Level Results</label>
     <div>
       <p>Amidst disruptions and unpredictability, our 2021 Sec 4E and 5NA students demonstrated resilience and did well at the GCE 'O' Level Examination.<br><br>We would like to congratulate our parents, teachers, counsellors, allied educators (LBS) and of course, our dear class of 2021.</p>
-	 <p><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Certificate-Presentation-1536x1152.jpg"><br><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Participants-Actual-Day-1536x1152.jpg">
+	 <p><img src="/images/2021-GCE-O-Level-Results_Slide-1.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-2.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-3.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-4.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-5.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-6.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-7.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-8.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-9.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-10.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-11.jpg"><br><img src="/images/2021-GCE-O-Level-Results_Slide-12.jpg">
     </div>
 	</li>
-	
-![](/images/2021-GCE-O-Level-Results_Slide-1.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-2.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-3.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-4.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-5.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-6.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-7.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-8.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-9.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-10.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-11.jpg)
-![](/images/2021-GCE-O-Level-Results_Slide-12.jpg)
