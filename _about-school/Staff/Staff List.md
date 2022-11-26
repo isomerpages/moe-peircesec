@@ -96,10 +96,10 @@ third_nav_title: Staff
 | Mr Goh Jun Qiang Matthias 	| AED/LBS 	| [goh_jun_qiang_matthias@moe.edu.sg](mailto:goh_jun_qiang_matthias@moe.edu.sg) 	|
 | Ms Kelly Lim Li Tuan 	| AED/LBS 	| [kelly_lim_li_tuan@moe.edu.sg](mailto:kelly_lim_li_tuan@moe.edu.sg) 	|
 | Mr Wasif Ali Bin Abdullah 	| Student Welfare Officer 	| [wasif_ali_abdullah@moe.edu.sg](mailto:wasif_ali_abdullah@moe.edu.sg) 	|
-| Ms Toh Shufen 	| AM 	| toh_shufen@moe.edu.sg 	|
-| Mr Shiva Shanmugam S/O N Muthusamy 	| OM 	| shiva_shanmugam@moe.edu.sg 	|
-| Mr V. Balakrishnan 	| OM 	| balakrishnan_venkadasamy@moe.edu.sg 	|
-| Mr Teo Wei Siong Christopher 	| ICT Manager 	| teo_wei_siong_christopher@moe.edu.sg 	|
+| Ms Toh Shufen 	| AM 	| [toh_shufen@moe.edu.sg](mailto:toh_shufen@moe.edu.sg) 	|
+| Mr Shiva Shanmugam S/O N Muthusamy 	| OM 	| [shiva_shanmugam@moe.edu.sg](mailto:shiva_shanmugam@moe.edu.sg) 	|
+| Mr V. Balakrishnan 	| OM 	| [balakrishnan_venkadasamy@moe.edu.sg](mailto:balakrishnan_venkadasamy@moe.edu.sg) 	|
+| Mr Teo Wei Siong Christopher 	| ICT Manager 	| [teo_wei_siong_christopher@moe.edu.sg](mailto:teo_wei_siong_christopher@moe.edu.sg) 	|
 | Mdm Ler Sok Har 	| AE 	| - 	|
 | Ms Siti Nurshawallah 	| AE 	| - 	|
 | Mdm Robicka Bte Karim 	| CSO 	| - 	|
