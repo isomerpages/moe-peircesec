@@ -2,4 +2,4 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical Education.md
+      - PE and Aesthetics.md
