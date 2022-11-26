@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Craft and Technology.md
       - PE and Aesthetics.md
