@@ -44,3 +44,16 @@ The PSLE Achievement Levels (ALs) of our 2022 Secondary One cohort are:
 
 
 ![](/images/School%20Crest.jpg)
+
+
+### Our Principals
+
+| Name | Duration of Service |
+| --- | --- |
+| Mdm Betty Chang | December 2017 - Present |
+| Mdm Lee Eet Fong | December 2011 - December 2017 |
+| Mr Sim Chong Boon | December 2005 - December 2011 |
+| Mr Richard Chew | December 1999 - December 2005 |
+| Mr Yeo Teck Cheng | December 1994 - December 1999 |
+| Mrs Chan Chen Fen | June - December 1994 |
+| Mr Chia Choon Kiat | January - June 1994 |
