@@ -54,3 +54,17 @@ Upper Sec - Newspapers or Students’ magazine
 CL – Essay Writing Competition  
         **Bian Cai Competition编采比赛**ML – Sahibba Competition  
 TL -   Debate
+
+
+<img src="/images/Photo1.jpg" 
+     style="width:30%"><br>
+<img src="/images/Photo2.jpg" 
+     style="width:30%"><br>
+<img src="/images/Photo3.jpg" 
+     style="width:30%"><br>
+<img src="/images/Photo4.jpg" 
+     style="width:30%"><br>
+<img src="/images/Photo5.jpg" 
+     style="width:30%">
+
+(uploaded 5/16 images)
