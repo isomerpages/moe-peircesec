@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue Language Department.md
       - Craft and Technology.md
       - PE and Aesthetics.md
