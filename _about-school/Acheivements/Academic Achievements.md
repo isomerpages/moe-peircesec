@@ -4,6 +4,8 @@ permalink: /about-school/achievements/academic-acheivements/
 description: ""
 third_nav_title: Acheivements
 ---
+<h1><b>Academic Achievements</b></h1>
+
 <ul class="jekyllcodex_accordion">
  <li>
     <input type="checkbox" id="accordion1">
