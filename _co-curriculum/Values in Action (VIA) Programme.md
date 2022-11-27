@@ -89,3 +89,11 @@ Personalized hampers & greeting Cards
 
 ![](/images/Photo-15-2-scaled.jpg)
 Presenting the Personalized Hamper (2019)
+
+Besides the level VIAs, the school also provides volunteering opportunities for our Upper Secondary students through activities such as newspaper collection and flag days.
+
+![](/images/Photo-16-1-scaled.jpg)
+Students bringing newspaper to the collection point
+
+![](/images/Photo-17-1-scaled.jpg)
+Student seeking donations on flag day
