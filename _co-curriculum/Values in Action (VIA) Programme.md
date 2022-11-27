@@ -60,4 +60,8 @@ Students cleaning the canteen tables
 
 Our Secondary 2 students collaborate with identified community partners (e.g. Singapore National Cooperative Federation, National Kidney Foundation, Food Bank Singapore Ltd, Intergenerational Learning Programme, Thomson Sin Ming Court RC Carnival and World Wide Fund for Nature) and do their part to conserve our environment or help the less fortunate in our community.
 
+![](/images/Photo-8-7.jpg)
+Visit to NKF Dialysis Centre to appreciate and empathise with dialysis patients (2019)
 
+![](/images/Photo-9-6-scaled.jpg)
+Students teaching splash painting to the elderly (2019)
