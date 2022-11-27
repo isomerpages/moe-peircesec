@@ -75,3 +75,9 @@ Students engaging the elderly during the Walkathon (2019)
 ![](/images/Photo-11-4-scaled.jpg)
 Students engaging the elderly during the Walkathon (2019)
 
+![](/images/Photo-12-4-scaled.jpg)
+Students interacting with the elderly through games at Ang Mo Kio Senior Activity Centre (2019)
+
+![](/images/Photo-13-3-scaled.jpg)
+Students interacting with the elderly through games at Ang Mo Kio Senior Activity Centre (2019)
+
