@@ -113,3 +113,10 @@ Authentic experiences through the use of VR goggles
 ![](/images/Photo-5.jpg)
 Self-Directed Learning
 
+![](/images/Photo-4.jpg)
+Self-Directed Learning
+
+![](/images/Photo-3.jpeg)
+Use of Personal Learning Devices to enhance classroom learning
+
+![](/images/Photo-2.jpeg)
