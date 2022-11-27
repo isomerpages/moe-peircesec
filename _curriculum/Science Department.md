@@ -38,3 +38,11 @@ Students are actively encouraged by their subject teachers to take part in compe
 Our students signed up for the Youth Science Ambassador project in 2019 and the Young Sustainability Champion programme in 2020 and 2021. Through the programme, they are mentored by our teachers and educators from the Singapore Science Centre on project management, global awareness and embark on tasks to raise awareness about sustainability.
 
 ![](/images/Science-Department-Org-Chart-updated-18-July-2021.png)
+
+![](/images/SEP-Science-Trail-1.jpeg)
+
+![](/images/SEP-Science-Trail-2.jpeg)
+
+![](/images/SEP-Science-Trail-3.jpeg)
+
+![](/images/SEP-Science-Trail-4.jpeg)
