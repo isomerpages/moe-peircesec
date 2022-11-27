@@ -14,11 +14,11 @@ description: ""
 | Ms Jasmine Yap 	| [yap_qian_yi_jasmine@moe.edu.sg](mailto:yap_qian_yi_jasmine@moe.edu.sg) 	|
 | Ms Arion Lai Jiahui 	| [lai_jia_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg) 	|
 | Mrs Lin-Lee Mei Chen Cheryl (SH Mathematics) 	| [lee_mei_chen_cheryl@moe.edu.sg](mailto:lee_mei_chen_cheryl@moe.edu.sg) 	|
-| Mrs Chia-Ng Jia Lin Hana 	| ng_jia_lin_hana@moe.edu.sg 	|
-| Mr P Sivapathasundaram 	| p_sivapathasundaram@moe.edu.sg 	|
-| Mr Eugene Lim Yeok Jin (Assistant Year Head) 	| lim_yeok_jin@moe.edu.sg 	|
-| Mr Dennis Goh Chun Loong (HOD Mathematics) 	| dennis_goh_chun_loong@moe.edu.sg 	|
-| Mr Cheng Shing Kim (Year Head (Upper Sec)) 	| cheng_shing_kim@moe.edu.sg 	|
+| Mrs Chia-Ng Jia Lin Hana 	| [ng_jia_lin_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg) 	|
+| Mr P Sivapathasundaram 	| [p_sivapathasundaram@moe.edu.sg](mailto:p_sivapathasundaram@moe.edu.sg) 	|
+| Mr Eugene Lim Yeok Jin (Assistant Year Head) 	| [lim_yeok_jin@moe.edu.sg](mailto:lim_yeok_jin@moe.edu.sg) 	|
+| Mr Dennis Goh Chun Loong (HOD Mathematics) 	| [dennis_goh_chun_loong@moe.edu.sg](mailto:dennis_goh_chun_loong@moe.edu.sg) 	|
+| Mr Cheng Shing Kim (Year Head (Upper Sec)) 	| [cheng_shing_kim@moe.edu.sg](mailto:cheng_shing_kim@moe.edu.sg) 	|
 | Mr Chan Jie Yong 	| chan_jie_yong@moe.edu.sg 	|
 | Mr Ang Keng Kiat (HOD CCE) 	| ang_keng_kiat@moe.edu.sg 	|
 | Mdm Sin Boon Yiah 	| sin_boon_yiah@moe.edu.sg 	|
