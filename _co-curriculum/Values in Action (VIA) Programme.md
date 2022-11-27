@@ -68,3 +68,10 @@ Students teaching splash painting to the elderly (2019)
 
 
 As the school has strong partnership with Lion Befrienders Service Association, our Secondary 3 students participate in the annual Lions Club of Singapore Nanyang Walkathon. They will also plan activities to interact with the elderly in their visit to Ang Mo Kio Senior Activity Centre (SAC)
+
+![](/images/Photo-10-6-scaled.jpg)
+Students engaging the elderly during the Walkathon (2019)
+
+![](/images/Photo-11-4-scaled.jpg)
+Students engaging the elderly during the Walkathon (2019)
+
