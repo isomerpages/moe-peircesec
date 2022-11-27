@@ -86,3 +86,9 @@ Sec 3 Pupils working collobratively in Problems in Real World Context activitiy
 
 ![](/images/Students-doing-kinematics-tasks-outside-of-the-classroom-1024x636-1.jpg)
 Students doing kinematics tasks outside of the classroom
+
+
+#### Ngee Ann Poly Math Challenge 2021
+
+Our students challenged themselves to a zesty series of exciting mathematics quests in the Maths Challenge organized by Nee Ann Polytechnic. They had the opportunity to marvel at and see the use of mathematics beyond the classroom. Participants learn that mathematics can be fun, interesting, exciting and beneficial to daily life.
+
