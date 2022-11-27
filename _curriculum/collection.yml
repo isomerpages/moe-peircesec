@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Computing.md
       - Science Department.md
       - Humanities Department.md
       - Mother Tongue Language Department.md
