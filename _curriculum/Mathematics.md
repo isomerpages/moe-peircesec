@@ -64,14 +64,19 @@ All Singapore Secondary Mathematics Competition Normal Course Students
 ### 3\. Photos
 
 ![](/images/1-Mini-Whiteboard.jpg)
+Use of Mini Whiteboards to check students’ understanding
 
 ![](/images/2-Mini-Whiteboard.jpg)
+Students solving Mathematical Tasks Collaboratively
 
 ![](/images/7-Mathematics-Week.jpg)
+Students solving Mathematical Puzzles
 
 ![](/images/9-Mathematics-Week.jpg)
+Students solving Mathematical Puzzles
 
 ![](/images/14-Eureka-1024x683-1.jpg)
+Students solving Mathematical Tasks Collaboratively
 
 ![](/images/Sec-3-Pupils-working-collobratively-in-Problems-in-Real-World-Context-activitiy_2-768x1024-1.jpg)
 Sec 3 Pupils working collobratively in Problems in Real World Context activitiy
