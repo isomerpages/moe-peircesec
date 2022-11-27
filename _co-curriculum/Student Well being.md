@@ -20,3 +20,10 @@ The counselling team in Peirce Secondary School believes in supporting our stude
 Talks such as Stress Management for Examinations, Healthy Communication, and Social Etiquette skills are done for the general student population, and small psycho-educational groups are conducted for targeted clients. Small groups include Breaking Free from undesirable behaviours, and Anxiety Management skills that further explored helpful strategies. Students who experienced a transition within their families were empowered with self-management skills from a well-known Rainbows Programme that the counselling team conducted in-house.
 
 ![](/images/Rainbows-programme-2020-Jan.jpeg)
+Rainbows programme Feb 2020
+
+![](/images/Rainbows-programme-2019.jpg)
+Rainbows programme 2019
+
+![](/images/Rainbows-programme-2020-Jan_2.jpeg)
+Rainbows programme Feb 2020
