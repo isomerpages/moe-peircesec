@@ -25,3 +25,7 @@ SLB members work in teams to plan and execute projects and school events such as
 A team of leaders embarking on a Waste Management project under the guidance of the World Wide Fund for Nature
 
 ![](/images/Photo-13-2-scaled.jpg)
+Team Project – team members running a Nintendo competition for students in the Amci Locus Room
+
+![](/images/Photo-12-3-scaled.jpg)
+Team Project – members packing Teacher’s Day cards and token of appreciation for teachers
