@@ -33,3 +33,20 @@ Our Secondary 1 students attend the Design Thinking Workshop to learn the proble
      style="width:40%">
 <center>Students working in teams to solve a problem  
 during the Design Thinking Workshop</center>
+
+
+
+
+They take ownership of their school environment through improving and cleaning an assigned school area (e.g. canteen, garden, toilets, classrooms, Indoor Sports Hall and study area).  Through these experiences, we hope they take pride in their school environment and appreciate the hard work of those involved in keeping the school clean and pleasant.
+
+![](/images/Photo-2-11.jpg)
+Students decorate lockers with pictures to add vibrancy to the classroom
+
+![](/images/Photo-3-11.jpg)
+Students weeding in the school garden
+
+![](/images/Photo-4-11.jpg)
+Student-designed posters in the school canteen to raise awareness on food wastage
+
+![](/images/Photo-5-2.jpeg)
+Student-designed banner to promote toilet cleanliness
