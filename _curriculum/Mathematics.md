@@ -19,7 +19,7 @@ description: ""
 | Mr Eugene Lim Yeok Jin (Assistant Year Head) 	| [lim_yeok_jin@moe.edu.sg](mailto:lim_yeok_jin@moe.edu.sg) 	|
 | Mr Dennis Goh Chun Loong (HOD Mathematics) 	| [dennis_goh_chun_loong@moe.edu.sg](mailto:dennis_goh_chun_loong@moe.edu.sg) 	|
 | Mr Cheng Shing Kim (Year Head (Upper Sec)) 	| [cheng_shing_kim@moe.edu.sg](mailto:cheng_shing_kim@moe.edu.sg) 	|
-| Mr Chan Jie Yong 	| [chan_jie_yong@moe.edu.sg](mailo:chan_jie_yong@moe.edu.sg) 	|
+| Mr Chan Jie Yong 	| [chan_jie_yong@moe.edu.sg](mailto:chan_jie_yong@moe.edu.sg) 	|
 | Mr Ang Keng Kiat (HOD CCE) 	| [ang_keng_kiat@moe.edu.sg](mailto:ang_keng_kiat@moe.edu.sg) 	|
 | Mdm Sin Boon Yiah 	| [sin_boon_yiah@moe.edu.sg](mailto:sin_boon_yiah@moe.edu.sg) 	|
 | Mdm Mrs Khet-Hoo Yiin Hwa (School Staff Developer) 	| [hoo_yiin_hwa@moe.edu.sg](mailto:hoo_yiin_hwa@moe.edu.sg) 	|
