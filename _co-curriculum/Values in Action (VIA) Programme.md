@@ -50,3 +50,9 @@ Student-designed posters in the school canteen to raise awareness on food wastag
 
 ![](/images/Photo-5-2.jpeg)
 Student-designed banner to promote toilet cleanliness
+
+![](/images/Photo-6-1.jpeg)
+Students cleaning the toilets
+
+![](/images/Photo-7-2.jpeg)
+Students cleaning the canteen tables
