@@ -51,3 +51,7 @@ For more information on ECG resources and post-secondary education institutions,
 **MOE Resources:**
 
 My SkillsFuture ECG Portal
+
+![](/images/ecg-portal.jpg)
+
+[My SkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
