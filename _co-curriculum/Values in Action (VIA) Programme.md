@@ -27,3 +27,7 @@ Our school’s VIA programme promotes active citizenry by involving our Secondar
 At Upper Secondary, students expand their scope of service to other Voluntary Welfare Organisations (VWOs) through student-initiated VIA and advocacy projects, with a focus on elderly needs and care.  
 
 Our Secondary 1 students attend the Design Thinking Workshop to learn the problem solving thinking process which they will apply when looking for ideas and solutions to improve the school environment.
+
+
+<img src="/images/Photo-1-13-300x225.jpg" 
+     style="width:40%">
