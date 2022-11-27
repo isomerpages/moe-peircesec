@@ -74,7 +74,9 @@ CPA Practical Skills:
  
  
  ![](/images/Code-For-Fun-Qdee-Robot.jpg)
+Code For Fun - Qdee Robot
  
  ![](/images/Code-For-Fun-Text-based-Coding.jpg)
+ Code For Fun - Text-based Coding
  
  ![](/images/Computing-scaled.jpg)
