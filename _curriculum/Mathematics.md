@@ -25,3 +25,40 @@ description: ""
 | Mdm Mrs Khet-Hoo Yiin Hwa (School Staff Developer) 	| [hoo_yiin_hwa@moe.edu.sg](mailto:hoo_yiin_hwa@moe.edu.sg) 	|
 | Mdm Loh Hwee Hwa (ST Principles of Accounts) 	| [loh_hwee_hwa@moe.edu.sg](mailto:loh_hwee_hwa@moe.edu.sg) 	|
 | Mdm Chua Weilin 	| [chua_weilin@moe.edu.sg](mailto:chua_weilin@moe.edu.sg) 	|
+
+
+
+
+### 2\. Department Programmes
+
+The Department focuses on the following approaches to enrich the learning of Mathematics of our students:
+
+**_a) Curriculum:_** Our curriculum designed to equip students with useful Mathematical skills and concepts for everyday life and for continuous learning in Mathematics and other disciplines. Students will also develop skills to reason logically, and learn to work cooperatively as well as independently. The pedagogies employed include:
+
+*   effective use of Mathematics talk moves
+*   co-creating success criteria with students
+*   differentiated approach and assignments in a mixed ability class environment
+
+**_b) Learning Experiences:_** In classroom teaching, we strive to create meaningful Learning Experiences, for students to find joy and relevance in Mathematics learning and see purpose in taking ownership of their learning.
+
+The activities include:
+
+*   students collaborating on Mathematical Tasks
+*   students taking part in Problems in Real World Context (PRWC) activities and competitions
+
+**_c) Formative Assessment:_** Regular formative assessments for learning are conducted during classroom lesson to inform students on their learning. They provide feedback on areas for improvement and follow up for progressive understanding and successes in the learning process. Some formative assessment strategies include the use of:
+
+*   Mini whiteboards with hinge point questions
+*   Online tools e.g. Kahoot, Classkick which facilitate real time 2 way feedback
+*   Exit passes and quizzes
+
+**_d) Enrichment Programmes:_** We believe that learning of Mathematics should not be restricted to only classrooms and students must be given opportunities to learn Mathematics beyond the classroom in fun and creative ways The Mathematics department, provides students opportunities to participate in various enrichment activities including:
+
+*   Online Mastermind Program
+*   Mathematics Coding for Secondary 1 students
+*   Australian Mathematics Competition (AMC)
+*   Singapore Mathematics Olympiad (SMO) competition
+
+All Singapore Secondary Mathematics Competition Normal Course Students
+
+### 3\. Photos
