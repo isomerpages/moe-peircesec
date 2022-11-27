@@ -48,3 +48,22 @@ This dimension focuses on the impact of computers and technology on society, as 
 Peirce Secondary School consists of a passionate group of teachers who are committed to empowering our students to become computational thinkers and competent and ethical computer users, equipped with 21st Century Competencies (21CC) skills. O-Level Computing and N-Level Computer Applications curricula are aligned with the Standards and Benchmarks for 21CC as shown in the diagram below.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F1BD5D;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">Competencies and Attitudes</span></th><th style="background-color:#F1BD5D;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">21st Century Competencies Benchmarks</span><br><span style="font-weight:bold">(By end of Sec 4)</span></th></tr></thead><tbody><tr><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Computer Science</td><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Critical and Inventive Thinking (CIT)</td></tr><tr><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Computers as Tools</td><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Information and Communication Skills (ICS)</td></tr><tr><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Computers and Society</td><td style="background-color:#6FCF6F;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit">Civic Literacy, Global Awareness and</span><br><span style="font-weight:inherit;font-style:inherit">Cross-cultural Skills (CGC)</span></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+### 2\. O-Level Computing (7155)
+
+Computing Key Programme:
+
+Mini Projects are open-ended tasks carried out at the end of Secondary 3 over 6 weeks.
+
+The project will be based on authentic tasks founded on real-world problems. There are 2 proposed implementations for the Mini Project, either hardware-based or software based. In the hardware project, students program microcontrollers to perform real world tasks such as monitoring temperature within an area. In the software project, students may program a game to move a sprite around to collect tokens.
+
+### 3\. Computer Applications (CPA) (7018)
+
+CPA Practical Skills:
