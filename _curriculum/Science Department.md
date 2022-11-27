@@ -51,3 +51,5 @@ Science Experience Programme – Science Trail (Photos were taken before COVID-1
 
 ![](/images/SEP-Science-Trail-4.jpeg)
 Science Experience Programme – Science Trail (Photos were taken before COVID-19)
+
+(uploaded 5/10 images)
