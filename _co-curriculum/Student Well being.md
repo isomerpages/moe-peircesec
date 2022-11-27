@@ -96,3 +96,39 @@ Baking Event
 Let’s play…Carrom!
 
 (uploaded 3/19 images)
+
+## GEAR-UP (Guiding & Empowering Students for Affiliation & Resilience to Unlock their Potential)
+
+In Peirce Secondary School, we believe that every child should have access to a good education regardless of family background. Our school offers GEAR-UP which includes mentoring and interest-based programmes. The purpose of the programmes is to strengthen students’ connection to school and motivate them through peer learning and significant adult in school. 
+
+The GEAR-UP programmes are customized to suit the needs of selected students in the programme of each level. Some of the programmes are as below: 
+
+1\.  **OAT Mentoring programme (Overcome. Achieve. Transform)**
+
+The programme aims to help students to: 
+
+*   Increase self-awareness to manage motivation and make better choices 
+*   Learn self-regulation skills
+*   Identify positive peer relations and manage negative distractions
+*   Build resilience to counter life’s challenges
+
+2\.  **_Rainbows programme (lower secondary)_**
+
+The programme increases self-awareness to identify, manage and express emotions in positive ways. Students also learn to accept change, transition, loss in families and build positive relationships with significant others (family members and friends).
+
+3\.  **_Sports Challenge (interest-based)_** 
+
+Using soccer as a connector, to develop interests, skills, and strengths in maintaining a healthy lifestyle through exercise, sports, and games. The programmes helps to build confidence, commitment in learning new skills and relationship development.
+
+4\.  **_Math Homework Club_** 
+
+The programme is conducted by our teachers together with student volunteers from Junior Colleges and University students from Jia You station (Group up cental member of NVPC). 
+
+*   To provide practical Mathematics academic support for students who do not have support at home. 
+*   To build in self-discipline for students who lack self-management and self-discipline. 
+*   To motivate students to reach their academic goals and life goals. 
+
+5\.  **_EL Big Brain’s Club_**  
+
+*   This programme promotes the use of English and provides students with opportunities to appreciate and use the language purposefully through various platforms. 
+*   SRA will also be introduced to students to level up their literacy skills. SRA is a self-guided and motivational toolkit used to help students improve their confidence in reading.
