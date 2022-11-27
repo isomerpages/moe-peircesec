@@ -65,3 +65,8 @@ Visit to NKF Dialysis Centre to appreciate and empathise with dialysis patients 
 
 ![](/images/Photo-9-6-scaled.jpg)
 Students teaching splash painting to the elderly (2019)
+
+
+As the school has strong partnership with Lion Befrienders Service Association, our Secondary 3 students participate in the annual Lions Club of Singapore Nanyang Walkathon. They will also plan activities to interact with the elderly in their visit to Ang Mo Kio Senior Activity Centre (SAC)
+
+
