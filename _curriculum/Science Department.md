@@ -36,3 +36,5 @@ Students will engage in Place-Based Inquiry Learning in Bishan-Ang Mo Kio Park, 
 Students are actively encouraged by their subject teachers to take part in competitions and projects organized by the Singapore Science Centre. 
 
 Our students signed up for the Youth Science Ambassador project in 2019 and the Young Sustainability Champion programme in 2020 and 2021. Through the programme, they are mentored by our teachers and educators from the Singapore Science Centre on project management, global awareness and embark on tasks to raise awareness about sustainability.
+
+![](/images/Science-Department-Org-Chart-updated-18-July-2021.png)
