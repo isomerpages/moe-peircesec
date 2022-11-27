@@ -132,3 +132,12 @@ The programme is conducted by our teachers together with student volunteers from
 
 *   This programme promotes the use of English and provides students with opportunities to appreciate and use the language purposefully through various platforms. 
 *   SRA will also be introduced to students to level up their literacy skills. SRA is a self-guided and motivational toolkit used to help students improve their confidence in reading.
+
+![](/images/Photo-10-OATs-Holiday-programme-Bubble-Soccer-ASE-scaled.jpg)
+Students playing Bubble Soccer during the OATs holiday programme
+
+![](/images/Photo-9-Outdoor-learning-for-OATs-participants-during-holiday.jpg)
+Outdoor learning for OATs participants during holiday
+
+![](/images/Photo-8-OATs-Mentoring-programme-S3-scaled.jpg)
+Experiential learning activity conducted during Secondary 3 OATs Mentoring Programme
