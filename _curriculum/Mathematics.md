@@ -9,11 +9,11 @@ description: ""
 
 | Name 	| Email Address 	|
 |---	|---	|
-| Ms Nai Chheu Yee (ST Mathematics) 	| nai_chheu_yee@moe.edu.sg 	|
-| Ms Lee Peiyi 	| lee_peiyi@moe.edu.sg 	|
-| Ms Jasmine Yap 	| yap_qian_yi_jasmine@moe.edu.sg 	|
-| Ms Arion Lai Jiahui 	| lai_jia_hui@moe.edu.sg 	|
-| Mrs Lin-Lee Mei Chen Cheryl (SH Mathematics) 	| lee_mei_chen_cheryl@moe.edu.sg 	|
+| Ms Nai Chheu Yee (ST Mathematics) 	| [nai_chheu_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg) 	|
+| Ms Lee Peiyi 	| [lee_peiyi@moe.edu.sg](mailto:lee_peiyi@moe.edu.sg) 	|
+| Ms Jasmine Yap 	| [yap_qian_yi_jasmine@moe.edu.sg](mailto:yap_qian_yi_jasmine@moe.edu.sg) 	|
+| Ms Arion Lai Jiahui 	| [lai_jia_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg) 	|
+| Mrs Lin-Lee Mei Chen Cheryl (SH Mathematics) 	| [lee_mei_chen_cheryl@moe.edu.sg](mailto:lee_mei_chen_cheryl@moe.edu.sg) 	|
 | Mrs Chia-Ng Jia Lin Hana 	| ng_jia_lin_hana@moe.edu.sg 	|
 | Mr P Sivapathasundaram 	| p_sivapathasundaram@moe.edu.sg 	|
 | Mr Eugene Lim Yeok Jin (Assistant Year Head) 	| lim_yeok_jin@moe.edu.sg 	|
