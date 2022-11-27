@@ -55,3 +55,8 @@ My SkillsFuture ECG Portal
 ![](/images/ecg-portal.jpg)
 
 [My SkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+
+Journey with Our Children, Achieving their Aspirations
+
+<img src="/images/journey.png" 
+     style="width:40%">
