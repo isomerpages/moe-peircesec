@@ -31,3 +31,5 @@ Our Secondary 1 students attend the Design Thinking Workshop to learn the proble
 
 <img src="/images/Photo-1-13-300x225.jpg" 
      style="width:40%">
+<center>Students working in teams to solve a problem  
+during the Design Thinking Workshop</center>
