@@ -62,3 +62,16 @@ Journey with Our Children, Achieving their Aspirations
      style="width:40%">
 		 
 [Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg-parent-guide.ashx?la=en&hash=E7DDC93E69179D8B4E9373DC48138F7DDBCFCA35)
+
+The Next Step Forward
+
+<img src="/images/next-step.jpg" 
+     style="width:40%">
+
+[The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)
+
+Post-Secondary Education
+
+Overview of Post-Secondary Education Institutions (PSEIs): [https://www.moe.gov.sg/post-secondary/overview](https://www.moe.gov.sg/post-secondary/overview) (this website will link to other important topics like pathways, admission exercises, course finder etc)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndDVlzT-z0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
