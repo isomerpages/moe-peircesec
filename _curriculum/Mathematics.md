@@ -92,3 +92,6 @@ Students doing kinematics tasks outside of the classroom
 
 Our students challenged themselves to a zesty series of exciting mathematics quests in the Maths Challenge organized by Nee Ann Polytechnic. They had the opportunity to marvel at and see the use of mathematics beyond the classroom. Participants learn that mathematics can be fun, interesting, exciting and beneficial to daily life.
 
+![](/images/Math-Challenge-Photo-1.jpeg)
+
+![](/images/Math-Challenge-Photo-2.jpg)
