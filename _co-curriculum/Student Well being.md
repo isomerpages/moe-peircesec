@@ -3,7 +3,7 @@ title: Student Well being
 permalink: /co-curriculum/student-well-being/
 description: ""
 ---
-# **Student Well-being**
+(uploaded 3/# **Student Well-being**
 
 ### Motivate. Engage. Uplift
 
@@ -94,3 +94,5 @@ Baking Event
 
 ![](/images/Photo-7-7.jpg)
 Let’s play…Carrom!
+
+(uploaded 3/19 images)
