@@ -60,3 +60,5 @@ Journey with Our Children, Achieving their Aspirations
 
 <img src="/images/journey.png" 
      style="width:40%">
+		 
+[Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg-parent-guide.ashx?la=en&hash=E7DDC93E69179D8B4E9373DC48138F7DDBCFCA35)
