@@ -16,13 +16,33 @@ locations:
     title: School Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6457 6454
+      - email: ""
+      - other: ""
+    title: General Office
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: peirce_ss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Email
+  - content:
+      - phone: +65 6458 0193
+      - email: ""
+      - other: ""
+    title: HOD Room
+  - content:
+      - phone: +65 6457 6450
+      - email: ""
+      - other: ""
+    title: Staff Room
+  - content:
+      - phone: +65 6452 0134
+      - email: ""
+      - other: ""
+    title: PE Staff Room
+  - content:
+      - phone: +65 6457 6448
+      - email: ""
+      - other: ""
+    title: Fax
 ---
