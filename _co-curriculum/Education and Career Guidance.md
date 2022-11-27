@@ -33,3 +33,12 @@ Sec 2 learning journey to Urban Redevelopment Authority
 Sec 2 learning journey to Sunningdale Tech
 
 (uploaded 3/8 images)
+
+
+**ECG Counselling**
+
+Our Education and Career Guidance (ECG) Counsellor, Mr Colin Tan, is in the school every Tuesday and Thursday to support students in making informed decisions on their education and career pathways.
+
+Students (and their parents) who would like to find out more about their post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor.
+
+To make an appointment, please click here:  [https://go.gov.sg/peirce-ecg](https://moeecg.appointeze.com/onlinelink/ColinTan) or scan the QR Code below. You may also email Mr Colin Tan at [colin\_tan\_thian\_hock@schools.gov.sg](mailto:colin_tan_thian_hock@schools.gov.sg)
