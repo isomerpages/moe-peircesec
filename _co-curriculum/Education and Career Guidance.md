@@ -45,3 +45,9 @@ To make an appointment, please click here:  [https://go.gov.sg/peirce-ecg](htt
 
 <img src="/images/QR-code.png" 
      style="width:25%">
+		 
+For more information on ECG resources and post-secondary education institutions, please click on the following:
+
+**MOE Resources:**
+
+My SkillsFuture ECG Portal
