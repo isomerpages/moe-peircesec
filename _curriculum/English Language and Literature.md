@@ -120,3 +120,7 @@ Self-Directed Learning
 Use of Personal Learning Devices to enhance classroom learning
 
 ![](/images/Photo-2.jpeg)
+21st CC skills – collaborating
+
+![](/images/Photo-1.jpeg)
+21st CC skills – analysing information gathered
