@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Values in Action (VIA) Programme.md
       - Student Well being.md
       - Eco stewardship Programme.md
