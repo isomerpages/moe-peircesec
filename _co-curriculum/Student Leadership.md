@@ -20,3 +20,8 @@ The student leadership structure offers a few tracks, the key ones being appoint
 The SLB adopts the Student Leadership Challenge model and student leaders are guided by the five practices of Exemplary Leadership in their leadership journey. Besides, these leaders are also introduced to skills like project management, peer supporting, communication skills and risk assessment management. 
 
 SLB members work in teams to plan and execute projects and school events such as loan of equipment, classroom cleanliness, Sec 1 Orientation, Teacher’s Day celebration, Health & Fitness Week and other programmes. Through these involvements, they gain valuable experiential learning opportunities, benefit from peer interaction, build their confidence and leadership capacity and develop 21st century competencies.
+
+![](/images/Photo-14-2-scaled.jpg)
+A team of leaders embarking on a Waste Management project under the guidance of the World Wide Fund for Nature
+
+![](/images/Photo-13-2-scaled.jpg)
