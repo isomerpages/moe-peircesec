@@ -13,7 +13,7 @@ We have a dedicated team of teachers, school counsellors, Allied Educators (Lea
 
 Below, are the various areas of support given to meet the varied needs of our students.
 
-#### Counselling Support
+### Counselling Support
 
 The counselling team in Peirce Secondary School believes in supporting our students systemically in their social and emotional well-being. Besides individual counselling, the team is active in organizing different types of psycho-educational groups to cater to the different needs of the students.
 
