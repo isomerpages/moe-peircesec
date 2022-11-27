@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Education and Career Guidance.md
       - Student Leadership.md
       - Values in Action (VIA) Programme.md
       - Student Well being.md
