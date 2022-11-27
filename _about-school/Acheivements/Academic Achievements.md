@@ -11,7 +11,6 @@ third_nav_title: Acheivements
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Singapore Junior Chemistry Olympiad 2022: Igniting Passion in our Young Scientists</label>
     <div>
-			<p><h5>Singapore Junior Chemistry Olympiad 2022: Igniting Passion in our Young Scientists</h5></p>
       <p>14 Secondary 4 students took part in 2022 Singapore Junior Chemistry Olympiad. This programme was mentally stimulating for the students, who rose up to the challenge and set the standard for future cohorts. Notably, Penghao not only qualified for Round 2 of the competition, but also garnered a Bronze medal. Congratulations to our fine ladies and gentlemen.</p>
 	 <p><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Certificate-Presentation-1536x1152.jpg"><br><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Participants-Actual-Day-1536x1152.jpg">
     </div>
