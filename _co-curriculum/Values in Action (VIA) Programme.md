@@ -81,3 +81,11 @@ Students interacting with the elderly through games at Ang Mo Kio Senior Activit
 ![](/images/Photo-13-3-scaled.jpg)
 Students interacting with the elderly through games at Ang Mo Kio Senior Activity Centre (2019)
 
+Finally, our Secondary 4 and 5 students do their part with personalised hampers and greeting cards for seniors from Ang Mo Kio Senior Activity Centre (SAC).
+
+![](/images/Photo-14-3-scaled.jpg)
+Personalized hampers & greeting Cards
+
+
+![](/images/Photo-15-2-scaled.jpg)
+Presenting the Personalized Hamper (2019)
