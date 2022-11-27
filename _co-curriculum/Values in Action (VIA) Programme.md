@@ -56,3 +56,8 @@ Students cleaning the toilets
 
 ![](/images/Photo-7-2.jpeg)
 Students cleaning the canteen tables
+
+
+Our Secondary 2 students collaborate with identified community partners (e.g. Singapore National Cooperative Federation, National Kidney Foundation, Food Bank Singapore Ltd, Intergenerational Learning Programme, Thomson Sin Ming Court RC Carnival and World Wide Fund for Nature) and do their part to conserve our environment or help the less fortunate in our community.
+
+
