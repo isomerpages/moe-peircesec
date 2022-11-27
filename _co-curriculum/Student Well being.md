@@ -141,3 +141,5 @@ Outdoor learning for OATs participants during holiday
 
 ![](/images/Photo-8-OATs-Mentoring-programme-S3-scaled.jpg)
 Experiential learning activity conducted during Secondary 3 OATs Mentoring Programme
+
+(uploaded 3/10 images)
