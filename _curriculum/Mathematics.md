@@ -62,3 +62,17 @@ The activities include:
 All Singapore Secondary Mathematics Competition Normal Course Students
 
 ### 3\. Photos
+
+![](/images/1-Mini-Whiteboard.jpg)
+
+![](/images/2-Mini-Whiteboard.jpg)
+
+![](/images/7-Mathematics-Week.jpg)
+
+![](/images/9-Mathematics-Week.jpg)
+
+![](/images/14-Eureka-1024x683-1.jpg)
+
+![](/images/Sec-3-Pupils-working-collobratively-in-Problems-in-Real-World-Context-activitiy_2-768x1024-1.jpg)
+
+![](/images/Sec-3-Pupils-working-collobratively-in-Problems-in-Real-World-Context-activitiy-768x1024-1.jpg)
