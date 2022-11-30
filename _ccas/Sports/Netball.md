@@ -45,3 +45,8 @@ Monday: 3.30 – 6:00 p.m.
 Friday: 3:30 – 6:00 p.m.
 
 ### Photos
+
+![](/images/Photo-1-3.jpeg)
+Netballers in a regular training session.
+
+![](/images/Photo-2-3.jpeg)
