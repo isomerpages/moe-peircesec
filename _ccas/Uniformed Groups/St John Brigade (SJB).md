@@ -78,4 +78,6 @@ LLP (Learn for Life Programme) 2019 - Teaching Peirceans First Aid Skills
 ![](/images/Photo-15-1.jpg)
 Prize Presentation in school for Zone Competition 2019
 
+![](/images/Photo-14-1-scaled.jpg)
+2019 Zone Competition – Nursing Cadet team was the 2nd Runner Up
 
