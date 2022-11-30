@@ -37,3 +37,13 @@ Tuesday:     3:30 p.m. to 5:30 p.m.
 Thursday:    3:30 p.m. to 5:30 p.m.
 
 ### Photos
+
+<img src="/images/Photo-3-8.jpg" 
+     style="width:40%">
+
+<img src="/images/Photo-2-7.jpg" 
+     style="width:40%">
+		 
+<img src="/images/Photo-1-8.jpg" 
+     style="width:40%">
+		 
