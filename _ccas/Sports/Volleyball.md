@@ -35,4 +35,15 @@ Thursday: 3:30 to 6 p.m.
 
 ### Photos
 
-[](https://peircesec.moe.edu.sg/wp-content/uploads/2022/04/Photo-2.1.jpg)
+![](/images/Photo-2-1.jpg)
+Display of Sportsmanship
+
+![](/images/Photo-3-1.jpg)
+Intensive Training
+
+![](/images/Photo-4-1-1.jpg)
+Resilience and Independence
+
+![](/images/Photo-1-7.jpg)
+Active Participation in Competitions
+
