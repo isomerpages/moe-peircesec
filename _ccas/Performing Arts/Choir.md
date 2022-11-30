@@ -48,4 +48,4 @@ Monday: 3:00 – 5:30 p.m.
 
 Thursday: 3:30 – 6:00 p.m.
 
-#### Photos
+### Photos
