@@ -50,3 +50,13 @@ Friday: 3:30 – 6:00 p.m.
 Netballers in a regular training session.
 
 ![](/images/Photo-2-3.jpeg)
+Team talk on strategy before a game.
+
+![](/images/Photo-3-2.jpeg)
+Warm up before a competition
+
+![](/images/Photo-4-1.jpeg)
+Medal presentation at Singapore Sports School. Achieved Silver in M1 Schools challenge league 2019.
+
+![](/images/Photo-5.jpeg)
+Achieved Silver in M1 Schools Challenge League 2019.
