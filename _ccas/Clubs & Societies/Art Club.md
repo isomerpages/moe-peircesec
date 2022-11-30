@@ -54,3 +54,11 @@ Printmaking – Monoprinting
 
 ![](/images/Photo-5-Printmaking-Lino-Printing-Process-scaled.jpg)
 Printmaking - Lino Printing Process
+
+![](/images/Photo-6-Printmaking-Linoprint-scaled.jpg)
+Printmaking - Linoprint
+
+![](/images/Photo-7-Stop-Motion-Animation-art-club.jpg)
+Stop Motion Animation
+
+![](/images/Photo-8-Acrylic-Painting-Practice.jpg)
