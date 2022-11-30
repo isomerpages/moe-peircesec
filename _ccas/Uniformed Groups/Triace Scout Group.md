@@ -80,3 +80,5 @@ Scouts taking part in inter-patrol orienteering competition organised by Scout T
 Scouts taking part in First Aid Course
 
 ![](/images/Total-Defence.jpeg)
+Scouts sharing about how they can contribute to Total Defence
+
