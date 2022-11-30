@@ -52,5 +52,7 @@ Thursdays: 3:30 – 5:30 p.m.
 ### Photos
 
 ![](/images/Picture-1.jpg)
+CCA Selection Day
 
 ![](/images/Picture-1-2.jpg)
+CCA Selection Day
