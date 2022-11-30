@@ -61,4 +61,22 @@ We went for a hike to Lower Peirce Reservoir to learn about the historical signi
 ![](/images/Chief-Commissioner-Award-Ceremony.jpg)
 We went for a hike to Lower Peirce Reservoir to learn about the historical significance of the place as part of Singapore’s Bicentennial.
 
+![](/images/Cooking-Competition.jpeg)
+Our Scouts took part in a combined Uniform Group overseas learning journey to Hong Kong in 2018
 
+![](/images/First-Aid-Course.jpeg)
+Scouts Reciting the Scout Promise to signify the beginning of a unit activity.
+
+![](/images/Hong-Kong-Trip.jpg)
+South Area orienteering competition at Singapore Botanical Gardens.
+
+![](/images/Orienteering-Competition.jpg)
+Scouts taking part in South Area cooking competition
+
+![](/images/Orienteering-in-Peirce.jpeg)
+Scouts taking part in inter-patrol orienteering competition organised by Scout Teachers from Peirce Secondary School
+
+![](/images/Scout-Promise.jpg)
+Scouts taking part in First Aid Course
+
+![](/images/Total-Defence.jpeg)
