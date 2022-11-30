@@ -27,3 +27,5 @@ Mdm Chua Weilin (chua\_weilin@moe.edu.sg)
 Tuesday: 3:30 p.m. to 5:30 p.m.
 
 #### Photos
+
+![](/images/General-Office-PA-system.jpeg)
