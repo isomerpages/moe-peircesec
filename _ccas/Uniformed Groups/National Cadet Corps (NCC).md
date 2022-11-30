@@ -83,3 +83,17 @@ Precision Drill Squad Competition
 *   HQNCC activities (dates and timings as assigned)
 
 ### Photos
+
+![](/images/Photo-1-1-scaled.jpg)
+Figuring out outdoor cooking
+
+![](/images/Photo-2-1-scaled.jpg)
+Getting ready for an barbeque in the mountains of Hong Kong
+
+![](/images/Photo-3-1-scaled.jpg)
+Values-In-Action beautifying the school garden
+
+![](/images/Photo-4-2-scaled.jpg)
+Cadets practicing movement with their rifles
+
+![](/images/Photo-5-2-scaled.jpg)
