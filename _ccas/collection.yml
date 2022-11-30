@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Clubs & Societies/Infocomm Club.md
       - Clubs & Societies/.keep
       - Performing Arts/Drama.md
       - Performing Arts/Modern Dance.md
