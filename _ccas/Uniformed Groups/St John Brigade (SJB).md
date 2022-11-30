@@ -68,3 +68,14 @@ Mondays: 3.30 p.m. – 6:00 p.m.
 Fridays:    3:00 p.m. – 6:00 p.m. (For cadets involved in competition training sessions)
 
 #### Photos
+
+![](/images/Photo-17.jpg)
+Games Day 2019
+
+![](/images/Photo-16.jpg)
+LLP (Learn for Life Programme) 2019 - Teaching Peirceans First Aid Skills
+
+![](/images/Photo-15-1.jpg)
+Prize Presentation in school for Zone Competition 2019
+
+
