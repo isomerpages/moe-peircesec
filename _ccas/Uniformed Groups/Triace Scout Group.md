@@ -54,3 +54,11 @@ HQ activities (dates and timings as assigned)
 Friday: 12:40 to 2.00 p.m. (for Patrol Leader Council)
 
 #### Photos
+
+![](/images/Bicentennial-Scout-Trek.jpg)
+We went for a hike to Lower Peirce Reservoir to learn about the historical significance of the place as part of Singapore’s Bicentennial.
+
+![](/images/Chief-Commissioner-Award-Ceremony.jpg)
+We went for a hike to Lower Peirce Reservoir to learn about the historical significance of the place as part of Singapore’s Bicentennial.
+
+
