@@ -72,3 +72,11 @@ Karnival 2022 Receiving serve from the Table Tennis Captain
 ![](/images/Peirce-Table-Tennis-players-competing-in-the-South-Zone-C-Division-Boys-scaled.jpg)
 Peirce Table Tennis players competing in the South Zone C Division Boys
 
+![](/images/South-Zone-C-Division-Girls-3-rd-Runner-Up-presenting-trophy-to-the-Principal-Mrs-Chow-scaled.jpg)
+South Zone C Division Girls 3 rd Runner-Up presenting trophy to the Principal Mrs Chow
+
+![](/images/South-Zone-C-Division-Girls-3-rd-Runner-Up-scaled.jpg)
+South Zone C Division Girls 3 rd Runner-Up
+
+![](/images/Cluster-competition-with-members-of-the-Table-Tennis-CCA-from-other-schools-scaled.jpg)
+Cluster competition with members of the Table Tennis CCA from other schools
