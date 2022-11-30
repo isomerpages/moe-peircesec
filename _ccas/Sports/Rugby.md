@@ -33,3 +33,8 @@ Training sessions are on Monday and Thursday and the timings are from 3.30 to 6 
 ![](/images/Photo-7-1.jpeg)
 Bouncing off ideas
 
+![](/images/Photo-6.jpeg)
+Reflection
+
+![](/images/Photo-5-1.jpeg)
+eCCA – theory before a workout
