@@ -4,8 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-track-and-field/
 description: ""
 third_nav_title: Sports
 ---
-Track & Field
--------------
+# **Track & Field**
 
 **Learning outcomes**
 
@@ -46,4 +45,3 @@ Thursday:    3:30 p.m. to 5:30 p.m.
 		 
 <img src="/images/Photo-1-8.jpg" 
      style="width:40%">
-		 
