@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Character and Citizenship Education (CCE).md
       - Education and Career Guidance.md
       - Student Leadership.md
       - Values in Action (VIA) Programme.md
