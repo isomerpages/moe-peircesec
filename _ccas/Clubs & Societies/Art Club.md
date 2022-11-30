@@ -64,4 +64,8 @@ Stop Motion Animation
 ![](/images/Photo-8-Acrylic-Painting-Practice.jpg)
 Acrylic Painting Practice
 
+![](/images/Photo-9-VIA-with-SPCA-scaled.jpg)
+Values in Action project Crafting dog and cat toys for SPCA.
 
+![](/images/Photo-10-Pixel-Art-GIFs-using-phone-apps.gif)
+Values in Action project Crafting dog and cat toys for SPCA.
