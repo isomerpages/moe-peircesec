@@ -81,3 +81,7 @@ Prize Presentation in school for Zone Competition 2019
 ![](/images/Photo-14-1-scaled.jpg)
 2019 Zone Competition – Nursing Cadet team was the 2nd Runner Up
 
+![](/images/Photo-13-1-scaled.jpg)
+Total Defence 2020 - Lower Sec Cadets playing the Total Defence Card Game
+
+(uploaded 5/17 images)
