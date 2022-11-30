@@ -60,3 +60,5 @@ Medal presentation at Singapore Sports School. Achieved Silver in M1 Schools cha
 
 ![](/images/Photo-5.jpeg)
 Achieved Silver in M1 Schools Challenge League 2019.
+
+(uploaded 5/15 images)
