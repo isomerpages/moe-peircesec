@@ -57,3 +57,12 @@ Moments before our 2017 Singapore Show Choir Festival (B-dazzled!) performance
 Performing at the 2018 Singapore Show Choir Schools Exchange
 
 ![](/images/Photo-8-4.jpg)
+2018 Singapore Show Choir Festival (B-dazzled!) performance
+
+![](/images/Photo-7-5.jpg)
+Last practice before the 2019 Singapore Show Choir Festival (B-dazzled!) performance
+
+![](/images/Photo-6-5.jpg)
+2019 Singapore Show Choir Festival (B-dazzled!) performance
+
+(uploaded 5/14 images)
