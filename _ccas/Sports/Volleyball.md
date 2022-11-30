@@ -48,3 +48,5 @@ Resilience and Independence
 Active Participation in Competitions
 
 ![](/images/Pic-1.jpeg)
+
+![](/images/Pic-2.jpeg)
