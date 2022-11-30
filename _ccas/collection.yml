@@ -2,5 +2,6 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/St John Brigade (SJB).md
       - Uniformed Groups/Triace Scout Group.md
       - Uniformed Groups/.keep
