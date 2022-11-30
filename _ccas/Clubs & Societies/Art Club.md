@@ -62,3 +62,6 @@ Printmaking - Linoprint
 Stop Motion Animation
 
 ![](/images/Photo-8-Acrylic-Painting-Practice.jpg)
+Acrylic Painting Practice
+
+
