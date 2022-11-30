@@ -44,3 +44,20 @@ Band students should be able to
 | Main Band 	| 3.00 – 6.30 p.m 	| 1.30 – 6.00 p.m 	| * 	|
 | Junior Band 	| 3.00 – 6.00 p.m 	| 1.30 – 5.30 p.m 	| * 	|
 | Mr Brandon Sham 	| sham_kah_shen_brandon@moe.edu.sg 	|  	|  	|
+
+### Photos
+
+![](/images/WBAS-Youth-Arts-Conference-2019.jpeg)
+WBAS Youth Arts Conference 2019
+
+![](/images/Talent-Scouting-2020.jpg)
+Talent Scouting 2020
+
+![](/images/Talent-Scouting-2020-2.jpg)
+Talent Scouting 2020 2
+
+![](/images/Sec-1-CCA-Talent-Scouting-2019-scaled.jpg)
+Sec 1 CCA Talent Scouting 2019
+
+![](/images/Sec-1-CCA-Talent-Scouting-2019-2-scaled.jpg)
+Sec 1 CCA Talent Scouting 2019 2
