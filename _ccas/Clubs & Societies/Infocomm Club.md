@@ -29,3 +29,13 @@ Tuesday: 3:30 p.m. to 5:30 p.m.
 #### Photos
 
 ![](/images/General-Office-PA-system.jpeg)
+
+![](/images/hall-control-room.jpeg)
+
+![](/images/PT-control-room.jpeg)
+
+![](/images/senior-teach-junior-coil-wire.jpeg)
+
+![](/images/take-photo-2.jpeg)
+
+![](/images/take-photo.jpeg)
