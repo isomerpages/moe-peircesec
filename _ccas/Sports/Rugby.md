@@ -38,3 +38,10 @@ Reflection
 
 ![](/images/Photo-5-1.jpeg)
 eCCA – theory before a workout
+
+![](/images/Photo-4-2.jpeg)
+Scouting for talents
+
+![](/images/Photo-3-3.jpeg)
+Take him down like a gentleman
+
