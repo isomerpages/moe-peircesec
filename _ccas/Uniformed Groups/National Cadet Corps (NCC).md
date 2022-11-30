@@ -97,3 +97,19 @@ Values-In-Action beautifying the school garden
 Cadets practicing movement with their rifles
 
 ![](/images/Photo-5-2-scaled.jpg)
+Values-In-Action cleaning of Coney Island
+
+![](/images/Photo-6-2-scaled.jpg)
+NCC mascots in camouflage gear for Open House
+
+![](/images/Photo-7-2-scaled.jpg)
+Cadets summiting Mount Ophir in Malacca, Malaysia
+
+![](/images/Photo-8-1-scaled.jpg)
+Overcoming high-element during Camp FORGE
+
+![](/images/Photo-9-1-scaled.jpg)
+Overcoming high-element during Camp FORGE
+
+![](/images/Photo-10-1-scaled.jpg)
+Learning how to shoot with bow and arrow during Camp FORGE
