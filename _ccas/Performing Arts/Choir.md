@@ -49,3 +49,11 @@ Monday: 3:00 – 5:30 p.m.
 Thursday: 3:30 – 6:00 p.m.
 
 ### Photos
+
+![](/images/Photo-10-4.jpg)
+Moments before our 2017 Singapore Show Choir Festival (B-dazzled!) performance
+
+![](/images/Photo-9-4-scaled.jpg)
+Performing at the 2018 Singapore Show Choir Schools Exchange
+
+![](/images/Photo-8-4.jpg)
