@@ -23,3 +23,20 @@ Mr Daniel Ee (ee\_chong\_choon@moe.edu.sg)
 Monday:   3:00 to 6:00 p.m.
 
 ### Photos
+
+![](/images/Photo-12-1.jpg)
+Bishan NPC CSSP Presentation Ceremony 2021
+
+![](/images/Photo-11-1.jpg)
+Bishan NPC Tik Tok Challenge Award Presentation Ceremony 2021
+
+![](/images/Photo-10-2-scaled.jpg)
+2021 Passing Out Parade
+
+![](/images/Photo-9-2-scaled.jpg)
+2020 Area 4 Campcraft Competition
+
+![](/images/Photo-8-2.jpg)
+2019 School Open House
+
+(uploaded 5/12 images)
