@@ -2,4 +2,5 @@ collections:
   ccas:
     output: true
     order:
+      - Uniformed Groups/Triace Scout Group.md
       - Uniformed Groups/.keep
