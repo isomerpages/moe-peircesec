@@ -8,4 +8,4 @@ description: ""
 Our Approach to PDLP
 
 <img src="/images/Approach-to-PDLP-300x228.png" 
-     style="width:25%">
+     style="width:50%">
