@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - E Open House 2021.md
       - e Brochure.md
       - Direct School Admission (DSA).md
