@@ -11,4 +11,7 @@ description: ""
 
 ![](/images/0003-1-scaled.jpg)
 
-![](/images/0004-1-scaled.jpg)
+![](/images/0004-1-scaled.jpg)\
+
+### **Click to download a copy of our school flyer:**
+
