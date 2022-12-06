@@ -83,3 +83,4 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
       <p><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_1.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_2.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_3.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_4.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_5.png"></p>
     </div>
 	</li>
+	</ul>
