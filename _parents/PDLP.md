@@ -41,3 +41,10 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/njmdDDa7apM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>
+	 <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Student Device Information Kit</label>
+    <div>
+      <p><img src="/images/Slide1a.jpg"><br><img src="/images/Slide2a.jpg"><img src="/images/Slide3.jpg"></p>
+    </div>
+	</li>
