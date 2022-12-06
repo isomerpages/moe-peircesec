@@ -34,3 +34,10 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
       <p><img src="/images/PSS-HBL-Guide-2022.png"></p>
     </div>
 	</li>
+	 <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Video on PLD Routine for Students</label>
+    <div>
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/njmdDDa7apM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    </div>
+	</li>
