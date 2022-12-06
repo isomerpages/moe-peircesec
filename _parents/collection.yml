@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - PDLP.md
       - Full SBB.md
       - Peirce Parents Support Group (PPSG).md
       - Briefing & Webinar Resources/Secondary 2 Subject Options Exercise.md
