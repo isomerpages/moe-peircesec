@@ -66,9 +66,9 @@ Students can indicate up to three choices (maximum of two choices for the same s
 
 **C. Selection Details**
 
-1\.  The school will contact short listed candidates by **Tuesday 12 July 2022.**
-2\.  Short-listed candidates will attend an interview and a selection trial on **Tuesday 26 July 2022, at 3.30 p.m.**
-3\.  All short-listed candidates will be informed of the result of their application (confirmation of DSA offer / placement on DSA waiting list / unsuccessful application) via email by **Tuesday 23 August 2022**
+1\.  The school will contact short listed candidates by **Tuesday 12 July 2022.**     
+2\.  Short-listed candidates will attend an interview and a selection trial on **Tuesday 26 July 2022, at 3.30 p.m.**     
+3\.  All short-listed candidates will be informed of the result of their application (confirmation of DSA offer / placement on DSA waiting list / unsuccessful application) via email by **Tuesday 23 August 2022**    
 4\.  Do note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.
 
-D. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
+**D**. Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
