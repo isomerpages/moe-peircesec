@@ -27,3 +27,11 @@ Tuesday: 3:30 p.m. to 5:30 p.m.
 Zoom sessions: 3:30 p.m. to 5:30 p.m. (during HBL days)
 
 ### Photos
+
+![](/images/Robotics_c-scaled.jpg)
+
+![](/images/Robotics_d-scaled.jpg)
+
+![](/images/Robotics_a-scaled.jpg)
+
+![](/images/Robotics_b-scaled.jpg)
