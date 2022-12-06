@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Advanced Elective Modules (AEM).md
       - Co Curricular Activities (CCAs).md
       - Character and Citizenship Education (CCE).md
       - Education and Career Guidance.md
