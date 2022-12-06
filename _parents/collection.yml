@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Full SBB.md
       - Peirce Parents Support Group (PPSG).md
       - Briefing & Webinar Resources/Secondary 2 Subject Options Exercise.md
       - Briefing & Webinar Resources/Sec 3 Parents Webinar 2022.md
