@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Briefing & Webinar Resources/Sec 3 Parents Webinar 2022.md
       - Briefing & Webinar Resources/Sec 4 & 5 Parents Webinar.md
       - Briefing & Webinar Resources/.keep
