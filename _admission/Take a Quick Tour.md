@@ -42,3 +42,8 @@ Our school hall is spacious and well ventilated. It plays host to assemblies, PE
 Our classrooms are all well ventilated with both fans and windows. They are all equipped with a sound system, projector, projection screen, whiteboards and lockers to facilitate learning.
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!4v1670308390638!6m8!1m7!1sCAoSLEFGMVFpcFBzYTNIcDVORWpzMW5TcmNmS2M0Z0F1VHJtd3B2OVV5Y3VjLXBC!2m2!1d1.3668637!2d103.8299592!3f320!4f0!5f0.5970117501821992"></iframe>
+
+
+<b>Library</b>
+
+Our fully air conditioned library has a wide range of titles to appeal to both growing and adept readers. It also has smaller rooms for group activities.
