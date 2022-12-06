@@ -11,6 +11,7 @@ description: ""
 
 ![](/images/0003-1-scaled.jpg)
 
-![](/images/0004-1-scaled.jpg)\
+![](/images/0004-1-scaled.jpg)
 
 Click [here](/files/Peirce_Flyer_proof-4_13-May.pdf)  to download a copy of our school flyer
+
