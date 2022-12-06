@@ -57,8 +57,15 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
 	</li>
 	<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Student Kit for Cyber Wellness and Learning with a Personal Learning Device (eBook)</label>
+    <label for="accordion5"> Parent Handbook (I) on Learning with a PLD</label>
     <div>
       <p><img src="/images/Parent-Handbook-I-on-Learning-with-a-PLD_Page_1.png"><br><img src="/images/Parent-Handbook-I-on-Learning-with-a-PLD_Page_2.png"><br><img src="/images/Parent-Handbook-I-on-Learning-with-a-PLD_Page_3-1456x2048-1.png">uploaded 3/6 images</p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"> Parent Handbook (II) on Learning with a PLD</label>
+    <div>
+      <p><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_1.png"><br><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_2.png"><br><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_3.png">uploaded 3/9 images</p>
     </div>
 	</li>
