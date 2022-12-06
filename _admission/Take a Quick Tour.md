@@ -25,3 +25,7 @@ A vast, colourful space for assemblies, PE lessons, free play and CCA trainings.
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!4v1670308266031!6m8!1m7!1sCAoSLEFGMVFpcE5XSndKVU03OFJVMDZXNTRYNHhPV0gtSUlBN0RGSUZHYXc5d3pi!2m2!1d1.366245!2d103.8300141!3f20!4f0!5f0.4000000000000002"></iframe>
 
+<b>Canteen</b>
+
+Our canteen has Halal and non-Halal options to provide staff and students with tasty meals to tide them through the day.
+
