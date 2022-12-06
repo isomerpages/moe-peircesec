@@ -25,3 +25,12 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
 <img src="/images/responsive-150x150.png" style="width:150px;height:150px;margin-left:15px;" align = "right">
 
 **_Responsive._** Our teachers continually assess students' responsible use of learning devices and response to strategies. Leveraging the affordances of technology, teachers make adjustments to optimise learning through interactions and feedback. There will be a balanced variety of different learning modes.
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">HBL Guide 2022</label>
+    <div>
+      <p><img src="/images/PSS-HBL-Guide-2022.png"></p>
+    </div>
+	</li>
