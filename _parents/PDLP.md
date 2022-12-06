@@ -12,3 +12,7 @@ Our Approach to PDLP
 		 
 		 
 Peirce's approach to PDLP can be described as Transformative, Integrated and Responsive.
+
+![](/images/transformative-150x150.png)
+![](/images/integrated-150x150.png)
+![](/images/responsive-150x150.png)
