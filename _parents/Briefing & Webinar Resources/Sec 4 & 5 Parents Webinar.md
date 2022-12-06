@@ -13,3 +13,4 @@ third_nav_title: Briefing & Webinar Resources
 <h3>Education and Career Guidance</h3>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqHdmMoIvvBPVURV2EOOvk4Z-4nP1jTor6Tg8aIQmHPz2vyyi6WO4O1hIYAN6KcZWD1XsXDwfvM4BI/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+(uploaded 6 out of 42 images)
