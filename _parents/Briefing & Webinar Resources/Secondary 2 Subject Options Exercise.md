@@ -47,9 +47,9 @@ third_nav_title: Briefing & Webinar Resources
 	</li>
 		<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6"> Parent Handbook (II) on Learning with a PLD</label>
+    <label for="accordion6"> 2A Parents’ Briefing via Zoom Webinar</label>
     <div>
-      <p><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_1.png"><br><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_2.png"><br><img src="/images/Parent-Handbook-II-on-Learning-with-a-PLD_Page_3.png">uploaded 3/9 images</p>
+      <p><img src="/images/Sec-2A-SSOE-2021-updated_25-Mar-latest_Page_01-1536x1152-1.jpg"><br><img src="/images/Sec-2A-SSOE-2021-updated_25-Mar-latest_Page_02-1536x1152-1.jpg"><br><img src="/images/Sec-2A-SSOE-2021-updated_25-Mar-latest_Page_03-1536x1152-1.jpg">uploaded 3/80 images</p>
     </div>
 	</li>
 			<li>
