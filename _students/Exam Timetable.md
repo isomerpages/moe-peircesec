@@ -73,17 +73,16 @@ Please click on the respective streams for the exam schedules.
 	</li>
 				<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Seconday 5 Normal Academic</label>
+    <label for="accordion10">Sec 4A</label>
     <div>
-      <p><img src="/images/Binder1_Page_23-scaled.jpg"><br><img src="/images/Binder1_Page_24-scaled.jpg"></p>
+      <p><img src="/images/2022-4A-MYE-Timetable-170322.jpg"></p>
     </div>
 	</li>
-	<h3>Uniform Order Form</h3>
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Uniform Order Form</label>
+    <label for="accordion11">Sec 4E/5A</label>
     <div>
-			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
+			<p><img src="/images/2022-O-Prelim-Timetable-280722_Page_1.jpg"><img src="/images/2022-O-Prelim-Timetable-280722_Page_2.jpg"></p>
     </div>
 	</li>
 	</ul>
