@@ -9,7 +9,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Sec 1NT</label>
+    <label for="accordion1">Sec 1 Express</label>
     <div>
       <p><img src="/images/2022-Sec-1NT-EOY-Exam-Timetable-updated-230822-2048x1578.jpg"></p>
     </div>
