@@ -34,6 +34,12 @@ sections:
         Find out more about them and the teachers-in-charge.
       button: Learn More
       url: /curriculum/english-language/
+  - infobar:
+      title: Co-Curriculum
+      description: We offer various curriculum and co-curriculum for our students.
+        Find out more about them and the teachers-in-charge.
+      button: Learn More
+      url: /co-curriculum/advanced-elective-modules-aems/
   - infopic:
       title: Admissions
       description: Join us through DSA
