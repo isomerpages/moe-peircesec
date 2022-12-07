@@ -61,9 +61,9 @@ third_nav_title: Briefing & Webinar Resources
 	</li>
 	<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">DMA Parent Guide v2.0 - Option B</label>
+    <label for="accordion8">Student’s guide to retrieving SOE results</label>
     <div>
-      <p><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_1.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_2.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_3.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_4.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_5.png"></p>
+      <p>Please click <a href="/files/Students-guide-to-retrieving-SOE-results-on-AsknLearn.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	</ul>
