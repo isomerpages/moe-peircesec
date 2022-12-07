@@ -3,6 +3,23 @@ title: Bookshop and Uniform
 permalink: /students/bookshop-and-uniform/
 description: ""
 ---
+![](/images/Binder1_Page_11-scaled.jpg)
+![](/images/Binder1_Page_12-scaled.jpg)
+![](/images/Binder1_Page_13-scaled.jpg)
+![](/images/Binder1_Page_14-scaled.jpg)
+![](/images/Binder1_Page_15-scaled.jpg)
+![](/images/Binder1_Page_16-scaled.jpg)
+![](/images/Binder1_Page_17-scaled.jpg)
+![](/images/Binder1_Page_18-scaled.jpg)
+![](/images/Binder1_Page_19-scaled.jpg)
+![](/images/Binder1_Page_20-scaled.jpg)
+![](/images/Binder1_Page_21-scaled.jpg)
+![](/images/Binder1_Page_22-scaled.jpg)
+![](/images/Binder1_Page_23-scaled.jpg)
+![](/images/Binder1_Page_24-scaled.jpg)
+
+
+
 # **Bookshop and Uniform**
 
 ### General Information and Service
@@ -47,10 +64,17 @@ description: ""
       <p><img src="/images/Binder1_Page_05-scaled.jpg"><br><img src="/images/Binder1_Page_06-scaled.jpg"></p>
     </div>
 	</li>
-			  <li>
+		<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Seconday 3 Express</label>
     <div>
       <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Seconday 3 Normal Academic</label>
+    <div>
+      <p><img src="/images/Binder1_Page_10-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
     </div>
 	</li>
