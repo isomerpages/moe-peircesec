@@ -86,16 +86,16 @@ description: ""
 	</li>
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">Seconday 4 Normal Academic</label>
+    <label for="accordion8">Seconday 3 Normal Academic</label>
     <div>
-      <p><img src="/images/Binder1_Page_18-scaled.jpg"><br><img src="/images/Binder1_Page_19-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_17.jpg"><img src="/images/Binder2_Page_18.jpg"><img src="/images/Binder2_Page_19.jpg"></p>
     </div>
 	</li>
 				<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">Seconday 4 Normal Technical</label>
+    <label for="accordion9">Seconday 3 Normal Technical</label>
     <div>
-      <p><img src="/images/Binder1_Page_20-scaled.jpg"><br><img src="/images/Binder1_Page_21-scaled.jpg"><br><img src="/images/Binder1_Page_22-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_25.jpg"><img src="/images/Binder2_Page_26.jpg"></p>
     </div>
 	</li>
 				<li>
