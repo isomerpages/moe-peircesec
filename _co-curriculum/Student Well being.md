@@ -3,7 +3,7 @@ title: Student Well being
 permalink: /co-curriculum/student-well-being/
 description: ""
 ---
-(uploaded 3/# **Student Well-being**
+# **Student Well-being**
 
 ### Motivate. Engage. Uplift
 
@@ -95,7 +95,13 @@ Baking Event
 ![](/images/Photo-7-7.jpg)
 Let’s play…Carrom!
 
-(uploaded 3/19 images)
+![](/images/Photo-6-7.jpg)
+Smiles over Foosball
+
+![](/images/PHoto-2-12.jpg)
+Warm and Inviting place for students to chill and relax
+
+(uploaded 5/19 images)
 
 ## GEAR-UP (Guiding & Empowering Students for Affiliation & Resilience to Unlock their Potential)
 
