@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Learning Space.md
       - e Student Handbook.md
       - Bookshop and Uniform.md
       - School Holiday Advisory.md
