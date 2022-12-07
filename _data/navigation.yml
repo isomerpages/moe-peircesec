@@ -10,5 +10,7 @@ links:
     collection: admission
   - title: Parents
     collection: parents
+  - title: Students
+    collection: students
   - title: Contact Us
     url: /contact-us/
