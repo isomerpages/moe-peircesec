@@ -54,9 +54,9 @@ third_nav_title: Briefing & Webinar Resources
 	</li>
 			<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">DMA Parent Guide v2.0 - Default</label>
+    <label for="accordion7">2E Parents’ Briefing via Zoom Webinar</label>
     <div>
-      <p><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_01.png"><br><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_02.png"><br><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_03.png">uploaded 3/16 images</p>
+      <p><img src="/images/Sec-2E-SSOE-2021_updated_25Marchlatest_Page_01-1536x1152-1.jpg"><br><img src="/images/Sec-2E-SSOE-2021_updated_25Marchlatest_Page_02-1536x1152-1.jpg"><br><img src="/images/Sec-2E-SSOE-2021_updated_25Marchlatest_Page_03-1536x1152-1.jpg">uploaded 3/96 images</p>
     </div>
 	</li>
 	<li>
