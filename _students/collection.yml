@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Bookshop and Uniform.md
       - School Holiday Advisory.md
       - Useful Links.md
