@@ -59,16 +59,16 @@ Please click on the respective streams for the exam schedules.
 	</li>
 			<li>
     <input type="checkbox" id="accordion8">
-    <label for="accordion8">Seconday 4 Normal Academic</label>
+    <label for="accordion8">Sec 3NA</label>
     <div>
-      <p><img src="/images/Binder1_Page_18-scaled.jpg"><br><img src="/images/Binder1_Page_19-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-3NA-EOY-Exam-Timetable-updated-230822.jpg"></p>
     </div>
 	</li>
 				<li>
     <input type="checkbox" id="accordion9">
-    <label for="accordion9">Seconday 4 Normal Technical</label>
+    <label for="accordion9">Sec 3E</label>
     <div>
-      <p><img src="/images/Binder1_Page_20-scaled.jpg"><br><img src="/images/Binder1_Page_21-scaled.jpg"><br><img src="/images/Binder1_Page_22-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-3-Express-EOY-Exam-Timetable-updated-230822.jpg"></p>
     </div>
 	</li>
 				<li>
