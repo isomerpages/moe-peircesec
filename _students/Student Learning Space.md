@@ -79,3 +79,13 @@ In the event if you have forgotten your password, you can perform a self-help pa
 7.5 An email with the password reset link will be sent to your email address.  
 7.6 Click on the reset password link in the email.  
 • If the link has expired, you can request for another verification email by clicking on the **Resend Verification Email** button.
+
+<img src="/images/reset-300x98-1.jpg" 
+     style="width:40%">
+
+
+7.7 In the Reset Password page, enter a new password.  
+7.8 You will need to enter the new password twice to confirm that you have entered it correctly.  
+7.9 Click on Submit.  
+7.10 Once you receive the email click on the link in the email and you will be guided to setup  
+the new password.
