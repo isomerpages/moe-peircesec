@@ -52,4 +52,14 @@ Science Experience Programme – Science Trail (Photos were taken before COVID-1
 ![](/images/SEP-Science-Trail-4.jpeg)
 Science Experience Programme – Science Trail (Photos were taken before COVID-19)
 
-(uploaded 5/10 images)
+![](/images/SEP-2021-1-scaled.jpg)
+Science Experience Programme 2021 – Making a pledge to conserve biodiversity
+
+![](/images/SEP-2021-2-scaled.jpg)
+Science Experience Programme 2021 – Making a pledge to conserve biodiversity
+
+![](/images/SEP-2021-3-scaled.jpg)
+Science Experience Programme 2021 – Testing water quality from the school pond
+
+![](/images/SEP-2021-4-scaled.jpg)
+Science Experience Programme 2021 – Understanding biodiversity of our nearby parks (Exhibition by NParks)
