@@ -40,3 +40,10 @@ description: ""
       <p><img src="/images/Binder1_Page_03-scaled.jpg"><img src="/images/Binder1_Page_04-scaled.jpg"></p>
     </div>
 	</li>
+		  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Seconday 2 Normal Technical</label>
+    <div>
+      <p><img src="/images/Binder1_Page_05-scaled.jpg"><img src="/images/Binder1_Page_06-scaled.jpg"></p>
+    </div>
+	</li>
