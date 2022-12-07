@@ -99,3 +99,14 @@ description: ""
     </div>
 	</li>
 	</ul>
+	<br>
+	<br>
+	<h3>Uniform Order Form</h3>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Uniform Order Form</label>
+    <div>
+			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
+    </div>
+	</li>
