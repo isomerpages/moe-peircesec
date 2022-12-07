@@ -61,4 +61,32 @@ Medal presentation at Singapore Sports School. Achieved Silver in M1 Schools cha
 ![](/images/Photo-5.jpeg)
 Achieved Silver in M1 Schools Challenge League 2019.
 
-(uploaded 5/15 images)
+![](/images/Photo-7.jpeg)
+Friendly game exchange at netball camp
+
+![](/images/Photo-8-1.jpeg)
+Friendly game exchange at netball camp
+
+![](/images/Photo-9.jpeg)
+Stretching out in Yoga session at netball camp with our Principal.
+
+![](/images/Photo-10.jpeg)
+Bonding over lunch at netball camp
+
+![](/images/Photo-11.jpeg)
+Team bonding activities at netball camp.
+
+![](/images/Photo-12.jpeg)
+Team bonding activities at netball camp.
+
+![](/images/Photo-13.jpeg)
+Course on Netball rules and umpiring with guest speaker
+
+![](/images/Photo-14.jpeg)
+Contributing back to society – C div girls VIA, volunteering at willing hearts soup kitchen.
+
+![](/images/Photo-15.jpeg)
+Bonding over a meal at APSN restaurant after VIA.
+
+![](/images/Photo-16.jpeg)
+End of term Netball awards.
