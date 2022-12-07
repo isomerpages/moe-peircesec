@@ -148,4 +148,10 @@ Outdoor learning for OATs participants during holiday
 ![](/images/Photo-8-OATs-Mentoring-programme-S3-scaled.jpg)
 Experiential learning activity conducted during Secondary 3 OATs Mentoring Programme
 
-(uploaded 3/10 images)
+![](/images/Photo-6-OATs-Mentoring-programme-S2-scaled.jpg)
+Students playing Kin ball during the OATs holiday programme
+
+![](/images/Photo-7-OATs-Holiday-programme.jpg)
+Experiential learning activity conducted during Secondary 2 OATs Mentoring Programme
+
+(uploaded 5/10 images)
