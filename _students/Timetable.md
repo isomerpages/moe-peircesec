@@ -71,7 +71,6 @@ Click on the class to view the timetable
       <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_11.jpg"></p>
     </div>
 	</li>
-			<li>
 	<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Sec 2 Passion</label>
