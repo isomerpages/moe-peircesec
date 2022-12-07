@@ -3,20 +3,6 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-
-![](/images/0026-scaled.jpg)
-![](/images/0027-scaled.jpg)
-![](/images/0028-scaled.jpg)
-
-
-
-
-
-
-
-
-
-
 # **Timetable**
 
 Click on the class to view the timetable
