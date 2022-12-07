@@ -32,3 +32,39 @@ description: ""
 
 Note:  
 If you decide to leave the “**Password Reset Email Address**” field empty, should you need a new password (e.g. you have forgotten your password), you can perform a self-help password reset, call helpdesk or alternatively you can also contact your teacher.
+
+
+\------------------------------------------------------------------------------------------------------
+
+**SLS Helpdesk Support**
+
+Tel: (65) 6702 6513  
+Email: [helpdesk@sls.unfinity.com](mailto:helpdesk@sls.unfinity.com)  
+User Guide Website: [https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)
+
+Operating Hours  
+Mondays-Fridays: 9am – 9pm  
+Saturdays: 9am – 3pm  
+\*Closed on Sundays & Public Holidays
+
+**SLS Support for Home-based Learning**
+
+During the period of Home-based Learning, students can  
+contact the respective subject teachers or form teachers on  
+SLS matters via WhatsApp message.
+
+For SLS password reset or unlocking of account, students  
+can contact the school office at 6457 6454 and leave a  
+message with their name, form class and handphone  
+number.
+
+6\. The next step would be to set the Security Questions. The Security Questions will be used to verify that you are the legitimate account holder, in the event if you should need to perform a password reset via self-help or helpdesk support.
+
+7. **PASSWORD RESET**  
+In the event if you have forgotten your password, you can perform a self-help password reset, either by verifying your identity via the password reset link or answering the security questions correctly.
+
+#### \------------------------------------------------------------------
+
+#### Password Reset using Password Reset Link Option
+
+7.1 Click on the “**Forgot Password**” button at the login page and you will need to enter your username.
