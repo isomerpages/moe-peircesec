@@ -12,3 +12,10 @@ With the upcoming June school holidays, the Singapore Police Force (SPF), Centra
 You can refer to the advisory letter below for more information.
 
 We wish you a safe and restful June school holidays.
+
+
+![](/images/Joint-SPF-CNB-Sch-Advisory-1-scaled.jpg)
+![](/images/Joint-SPF-CNB-Sch-Advisory-2-scaled.jpg)
+![](/images/Joint-SPF-CNB-Sch-Advisory-3-scaled.jpg)
+![](/images/Joint-SPF-CNB-Sch-Advisory-4-scaled.jpg)
+![](/images/Joint-SPF-CNB-Sch-Advisory-5-scaled.jpg)
