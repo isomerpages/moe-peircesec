@@ -68,3 +68,14 @@ In the event if you have forgotten your password, you can perform a self-help pa
 #### Password Reset using Password Reset Link Option
 
 7.1 Click on the “**Forgot Password**” button at the login page and you will need to enter your username.
+
+
+<img src="/images/forget-pw-300x96-1.jpg" 
+     style="width:40%">
+		 
+		 
+7.2 Select **Send a password reset link to your email**.  
+7.3 **Click on Submit**.  
+7.5 An email with the password reset link will be sent to your email address.  
+7.6 Click on the reset password link in the email.  
+• If the link has expired, you can request for another verification email by clicking on the **Resend Verification Email** button.
