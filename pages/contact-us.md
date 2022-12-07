@@ -45,4 +45,12 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <iframe
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.6837998438746!2d103.829839!3d1.366399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xddf6c1f465ecf4e6!2sPeirce%20Secondary%20School!5e0!3m2!1sen!2sus!4v1670404812998!5m2!1sen!2sus"
+          width="600" height="450" style="border:0;" allowfullscreen=""
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    title: Map
 ---
