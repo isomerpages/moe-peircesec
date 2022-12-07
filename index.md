@@ -13,6 +13,9 @@ sections:
         - title: Good Stories
           description: Click Here
           url: /about-school/good-stories/
+        - title: Contact Us
+          description: Click here
+          url: /contact-us/
   - infopic:
       title: About
       description: Peirce Secondary School started operating in 1994 on the premises
