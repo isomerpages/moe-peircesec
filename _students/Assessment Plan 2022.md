@@ -65,9 +65,9 @@ description: ""
 	</li>
 		<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Seconday 3 Normal Academic</label>
+    <label for="accordion5">Seconday 2 Normal Academic</label>
     <div>
-      <p><img src="/images/Binder1_Page_10-scaled.jpg"><br><img src="/images/Binder1_Page_11-scaled.jpg"><br><img src="/images/Binder1_Page_12-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_09.jpg"><br><img src="/images/Binder2_Page_10.jpg"><br><img src="/images/Binder2_Page_11.jpg"></p>
     </div>
 	</li>
 			<li>
