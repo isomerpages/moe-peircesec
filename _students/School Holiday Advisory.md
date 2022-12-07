@@ -19,3 +19,5 @@ We wish you a safe and restful June school holidays.
 ![](/images/Joint-SPF-CNB-Sch-Advisory-3-scaled.jpg)
 ![](/images/Joint-SPF-CNB-Sch-Advisory-4-scaled.jpg)
 ![](/images/Joint-SPF-CNB-Sch-Advisory-5-scaled.jpg)
+
+[Download school holiday advisory letter here](/files/Joint-SPF-CNB-MOE-School-Advisory-Jun-2022.pdf)
