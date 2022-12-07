@@ -3,27 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_02.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_08.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_09.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_10.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_11.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_06.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_07.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_12.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_13.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_14.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_15.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_16.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_17.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_18.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_19.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_20.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_21.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_22.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_23.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_24.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_25.jpg)
+
 ![](/images/0026-scaled.jpg)
 ![](/images/0027-scaled.jpg)
 ![](/images/0028-scaled.jpg)
@@ -168,11 +148,74 @@ Click on the class to view the timetable
       <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_18.jpg"></p>
     </div>
 	</li>
-				<li>
+			<li>
     <input type="checkbox" id="accordion19">
     <label for="accordion12">Sec 4E2</label>
     <div>
       <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_19.jpg"></p>
+    </div>
+	</li>
+			<li>
+    <input type="checkbox" id="accordion20">
+    <label for="accordion20">Sec 4E3</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_20.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion21">
+    <label for="accordion21">Sec 4E4</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_21.jpg"></p>
+    </div>
+	</li>
+			<li>
+    <input type="checkbox" id="accordion22">
+    <label for="accordion22">Sec 4A1</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_22.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion23">
+    <label for="accordion23">Sec 4A2</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_23.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion24">
+    <label for="accordion24">Sec 4A3</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_24.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion25">
+    <label for="accordion25">Sec 5A</label>
+    <div>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_25.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion26">
+    <label for="accordion26">Discipline Buzz</label>
+    <div>
+      <p><img src="/images/0026-scaled.jpg"></p>
+    </div>
+	</li>
+			<li>
+    <input type="checkbox" id="accordion27">
+    <label for="accordion27">Library Duties</label>
+    <div>
+      <p><img src="/images/0027-scaled.jpg"></p>
+    </div>
+	</li>
+		<li>
+    <input type="checkbox" id="accordion28">
+    <label for="accordion28">Mentoring</label>
+    <div>
+      <p><img src="/images/0028-scaled.jpg"></p>
     </div>
 	</li>
 	</ul>
