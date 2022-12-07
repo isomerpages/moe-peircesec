@@ -63,7 +63,7 @@ number.
 7. **PASSWORD RESET**  
 In the event if you have forgotten your password, you can perform a self-help password reset, either by verifying your identity via the password reset link or answering the security questions correctly.
 
-#### \------------------------------------------------------------------
+\------------------------------------------------------------------
 
 #### Password Reset using Password Reset Link Option
 
