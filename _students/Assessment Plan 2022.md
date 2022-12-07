@@ -70,7 +70,6 @@ description: ""
       <p><img src="/images/Binder2_Page_25.jpg"><img src="/images/Binder2_Page_26.jpg"></p>
     </div>
 	</li>
-				<li>
 	<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Seconday 4 Express</label>
