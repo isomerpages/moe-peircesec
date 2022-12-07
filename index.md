@@ -28,6 +28,12 @@ sections:
       url: /about-school/history/
       image: /images/Img-About_Scaled1.png
       alt: Image alt text
+  - infobar:
+      title: Curriculum
+      description: We offer various curriculum and co-curriculum for our students.
+        Find out more about them and the teachers-in-charge.
+      button: Learn More
+      url: /curriculum/english-language/
   - infopic:
       title: Admissions
       description: Join us through DSA
