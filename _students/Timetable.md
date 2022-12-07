@@ -3,6 +3,28 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_03.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_04.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_01.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_05.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_02.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_08.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_09.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_10.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_11.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_06.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_07.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_12.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_13.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_14.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_15.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_16.jpg)
+
+
+
+
+
+
 
 
 
