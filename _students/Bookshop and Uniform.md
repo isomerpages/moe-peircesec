@@ -22,6 +22,9 @@ description: ""
 
 ### Booklist 2023
 
+
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -30,3 +33,10 @@ description: ""
       <p><img src="/images/Binder1_Page_01-scaled.jpg"><img src="/images/Binder1_Page_02-scaled.jpg"></p>
     </div>
 	</li>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Seconday 2 Normal Academic</label>
+    <div>
+      <p><img src="/images/Binder1_Page_03-scaled.jpg"><img src="/images/Binder1_Page_04-scaled.jpg"></p>
+    </div>
+	</li
