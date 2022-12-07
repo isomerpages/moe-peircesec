@@ -3,34 +3,6 @@ title: Assessment Plan 2022
 permalink: /students/assessment-plan/
 description: ""
 ---
-![](/images/Binder2_Page_01.jpg)
-![](/images/Binder2_Page_02.jpg)
-![](/images/Binder2_Page_03.jpg)
-![](/images/Binder2_Page_04.jpg)
-![](/images/Binder2_Page_05.jpg)
-![](/images/Binder2_Page_06.jpg)
-![](/images/Binder2_Page_07.jpg)
-![](/images/Binder2_Page_08.jpg)
-![](/images/Binder2_Page_09.jpg)
-![](/images/Binder2_Page_10.jpg)
-![](/images/Binder2_Page_11.jpg)
-![](/images/Binder2_Page_12.jpg)
-![](/images/Binder2_Page_13.jpg)
-![](/images/Binder2_Page_14.jpg)
-![](/images/Binder2_Page_15.jpg)
-![](/images/Binder2_Page_16.jpg)
-![](/images/Binder2_Page_17.jpg)
-![](/images/Binder2_Page_18.jpg)
-![](/images/Binder2_Page_19.jpg)
-![](/images/Binder2_Page_20.jpg)
-![](/images/Binder2_Page_21.jpg)
-![](/images/Binder2_Page_22.jpg)
-![](/images/Binder2_Page_23.jpg)
-![](/images/Binder2_Page_24.jpg)
-![](/images/Binder2_Page_25.jpg)
-![](/images/Binder2_Page_26.jpg)
-
-
 # **Assessment Plan 2022**
 
 
@@ -99,18 +71,25 @@ description: ""
     </div>
 	</li>
 				<li>
+	<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Seconday 5 Normal Academic</label>
+    <label for="accordion10">Seconday 4 Express</label>
     <div>
-      <p><img src="/images/Binder1_Page_23-scaled.jpg"><br><img src="/images/Binder1_Page_24-scaled.jpg"></p>
+      <p><img src="/images/Binder1_Page_10-2048x1448-1.jpg"></p>
     </div>
 	</li>
-	<h3>Uniform Order Form</h3>
-  <li>
+			<li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Uniform Order Form</label>
+    <label for="accordion11">Seconday 4 Normal Academic</label>
     <div>
-			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
+      <p><img src="/images/Binder1_Page_11-2048x1448-1.jpg"></p>
+    </div>
+	</li>
+			<li>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Seconday 5 Normal Academic</label>
+    <div>
+      <p><img src="/images/Binder1_Page_12-2048x1448-1.jpg"></p>
     </div>
 	</li>
 	</ul>
