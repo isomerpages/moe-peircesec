@@ -39,4 +39,23 @@ Bishan NPC Tik Tok Challenge Award Presentation Ceremony 2021
 ![](/images/Photo-8-2.jpg)
 2019 School Open House
 
-(uploaded 5/12 images)
+![](/images/Photo-7-3-scaled.jpg)
+2019 Inter-Unit Drill Competition
+
+![](/images/Photo-6-3.jpg)
+2019 NDP in Peirce
+
+![](/images/Photo-5-3.jpg)
+2019 1 Star Kayaking Course
+
+![](/images/Photo-4-3.jpg)
+PSS NPCC Commemorating 2019 NPCC Day
+
+![](/images/Photo-3-2.jpg)
+Area 4 Commemorating 2019 NPCC Day
+
+![](/images/Photo-2-2.jpg)
+2019 Sec 3 .22 Classification Shoot
+
+![](/images/Photo-1-2.jpg)
+2019 Adventure & Survival Camp
