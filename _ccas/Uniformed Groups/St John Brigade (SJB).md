@@ -84,4 +84,17 @@ Prize Presentation in school for Zone Competition 2019
 ![](/images/Photo-13-1-scaled.jpg)
 Total Defence 2020 - Lower Sec Cadets playing the Total Defence Card Game
 
+![](/images/Photo-12-2-scaled.jpg)
+Sec 1 CCA Orientation 2021 - Teaching the Sec 1s CPR
+
+![](/images/Photo-11-2-scaled.jpg)
+Sec 1 CCA Orientation 2021 - CPR Demonstration
+
+![](/images/Photo-10-3-scaled.jpg)
+Sec 1 CCA Orientation 2021 - Preparing for CPR Demonstration
+
+![](/images/Photo-9-3-scaled.jpg)
+Total Defence 2021 - Total Defence Lesson presented by Sec 3 Cadets
+
+
 (uploaded 5/17 images)
