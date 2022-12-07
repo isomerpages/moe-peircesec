@@ -24,23 +24,23 @@ Please click on the respective streams for the exam schedules.
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Seconday 2 Normal Technical</label>
+    <label for="accordion3">Sec 1E</label>
     <div>
-      <p><img src="/images/Binder1_Page_05-scaled.jpg"><br><img src="/images/Binder1_Page_06-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-1-Express-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
     </div>
 	</li>
 		<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Seconday 3 Express</label>
+    <label for="accordion4">Sec 2NT</label>
     <div>
-      <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-2NT-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
     </div>
 	</li>
 		<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Seconday 3 Normal Academic</label>
+    <label for="accordion5">Sec 2NA</label>
     <div>
-      <p><img src="/images/Binder1_Page_10-scaled.jpg"><br><img src="/images/Binder1_Page_11-scaled.jpg"><br><img src="/images/Binder1_Page_12-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-2NA-EOY-Exam-Timetable-updated-230822.jpg"></p>
     </div>
 	</li>
 			<li>
