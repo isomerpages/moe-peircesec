@@ -51,6 +51,6 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Seconday 3 Express</label>
     <div>
-      <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"></p>
+      <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
     </div>
 	</li>
