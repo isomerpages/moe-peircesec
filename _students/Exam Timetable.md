@@ -17,7 +17,7 @@ Please click on the respective streams for the exam schedules.
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Sec 1 NA</label>
+    <label for="accordion2">Sec 1NA</label>
     <div>
       <p><img src="/images/2022-Sec-1NA-EOY-Exam-Timetable-updated-230822_Page_1.jpg"></p>
     </div>
