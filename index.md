@@ -19,10 +19,36 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: About
+      description: Peirce Secondary School started operating in 1994 on the premises
+        of Bishan Park Secondary School. Mr Chia Choon Kiat was the school's
+        first Principal.
+      button: Learn More
+      url: /about-school/history/
+      image: /images/Img-About_Scaled1.png
+      alt: Image alt text
+  - infopic:
+      title: Admissions
+      description: Join us through DSA
+      button: Learn More
+      url: /admissions/direct-school-admission-dsa/
+      image: /images/Picture1.png
+      alt: Image alt text
+  - infopic:
+      title: Parents
+      description: Find out how parents and school can strengthen the school-home
+        partnership to support our children in their education journey here.
+      button: Learn More
+      url: /parents/pdlp/
+      image: /images/Img-Parents_Scaled.png
+      alt: Image alt text
+  - infopic:
+      title: Students
+      description: Learn how our holistic education encourages our students to learn,
+        develop and blossom.
+      button: Learn More
+      url: /students/e-student-handbook/
+      image: /images/Img-Student-1_Scaled.png
+      alt: Image alt text
 ---
