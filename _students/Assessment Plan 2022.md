@@ -39,21 +39,21 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Seconday 1 Express</label>
     <div>
-      <p><img src="/images/Binder2_Page_04.jpg"><br><img src="/images/Binder2_Page_05.jpg"></p>
+      <p><img src="/images/Binder2_Page_04.jpg"><img src="/images/Binder2_Page_05.jpg"></p>
     </div>
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Seconday 1 Normal Academic</label>
     <div>
-      <p><img src="/images/Binder2_Page_01.jpg"><br><img src="/images/Binder2_Page_02.jpg"></p>
+      <p><img src="/images/Binder2_Page_01.jpg"><img src="/images/Binder2_Page_02.jpg"></p>
     </div>
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Seconday 1 Normal Technical</label>
     <div>
-      <p><img src="/images/Binder2_Page_06.jpg"><br><img src="/images/Binder2_Page_07.jpg"><img src="/images/Binder2_Page_08.jpg"></p>
+      <p><img src="/images/Binder2_Page_06.jpg"><img src="/images/Binder2_Page_07.jpg"><img src="/images/Binder2_Page_08.jpg"></p>
     </div>
 	</li>
 		<li>
@@ -67,21 +67,21 @@ description: ""
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Seconday 2 Normal Academic</label>
     <div>
-      <p><img src="/images/Binder2_Page_09.jpg"><br><img src="/images/Binder2_Page_10.jpg"><br><img src="/images/Binder2_Page_11.jpg"></p>
+      <p><img src="/images/Binder2_Page_09.jpg"><img src="/images/Binder2_Page_10.jpg"><img src="/images/Binder2_Page_11.jpg"></p>
     </div>
 	</li>
 			<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Seconday 3 Normal Technical</label>
+    <label for="accordion6">Seconday 2 Normal Technical</label>
     <div>
-      <p><img src="/images/Binder1_Page_13-scaled.jpg"><br><img src="/images/Binder1_Page_14-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_14.jpg"><img src="/images/Binder2_Page_15.jpg"><img src="/images/Binder2_Page_16.jpg"></p>
     </div>
 	</li>
 			<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Seconday 4 Express</label>
+    <label for="accordion7">Seconday 3 Express</label>
     <div>
-      <p><img src="/images/Binder1_Page_15-scaled.jpg"><br><img src="/images/Binder1_Page_16-scaled.jpg"><br><img src="/images/Binder1_Page_17-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_20.jpg"><img src="/images/Binder2_Page_21.jpg"><img src="/images/Binder2_Page_22.jpg"><img src="/images/Binder2_Page_23.jpg"><img src="/images/Binder2_Page_24.jpg"></p>
     </div>
 	</li>
 			<li>
