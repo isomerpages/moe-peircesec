@@ -17,9 +17,9 @@ Please click on the respective streams for the exam schedules.
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Seconday 2 Normal Academic</label>
+    <label for="accordion2">Sec 1 NA</label>
     <div>
-      <p><img src="/images/Binder1_Page_03-scaled.jpg"><br><img src="/images/Binder1_Page_04-scaled.jpg"></p>
+      <p><img src="/images/2022-Sec-1NA-EOY-Exam-Timetable-updated-230822_Page_1.jpg"></p>
     </div>
 	</li>
 		  <li>
