@@ -3,10 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_03.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_04.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_01.jpg)
-![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_05.jpg)
+
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_02.jpg)
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_08.jpg)
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_09.jpg)
@@ -19,18 +16,18 @@ description: ""
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_14.jpg)
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_15.jpg)
 ![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_16.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_17.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_18.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_19.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_20.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_21.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_22.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_23.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_24.jpg)
+![](/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_25.jpg)
+![](/images/0026-scaled.jpg)
+![](/images/0027-scaled.jpg)
+![](/images/0028-scaled.jpg)
 
 
 
@@ -48,30 +45,30 @@ Click on the class to view the timetable
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Seconday 1 Express</label>
+    <label for="accordion1">Sec 1 Integrity</label>
     <div>
-      <p><img src="/images/Binder2_Page_04.jpg"><img src="/images/Binder2_Page_05.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_03.jpg"></p>
     </div>
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Seconday 1 Normal Academic</label>
+    <label for="accordion2">Sec 1 Respect</label>
     <div>
-      <p><img src="/images/Binder2_Page_01.jpg"><img src="/images/Binder2_Page_02.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_04.jpg"></p>
     </div>
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Seconday 1 Normal Technical</label>
+    <label for="accordion3">Sec 1 Care</label>
     <div>
-      <p><img src="/images/Binder2_Page_06.jpg"><img src="/images/Binder2_Page_07.jpg"><img src="/images/Binder2_Page_08.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_05.jpg"></p>
     </div>
 	</li>
 		<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Seconday 2 Express</label>
+    <label for="accordion4">Sec 1 Passion</label>
     <div>
-      <p><img src="/images/Binder2_Page_12.jpg"><br><img src="/images/Binder2_Page_13.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_01.jpg"></p>
     </div>
 	</li>
 		<li>
