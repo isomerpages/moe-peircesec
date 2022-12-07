@@ -98,14 +98,10 @@ description: ""
       <p><img src="/images/Binder1_Page_23-scaled.jpg"><br><img src="/images/Binder1_Page_24-scaled.jpg"></p>
     </div>
 	</li>
-	</ul>
-	<br>
-	<br>
 	<h3>Uniform Order Form</h3>
-<ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Uniform Order Form</label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Uniform Order Form</label>
     <div>
 			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
     </div>
