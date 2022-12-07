@@ -163,16 +163,16 @@ Click on the class to view the timetable
 	</li>
 				<li>
     <input type="checkbox" id="accordion18">
-    <label for="accordion18">Sec 3 Passion</label>
+    <label for="accordion18">Sec 4E1</label>
     <div>
-      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_12.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_18.jpg"></p>
     </div>
 	</li>
 				<li>
     <input type="checkbox" id="accordion19">
-    <label for="accordion12">Sec 3 Passion</label>
+    <label for="accordion12">Sec 4E2</label>
     <div>
-      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_12.jpg"></p>
+      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_19.jpg"></p>
     </div>
 	</li>
 	</ul>
