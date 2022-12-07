@@ -56,4 +56,23 @@ Secondary 1 Geography Investigation at Bishan Park
 ![](/images/Picture-3.jpg)
 Water Testing by the Secondary 1 Geography students
 
-(uploaded 3/10 images only)
+![](/images/Picture-4.jpg)
+Secondary 2 History Investigation at Former Ford Factory
+
+![](/images/Picture-5.jpeg)
+Secondary 2 History Investigation at Former Ford Factory
+
+![](/images/Picture-6.jpg)
+Secondary 2 Geography Investigation at Bishan North Neighbourhood
+
+![](/images/Picture-7.jpg)
+Secondary 3 Geography Tourism Fieldwork at Chinatown
+
+![](/images/Picture-8.jpg)
+Interviewing tourists as part of the Secondary 3 Tourism Fieldwork
+
+![](/images/Picture-9.jpg)
+Secondary 3 Geography Coast Fieldwork at East Coast Beach
+
+![](/images/Picture-10.jpg)
+Delivering donations to the Migrant Workers as part of Secondary 3 Issues Investigation
