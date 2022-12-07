@@ -96,5 +96,26 @@ Sec 1 CCA Orientation 2021 - Preparing for CPR Demonstration
 ![](/images/Photo-9-3-scaled.jpg)
 Total Defence 2021 - Total Defence Lesson presented by Sec 3 Cadets
 
+![](/images/Photo-8-3-scaled.jpg)
+Total Defence 2021 - Total Defence Lesson presented by Sec 3 Cadets
 
-(uploaded 5/17 images)
+![](/images/Photo-7-4-scaled.jpg)
+POP (Passing Out Parade) 2021 - Group Photo of all cadets
+
+![](/images/Photo-6-4-scaled.jpg)\
+POP (Passing Out Parade) 2021 - Graduating Cadets
+
+![](/images/Photo-5-4-scaled.jpg)
+POP (Passing Out Parade) 2021 - Graduates celebrate their passing out
+
+![](/images/Photo-4-4-scaled.jpg)
+POP (Passing Out Parade) 2021 - Last Parade for the Graduating Cadets
+
+![](/images/Photo-3-3-scaled.jpg)
+POP (Passing Out Parade) 2021 - Graduates celebrate their passing out
+
+![](/images/Photo-2-3-scaled.jpg)
+POP (Passing Out Parade) 2021 - Graduating Cadets giving out gifts to the juniors
+
+![](/images/Photo-1-3-scaled.jpg)
+POP (Passing Out Parade) 2021 - Graduated Seniors putting on ranks for the Graduating Cadets
