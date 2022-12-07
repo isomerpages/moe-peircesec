@@ -92,3 +92,31 @@ the new password.
 
 
 \------------------------------------------------------------------
+
+#### 8\. Password Reset by Answering Security Question
+
+8.1 Click on the “Forgot Password” button at the login page and you will need to enter your username.
+
+<img src="/images/forget-pw-1.jpg" 
+     style="width:40%">
+
+8.2 Select Answer Security Question  
+8.3 Click on Submit.
+
+<img src="/images/security-qns.png" 
+     style="width:40%">
+
+8.4 In the Security Questions page, key in the answers to the security questions.  
+• You must answer the security questions correctly before you can reset your password.  
+• Click on **Submit**.
+
+In the event if you had answered the questions incorrectly, you will be brought to  
+the Password Reset Unsuccessful page.  
+• Click on the Retry button to try again.  
+• You can attempt up to 6 times before your account is locked for security reasons
+
+8.5 If you had answered the security questions correctly, you will be brought to the  
+Reset Password page.
+
+<img src="/images/set-new-pw-300x85-1.jpg" 
+     style="width:40%">
