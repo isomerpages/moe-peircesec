@@ -19,3 +19,16 @@ description: ""
 <img src="/images/login-300x140-1.png" 
      style="width:40%">
 <center>Fig 1: Lock Screen</center>
+
+
+
+
+
+3\. During the **FIRST** login, you will be prompted to change your password.
+
+4\. Please note that the password must contain alphanumeric characters and is **case-sensitive**.
+
+5\. After you have changed your password, you will be prompted with an option to add in your email address in the “Password Reset Email Address” field. A verification email will be sent to this email address
+
+Note:  
+If you decide to leave the “**Password Reset Email Address**” field empty, should you need a new password (e.g. you have forgotten your password), you can perform a self-help password reset, call helpdesk or alternatively you can also contact your teacher.
