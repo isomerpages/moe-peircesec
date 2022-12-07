@@ -28,27 +28,7 @@ description: ""
 ![](/images/Binder2_Page_23.jpg)
 ![](/images/Binder2_Page_24.jpg)
 ![](/images/Binder2_Page_25.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/images/Binder2_Page_26.jpg)
 
 
 # **Assessment Plan 2022**
@@ -59,26 +39,26 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Seconday 1 Express</label>
     <div>
-      <p><img src="/images/Binder1_Page_01-scaled.jpg"><br><img src="/images/Binder1_Page_02-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_04.jpg"><br><img src="/images/Binder2_Page_05.jpg"></p>
     </div>
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Seconday 2 Normal Academic</label>
+    <label for="accordion2">Seconday 1 Normal Academic</label>
     <div>
-      <p><img src="/images/Binder1_Page_03-scaled.jpg"><br><img src="/images/Binder1_Page_04-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_01.jpg"><br><img src="/images/Binder2_Page_02.jpg"></p>
     </div>
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Seconday 2 Normal Technical</label>
+    <label for="accordion3">Seconday 1 Normal Technical</label>
     <div>
-      <p><img src="/images/Binder1_Page_05-scaled.jpg"><br><img src="/images/Binder1_Page_06-scaled.jpg"></p>
+      <p><img src="/images/Binder2_Page_06.jpg"><br><img src="/images/Binder2_Page_07.jpg"><img src="/images/Binder2_Page_08.jpg"></p>
     </div>
 	</li>
 		<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Seconday 3 Express</label>
+    <label for="accordion4">Seconday 2 Express</label>
     <div>
       <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
     </div>
