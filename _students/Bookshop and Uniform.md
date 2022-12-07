@@ -110,3 +110,4 @@ description: ""
 			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
     </div>
 	</li>
+	</ul>
