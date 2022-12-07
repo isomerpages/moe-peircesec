@@ -19,23 +19,23 @@ third_nav_title: Briefing & Webinar Resources
 	</li>
 	 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Video on PLD Routine for Students</label>
+    <label for="accordion2">3NA Subject Options Information Booklet</label>
     <div>
-      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/njmdDDa7apM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+      <p>Please click <a href="files/3NA-Booklet-22_updated-20June.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	 <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Student Device Information Kit</label>
+    <label for="accordion3">3E Subject Options Information Booklet</label>
     <div>
-      <p><img src="/images/Slide1a.jpg"><br><img src="/images/Slide2a.jpg"><br><img src="/images/Slide3.jpg">uploaded 3/15 images</p>
+      <p>Please click <a href="/files/3Exp-Booklet-22_updated-20June.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Student Kit for Cyber Wellness and Learning with a Personal Learning Device (eBook)</label>
+    <label for="accordion4">Peirce Subject Options Exercise (SOE) Portal Guide</label>
     <div>
-      <p><img src="/images/Cyber-Wellness-and-Learning-with-a-Personal-Learning-Device-eBook_Page_01.jpg"><br><img src="/images/Cyber-Wellness-and-Learning-with-a-Personal-Learning-Device-eBook_Page_02-1.jpg"><br><img src="/images/Cyber-Wellness-and-Learning-with-a-Personal-Learning-Device-eBook_Page_03.jpg">uploaded 3/44 images</p>
+      <p>Please click <a href="/files/3Exp-Booklet-22_updated-20June.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	<li>
