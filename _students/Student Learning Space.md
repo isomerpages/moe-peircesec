@@ -120,3 +120,7 @@ Reset Password page.
 
 <img src="/images/set-new-pw-300x85-1.jpg" 
      style="width:40%">
+		 
+		 
+8.6 Set a new Password  
+• Click on **Submit**.
