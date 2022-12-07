@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - SWN Login Guide.md
       - Student Learning Space.md
       - e Student Handbook.md
       - Bookshop and Uniform.md
