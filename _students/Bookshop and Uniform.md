@@ -39,4 +39,4 @@ description: ""
     <div>
       <p><img src="/images/Binder1_Page_03-scaled.jpg"><img src="/images/Binder1_Page_04-scaled.jpg"></p>
     </div>
-	</li
+	</li>
