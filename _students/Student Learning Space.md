@@ -5,13 +5,13 @@ description: ""
 ---
 # **Student Learning Space**
 
-### GETTING STARTED WITH SINGAPORE STUDENT LEARNING SPACE Instructions for Students
+### Getting started with Singapore Student Learning Space Instructions for Students
 
-### SYSTEM REQUIREMENTS
+### System Requirements
 
 1\. The Singapore Student Learning Space (SLS) is accessible through the internet browsers on either Windows PC, Mac, iPad or Android tablets (with screen size larger than 7 inches for good user experience).
 
-### INITIAL LOGIN AND PASSWORD CHANGE
+### Initial Login and Password Change
 
 2\. SLS can be accessed from [https://learning.moe.edu.sg](https://learning.moe.edu.sg/). The username can be found in the cover letter while the password is in a separate letter.
 
