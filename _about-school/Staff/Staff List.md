@@ -16,24 +16,25 @@ third_nav_title: Staff
 | Hoo Yiin Hwa (Mrs Khet) 	| School Staff Developer 	| [hoo_yiin_hwa@moe.edu.sg](mailto:hoo_yiin_hwa@moe.edu.sg) 	|
 | Mr Cheng Shing Kim 	| Year Head (Upper Sec) 	| [cheng_shing_kim@moe.edu.sg](mailto:cheng_shing_kim@moe.edu.sg) 	|
 | Chew Li Ling Stephanie (Mrs Lee) 	| Year Head (Lower Sec) 	| [chew_li_ling_stephanie@moe.edu.sg](mailto:chew_li_ling_stephanie@moe.edu.sg) 	|
-| Mr Ang Keng Kiat 	| HOD Character & Citizenship Education 	| [ang_keng_kiat@moe.edu.sg](mailto:ang_keng_kiat@moe.edu.sg) 	|
+| Ms Wong Hei Man	| HOD Character & Citizenship Education (covering)	| [wong_hei_man@moe.edu.sg](mailto:wong_hei_man@moe.edu.sg) 	|
 | Mr Ng Joon Yong 	| HOD Craft & Technology 	| [ng_joon_yong@moe.edu.sg](mailto:ng_joon_yong@moe.edu.sg) 	|
 | Ms Chua May Ling Diana 	| HOD English Language & Literature 	| [chua_may_ling_diana@moe.edu.sg](mailto:chua_may_ling_diana@moe.edu.sg) 	|
 | Ms Khairiah Hairoman 	| HOD Humanities 	| [khairiah_hairoman@moe.edu.sg](mailto:khairiah_hairoman@moe.edu.sg) 	|
 | Mr Goh Chun Loong Dennis 	| HOD Mathematics 	| [dennis_goh_chun_loong@moe.edu.sg](mailto:dennis_goh_chun_loong@moe.edu.sg) 	|
 | Seet Chui Wan (Mrs Teo) 	| HOD Mother Tongue Lang 	| [seet_chui_wan@moe.edu.sg](mailto:seet_chui_wan@moe.edu.sg) 	|
 | Mdm Foong Sau Wan 	| HOD PE & CCA 	| [foong_sau_wan@moe.edu.sg](mailto:foong_sau_wan@moe.edu.sg) 	|
-| Ms Tan Yew Geok Annie 	| HOD Science 	| [tan_yew_geok@moe.edu.sg](mailto:tan_yew_geok@moe.edu.sg)	|
+| Mr Ang Keng Kiat 	| HOD Science 	| [ang_keng_kiat@moe.edu.sg](mailto:ang_keng_kiat@moe.edu.sg)	|
 | Mr Ong Kian Lai Jonathan 	| HOD Student Guidance 	| [jonathon_ong@moe.edu.sg](mailto:jonathon_ong@moe.edu.sg) 	|
 | Mdm Lam Tze Kim 	| Lead Teacher Chinese Lang 	| [lam_tze_kim@moe.edu.sg](mailto:lam_tze_kim@moe.edu.sg) 	|
 | Mr Ng Chenyee 	| Lead Teacher Geography 	| [ng_chenyee@moe.edu.sg](mailto:ng_chenyee@moe.edu.sg) 	|
-| Mr Ashwin Selvarajan 	| Assistant Year Head (S4,5) 	| [ashwin_selvarajan@moe.edu.sg](mailto:ashwin_selvarajan@moe.edu.sg) 	|
-| Ms Wong Hei Man 	| Assistant Year Head (S3) 	| [wong_hei_man@moe.edu.sg](mailto:wong_hei_man@moe.edu.sg) 	|
+| Mr Ashwin Selvarajan 	| Assistant Year Head (S3,5) 	| [ashwin_selvarajan@moe.edu.sg](mailto:ashwin_selvarajan@moe.edu.sg) 	|
+| Ms Wong Hei Man 	| Assistant Year Head (S4) 	| [wong_hei_man@moe.edu.sg](mailto:wong_hei_man@moe.edu.sg) 	|
 | Mr Lim Yeok Jin Eugene 	| Assistant Year Head (S2) 	| [lim_yeok_jin@moe.edu.sg](mailto:lim_yeok_jin@moe.edu.sg) 	|
-| Mr Lin Kuen Ping 	| Assistant Year Head (S1) / SH ICT 	| [lin_kuen_ping@moe.edu.sg](mailto:lin_kuen_ping@moe.edu.sg) 	|
+| Mr Lin Kuen Ping 	| SH ICT 	| [lin_kuen_ping@moe.edu.sg](mailto:lin_kuen_ping@moe.edu.sg) 	|
+| Ms Lai Jia Hui 	| Assistant Year Head (S1) (covering)	| [lai_jia_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg) 	|
 | Tan Pei Ghee (Mrs Loo) 	| SH Chinese Language 	| [tan_pei_ghee@moe.edu.sg](mailto:tan_pei_ghee@moe.edu.sg) 	|
 | Lee Mei Chen Cheryl (Mrs Lin) 	| SH Mathematics 	| [lee_mei_chen_cheryl@moe.edu.sg](mailto:lee_mei_chen_cheryl@moe.edu.sg) 	|
-| Mr Lee Yang Hui Clement 	| SH Science 	| [lee_yang_hui@moe.edu.sg](mailto:lee_yang_hui@moe.edu.sg) 	|
+| Mr Lee Yang Hui Clement 	| SH Character and Citizenship Education 	| [lee_yang_hui@moe.edu.sg](mailto:lee_yang_hui@moe.edu.sg) 	|
 | Mr Mohammad Zabid Bin Jabar 	| ST Art 	| [mohammad_zabid_jabar@moe.edu.sg](mailto:mohammad_zabid_jabar@moe.edu.sg) 	|
 | Mr Ng Bing Fu 	| ST Biology 	| [ng_bing_fu@moe.edu.sg](mailto:ng_bing_fu@moe.edu.sg) 	|
 | Lim Christina (Mrs Lai) 	| ST Educational Support 	| [christina_camillus_lim@moe.edu.sg](mailto:christina_camillus_lim@moe.edu.sg) 	|
@@ -58,7 +59,6 @@ third_nav_title: Staff
 | Miss Kang Yiling Chanel 	| Teacher 	| [kang_yiling_chanel@moe.edu.sg](mailto:kang_yiling_chanel@moe.edu.sg) 	|
 | Ms Kavitha D/O Supramaniam 	| Teacher 	| [kavitha_supramaniam@moe.edu.sg](mailto:kavitha_supramaniam@moe.edu.sg) 	|
 | Ms Kimberley Ong Sher-min 	| Teacher 	| [kimberley_ong_sher_min@moe.edu.sg](mailto:kimberley_ong_sher_min@moe.edu.sg) 	|
-| Ms Lai Jia Hui 	| Teacher 	| [lai_jia_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg) 	|
 | Ms Lam Yong Peng 	| Teacher 	| [lam_yong_peng@moe.edu.sg](mailto:lam_yong_peng@moe.edu.sg) 	|
 | Mdm Lee Chun Nee 	| Teacher 	| [lee_chun_nee@moe.edu.sg](mailto:lee_chun_nee@moe.edu.sg) 	|
 | Ms Lee Peiyi 	| Teacher 	| [lee_peiyi@moe.edu.sg](mailto:lee_peiyi@moe.edu.sg) 	|
