@@ -35,12 +35,11 @@ third_nav_title: Staff
 | Tan Pei Ghee (Mrs Loo) 	| SH Chinese Language 	| [tan_pei_ghee@moe.edu.sg](mailto:tan_pei_ghee@moe.edu.sg) 	|
 | Lee Mei Chen Cheryl (Mrs Lin) 	| SH Mathematics 	| [lee_mei_chen_cheryl@moe.edu.sg](mailto:lee_mei_chen_cheryl@moe.edu.sg) 	|
 | Mr Lee Yang Hui Clement 	| SH Character and Citizenship Education 	| [lee_yang_hui@moe.edu.sg](mailto:lee_yang_hui@moe.edu.sg) 	|
-| Mr Mohammad Zabid Bin Jabar 	| ST Art 	| [mohammad_zabid_jabar@moe.edu.sg](mailto:mohammad_zabid_jabar@moe.edu.sg) 	|
 | Mr Ng Bing Fu 	| ST Biology 	| [ng_bing_fu@moe.edu.sg](mailto:ng_bing_fu@moe.edu.sg) 	|
 | Lim Christina (Mrs Lai) 	| ST Educational Support 	| [christina_camillus_lim@moe.edu.sg](mailto:christina_camillus_lim@moe.edu.sg) 	|
 | Ms Nai Chheu Yee (Ms) 	| ST Mathematics 	| [nai_chheu_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg) 	|
 | Mdm Loh Hwee Hwa (Mdm) 	| ST Principles of Accounts 	| [loh_hwee_hwa@moe.edu.sg](mailto:loh_hwee_hwa@moe.edu.sg) 	|
-| Msm Yow Ee-Linn Cynthia 	| Teacher 	| yow_ee-[linn_cynthia@moe.edu.sg](mailto:linn_cynthia@moe.edu.sg) 	|
+| Msm Yow Ee-Linn Cynthia 	| Teacher 	| [yow_ee-linn_cynthia@moe.edu.sg](mailto:yow_ee-linn_cynthia@moe.edu.sg) 	|
 | Ms Ng Meiyu Adelia 	| Teacher 	| [adelia_ng_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg) 	|
 | Ms Galkisage Amanda P Fernando 	| Teacher 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| Teacher 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
@@ -49,19 +48,16 @@ third_nav_title: Staff
 | Mr Chan Jie Yong 	| Teacher 	| [chan_jie_yong@moe.edu.sg](mailto:chan_jie_yong@moe.edu.sg) 	|
 | Mr Chia Teck Hong 	| Teacher 	| [chia_teck_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg) 	|
 | Mr Chiz Poh Seng 	| Teacher 	| [chiz_poh_seng@moe.edu.sg](mailto:chiz_poh_seng@moe.edu.sg) 	|
-| Mr Kelvin Chong Chee Leong 	| Teacher 	| [chong_chee_leong@moe.edu.sg](mailto:chong_chee_leong@moe.edu.sg) 	|
 | Ms Chua Geok Song 	| Teacher 	| [chua_geok_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg) 	|
 | Mdm Chua Weilin 	| Teacher 	| [chua_weilin@moe.edu.sg](mailto:chua_weilin@moe.edu.sg) 	|
 | Mrs Chung-Gay Mee Choo 	| Teacher 	| [gay_mee_choo@moe.edu.sg](mailto:gay_mee_choo@moe.edu.sg) 	|
 | Ms Hong Wee Fui 	| Teacher 	| [hong_wee_fui@moe.edu.sg](mailto:hong_wee_fui@moe.edu.sg) 	|
 | Mrs Irene Stevens-Ong Ching Ling 	| Teacher 	| [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) 	|
 | Mr Kan Cheng Mun 	| Teacher 	| [kang_cheng_mun@moe.edu.sg](mailto:kang_cheng_mun@moe.edu.sg) 	|
-| Miss Kang Yiling Chanel 	| Teacher 	| [kang_yiling_chanel@moe.edu.sg](mailto:kang_yiling_chanel@moe.edu.sg) 	|
 | Ms Kavitha D/O Supramaniam 	| Teacher 	| [kavitha_supramaniam@moe.edu.sg](mailto:kavitha_supramaniam@moe.edu.sg) 	|
 | Ms Kimberley Ong Sher-min 	| Teacher 	| [kimberley_ong_sher_min@moe.edu.sg](mailto:kimberley_ong_sher_min@moe.edu.sg) 	|
 | Ms Lam Yong Peng 	| Teacher 	| [lam_yong_peng@moe.edu.sg](mailto:lam_yong_peng@moe.edu.sg) 	|
 | Mdm Lee Chun Nee 	| Teacher 	| [lee_chun_nee@moe.edu.sg](mailto:lee_chun_nee@moe.edu.sg) 	|
-| Ms Lee Peiyi 	| Teacher 	| [lee_peiyi@moe.edu.sg](mailto:lee_peiyi@moe.edu.sg) 	|
 | Ms Lee Xiu-Ping 	| Teacher 	| [lee_xiu-ping@moe.edu.sg](mailto:lee_xiu-ping@moe.edu.sg) 	|
 | Ms Lin Yuzhi Karyl 	| Teacher 	| [lin_yuzhi@moe.edu.sg](mailto:lin_yuzhi@moe.edu.sg) 	|
 | Mr Brandon Low 	| Teacher 	| [low_delong_brandon@moe.edu.sg](mailto:low_delong_brandon@moe.edu.sg) 	|
@@ -79,17 +75,14 @@ third_nav_title: Staff
 | Mdm Rosnani Bte Suni 	| Teacher 	| [rosnani_suni@moe.edu.sg](mailto:rosnani_suni@moe.edu.sg) 	|
 | Ms Sek Li-En Grace 	| Teacher 	| [sek_li-en_grace@moe.edu.sg](mailto:sek_li-en_grace@moe.edu.sg) 	|
 | Mdm Sellaiah Kousalya 	| Teacher 	| [sellaiah_kousalya@moe.edu.sg](mailto:sellaiah_kousalya@moe.edu.sg) 	|
-| Mr Sham Kah Shen Brandon 	| Teacher 	| [sham_kah_shen_brandon@moe.edu.sg](mailto:sham_kah_shen_brandon@moe.edu.sg) 	|
 | Mdm Sin Boon Yiah 	| Teacher 	| [sin_boon_yiah@moe.edu.sg](mailto:sin_boon_yiah@moe.edu.sg) 	|
 | Mdm Suriyanti Bte Jumari 	| Teacher 	| [suriyanti_jumari@moe.edu.sg](mailto:suriyanti_jumari@moe.edu.sg) 	|
-| Mr Tan Jun Yong 	| Teacher 	| [tan_jun_yong_1@moe.edu.sg](mailto:tan_jun_yong_1@moe.edu.sg) 	|
 | Mr Tan Kok Heong Godberg 	| Teacher 	| [tan_kok_heong_godberg@moe.edu.sg](mailto:tan_kok_heong_godberg@moe.edu.sg) 	|
 | Ms Tan Wei Nah 	| Teacher 	| [tan_wei_nah@moe.edu.sg](mailto:tan_wei_nah@moe.edu.sg) 	|
 | Ms Tan Yin Chin 	| Teacher 	| [tan_yin_chin@moe.edu.sg](mailto:tan_yin_chin@moe.edu.sg) 	|
-| Ms Thenmozhi D/O Nalathamby 	| Teacher 	| [thenmozhi_nalathamby@moe.edu.sg](mailto:thenmozhi_nalathamby@moe.edu.sg) 	|
 | Ms Toh Xin Rong 	| Teacher 	| [toh_xin_rong@moe.edu.sg](mailto:toh_xin_rong@moe.edu.sg) 	|
 | Ms Yap Qian Yi Jasmine 	| Teacher 	| [yap_qian_yi_jasmine@moe.edu.sg](mailto:yap_qian_yi_jasmine@moe.edu.sg) 	|
-| Mr Daniel Ee Chong Choon 	| AED/T&L 	| [ee_chong_choon@moe.edu.sg](mailto:ee_chong_choon@moe.edu.sg) 	|
+| Mr Daniel Ee Chong Choon 	|  	| [ee_chong_choon@moe.edu.sg](mailto:ee_chong_choon@moe.edu.sg) 	|
 | Mr Tang Royston 	| AED/T&L 	| [tang_royston@moe.edu.sg](mailto:tang_royston@moe.edu.sg) 	|
 | Mr Chew Kian Leong 	| School Counsellor 	| [chew_kian_leong@moe.edu.sg](mailto:chew_kian_leong@moe.edu.sg) 	|
 | Mdm Yee Pui Ling Vivian 	| School Counsellor 	| [vivian_yee_pui_ling@moe.edu.sg](mailto:vivian_yee_pui_ling@moe.edu.sg) 	|
@@ -97,7 +90,6 @@ third_nav_title: Staff
 | Ms Kelly Lim Li Tuan 	| AED/LBS 	| [kelly_lim_li_tuan@moe.edu.sg](mailto:kelly_lim_li_tuan@moe.edu.sg) 	|
 | Mr Wasif Ali Bin Abdullah 	| Student Welfare Officer 	| [wasif_ali_abdullah@moe.edu.sg](mailto:wasif_ali_abdullah@moe.edu.sg) 	|
 | Ms Toh Shufen 	| AM 	| [toh_shufen@moe.edu.sg](mailto:toh_shufen@moe.edu.sg) 	|
-| Mr Shiva Shanmugam S/O N Muthusamy 	| OM 	| [shiva_shanmugam@moe.edu.sg](mailto:shiva_shanmugam@moe.edu.sg) 	|
 | Mr V. Balakrishnan 	| OM 	| [balakrishnan_venkadasamy@moe.edu.sg](mailto:balakrishnan_venkadasamy@moe.edu.sg) 	|
 | Mr Teo Wei Siong Christopher 	| ICT Manager 	| [teo_wei_siong_christopher@moe.edu.sg](mailto:teo_wei_siong_christopher@moe.edu.sg) 	|
 | Mdm Ler Sok Har 	| AE 	| - 	|
@@ -107,7 +99,6 @@ third_nav_title: Staff
 | Ms Nur Khaizurah Binte Zainalabiddin 	| Laboratory Technician 	| - 	|
 | Mr Zulkifli Bin Jabal 	| Laboratory Technician 	| - 	|
 | Mdm Siti Saripah Binte Sanusi 	| EWI 	| - 	|
-| Mr Tan Meng Choke 	| EWI 	| - 	|
 | Mdm Chua Geok Lan 	| OSO 	| - 	|
 | Mdm Lee Mei Fong 	| OSO 	| - 	|
 | Mdm Ong Aei 	| OSO 	| - 	|
