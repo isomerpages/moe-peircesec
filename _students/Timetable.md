@@ -12,7 +12,7 @@ Click on the class to view the timetable
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Sec 1 Integrity</label>
     <div>
-      <p><img src="/images/TT-for-T3_All-Classes_As-of-23-June-2022_With-effect-from-27-June_Page_03.jpg"></p>
+      <p><a href="/images/TTs%20for%20All%20Classes_T1%202023_Final_As%20of%2030%20Dec_Page_03.jpg"><img src="/images/TTs%20for%20All%20Classes_T1%202023_Final_As%20of%2030%20Dec_Page_03.jpg"></a></p>
     </div>
 	</li>
 	  <li>
