@@ -50,3 +50,6 @@ Login using your IAMS account. (Remember to check on the box to agree the T&C.)*
 
 *   You can’t login to more than one device using the same account at the same time. Please remember to logout from SWN at http://portal.swn.moe.edu.sg when you have finished using the connection.
 *   Your IAMS password will expires every 90 days.
+
+
+
