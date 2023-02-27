@@ -39,7 +39,7 @@ third_nav_title: Staff
 | Lim Christina (Mrs Lai) 	| ST Educational Support 	| [christina_camillus_lim@moe.edu.sg](mailto:christina_camillus_lim@moe.edu.sg) 	|
 | Ms Nai Chheu Yee (Ms) 	| ST Mathematics 	| [nai_chheu_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg) 	|
 | Mdm Loh Hwee Hwa (Mdm) 	| ST Principles of Accounts 	| [loh_hwee_hwa@moe.edu.sg](mailto:loh_hwee_hwa@moe.edu.sg) 	|
-| Msm Yow Ee-Linn Cynthia 	| Teacher 	| [yow_ee-linn_cynthia@moe.edu.sg](mailto:yow_ee-linn_cynthia@moe.edu.sg) 	|
+| Mdm Yow Ee-Linn Cynthia 	| Teacher 	| [yow_ee-linn_cynthia@moe.edu.sg](mailto:yow_ee-linn_cynthia@moe.edu.sg) 	|
 | Ms Ng Meiyu Adelia 	| Teacher 	| [adelia_ng_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg) 	|
 | Ms Galkisage Amanda P Fernando 	| Teacher 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| Teacher 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
