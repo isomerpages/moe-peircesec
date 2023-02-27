@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Peirce Secondary School
-      background: /images/hero-banner.png
+      background: /images/banner-01.png
   - infopic:
       title: About
       description: Peirce Secondary School started operating in 1994 on the premises
