@@ -7,7 +7,5 @@ description: ""
 
 Please click [here](/files/e-Student-Handbook-2022-PDF.pdf) for the PDF version.
 
-
-![](/images/e-Student-Handbook-2022-PDF_Page_01-724x1024-1.jpg)
-
-![](/images/e-Student-Handbook-2022-PDF_Page_48-724x1024-1.jpg)
+![](/images/e-Student-Handbook-2023%20(Updated%2012%20Dec%202022).jpg)
+![](/images/e-Student-Handbook-2023%20(Updated%2012%20Dec%202022)%20last.jpg)
