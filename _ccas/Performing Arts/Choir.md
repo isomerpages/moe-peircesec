@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 Choir
 -----
 
@@ -65,5 +64,3 @@ Last practice before the 2019 Singapore Show Choir Festival (B-dazzled!) perform
 
 ![](/images/Photo-6-5.jpg)
 2019 Singapore Show Choir Festival (B-dazzled!) performance
-
-(uploaded 5/14 images)
