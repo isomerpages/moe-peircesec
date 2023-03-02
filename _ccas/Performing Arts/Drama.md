@@ -57,6 +57,3 @@ CCA Selection Day
 ![](/images/Picture-1-2.jpg)
 CCA Selection Day
 
-#### Video
-
-Please choose a file.
