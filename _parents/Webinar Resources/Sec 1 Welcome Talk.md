@@ -4,11 +4,9 @@ permalink: /parents/briefing-webinar-resources/sec-1-welcome-talk/
 description: ""
 third_nav_title: Webinar Resources
 ---
-
 # **Welcome Talk for Sec 1 Parents**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBV777TfHHD-6OYGyY2E2W5_x41Aq805nbuFF1aydPJ54kmQH6EUJtQH_C328YYXOP8PfVnQuA1erc/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-(uploaded 3/173 images)
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWKslYpT62TLwljiotQPd6lIGnxZ8tfs5ZN4JzzXAUVFToXhvLexX4FLLkAWHWgg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Sec 1 Webinar FAQ
 
