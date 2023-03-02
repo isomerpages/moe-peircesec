@@ -6,10 +6,11 @@ third_nav_title: Webinar Resources
 ---
 # **Welcome Talk for Sec 1 Parents**
 
+
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWKslYpT62TLwljiotQPd6lIGnxZ8tfs5ZN4JzzXAUVFToXhvLexX4FLLkAWHWgg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Sec 1 Webinar FAQ
 
-![](/images/Sec-1-Webinar-QA_selected_edited-clean-copy-Vetted_Page_1-1.png)
+![](/images/Sec%201%20Webinar%20QA_selected_edited%20(clean%20copy)%20Vetted_Page_1.png)
+![](/images/Sec%201%20Webinar%20QA_selected_edited%20(clean%20copy)%20Vetted_Page_2.png)
 
-![](/images/Sec-1-Webinar-QA_selected_edited-clean-copy-Vetted_Page_2-1.png)
