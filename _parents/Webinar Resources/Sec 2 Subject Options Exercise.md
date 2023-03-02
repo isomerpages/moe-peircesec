@@ -4,7 +4,6 @@ permalink: /parents/briefing-webinar-resources/sec-2-subject-options-exercise/
 description: ""
 third_nav_title: Webinar Resources
 ---
-
 # **Secondary 2 Subject Options Exercise**
 
 
@@ -15,21 +14,21 @@ third_nav_title: Webinar Resources
     <input id="accordion1" type="checkbox">
     <label for="accordion1">3NT Subject Options Information Booklet</label>
     <div>
-			<p>Please click <a href="/files/3NT-Booklet-22.pdf"> here</a> for the booklet in PDF.</p>
+			<p>Please click <a href="/files/3NT%20Streaming%20Booklet%202023.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	 <li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">3NA Subject Options Information Booklet</label>
     <div>
-      <p>Please click <a href="files/3NA-Booklet-22_updated-20June.pdf"> here</a> for the booklet in PDF.</p>
+      <p>Please click <a href="files/3NA%20Streaming%20Booklet%202023.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	 <li>
     <input id="accordion3" type="checkbox">
     <label for="accordion3">3E Subject Options Information Booklet</label>
     <div>
-      <p>Please click <a href="/files/3Exp-Booklet-22_updated-20June.pdf"> here</a> for the booklet in PDF.</p>
+      <p>Please click <a href="3Exp%20Streaming%20Booklet%202023.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
 	<li>
