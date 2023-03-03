@@ -8,7 +8,8 @@ description: ""
 ### DIRECT SCHOOL ADMISSION EXERCISE 2022  
 (For Secondary One Intake in 2023)
 
- **A. Distinctive Programmes**
+<div style="background-color: #999999;"> <b>A. Distinctive Programmes</b></div>
+
 
 Peirce Secondary School is providing experiences with the focus on:
 
@@ -50,12 +51,14 @@ A disciplined and confident student with a conduct grade of at least ‘Very Goo
 
 Shortlisted candidates will attend an in-person interview and be assessed on their experiences of the above as well as confidence and quality in oral presentation.
 
-**B. Application Procedures**
+<div style="background-color: #999999;"><b>B. Application Procedures</b></div>
 Below are some information on the centralised application process.
 
 1\.  You may submit your application through the online DSA-Sec Portal from **5 May 2022, 11am to 1 June 2022, 3pm.**   
 For more details, please refer to MOE website – [moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)   
+
 2\.  It is free-of-charge.    
+
 3\.  **Accessing the DSA Portal**  
 	
 i. Applicants studying in MOE mainstream primary schools: Only one parent’s SingPass is needed to log in. If parent / guardian is unable to apply online, they can approach the child’s primary school for assistance.   
@@ -64,7 +67,7 @@ ii. Applicants not studying in MOE mainstream primary schools: They need to appl
 4\.  **Choices**    
 Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas). In choosing DSA schools, parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-**C. Selection Details**
+<div style="background-color: #999999;"><b>C. Selection Details</b></div>
 
 1\.  The school will contact short listed candidates by **Tuesday 12 July 2022.**     
 2\.  Short-listed candidates will attend an interview and a selection trial on **Tuesday 26 July 2022, at 3.30 p.m.**     
