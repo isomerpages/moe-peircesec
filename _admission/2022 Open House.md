@@ -5,15 +5,4 @@ description: ""
 ---
 **2022 Open House**
 ===================
-
-![](/images/2022_Publicity-Slides_Upd28Nov22_Page_01-1024x768.jpg)
-
-![](/images/2022_Publicity-Slides_Upd28Nov22_Page_02-1024x768.jpg)
-
-![](/images/2022_Publicity-Slides_Upd28Nov22_Page_03-1024x773.jpg)
-
-![](/images/2022_Publicity-Slides_Upd28Nov22_Page_04-1024x768.jpg)
-
-![](/images/2022_Publicity-Slides_Upd28Nov22_Page_05-1024x768.jpg)
-
-(uploaded 5 out of 37 slides)
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS4bNd0Wj83lBhYMGC81q2_J4qVKMXRRZ173l1mtf4qWdXLSJdczNpDieJ9vBzGww/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
