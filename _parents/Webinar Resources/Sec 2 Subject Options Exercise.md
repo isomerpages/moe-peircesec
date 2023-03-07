@@ -31,13 +31,6 @@ third_nav_title: Webinar Resources
       <p>Please click <a href="3Exp%20Streaming%20Booklet%202023.pdf"> here</a> for the booklet in PDF.</p>
     </div>
 	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Peirce Subject Options Exercise (SOE) Portal Guide</label>
-    <div>
-      <p>Please click <a href="/files/Peirce_Online_Guide_EOY_2022-1.pdf"> here</a> for the booklet in PDF.</p>
-    </div>
-	</li>
 		<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Sec 2NT Subject Options Slides</label>
