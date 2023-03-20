@@ -40,7 +40,7 @@ Ms Grace Sek ([sek\_li-en\_grace@moe.edu.sg](mailto:sek_li-en_grace@moe.edu.sg))
 
 Ms Noelene Liew ([noelene\_liew\_oi-yin@moe.edu.sg](mailto:noelene_liew_oi-yin@moe.edu.sg))
 
-Mrs Nettie Viknesh ([nettie\_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg))
+Ms Bhavana Thiagarajan ([bhavana\_thiagarajan@moe.edu.sg](mailto:bhavana_thiagarajan@moe.edu.sg))
 
 **CCA Training Days and Time**
 
