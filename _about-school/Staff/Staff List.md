@@ -63,7 +63,7 @@ third_nav_title: Staff
 | Mr Brandon Low 	| Teacher 	| [low_delong_brandon@moe.edu.sg](mailto:low_delong_brandon@moe.edu.sg) 	|
 | Mrs Jasmine Yau-Low Ngiap Lee 	| Teacher 	| [low_ngiap_lee@moe.edu.sg](mailto:low_ngiap_lee@moe.edu.sg) 	|
 | Ms Tham Yee Mui Miranda Mirabelle 	| Teacher 	| [miranda_tham@moe.edu.sg](mailto:miranda_tham@moe.edu.sg) 	|
-| Ms Nettie Tan 	| Teacher 	| [ettie_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg) 	|
+| Mrs Nettie Viknesh 	| Teacher 	| [ettie_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg) 	|
 | Mrs Chia-Ng Jia Lin Hana 	| Teacher 	| [ng_jia_lin_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg) 	|
 | Mr Max Lee 	| Teacher 	| [lee_max@moe.edu.sg](mailto:lee_max@moe.edu.sg) 	|
 | Mdm Ng Yee Lee 	| Teacher 	| [ng_yee_lee@moe.edu.sg](mailto:ng_yee_lee@moe.edu.sg) 	|
