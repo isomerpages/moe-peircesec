@@ -153,5 +153,3 @@ Students playing Kin ball during the OATs holiday programme
 
 ![](/images/Photo-7-OATs-Holiday-programme.jpg)
 Experiential learning activity conducted during Secondary 2 OATs Mentoring Programme
-
-(uploaded 5/10 images)
