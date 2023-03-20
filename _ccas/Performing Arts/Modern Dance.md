@@ -33,8 +33,6 @@ third_nav_title: Performing Arts
 **Teachers-in-charge:**  
 Mdm Sin Boon Yiah ([sin\_boon\_yiah@moe.edu.sg](mailto:sin_boon_yiah@moe.edu.sg))  
   
-Ms Chanel Kang ([kang\_yiling\_chanel@moe.edu.sg](mailto:kang_yiling_chanel@moe.edu.sg))  
-  
 Ms Nicole Lee ([nicole\_lee\_kim\_hui@moe.edu.sg](mailto:nicole_lee_kim_hui@moe.edu.sg))  
 
 **CCA Training Days and Time:**
