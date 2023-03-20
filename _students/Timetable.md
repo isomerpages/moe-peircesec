@@ -8,7 +8,7 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%; height: 150px;">
 <tbody>
 <tr style="height: 20px;">
-<td style="width: 25%; height: 20px; "><strong>Sec 1</strong></td>
+<td style="width: 25%; height: 20px; "><strong>Sec 13</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec 2</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec 3</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
