@@ -12,7 +12,7 @@ third_nav_title: Performing Arts
 | --- | --- |
 | Mrs Irene Stevens (OIC) | [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) |
 | Mr Ng Bing Fu (2nd IC) | [ng_bing_fu@moe.edu.sg](mailto:ng_bing_fu@moe.edu.sg) |
-| Mr Brandon Sham | [sham_kah_shen_brandon@moe.edu.sg](mailto:sham_kah_shen_brandon@moe.edu.sg) |
+| Ms Pang Yin Yin | [pang_yin_yin@moe.edu.sg](mailto:pang_yin_yin@moe.edu.sg) |
 
 
 **Learning Outcomes:**
@@ -39,11 +39,11 @@ Band students should be able to
 
 ###### CCA training days and time:
 
-|  	| Tuesday 	| Friday 	| Monday/Wednesday 2.40pm - 3.40pm 	|
+|  	| Tuesday 	| Friday  | Monday/Wednesday 2.40pm - 3.40pm 	|
 |---	|---	|---	|---	|
 | Main Band 	| 3.00 – 6.30 p.m 	| 1.30 – 6.00 p.m 	| * 	|
 | Junior Band 	| 3.00 – 6.00 p.m 	| 1.30 – 5.30 p.m 	| * 	|
-| Mr Brandon Sham 	| sham_kah_shen_brandon@moe.edu.sg 	|  	|  	|
+
 
 ### Photos
 
