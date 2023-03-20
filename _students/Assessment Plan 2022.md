@@ -3,7 +3,7 @@ title: Assessment Plan 2022
 permalink: /students/assessment-plan/
 description: ""
 ---
-# **Assessment Plan 2022**
+# **Assessment Plan 2023**
 
 
 <ul class="jekyllcodex_accordion">
