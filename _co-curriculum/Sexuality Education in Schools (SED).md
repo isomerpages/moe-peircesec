@@ -53,3 +53,32 @@ b.    Character and Citizenship Education (CCE)
     <img src="/images/Sec%201.png">
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion1">Secondary 2</label>
+    <div>
+    <img src="/images/Sec%202.png">
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion1">Secondary 3</label>
+    <div>
+    <img src="/images/Sec%203.png">
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion1">Secondary 4</label>
+    <div>
+    <img src="/images/Sec%204.png">
+    </div>
+	</li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion1">Secondary 5</label>
+    <div>
+    <img src="/images/Sec%205.png">
+    </div>
+	</li>
+</ul>
