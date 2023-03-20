@@ -35,13 +35,11 @@ Frank Cooper Sands Award (Gold) for 2015, 2016, 2017, 2018, 2019
 
 **Teachers-In-Charge**
 
-Mr Jason Seng ([jason\_seng\_yang\_sun@moe.edu.sg](http://jason_seng_yang_sun@moe.edu.sg/))
-
 Ms Kimberley Ong ([kimberley\_ong\_sher\_min@moe.edu.sg](http://kimberley_ong_sher_min@moe.edu.sg/))
 
-Ms Pang Yin Yin ([pang\_yin\_yin@moe.edu.sg](mailto:pang_yin_yin@moe.edu.sg)) 
+Miss Sim Ying Xuan ([sim_ying_xuan@moe.edu.sg](mailto:sim_ying_xuan@moe.edu.sg)) 
 
-Ms Lee Xiu-Ping ([lee\_xiu-ping@moe.edu.sg](mailto:lee_xiu-ping@moe.edu.sg))
+Mdm Joscelyn Lee ([lee\_hwee\_lin\_joscelyn@moe.edu.sg](mailto:lee_hwee_lin_joscelyn@moe.edu.sg))
 
 Mr Kan Cheng Mun ([kang\_cheng\_mun@moe.edu.sg](mailto:kang_cheng_mun@moe.edu.sg))
 
@@ -81,4 +79,3 @@ Scouts taking part in First Aid Course
 
 ![](/images/Total-Defence.jpeg)
 Scouts sharing about how they can contribute to Total Defence
-
