@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **Uniformed Groups: National Cadet Corps (NCC)**
+# **National Cadet Corps (NCC)**
 
 Peirce NCC (Land) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Our goal is to provide the cadets with a platform to develop holistically: 
 
@@ -71,7 +71,7 @@ Precision Drill Squad Competition
 
 **Teachers-In-Charge**
 
-*   LTA (NCC) Low Delong, Brandon ([low\_delong\_brandon@moe.edu.sg](mailto:low_delong_brandon@moe.edu.sg))
+*   Mr Max Lee ([max_lee@moe.edu.sg](mailto:max_lee@moe.edu.sg))
 *   CPT (NCC) Retnam Thekkamalai ([retnam\_thekkamalai@moe.edu.sg](mailto:retnam_thekkamalai@moe.edu.sg))
 *   LTA (NCC) Tan Kok Heong Godberg ([tan\_kok\_heong\_godberg@moe.edu.sg](mailto:tan_kok_heong_godberg@moe.edu.sg))  
     
