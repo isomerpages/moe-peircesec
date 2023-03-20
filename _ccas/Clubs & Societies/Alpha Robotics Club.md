@@ -20,7 +20,7 @@ third_nav_title: Clubs & Societies
 
 **Teachers-in-charge**  
 Ms Nai Chheu Yee ([nai\_chheu\_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg))  
-Mdm Cynthia Yow ([yow\_ee-linn\_cynthia@moe.edu.sg](mailto:yow_ee-linn_cynthia@moe.edu.sg))
+Mdm Chua Geok Song ([chua\_geok\_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg))
 
 **CCA Training Day and Time**  
 Tuesday: 3:30 p.m. to 5:30 p.m.  
