@@ -27,7 +27,7 @@ third_nav_title: Sports
 **Teachers-in-charge**  
 
 Mr Chia Teck Hong ([chia\_teck\_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg))  
-Mdm Rosnani ([rosnani\_suni@moe.edu.sg](mailto:rosnani_suni@moe.edu.sg))
+Ms Miranda Tham ([miranda\_tham@moe.edu.sg](mailto:miranda_tham@moe.edu.sg))
 
 **CCA Training days and time**  
 Tuesday: 3:30 p.m. to 6:00 p.m.  
