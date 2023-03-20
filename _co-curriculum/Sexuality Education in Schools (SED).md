@@ -82,3 +82,69 @@ b.    Character and Citizenship Education (CCE)
     </div>
 	</li>
 </ul>
+
+### *eTeens* Programme:
+  
+8.         *eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Peirce Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+<table border="1">
+<thead>
+<tr>
+<td >
+<p style="text-align: center;"><strong>Topics/Lessons</strong></p>
+</td>
+<td>
+<p style="text-align: center;"><strong>Programme Learning Objectives</strong></p>
+</td>
+<td>
+<p style="text-align: center;"><strong>Time Period</strong>
+	<strong>(e.g. Term 3 Week 9)</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Mass Talk by HPB appointed vendor</p>
+</td>
+<td>
+<ul>
+<li>Awareness of the different STIs and HIV/AIDS</li>
+<li>Modes of transmission</li>
+<li>Modes of protection, specifically on how the condom is used</li>
+<li>Consequences and impact of STIs/HIV</li>
+</ul>
+</td>
+<td style=" text-align: center;">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Classroom-based Lesson</p>
+</td>
+<td >
+<ul>
+<li>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</li>
+</ul>
+</td>
+<td style=" text-align: center;">
+<p>Term 3 Week 8</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed form is to be submitted by **31/01/2023**.
+
+12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by **31/01/2023**.
+
+13.       Parents can contact the school at Ms Wong Hei Man (HOD/CCE (Covering)) at 6457 6454 or email her at wong\_hei\_man@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
