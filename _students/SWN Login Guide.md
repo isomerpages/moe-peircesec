@@ -34,8 +34,7 @@ Login using your IAMS account. (Remember to check on the box to agree the T&C.)*
 
 <img src="/images/SWN-Login-05.png" style="width:50%">
 
-**7\. You will need to enter your passcode for the installation to start. If your phone is not protected with a passcode, you will be prompt to create one.
-**
+**7\. You will need to enter your passcode for the installation to start. If your phone is not protected with a passcode, you will be prompt to create one.**
 <img src="/images/SWN-Login-06.png" style="width:50%">
 
 **8\. Press the 'Install' button after you have entered your passcode.**
