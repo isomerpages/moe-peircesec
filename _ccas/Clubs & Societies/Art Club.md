@@ -32,7 +32,7 @@ Some of our art activities include
 **Teachers-in-charge**
 
 Ms Arion Lai Jia Hui ([lai\_jia\_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg))  
-Mdm Tan Yin Chin ([tan\_yin\_chin@moe.edu.sg](mailto:tan_yin_chin@moe.edu.sg))
+Mrs Nettie Viknesh ([nettie\_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg))
 
 **CCA Day and Time**
 
