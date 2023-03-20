@@ -45,3 +45,11 @@ b.    Character and Citizenship Education (CCE)
 
 #### At Peirce Secondary School, the following Sexuality Education lessons will be taught in <u>2023</u>:
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Secondary 1</label>
+    <div>
+    <img src="/images/Sec%201.png">
+    </div>
+	</li>
