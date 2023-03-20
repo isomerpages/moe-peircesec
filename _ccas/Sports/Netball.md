@@ -29,8 +29,6 @@ third_nav_title: Sports
 
 Ms Lin Yuzhi Karyl ([lin\_yuzhi@moe.edu.sg](mailto:lin_yuzhi@moe.edu.sg))
 
-Ms Thenmozhi Nalathamby ([thenmozhi\_nalathamby@moe.edu.sg](mailto:thenmozhi_nalathamby@moe.edu.sg))
-
 Mdm Bai Meiqi ([bai\_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg))
 
 Coaches: 
