@@ -19,6 +19,7 @@ description: ""
 | Mdm Suriyanti Bte Jumari 	| [suriyanti_jumari@moe.edu.sg](mailto:suriyanti_jumari@moe.edu.sg) 	|
 | Ms Toh Xin Rong 	| [toh_xin_rong@moe.edu.sg](mailto:toh_xin_rong@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
+| Mdm Chua Geok Song 	| [chua_geok_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg) 	|
 | Ms Nurul Syakinah Binti Sahak 	| [nurul_syakinah_sahak@moe.edu.sg](mailto:nurul_syakinah_sahak@moe.edu.sg) 	|
 
 
@@ -65,5 +66,3 @@ TL -   Debate
      style="width:30%"><br>
 <img src="/images/Photo5.jpg" 
      style="width:30%">
-
-(uploaded 5/16 images)
