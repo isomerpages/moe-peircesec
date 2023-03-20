@@ -23,87 +23,55 @@ description: ""
 ### Booklist 2023
 
 
-
-
-
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Seconday 2 Express</label>
-    <div>
-      <p><img src="/images/Binder1_Page_01-scaled.jpg"><br><img src="/images/Binder1_Page_02-scaled.jpg"></p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Seconday 2 Normal Academic</label>
-    <div>
-      <p><img src="/images/Binder1_Page_03-scaled.jpg"><br><img src="/images/Binder1_Page_04-scaled.jpg"></p>
-    </div>
-	</li>
-		  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Seconday 2 Normal Technical</label>
-    <div>
-      <p><img src="/images/Binder1_Page_05-scaled.jpg"><br><img src="/images/Binder1_Page_06-scaled.jpg"></p>
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Seconday 3 Express</label>
-    <div>
-      <p><img src="/images/Binder1_Page_07-scaled.jpg"><br><img src="/images/Binder1_Page_08-scaled.jpg"><br><img src="/images/Binder1_Page_09-scaled.jpg"></p>
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Seconday 3 Normal Academic</label>
-    <div>
-      <p><img src="/images/Binder1_Page_10-scaled.jpg"><br><img src="/images/Binder1_Page_11-scaled.jpg"><br><img src="/images/Binder1_Page_12-scaled.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Seconday 3 Normal Technical</label>
-    <div>
-      <p><img src="/images/Binder1_Page_13-scaled.jpg"><br><img src="/images/Binder1_Page_14-scaled.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Seconday 4 Express</label>
-    <div>
-      <p><img src="/images/Binder1_Page_15-scaled.jpg"><br><img src="/images/Binder1_Page_16-scaled.jpg"><br><img src="/images/Binder1_Page_17-scaled.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">Seconday 4 Normal Academic</label>
-    <div>
-      <p><img src="/images/Binder1_Page_18-scaled.jpg"><br><img src="/images/Binder1_Page_19-scaled.jpg"></p>
-    </div>
-	</li>
-				<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">Seconday 4 Normal Technical</label>
-    <div>
-      <p><img src="/images/Binder1_Page_20-scaled.jpg"><br><img src="/images/Binder1_Page_21-scaled.jpg"><br><img src="/images/Binder1_Page_22-scaled.jpg"></p>
-    </div>
-	</li>
-				<li>
-    <input type="checkbox" id="accordion10">
-    <label for="accordion10">Seconday 5 Normal Academic</label>
-    <div>
-      <p><img src="/images/Binder1_Page_23-scaled.jpg"><br><img src="/images/Binder1_Page_24-scaled.jpg"></p>
-    </div>
-	</li>
-	<h3>Uniform Order Form</h3>
-  <li>
-    <input type="checkbox" id="accordion11">
-    <label for="accordion11">Uniform Order Form</label>
-    <div>
-			<p>Click <a href="/files/Uniform.pdf"> here </a>to download the PDF version.<br><img src="/images/uniform_1.png"><br><img src="/images/uniform_2.png"></p>
-    </div>
-	</li>
-	</ul>
+<table border="1" style="border-collapse: collapse; width: 100%; height: 146px;">
+<tbody>
+<tr style="height: 20px;">
+<td style="width: 25%; height: 20px; "><strong>Sec 1</strong></td>
+<td style="width: 25%; height: 20px;"><strong>Sec 2</strong></td>
+<td style="width: 25%; height: 20px;"><strong>Sec 3</strong></td>
+<td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%201.pdf">1 Passion</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%207.pdf">2 Passion</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2012.pdf">3 Passion</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2018.pdf">4 Passion</a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%202.pdf">1 Excellence</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%208.pdf">2 Excellence</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2013.pdf">3 Excellence</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2019.pdf">4 Excellence</a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%203.pdf">1 Integrity</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%209.pdf">2 Integrity</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2014.pdf">3 Integrity</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2020.pdf">4 Integrity</a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%204.pdf">1 Respect</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2010.pdf">2 Respect</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2015.pdf">3 Respect</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2021.pdf">4 Respect</a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%205.pdf">1 Care</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2011.pdf">2 Care</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2016.pdf">3 Care</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2022.pdf">4 Care</a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%206.pdf">1 Empathy</a></td>
+<td style="width: 25%; height: 21px;"></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2017.pdf">3 Empathy</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2023.pdf">4 Empathy</a></td>
+</tr>
+<tr>
+<td style="width: 25%;"></td>
+<td style="width: 25%;"></td>
+<td style="width: 25%;"></td>
+<td style="width: 25%;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2024.pdf">5 A</a></td>
+</tr>
+</tbody>
+</table>
