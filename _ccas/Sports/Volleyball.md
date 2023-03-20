@@ -25,7 +25,6 @@ Ms Hong Wee Fui ([hong\_wee\_fui@moe.edu.sg](mailto:hong_wee_fui@moe.edu.sg))
 
 Ms Tan Wei Nah ([tan\_wei\_nah@moe.edu.sg](mailto:tan_wei_nah@moe.edu.sg))
 
-Mrs Hana Chia ([ng\_jia\_lin@moe.edu.sg](mailto:ng_jia_lin@moe.edu.sg) ) 
 
 **CCA Days and Time:**
 
