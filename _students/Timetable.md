@@ -5,7 +5,7 @@ description: ""
 ---
 # **Timetable**
 
-<table border="1" style="border-collapse: collapse; width: 100%; height: 146px;">
+<table border="1" style="border-collapse: collapse; width: 100%; height: 150px;">
 <tbody>
 <tr style="height: 20px;">
 <td style="width: 25%; height: 20px; "><strong>Sec 1</strong></td>
