@@ -41,7 +41,7 @@ third_nav_title: Performing Arts
 
 Ms Amanda Fernando ([amanda\_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg))
 
-Ms Bhavana Thiagarajan ([bhavana\_thiagarajan@moe.edu.sg](mailto:bhavana_thiagarajan@moe.edu.sg))
+Mdm Yow Ee-linn Cynthia ([yow\_ee-linn\_cynthia@moe.edu.sg](mailto:yow_ee-linn_cynthia@moe.edu.sg))
 
 **CCA Training Days & Time**
 
@@ -56,4 +56,3 @@ CCA Selection Day
 
 ![](/images/Picture-1-2.jpg)
 CCA Selection Day
-
