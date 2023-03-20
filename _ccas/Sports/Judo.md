@@ -34,7 +34,9 @@ Mdm Kavitha D/O Supramaniam ([kavitha\_supramaniam@moe.edu.sg](mailto:kavitha_su
 
 Mdm Sellaiah Kousalya ([sellaiah\_kousalya@moe.edu.sg](mailto:sellaiah_kousalya@moe.edu.sg))
 
-Mr Chong Chee Leong ([chong\_chee\_chong@moe.edu.sg](mailto:chong_chee_chong@moe.edu.sg))
+Mrs Hana Chia ([ng_jia_lin_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg))
+
+Ms Lee Xiu-ping ([lee_xiu-ping@moe.edu.sg](mailto:lee_xiu-ping@moe.edu.sg))
 
 **CCA Days and Time:**
 
