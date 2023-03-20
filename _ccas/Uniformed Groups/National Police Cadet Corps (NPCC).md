@@ -4,19 +4,18 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **NPCC**
+# **National Police Cadet Corps**
 
 **Teachers-in-charge**
 
-Ms Nurul Syakinah Binti Sahak (nurul\_syakinah\_sahak@moe.edu.sg)
+Ms Nurul Syakinah Binti Sahak ([nurul\_syakinah\_sahak@moe.edu.sg](mailto:nurul_syakinah_sahak@moe.edu.sg))
 
-Ms Yap Qian Yi Jasmine (yap\_qian\_yi\_jasmine@moe.edu.sg)
+Ms Yap Qian Yi Jasmine ([yap\_qian\_yi\_jasmine@moe.edu.sg](mailto:yap_qian_yi_jasmine@moe.edu.sg))
 
-Ms Nurul Syakinah Binti Sahak (nurul\_syakinah\_sahak@moe.edu.sg)
+Mr Tan Kay Yong ([tan\_kay\_yong@moe.edu.sg](mailto:tan_kay_yong@moe.edu.sg))
 
-Ms Adelia Ng Meiyu (adelia\_ng\_meiyu@moe.edu.sg)
+Ms Adelia Ng Meiyu ([adelia\_ng\_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg))
 
-Mr Daniel Ee (ee\_chong\_choon@moe.edu.sg)
 
 **CCA Training Day and Time**
 
