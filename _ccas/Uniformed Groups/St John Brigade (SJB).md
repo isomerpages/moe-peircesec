@@ -55,11 +55,11 @@ St John Brigade is a CCA that encourages cadets to perform works of humanity and
 
 **Teachers-in-charge:**
 
-Ms Toh Xin Rong (toh\_xin\_rong@moe.edu.sg)
+Ms Toh Xin Rong (toh_xin_rong@moe.edu.sg)
 
-Ms Lee Peiyi (lee\_peiyi@moe.edu.sg)
+Ms Ng Yee Lee (ng_yee_lee@moe.edu.sg)
 
-Ms Michelle Chai (chai\_hsueh\_chi\_michelle@moe.edu.sg)
+Ms Michelle Chai (chai_hsueh_chi_michelle@moe.edu.sg)
 
 **CCA Training Days and Time:**
 
