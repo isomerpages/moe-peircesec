@@ -29,5 +29,3 @@ Team Project – team members running a Nintendo competition for students in the
 
 ![](/images/Photo-12-3-scaled.jpg)
 Team Project – members packing Teacher’s Day cards and token of appreciation for teachers
-
-(uploaded 3/14 images)
