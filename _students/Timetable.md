@@ -14,7 +14,7 @@ description: ""
 <td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%201.pdf"target="_blank">1 Passion</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%201.pdf">1 Passion</a></td>
 <td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%207.pdf"target="_blank">2 Passion</a></td>
 <td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2012.pdf"target="_blank">3 Passion</a></td>
 <td style="width: 25%; height: 21px;"><a href="/files/TT_Term%202%202023_All%20Classes_14%20Mar_Final%2018.pdf"target="_blank">4 Passion</a></td>
