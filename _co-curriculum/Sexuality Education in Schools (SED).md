@@ -143,8 +143,8 @@ b.    Character and Citizenship Education (CCE)
 
 10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed form is to be submitted by **31/01/2023**.
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A_SEd%20Parent%20Opt%20Out%20Form_2023.pdf). The completed form is to be submitted by **31/01/2023**.
 
-12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by **31/01/2023**.
+12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B_eTeens%20Parent%20Opt%20Out%20Form_2023.pdf).  The completed form is to be submitted by **31/01/2023**.
 
-13.       Parents can contact the school at Ms Wong Hei Man (HOD/CCE (Covering)) at 6457 6454 or email her at wong\_hei\_man@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.       Parents can contact the school at Ms Wong Hei Man (HOD/CCE (Covering)) at 6457 6454 or email her at wong_hei_man@schools.gov.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
