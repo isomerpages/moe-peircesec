@@ -1,0 +1,13 @@
+collections:
+  students:
+    output: true
+    order:
+      - Timetable.md
+      - Assessment Plan 2023.md
+      - Exam Timetable.md
+      - SWN Login Guide.md
+      - Student Learning Space.md
+      - e Student Handbook.md
+      - Bookshop and Uniform.md
+      - School Holiday Advisory.md
+      - Useful Links.md
