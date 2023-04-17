@@ -3,7 +3,6 @@ title: Humanities Department
 permalink: /curriculum/humanities/
 description: ""
 ---
-# **Humanities Department**
 
 ### 1\. Department Teachers
 
@@ -47,5 +46,6 @@ The department adopts an Inquiry Based Approach (see Figure 1) &nbsp;in the teac
 
 There are four pedagogical elements that underlie the approach which will require learning to be Question-Driven and Evidence-Based, and involves Reflection and Knowledge Construction. These elements are further exemplified through students’ learning as they undergo the four stages of the inquiry process, which are Sparking Curiosity, Gathering Data, Exercising Reasoning and Reflective Thinking. Having a good understanding of these elements, the different stages of inquiry and strategies that facilitate these elements in a lesson will help teachers design meaningful inquiry lessons for Humanities. Our students go through this process in their Humanities lessons to make them critical, inquisitive and curious individuals with the ability to make sound judgements through reasoning, reflection and analysis.
 
+### 3\. Photo Gallery
 ![](/images/Photo-1-Humanities-Inquiry-Approach.png)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
