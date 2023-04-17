@@ -3,7 +3,6 @@ title: Craft and Technology
 permalink: /curriculum/craft-and-technology/
 description: ""
 ---
-# **Craft and Technology**
 
 ### 1\. Department Members
 
@@ -53,5 +52,5 @@ Advanced Electives Modules are programme conducted by polytechnic to teach aspir
 Elective Modules are school-based customized programme to expose students to the working life of a professional chief and learn the operations in the commercial food kitchen.
 
 
-### 3\. Photos
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+### 3\. Photo Gallery
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
