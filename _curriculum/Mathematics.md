@@ -3,8 +3,6 @@ title: Mathematics
 permalink: /curriculum/Mathematics/
 description: ""
 ---
-
-
 ### 1\. Department Teachers
 
 | Name 	| Email Address 	|
