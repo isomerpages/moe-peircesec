@@ -3,7 +3,6 @@ title: Mother Tongue Language Department
 permalink: /curriculum/mother-tongue/
 description: ""
 ---
-
 ### 1\. Department Staff
 
 | Name 	| Email Address 	|
@@ -55,4 +54,4 @@ CL – Essay Writing Competition
 TL -&nbsp;&nbsp; Debate
 
 ### 3\. Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZv_BDkLx8q21qIdNvQwPhZYZPY4lquKtJGdMzgbJTOBasZWeqAsKKCRQjh3c7H1GncXrhR7swuywG/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZv_BDkLx8q21qIdNvQwPhZYZPY4lquKtJGdMzgbJTOBasZWeqAsKKCRQjh3c7H1GncXrhR7swuywG/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
