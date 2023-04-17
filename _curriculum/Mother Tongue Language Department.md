@@ -35,34 +35,24 @@ Our key approaches to teaching of MTL include:
 
 **Curriculum Programmes**
 
-*   In classroom learning, students are paired / grouped purposefully that facilitate critical thinking and active learning through discussions. Such strategies provide a platform for developing 21st century competencies (21CC) in our students in the area of communication and collaboration skills.
+*   In classroom learning, students are paired / grouped purposefully that facilitate critical thinking and active learning through discussions. Such strategies provide a platform for developing 21st&nbsp;century competencies (21CC) in our students in the area of communication and collaboration skills.
 *   We also leverage on use of ICT tools and e-learning platforms to develop self-directed learning and collaborative learning as students acquire mastery of language skills. Lessons and earning tasks posted on Student Learning Space (SLS) provide opportunities for self-directedness in learning
 
 **Enrichment Programmes**
 
-*   **MTL Fortnight and Cultural Camp Programme** provide students with authentic opportunities in using MTL and experience the Chinese, Malay or Tamil cultures
-*   **Applied Learning Programme** provide students with an authentic platform to put the language skills they learn in the classroom into an authentic context.
-*   **Reading Programme** encourage students to read widely through selected reading materials and subscription of magazine.
+*   **MTL Fortnight and Cultural Camp Programme**&nbsp;provide students with authentic opportunities in using MTL and experience the Chinese, Malay or Tamil cultures
+*   **Applied Learning Programme**&nbsp;provide students with an authentic platform to put the language skills they learn in the classroom into an authentic context.
+*   **Reading Programme**&nbsp;encourage students to read widely through selected reading materials and subscription of magazine.
 
 Lower Sec – Stories books or short stories  
 Upper Sec - Newspapers or Students’ magazine
 
-*   **Conversation Chinese / Malay** equip students with basic conversation skills in another language.
-*   **Learning Journeys** to Asian countries provide students with overseas immersion opportunities to broaden their horizon and deepen their cross-cultural understanding.
-*   **Competitions** - To provide opportunities for students to showcase their talents in MTL.
+*   **Conversation Chinese / Malay**&nbsp;equip students with basic conversation skills in another language.
+*   **Learning Journeys**&nbsp;to Asian countries provide students with overseas immersion opportunities to broaden their horizon and deepen their cross-cultural understanding.
+*   **Competitions**&nbsp;- To provide opportunities for students to showcase their talents in MTL.
 
 CL – Essay Writing Competition  
-        **Bian Cai Competition编采比赛**ML – Sahibba Competition  
-TL -   Debate
+&nbsp; &nbsp; &nbsp; &nbsp; **Bian Cai Competition编采比赛**ML – Sahibba Competition  
+TL -&nbsp;&nbsp; Debate
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZv_BDkLx8q21qIdNvQwPhZYZPY4lquKtJGdMzgbJTOBasZWeqAsKKCRQjh3c7H1GncXrhR7swuywG/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
 
-
-<img src="/images/Photo1.jpg" 
-     style="width:30%"><br>
-<img src="/images/Photo2.jpg" 
-     style="width:30%"><br>
-<img src="/images/Photo3.jpg" 
-     style="width:30%"><br>
-<img src="/images/Photo4.jpg" 
-     style="width:30%"><br>
-<img src="/images/Photo5.jpg" 
-     style="width:30%">
