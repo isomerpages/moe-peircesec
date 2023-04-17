@@ -3,7 +3,7 @@ title: Mathematics
 permalink: /curriculum/Mathematics/
 description: ""
 ---
-# **Mathematics**
+
 
 ### 1\. Department Teachers
 
@@ -59,13 +59,13 @@ The activities include:
 
 All Singapore Secondary Mathematics Competition Normal Course Students
 
-### 3\. Photos
+### 3\. Photo Gallary
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
 
 
 #### Ngee Ann Poly Math Challenge 2021
 
 Our students challenged themselves to&nbsp;a zesty series of exciting mathematics quests&nbsp;in the&nbsp;Maths Challenge organized by Nee Ann Polytechnic. They had the opportunity to&nbsp;marvel at and see the use of mathematics beyond the classroom. Participants learn that mathematics can be fun, interesting, exciting and beneficial to daily life.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQznn7v9ktJx5KwtCo21jE8Ed3ZKpPvO0JUMSnq0SnbRJ0O1n8xtHZfYcJACfLgZGeBYVu46lzYS2_E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQznn7v9ktJx5KwtCo21jE8Ed3ZKpPvO0JUMSnq0SnbRJ0O1n8xtHZfYcJACfLgZGeBYVu46lzYS2_E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
