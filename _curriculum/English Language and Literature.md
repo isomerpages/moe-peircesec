@@ -3,8 +3,6 @@ title: English Language and Literature
 permalink: /curriculum/english-language/
 description: ""
 ---
-
-
 ### 1\. Department Staff
 
 
@@ -99,4 +97,5 @@ Secondary Two Literature texts:
 
 (iii) Little Things (Poetry Anthology) – edited by Loh Chin Ee, Angelia Poon and Esther Vincent
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQufRMCaWKe0Wm1Y15BTc7NdNcHdcK_udpRmxH2jqBeclC_p_BnM5wrcMrypMKSFyJMk0Ijj3ZapDql/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+### 4\. Photo Gallary
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQufRMCaWKe0Wm1Y15BTc7NdNcHdcK_udpRmxH2jqBeclC_p_BnM5wrcMrypMKSFyJMk0Ijj3ZapDql/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
