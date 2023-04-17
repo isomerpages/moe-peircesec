@@ -57,7 +57,7 @@ The activities include:
 
 All Singapore Secondary Mathematics Competition Normal Course Students
 
-### 3\. Photo Gallary
+### 3\. Photo Gallery
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
 
