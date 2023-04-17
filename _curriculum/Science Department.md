@@ -3,8 +3,6 @@ title: Science Department
 permalink: /curriculum/science/
 description: ""
 ---
-# **Science Department**
-
 **Department Programmes**
 
 Our programmes are designed to provide a broad-based holistic Science education.
@@ -36,4 +34,6 @@ Students will engage in Place-Based Inquiry Learning in Bishan-Ang Mo Kio Park, 
 Students are actively encouraged by their subject teachers to take part in competitions and projects organized by the Singapore Science Centre.&nbsp;
 
 Our students signed up for the Youth Science Ambassador project in 2019 and the Young Sustainability Champion programme in 2020 and 2021. Through the programme, they are mentored by our teachers and educators from the Singapore Science Centre on project management, global awareness and embark on tasks to raise awareness about sustainability.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5ZmMiaT_VZ-C4BxE0AKy2YCbeYfr0YJg2FR4bC8_n1eSdKADHmnz3LlsrUi4FNiQKOCZoDGBEmkh-/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+
+**Photo Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5ZmMiaT_VZ-C4BxE0AKy2YCbeYfr0YJg2FR4bC8_n1eSdKADHmnz3LlsrUi4FNiQKOCZoDGBEmkh-/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
