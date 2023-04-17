@@ -3,7 +3,6 @@ title: PE and Aesthetics
 permalink: /curriculum/pe-and-aesthetics/
 description: ""
 ---
-# **Physical Education**
 
 ### 1\. Department Teachers
 
@@ -57,5 +56,5 @@ Objectives:
 
 Conducted in the last week of term 3, the Health &amp; Fitness (H&amp;F) Week aims to celebrate and remind Peirceans the importance of healthy living. During this period, the PE department and a team of student leaders organize activities to engage Peirceans in body and mind. Some of the activities include inter class games, inter CCA challenges, health quiz, Staff versus Students 1-minute challenge and Learn @ Peirce modules. Learn @ Peirce are short exposure physical activities conducted by external instructors, examples of such courses are inline skating, muay thai, k-pop dance and archery. The H &amp; F Week culminates in the All Children Exercising Simultaneously (ACES) Day workout. On ACES Day, Peirceans will be reminded the importance of eating fruits and drinking water. Everyone brings a fruit and eat together before the workout.
 
-### 3\. Photos
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDjFQ1dxk0uzUbBIIeaIEAf-NOBnPSKLNW0LkiFB8fCrYUORuWSJYv4Ru8FTxoVIRanywviPDs8rvM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
+### 3\. Photo Gallery
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDjFQ1dxk0uzUbBIIeaIEAf-NOBnPSKLNW0LkiFB8fCrYUORuWSJYv4Ru8FTxoVIRanywviPDs8rvM/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
