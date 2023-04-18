@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-table-tennis/
 description: ""
 third_nav_title: Sports
 ---
-# **Table Tennis**
+
 
 The CCA aims to develop in our members a passion for Table Tennis such that they can use Table Tennis as a form of exercise and hobby. Through training, our members will develop into resilient, resourceful and responsible individuals. They will be taught the relevant techniques to play the sport. They will grow their mental toughness and emotional resilience. With exposure to National School Tournaments and External Cup Competitions, our members gain enriching tournament experiences where their skills, mental strength and emotional management are put into use.
 
