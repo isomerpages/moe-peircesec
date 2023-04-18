@@ -3,7 +3,7 @@ title: Full SBB
 permalink: /parents/full-sbb/
 description: ""
 ---
-# **Full SBB @ Peirce**
+
 
 ![](/images/Picture1-300x201.png)
 
