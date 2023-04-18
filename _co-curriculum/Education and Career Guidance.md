@@ -3,18 +3,18 @@ title: Education and Career Guidance
 permalink: /co-curriculum/education-and-career-guidance-ecg/
 description: ""
 ---
-# **Education and Career Guidance**
+
 
 **Goals of Education and Career Guidance (ECG)**
 
-In Peirce, we aim to equip our students with the necessary knowledge, skills and values so that they are **Future Ready** – have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
+In Peirce, we aim to equip our students with the necessary knowledge, skills and values so that they are&nbsp;**Future Ready**&nbsp;– have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
 **Guiding Principles in planning of ECG Experiences:**
 
-1.  Student Centricity – learning experiences are planned based on students’ needs, interests and aspirations.
-2.  Intentionality – learning experiences are planned with specific learning outcomes in mind.
-3.  Coherence – learning experiences enable students to connect, transfer, and apply learning across different key student development experiences.
-4.  Collaboration – establish meaningful partnership with parents, PSEIs and other external organisations
+1.  Student Centricity&nbsp;– learning experiences are planned based on students’ needs, interests and aspirations.
+2.  Intentionality&nbsp;– learning experiences are planned with specific learning outcomes in mind.
+3.  Coherence&nbsp;– learning experiences enable students to connect, transfer, and apply learning across different key student development experiences.
+4.  Collaboration&nbsp;– establish meaningful partnership with parents, PSEIs and other external organisations
 
 **ECG Day**
 
@@ -37,14 +37,13 @@ Sec 2 learning journey to Sunningdale Tech
 
 **ECG Counselling**
 
-Our Education and Career Guidance (ECG) Counsellor, Mr Colin Tan, is in the school every Tuesday and Thursday to support students in making informed decisions on their education and career pathways.
+Our Education and Career Guidance (ECG) Counsellor, Mr Colin Tan, is in the school&nbsp;every Tuesday and Thursday&nbsp;to support students in making informed decisions on their education and career pathways.
 
 Students (and their parents) who would like to find out more about their post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor.
 
-To make an appointment, please click here:  [https://go.gov.sg/peirce-ecg](https://moeecg.appointeze.com/onlinelink/ColinTan) or scan the QR Code below. You may also email Mr Colin Tan at [colin\_tan\_thian\_hock@schools.gov.sg](mailto:colin_tan_thian_hock@schools.gov.sg)
+To make an appointment, please click here:&nbsp;&nbsp;[https://go.gov.sg/peirce-ecg](https://moeecg.appointeze.com/onlinelink/ColinTan)&nbsp;or scan the QR Code below. You may also email Mr Colin Tan at&nbsp;[colin\_tan\_thian\_hock@schools.gov.sg](mailto:colin_tan_thian_hock@schools.gov.sg)
 
-<img src="/images/QR-code.png" 
-     style="width:25%">
+<img src="/images/QR-code.png" style="width:25%">
 		 
 For more information on ECG resources and post-secondary education institutions, please click on the following:
 
@@ -58,20 +57,18 @@ My SkillsFuture ECG Portal
 
 Journey with Our Children, Achieving their Aspirations
 
-<img src="/images/journey.png" 
-     style="width:40%">
+<img src="/images/journey.png" style="width:40%">
 		 
-[Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg-parent-guide.ashx?la=en&hash=E7DDC93E69179D8B4E9373DC48138F7DDBCFCA35)
+[Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg-parent-guide.ashx?la=en&amp;hash=E7DDC93E69179D8B4E9373DC48138F7DDBCFCA35)
 
 The Next Step Forward
 
-<img src="/images/next-step.jpg" 
-     style="width:40%">
+<img src="/images/next-step.jpg" style="width:40%">
 
-[The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972)
+[The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972)
 
 Post-Secondary Education
 
-Overview of Post-Secondary Education Institutions (PSEIs): [https://www.moe.gov.sg/post-secondary/overview](https://www.moe.gov.sg/post-secondary/overview) (this website will link to other important topics like pathways, admission exercises, course finder etc)
+Overview of Post-Secondary Education Institutions (PSEIs):&nbsp;[https://www.moe.gov.sg/post-secondary/overview](https://www.moe.gov.sg/post-secondary/overview)&nbsp;(this website will link to other important topics like pathways, admission exercises, course finder etc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ndDVlzT-z0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ndDVlzT-z0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
