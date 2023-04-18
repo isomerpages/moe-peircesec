@@ -3,7 +3,6 @@ title: History
 permalink: /about-school/history/
 description: ""
 ---
-# **History**
 
 Peirce Secondary School started operating in 1994 on the premises of Bishan Park Secondary School. Mr Chia Choon Kiat was the school's first Principal.
 
