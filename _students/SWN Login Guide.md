@@ -3,7 +3,7 @@ title: SWN Login Guide
 permalink: /students/swn-login-guide/
 description: ""
 ---
-# **SWN Login Guide**
+
 
 Student may connect to SWN Wi-Fi network to access internet for teaching and learning purpose.
 
@@ -18,7 +18,7 @@ Student may connect to SWN Wi-Fi network to access internet for teaching and lea
 <img src="/images/SWN-Login-02.png" style="width:50%">
 
 **3\. Once connected, a login page will pop up.  
-Login using your IAMS account. (Remember to check on the box to agree the T&C.)**
+Login using your IAMS account. (Remember to check on the box to agree the T&amp;C.)**
 
 <img src="/images/SWN-Login-03.png" style="width:50%">
 
