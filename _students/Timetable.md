@@ -3,7 +3,7 @@ title: Timetable
 permalink: /students/timetable/
 description: ""
 ---
-# **Timetable**
+
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
