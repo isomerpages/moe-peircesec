@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-modern-d
 description: ""
 third_nav_title: Performing Arts
 ---
-# **Modern Dance**
+
 
 **Learning Outcomes**
 
