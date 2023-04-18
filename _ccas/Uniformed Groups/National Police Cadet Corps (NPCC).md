@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **National Police Cadet Corps**
+
 
 **Teachers-in-charge**
 
