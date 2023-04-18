@@ -3,7 +3,7 @@ title: Student Well being
 permalink: /co-curriculum/student-well-being/
 description: ""
 ---
-# **Student Well-being**
+
 
 ### Motivate. Engage. Uplift
 
