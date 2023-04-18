@@ -3,7 +3,6 @@ title: Bookshop and Uniform
 permalink: /students/bookshop-and-uniform/
 description: ""
 ---
-# **Bookshop and Uniform**
 
 ### General Information and Service
 
@@ -15,7 +14,7 @@ description: ""
     Tel: 6256 3139
 
 *   School Uniform Services  
-    School Uniform Supplier: Asencio Uniforms & Bookshops Specialist  
+    School Uniform Supplier: Asencio Uniforms &amp; Bookshops Specialist  
     Stall Location: School Canteen  
     Operating Hours: Monday to Friday, 9 am to 3 pm  
     Tel: 6764 3102
@@ -26,7 +25,7 @@ description: ""
 <table border="1" style="border-collapse: collapse; width: 100%; height: 146px;">
 <tbody>
 <tr style="height: 20px;">
-<td style="width: 25%; height: 20px; "><strong>Sec 1</strong></td>
+<td style="width: 25%; height: 20px;"><strong>Sec 1</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec 2</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec 3</strong></td>
 <td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
