@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/clubs-art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-# **Art Club**
+
 
 **Learning Outcomes**
 
