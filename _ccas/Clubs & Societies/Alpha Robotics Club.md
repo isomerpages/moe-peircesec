@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/clubs-robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-# **Alpha Robotics Club**
+
 
 **Learning Outcomes**
 
