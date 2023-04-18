@@ -3,7 +3,7 @@ title: School Song
 permalink: /about-school/school-song/
 description: ""
 ---
-# **School Song**
+
 
 Fax Mentis Incendium Gloriae  
 The passion for glory is the torch to the mind  
