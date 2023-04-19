@@ -3,7 +3,6 @@ title: e Brochure
 permalink: /admissions/e-brochure/
 description: ""
 ---
-# **e-Brochure**
 
 ![](/images/0001-1-scaled.jpg)
 
@@ -14,4 +13,3 @@ description: ""
 ![](/images/0004-1-scaled.jpg)
 
 Click [here](/files/Peirce_Flyer_proof-4_13-May.pdf)  to download a copy of our school flyer
-

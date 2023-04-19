@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Achievements
 ---
 
-# **Good Stories**
-
 ##### Former student clinches NCSS Gold Medal at NYP
 
 ![](/images/Peirce-Sec-Amalia-Bte-Ariffin-scaled.jpg)

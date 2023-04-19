@@ -1,10 +1,8 @@
 ---
-title: Full SBB
+title: Full SBB @ Peirce
 permalink: /parents/full-sbb/
 description: ""
 ---
-# **Full SBB @ Peirce**
-
 ![](/images/Picture1-300x201.png)
 
 Peirce Secondary School is one of 30+ secondary schools which will implement Full Subject-Based Banding (Full SBB) from 2023.

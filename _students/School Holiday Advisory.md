@@ -3,7 +3,7 @@ title: School Holiday Advisory
 permalink: /students/school-holiday-advisory/
 description: ""
 ---
-# **School Holiday Advisory**
+
 
 ### Joint Advisory by SPF, CNB, NCPC and NCADA for 2022 June Holidays
 

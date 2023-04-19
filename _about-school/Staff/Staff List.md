@@ -4,7 +4,7 @@ permalink: /about-school/Staff/Staff-list/
 description: ""
 third_nav_title: Staff
 ---
-# **Staff List**
+
 
 
 | Name 	| Designation 	| Email Address 	|

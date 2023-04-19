@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-peirce-w
 description: ""
 third_nav_title: Performing Arts
 ---
-# **Peirce Wind Symphony**
+
 
 ###### Teachers-in-charge:
 

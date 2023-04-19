@@ -3,7 +3,6 @@ title: Humanities Department
 permalink: /curriculum/humanities/
 description: ""
 ---
-# **Humanities Department**
 
 ### 1\. Department Teachers
 
@@ -11,7 +10,7 @@ description: ""
 |---	|---	|
 | Ms Khairiah Bte Hairoman (HOD Humanities) 	| [khairiah_hairoman@moe.edu.sg](mailto:khairiah_hairoman@moe.edu.sg) 	|
 | Mdm Chew Li Ling Stephanie (Year Head) 	| [chew_li_ling_stephanie@moe.edu.sg](mailto:chew_li_ling_stephanie@moe.edu.sg) 	|
-| Mr Ng Chenyee (SH Geography & Social Studies) 	| [ng_chenyee@moe.edu.sg](mailto:ng_chenyee@moe.edu.sg) 	|
+| Mr Ng Chenyee (SH Geography &amp; Social Studies) 	| [ng_chenyee@moe.edu.sg](mailto:ng_chenyee@moe.edu.sg) 	|
 | Miss Galkisage Amanda P Fernando 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
 | Miss Nettie Tan 	| [nettie_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg) 	|
 | Mrs Irene Stevens-Ong Ching Ling 	| [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) 	|
@@ -35,7 +34,7 @@ Historical Investigations (HI), Geographical Investigations (GI) and Issues Inve
 
 _Implementation Process:_
 
-The investigation goes through the inquiry process and it starts with the students answering a series of guiding historical, geographical or societal questions. This is followed by gathering of  data. For this purpose, learning journeys are organised for the lower secondary students to National Museum, Changi Chapel Museum, Bishan Park and Bishan North Community and for the upper secondary students to East Coast Park and Chinatown**.** The department also brings in community stakeholders such as the Migrant Workers Association to give talks to the students as part of their data collection. After gathering data, students will return to the classroom to interpret and evaluate their data, and construct explanations to answer their guiding questions. Finally the inquiry process closes with each group presenting their findings and conclusions to the rest of the class. Students also reflect on the entire process to consolidate their learning.
+The investigation goes through the inquiry process and it starts with the students answering a series of guiding historical, geographical or societal questions. This is followed by gathering of&nbsp; data. For this purpose, learning journeys are organised for the lower secondary students to National Museum, Changi Chapel Museum, Bishan Park and Bishan North Community and for the upper secondary students to East Coast Park and Chinatown**.**&nbsp;The department also brings in community stakeholders such as the Migrant Workers Association to give talks to the students as part of their data collection. After gathering data, students will return to the classroom to interpret and evaluate their data, and construct explanations to answer their guiding questions. Finally the inquiry process closes with each group presenting their findings and conclusions to the rest of the class. Students also reflect on the entire process to consolidate their learning.
 
 _Benefits to Students:_
 
@@ -43,36 +42,10 @@ The inquiry projects give students opportunities to appreciate the real world ap
 
 **Humanities Inquiry Approach**
 
-The department adopts an Inquiry Based Approach (see Figure 1)  in the teaching of all its Humanities subjects.
+The department adopts an Inquiry Based Approach (see Figure 1) &nbsp;in the teaching of all its Humanities subjects.
 
 There are four pedagogical elements that underlie the approach which will require learning to be Question-Driven and Evidence-Based, and involves Reflection and Knowledge Construction. These elements are further exemplified through students’ learning as they undergo the four stages of the inquiry process, which are Sparking Curiosity, Gathering Data, Exercising Reasoning and Reflective Thinking. Having a good understanding of these elements, the different stages of inquiry and strategies that facilitate these elements in a lesson will help teachers design meaningful inquiry lessons for Humanities. Our students go through this process in their Humanities lessons to make them critical, inquisitive and curious individuals with the ability to make sound judgements through reasoning, reflection and analysis.
 
+### 3\. Photo Gallery
 ![](/images/Photo-1-Humanities-Inquiry-Approach.png)
-Humanities Inquiry Approach
-
-![](/images/Picture-2.jpg)
-Secondary 1 Geography Investigation at Bishan Park
-
-![](/images/Picture-3.jpg)
-Water Testing by the Secondary 1 Geography students
-
-![](/images/Picture-4.jpg)
-Secondary 2 History Investigation at Former Ford Factory
-
-![](/images/Picture-5.jpeg)
-Secondary 2 History Investigation at Former Ford Factory
-
-![](/images/Picture-6.jpg)
-Secondary 2 Geography Investigation at Bishan North Neighbourhood
-
-![](/images/Picture-7.jpg)
-Secondary 3 Geography Tourism Fieldwork at Chinatown
-
-![](/images/Picture-8.jpg)
-Interviewing tourists as part of the Secondary 3 Tourism Fieldwork
-
-![](/images/Picture-9.jpg)
-Secondary 3 Geography Coast Fieldwork at East Coast Beach
-
-![](/images/Picture-10.jpg)
-Delivering donations to the Migrant Workers as part of Secondary 3 Issues Investigation
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>

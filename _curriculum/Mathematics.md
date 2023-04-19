@@ -3,8 +3,6 @@ title: Mathematics
 permalink: /curriculum/Mathematics/
 description: ""
 ---
-# **Mathematics**
-
 ### 1\. Department Teachers
 
 | Name 	| Email Address 	|
@@ -31,26 +29,26 @@ description: ""
 
 The Department focuses on the following approaches to enrich the learning of Mathematics of our students:
 
-**_a) Curriculum:_** Our curriculum designed to equip students with useful Mathematical skills and concepts for everyday life and for continuous learning in Mathematics and other disciplines. Students will also develop skills to reason logically, and learn to work cooperatively as well as independently. The pedagogies employed include:
+**_a) Curriculum:_**&nbsp;Our curriculum designed to equip students with useful Mathematical skills and concepts for everyday life and for continuous learning in Mathematics and other disciplines. Students will also develop skills to reason logically, and learn to work cooperatively as well as independently. The pedagogies employed include:
 
 *   effective use of Mathematics talk moves
 *   co-creating success criteria with students
 *   differentiated approach and assignments in a mixed ability class environment
 
-**_b) Learning Experiences:_** In classroom teaching, we strive to create meaningful Learning Experiences, for students to find joy and relevance in Mathematics learning and see purpose in taking ownership of their learning.
+**_b) Learning Experiences:_**&nbsp;In classroom teaching, we strive to create meaningful Learning Experiences, for students to find joy and relevance in Mathematics learning and see purpose in taking ownership of their learning.
 
 The activities include:
 
 *   students collaborating on Mathematical Tasks
 *   students taking part in Problems in Real World Context (PRWC) activities and competitions
 
-**_c) Formative Assessment:_** Regular formative assessments for learning are conducted during classroom lesson to inform students on their learning. They provide feedback on areas for improvement and follow up for progressive understanding and successes in the learning process. Some formative assessment strategies include the use of:
+**_c) Formative Assessment:_**&nbsp;Regular formative assessments for learning are conducted during classroom lesson to inform students on their learning. They provide feedback on areas for improvement and follow up for progressive understanding and successes in the learning process. Some formative assessment strategies include the use of:
 
 *   Mini whiteboards with hinge point questions
 *   Online tools e.g. Kahoot, Classkick which facilitate real time 2 way feedback
 *   Exit passes and quizzes
 
-**_d) Enrichment Programmes:_** We believe that learning of Mathematics should not be restricted to only classrooms and students must be given opportunities to learn Mathematics beyond the classroom in fun and creative ways The Mathematics department, provides students opportunities to participate in various enrichment activities including:
+**_d) Enrichment Programmes:_**&nbsp;We believe that learning of Mathematics should not be restricted to only classrooms and students must be given opportunities to learn Mathematics beyond the classroom in fun and creative ways The Mathematics department, provides students opportunities to participate in various enrichment activities including:
 
 *   Online Mastermind Program
 *   Mathematics Coding for Secondary 1 students
@@ -59,37 +57,13 @@ The activities include:
 
 All Singapore Secondary Mathematics Competition Normal Course Students
 
-### 3\. Photos
+### 3\. Photo Gallery
 
-![](/images/1-Mini-Whiteboard.jpg)
-Use of Mini Whiteboards to check students’ understanding
-
-![](/images/2-Mini-Whiteboard.jpg)
-Students solving Mathematical Tasks Collaboratively
-
-![](/images/7-Mathematics-Week.jpg)
-Students solving Mathematical Puzzles
-
-![](/images/9-Mathematics-Week.jpg)
-Students solving Mathematical Puzzles
-
-![](/images/14-Eureka-1024x683-1.jpg)
-Students solving Mathematical Tasks Collaboratively
-
-![](/images/Sec-3-Pupils-working-collobratively-in-Problems-in-Real-World-Context-activitiy_2-768x1024-1.jpg)
-Sec 3 Pupils working collobratively in Problems in Real World Context activitiy
-
-![](/images/Sec-3-Pupils-working-collobratively-in-Problems-in-Real-World-Context-activitiy-768x1024-1.jpg)
-Sec 3 Pupils working collobratively in Problems in Real World Context activitiy
-
-![](/images/Students-doing-kinematics-tasks-outside-of-the-classroom-1024x636-1.jpg)
-Students doing kinematics tasks outside of the classroom
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>
 
 
 #### Ngee Ann Poly Math Challenge 2021
 
-Our students challenged themselves to a zesty series of exciting mathematics quests in the Maths Challenge organized by Nee Ann Polytechnic. They had the opportunity to marvel at and see the use of mathematics beyond the classroom. Participants learn that mathematics can be fun, interesting, exciting and beneficial to daily life.
+Our students challenged themselves to&nbsp;a zesty series of exciting mathematics quests&nbsp;in the&nbsp;Maths Challenge organized by Nee Ann Polytechnic. They had the opportunity to&nbsp;marvel at and see the use of mathematics beyond the classroom. Participants learn that mathematics can be fun, interesting, exciting and beneficial to daily life.
 
-![](/images/Math-Challenge-Photo-1.jpeg)
-
-![](/images/Math-Challenge-Photo-2.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQznn7v9ktJx5KwtCo21jE8Ed3ZKpPvO0JUMSnq0SnbRJ0O1n8xtHZfYcJACfLgZGeBYVu46lzYS2_E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

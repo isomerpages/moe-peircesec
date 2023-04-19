@@ -3,7 +3,7 @@ title: Advanced Elective Modules (AEM)
 permalink: /co-curriculum/advanced-elective-modules-aems/
 description: ""
 ---
-# **Advanced Elective Modules (AEM)**
+
 
 ### Power Boating for Leisure
 

@@ -3,8 +3,6 @@ title: Science Department
 permalink: /curriculum/science/
 description: ""
 ---
-# **Science Department**
-
 **Department Programmes**
 
 Our programmes are designed to provide a broad-based holistic Science education.
@@ -19,7 +17,7 @@ Objectives:
 
 Our department adopts the 5E Model of Inquiry in our lessons and programmes.
 
-**Lower Secondary Science Experiential Program (SEP)** 
+**Lower Secondary Science Experiential Program (SEP)**&nbsp;
 
 Objective: To engage students to a variety of experiences related to scientific concepts; to equip them with relevant scientific skillsets for inquiry to take place
 
@@ -27,36 +25,15 @@ The Lower Secondary Science Experiential Program (SEP) is a three-week programme
 
 The LSS Trail is a signature event of the SEP. It aims to engage our Lower Secondary students in real-world contexts.
 
-Students will engage in Place-Based Inquiry Learning in Bishan-Ang Mo Kio Park, where they will demonstrate the Science Process Skills learnt during the SEP lessons with their teachers. 
+Students will engage in Place-Based Inquiry Learning in Bishan-Ang Mo Kio Park, where they will demonstrate the Science Process Skills learnt during the SEP lessons with their teachers.&nbsp;
 
 **_Please refer to the attached photos._**
 
 **Science Enrichment (Science Centre Programmes)**
 
-Students are actively encouraged by their subject teachers to take part in competitions and projects organized by the Singapore Science Centre. 
+Students are actively encouraged by their subject teachers to take part in competitions and projects organized by the Singapore Science Centre.&nbsp;
 
 Our students signed up for the Youth Science Ambassador project in 2019 and the Young Sustainability Champion programme in 2020 and 2021. Through the programme, they are mentored by our teachers and educators from the Singapore Science Centre on project management, global awareness and embark on tasks to raise awareness about sustainability.
 
-![](/images/SEP-Science-Trail-1.jpeg)
-Science Experience Programme – Science Trail (Photos were taken before COVID-19)
-
-![](/images/SEP-Science-Trail-2.jpeg)
-Science Experience Programme – Science Trail (Photos were taken before COVID-19)
-
-![](/images/SEP-Science-Trail-3.jpeg)
-Science Experience Programme – Science Trail (Photos were taken before COVID-19)
-
-![](/images/SEP-Science-Trail-4.jpeg)
-Science Experience Programme – Science Trail (Photos were taken before COVID-19)
-
-![](/images/SEP-2021-1-scaled.jpg)
-Science Experience Programme 2021 – Making a pledge to conserve biodiversity
-
-![](/images/SEP-2021-2-scaled.jpg)
-Science Experience Programme 2021 – Making a pledge to conserve biodiversity
-
-![](/images/SEP-2021-3-scaled.jpg)
-Science Experience Programme 2021 – Testing water quality from the school pond
-
-![](/images/SEP-2021-4-scaled.jpg)
-Science Experience Programme 2021 – Understanding biodiversity of our nearby parks (Exhibition by NParks)
+**Photo Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5ZmMiaT_VZ-C4BxE0AKy2YCbeYfr0YJg2FR4bC8_n1eSdKADHmnz3LlsrUi4FNiQKOCZoDGBEmkh-/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" height="569" width="960" allowfullscreen="true"></iframe>

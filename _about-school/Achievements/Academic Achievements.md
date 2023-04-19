@@ -4,7 +4,7 @@ permalink: /about-school/achievements/academic-acheivements/
 description: ""
 third_nav_title: Achievements
 ---
-<h1><b>Academic Achievements</b></h1>
+
 
 <ul class="jekyllcodex_accordion">
 	

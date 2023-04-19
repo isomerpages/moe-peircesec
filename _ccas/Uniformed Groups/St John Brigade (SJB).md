@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-st-john
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **St. John Brigade (SJB)**
+
 
 St John Brigade is a CCA that encourages cadets to perform works of humanity and charity in serving the society. St John cadets will be trained in lifesaving skills so as to serve humankind by relieving pain and suffering, and provide assistance in emergencies.
 

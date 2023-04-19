@@ -4,7 +4,7 @@ permalink: /about-school/staff/form-teachers/
 third_nav_title: Staff
 description: ""
 ---
-# **Form Teachers**
+
 
 | Class | FT | FT |
 | --- | --- | --- |
@@ -31,4 +31,4 @@ description: ""
 | 4 R(espect) | Mdm Ng Yee Lee | Mr Ng Bing Fu | 
 | 4 C(are) | Mr Kan Cheng Mun | Mdm Kavitha | 
 | 4 Em(pathy) | Mdm Jasmine Yap | Mdm Lam Tze Kim | 
-| 5 A | Ms Nai Chheu Yee (ST) | Mr Royston Tang | 
+| 5 A | Ms Nai Chheu Yee (ST) | Mr Royston Tang |

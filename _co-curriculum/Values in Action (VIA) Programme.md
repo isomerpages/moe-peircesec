@@ -3,41 +3,40 @@ title: Values in Action (VIA) Programme
 permalink: /co-curriculum/values-in-action-via-programme/
 description: ""
 ---
-# **Values in Action (VIA)**
 
-**VIA Framework****:** 
 
-In Peirce, we use the tree root system (i.e. level of rootedness) as our VIA framework. All Peirceans are like tree saplings yearning to grow and be nurtured. With the right nutrients – tender loving care and guidance – the tree saplings will grow to be firmly rooted to the ground and bring benefits to their environment (community). 
+**VIA Framework****:**&nbsp;
 
-**VIA Approach**: 
+In Peirce, we use the tree root system (i.e. level of rootedness) as our VIA framework. All Peirceans are like tree saplings yearning to grow and be nurtured. With the right nutrients – tender loving care and guidance – the tree saplings will grow to be firmly rooted to the ground and bring benefits to their environment (community).&nbsp;
+
+**VIA Approach**:&nbsp;
 
 To grow and deepen the roots, we use the “Heart-Mind-Act” approach:
 
-1.  Growing the Heart – To heighten Peirceans’ sense of empathy as they put others before self and take ownership of our environment. 
-2.  Growing the Mind – To nurture Peirceans to perceive everyday problems as opportunities and ideate solutions creatively using Design Thinking. 
-3.  Growing the Act – To provide opportunities for Peirceans to put values into action and be a change maker through serving the community.
+1.  Growing the Heart – To heighten Peirceans’ sense of empathy as they put others before self and take ownership of our environment.&nbsp;
+2.  Growing the Mind –&nbsp;To nurture Peirceans to perceive everyday problems as opportunities and ideate solutions creatively using Design Thinking.&nbsp;
+3.  Growing the Act –&nbsp;To provide opportunities for Peirceans to put values into action and be a change maker through serving the community.
 
-**VIA Programme**: 
+**VIA Programme**:&nbsp;
 
-Our school’s VIA programme promotes active citizenry by involving our Secondary 1 & 2 students in a 30-week programme with the following VIA themes: 
+Our school’s VIA programme promotes active citizenry by involving our Secondary 1 &amp; 2 students in a 30-week programme with the following VIA themes:&nbsp;
 
 1.  Rooted to School Programme (Sec 1)
-2.  Rooted to Community & Environment Programme (Sec 2)
+2.  Rooted to Community &amp; Environment Programme (Sec 2)
 
-At Upper Secondary, students expand their scope of service to other Voluntary Welfare Organisations (VWOs) through student-initiated VIA and advocacy projects, with a focus on elderly needs and care.  
+At Upper Secondary, students expand their scope of service to other Voluntary Welfare Organisations (VWOs) through student-initiated VIA and advocacy projects, with a focus on elderly needs and care.&nbsp;&nbsp;
 
 Our Secondary 1 students attend the Design Thinking Workshop to learn the problem solving thinking process which they will apply when looking for ideas and solutions to improve the school environment.
 
 
-<img src="/images/Photo-1-13-300x225.jpg" 
-     style="width:40%">
+<img src="/images/Photo-1-13-300x225.jpg" style="width:40%">
 <center>Students working in teams to solve a problem  
 during the Design Thinking Workshop</center>
 
 
 
 
-They take ownership of their school environment through improving and cleaning an assigned school area (e.g. canteen, garden, toilets, classrooms, Indoor Sports Hall and study area).  Through these experiences, we hope they take pride in their school environment and appreciate the hard work of those involved in keeping the school clean and pleasant.
+They take ownership of their school environment through improving and cleaning an assigned school area (e.g. canteen, garden, toilets, classrooms, Indoor Sports Hall and study area).&nbsp; Through these experiences, we hope they take pride in their school environment and appreciate the hard work of those involved in keeping the school clean and pleasant.
 
 ![](/images/Photo-2-11.jpg)
 Students decorate lockers with pictures to add vibrancy to the classroom
@@ -84,7 +83,7 @@ Students interacting with the elderly through games at Ang Mo Kio Senior Activit
 Finally, our Secondary 4 and 5 students do their part with personalised hampers and greeting cards for seniors from Ang Mo Kio Senior Activity Centre (SAC).
 
 ![](/images/Photo-14-3-scaled.jpg)
-Personalized hampers & greeting Cards
+Personalized hampers &amp; greeting Cards
 
 
 ![](/images/Photo-15-2-scaled.jpg)

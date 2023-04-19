@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-rugby/
 description: ""
 third_nav_title: Sports
 ---
-# **Rugby**
+
 
 Peirce Rugby team’s vision is to train the members to rise above challenges. The team often aims to stretch each member’s potential in and out of the field through teamwork and camaraderie. 
 
@@ -50,4 +50,3 @@ Going for the try line!
 
 ![](/images/Photo-1-4.jpeg)
 Protecting our boys till the every end
-

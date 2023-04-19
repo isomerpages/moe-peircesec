@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# **National Cadet Corps (NCC)**
+
 
 Peirce NCC (Land) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Our goal is to provide the cadets with a platform to develop holistically: 
 
