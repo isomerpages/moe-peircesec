@@ -17,7 +17,7 @@ The counselling team in Peirce Secondary School believes in supporting our stude
 
 Talks such as Stress Management for Examinations, Healthy Communication, and Social Etiquette skills are done for the general student population, and small psycho-educational groups are conducted for targeted clients. Small groups include Breaking Free from undesirable behaviours, and Anxiety Management skills that further explored helpful strategies. Students who experienced a transition within their families were empowered with self-management skills from a well-known Rainbows Programme that the counselling team conducted in-house.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTXwPbfVGwsb_00cTaFJqOhIdetvTQM0j8PBGB2sWe9V48NvPcAUZ6m5aFVUc52XsvqEdT8FUrfOGDr/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTXwPbfVGwsb_00cTaFJqOhIdetvTQM0j8PBGB2sWe9V48NvPcAUZ6m5aFVUc52XsvqEdT8FUrfOGDr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 #### Learning and Behavioural Support
@@ -76,23 +76,7 @@ _Here are some of the activities/games you can find in the room:_
 *   Racquet games
 *   Chess.. and many more
 
-
-![](/images/Photo-3-12.jpg)
-Warm and Inviting place for students to chill and relax
-
-![](/images/Photo-12-5.jpg)
-Baking Event
-
-![](/images/Photo-7-7.jpg)
-Let’s play…Carrom!
-
-![](/images/Photo-6-7.jpg)
-Smiles over Foosball
-
-![](/images/PHoto-2-12.jpg)
-Warm and Inviting place for students to chill and relax
-
-(uploaded 5/19 images)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5UP-mHr2oYHK8JdTxiF7lLOXAh7mVyNwrP0cP-dvaftBSpRh-9nimLUdoRqX6BVzR8vGcNMXdZZ9P/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ## GEAR-UP (Guiding &amp; Empowering Students for Affiliation &amp; Resilience to Unlock their Potential)
 
