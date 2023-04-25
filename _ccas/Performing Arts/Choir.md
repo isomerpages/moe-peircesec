@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 **Learning Outcomes**
 
 *   To nurture a lifelong love for music of various genres
@@ -49,17 +47,4 @@ Thursday: 3:30 – 6:00 p.m.
 
 ### Photos
 
-![](/images/Photo-10-4.jpg)
-Moments before our 2017 Singapore Show Choir Festival (B-dazzled!) performance
-
-![](/images/Photo-9-4-scaled.jpg)
-Performing at the 2018 Singapore Show Choir Schools Exchange
-
-![](/images/Photo-8-4.jpg)
-2018 Singapore Show Choir Festival (B-dazzled!) performance
-
-![](/images/Photo-7-5.jpg)
-Last practice before the 2019 Singapore Show Choir Festival (B-dazzled!) performance
-
-![](/images/Photo-6-5.jpg)
-2019 Singapore Show Choir Festival (B-dazzled!) performance
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSj79msn39SavCIlZMfEYvifZNEpu_eVhkzn4zhXOcZh64JytgAQ-Lj3T6tWwpzHwSSQTlBI8BpR7BZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
