@@ -4,12 +4,10 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-Peirce NCC (Land) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Our goal is to provide the cadets with a platform to develop holistically: 
+Peirce NCC (Land) aims to nurture inspiring leaders and committed citizens through fun, adventurous and military-related activities. Our goal is to provide the cadets with a platform to develop holistically:&nbsp;
 
 *   physically through regular physical trainings and games
-*   mentally through camps and foot drills 
+*   mentally through camps and foot drills&nbsp;
 *   learning the importance of having EQ (Emotional Quotient) through interaction with fellow cadets and officers.
 
 **The NCC Pledge**   
@@ -61,7 +59,7 @@ The unit works in line with the mission and vision of HQ NCC and hope to develop
 **Our Achievements**
 
 *   Best Unit Competition :  
-    Silver Award in 2016 & 2017, 2021  
+    Silver Award in 2016 &amp; 2017, 2021&nbsp;&nbsp;
 
 Distinction in 2018, 2019
 
@@ -84,32 +82,4 @@ Precision Drill Squad Competition
 
 ### Photos
 
-![](/images/Photo-1-1-scaled.jpg)
-Figuring out outdoor cooking
-
-![](/images/Photo-2-1-scaled.jpg)
-Getting ready for an barbeque in the mountains of Hong Kong
-
-![](/images/Photo-3-1-scaled.jpg)
-Values-In-Action beautifying the school garden
-
-![](/images/Photo-4-2-scaled.jpg)
-Cadets practicing movement with their rifles
-
-![](/images/Photo-5-2-scaled.jpg)
-Values-In-Action cleaning of Coney Island
-
-![](/images/Photo-6-2-scaled.jpg)
-NCC mascots in camouflage gear for Open House
-
-![](/images/Photo-7-2-scaled.jpg)
-Cadets summiting Mount Ophir in Malacca, Malaysia
-
-![](/images/Photo-8-1-scaled.jpg)
-Overcoming high-element during Camp FORGE
-
-![](/images/Photo-9-1-scaled.jpg)
-Overcoming high-element during Camp FORGE
-
-![](/images/Photo-10-1-scaled.jpg)
-Learning how to shoot with bow and arrow during Camp FORGE
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVo867M2IoNphbmp9WF2k_2IiyC3sv9jJvQjNEJvwhmYnsqyGFzcenLsWCOLAows6ZyfpYffIuqAZ5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
