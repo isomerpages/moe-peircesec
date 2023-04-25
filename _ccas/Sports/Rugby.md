@@ -4,9 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-rugby/
 description: ""
 third_nav_title: Sports
 ---
-
-
-Peirce Rugby team’s vision is to train the members to rise above challenges. The team often aims to stretch each member’s potential in and out of the field through teamwork and camaraderie. 
+Peirce Rugby team’s vision is to train the members to rise above challenges. The team often aims to stretch each member’s potential in and out of the field through teamwork and camaraderie.&nbsp;
 
 A strong emphasis placed on training hard, playing hard with resilience and looking out for one another while bringing each of the individualities together to move the team forward.
 
@@ -16,7 +14,7 @@ The trainings ensure that boys are in good physical condition as well as they ha
 
 They reap benefits from rugby training and playing; they build strength, increases bone capacity and boost cardiovascular performance.
 
-For the mental aspect, our boys build confidence and boost their self-esteem. Playing rugby also helps them to de-stress. 
+For the mental aspect, our boys build confidence and boost their self-esteem. Playing rugby also helps them to de-stress.&nbsp;
 
 The training sessions and games at the field have taught the boys to respect for their team mates, the opposition and the coach, teachers-in-charge and also the referee.
 
@@ -30,23 +28,4 @@ Training sessions are on Monday and Thursday and the timings are from 3.30 to 6 
 
 ### Photos
 
-![](/images/Photo-7-1.jpeg)
-Bouncing off ideas
-
-![](/images/Photo-6.jpeg)
-Reflection
-
-![](/images/Photo-5-1.jpeg)
-eCCA – theory before a workout
-
-![](/images/Photo-4-2.jpeg)
-Scouting for talents
-
-![](/images/Photo-3-3.jpeg)
-Take him down like a gentleman
-
-![](/images/Photo-2-4.jpeg)
-Going for the try line!
-
-![](/images/Photo-1-4.jpeg)
-Protecting our boys till the every end
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-n_W4cR1iNJ7pRB3RsQndnjtdQFNcP9Bqpy_AkT8tY4j1rcieyBWxJhV1Xgko01YQgG3RQ9OR5Tbd/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
