@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-nationa
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 **Teachers-in-charge**
 
 Ms Nurul Syakinah Binti Sahak ([nurul\_syakinah\_sahak@moe.edu.sg](mailto:nurul_syakinah_sahak@moe.edu.sg))
@@ -19,42 +17,8 @@ Ms Adelia Ng Meiyu ([adelia\_ng\_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.ed
 
 **CCA Training Day and Time**
 
-Monday:   3:00 to 6:00 p.m.
+Monday:&nbsp;&nbsp; 3:00 to 6:00 p.m.
 
 ### Photos
 
-![](/images/Photo-12-1.jpg)
-Bishan NPC CSSP Presentation Ceremony 2021
-
-![](/images/Photo-11-1.jpg)
-Bishan NPC Tik Tok Challenge Award Presentation Ceremony 2021
-
-![](/images/Photo-10-2-scaled.jpg)
-2021 Passing Out Parade
-
-![](/images/Photo-9-2-scaled.jpg)
-2020 Area 4 Campcraft Competition
-
-![](/images/Photo-8-2.jpg)
-2019 School Open House
-
-![](/images/Photo-7-3-scaled.jpg)
-2019 Inter-Unit Drill Competition
-
-![](/images/Photo-6-3.jpg)
-2019 NDP in Peirce
-
-![](/images/Photo-5-3.jpg)
-2019 1 Star Kayaking Course
-
-![](/images/Photo-4-3.jpg)
-PSS NPCC Commemorating 2019 NPCC Day
-
-![](/images/Photo-3-2.jpg)
-Area 4 Commemorating 2019 NPCC Day
-
-![](/images/Photo-2-2.jpg)
-2019 Sec 3 .22 Classification Shoot
-
-![](/images/Photo-1-2.jpg)
-2019 Adventure & Survival Camp
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFCF9fVeNBStiwIt439QSB1YDE9_IEm_LAck-otLWK0WjZmstkwX8q4VnhIJG9g-wmUcofqVOWeIUY/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
