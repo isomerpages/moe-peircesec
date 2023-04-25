@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 **Learning Outcomes**
 
 *   To build character and leadership, developing individuals who are self-reliant, supportive, responsible and committed.
@@ -37,7 +35,7 @@ Frank Cooper Sands Award (Gold) for 2015, 2016, 2017, 2018, 2019
 
 Ms Kimberley Ong ([kimberley\_ong\_sher\_min@moe.edu.sg](http://kimberley_ong_sher_min@moe.edu.sg/))
 
-Miss Sim Ying Xuan ([sim_ying_xuan@moe.edu.sg](mailto:sim_ying_xuan@moe.edu.sg)) 
+Miss Sim Ying Xuan ([sim_ying_xuan@moe.edu.sg](mailto:sim_ying_xuan@moe.edu.sg))&nbsp;
 
 Mdm Joscelyn Lee ([lee\_hwee\_lin\_joscelyn@moe.edu.sg](mailto:lee_hwee_lin_joscelyn@moe.edu.sg))
 
@@ -53,29 +51,4 @@ Friday: 12:40 to 2.00 p.m. (for Patrol Leader Council)
 
 #### Photos
 
-![](/images/Bicentennial-Scout-Trek.jpg)
-We went for a hike to Lower Peirce Reservoir to learn about the historical significance of the place as part of Singapore’s Bicentennial.
-
-![](/images/Chief-Commissioner-Award-Ceremony.jpg)
-We went for a hike to Lower Peirce Reservoir to learn about the historical significance of the place as part of Singapore’s Bicentennial.
-
-![](/images/Cooking-Competition.jpeg)
-Our Scouts took part in a combined Uniform Group overseas learning journey to Hong Kong in 2018
-
-![](/images/First-Aid-Course.jpeg)
-Scouts Reciting the Scout Promise to signify the beginning of a unit activity.
-
-![](/images/Hong-Kong-Trip.jpg)
-South Area orienteering competition at Singapore Botanical Gardens.
-
-![](/images/Orienteering-Competition.jpg)
-Scouts taking part in South Area cooking competition
-
-![](/images/Orienteering-in-Peirce.jpeg)
-Scouts taking part in inter-patrol orienteering competition organised by Scout Teachers from Peirce Secondary School
-
-![](/images/Scout-Promise.jpg)
-Scouts taking part in First Aid Course
-
-![](/images/Total-Defence.jpeg)
-Scouts sharing about how they can contribute to Total Defence
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQj0ChEP3A72-VvGgeF7XSXAzDKUdjRlFAsqV7PZ8WPDz7NbMwHPkf9m9ABudokNXBexqViRl8irIs1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

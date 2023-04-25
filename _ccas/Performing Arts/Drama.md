@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 **Learning Outcomes**
 
 **KEY UNDERSTANDING:** _Students will understand…_
@@ -51,8 +49,7 @@ Thursdays: 3:30 – 5:30 p.m.
 
 ### Photos
 
-![](/images/Picture-1.jpg)
-CCA Selection Day
+
 
 ![](/images/Picture-1-2.jpg)
 CCA Selection Day

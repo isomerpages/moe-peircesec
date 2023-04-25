@@ -4,9 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/clubs-infocomm-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
-Infocomm Club aims to groom confident and savvy knowledge-based workers for the 21st century. We provide Infocomm talent development opportunities via club activities. We also develop students' creative and entrepreneurial dare through application of Infocomm skills in school and community. We hope that students will be able to make good use of technology in tasks assigned. 
+Infocomm Club aims to groom confident and savvy knowledge-based workers for the 21st century. We provide Infocomm talent development opportunities via club activities. We also develop students' creative and entrepreneurial dare through application of Infocomm skills in school and community. We hope that students will be able to make good use of technology in tasks assigned.&nbsp;
 
 **Learning Outcomes**  
 • To learn basic photography/videography skill  
@@ -16,7 +14,7 @@ Infocomm Club aims to groom confident and savvy knowledge-based workers for the 
 • To develop students' creative and entrepreneurial dare through application of Infocomm skills in school
 
 **Key Events**  
-• ‘Our Schools, Our Stories’ Photo & Video Contest  
+• ‘Our Schools, Our Stories’ Photo &amp; Video Contest  
 • School events: CNY and Teachers’ Day celebrations, Open House, Speech Day and Sec 1 Orientation
 
 **Teachers-in-charge**  
@@ -28,14 +26,4 @@ Tuesday: 3:30 p.m. to 5:30 p.m.
 
 #### Photos
 
-![](/images/General-Office-PA-system.jpeg)
-
-![](/images/hall-control-room.jpeg)
-
-![](/images/PT-control-room.jpeg)
-
-![](/images/senior-teach-junior-coil-wire.jpeg)
-
-![](/images/take-photo-2.jpeg)
-
-![](/images/take-photo.jpeg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS4X8b3otqtF8oKkJt65VWYtbwJDMWZw9jB3hbTyZCWN9rLMyXE89eMdX5qx3qo5bAlkvnPdXH7zV4D/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

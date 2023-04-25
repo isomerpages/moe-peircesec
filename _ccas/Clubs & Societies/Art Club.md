@@ -4,13 +4,11 @@ permalink: /co-curriculum/co-curricular-activities-ccas/clubs-art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-
 **Learning Outcomes**
 
-The Art Club aims to cultivate a strong interest in the visual arts in our students to undertake challenging and meaningful Visual Arts activities. Through VIA (Values in Action) projects, art competitions, art workshops and learning journeys, students gain exposure and awareness of social issues and the visual arts scene in Singapore. 
+The Art Club aims to cultivate a strong interest in the visual arts in our students to undertake challenging and meaningful Visual Arts activities. Through VIA (Values in Action) projects, art competitions, art workshops and learning journeys, students gain exposure and awareness of social issues and the visual arts scene in Singapore.&nbsp;
 
-Students are encouraged to experiment with a plethora of materials and mediums to explore their thoughts, feelings and ideas, and develop skills to make critical judgements about artworks and art practices through the study of visual arts. Collaborative art-making also encourages bonding amongst our members and provides a safe space for our students to explore, experiment and create art together. 
+Students are encouraged to experiment with a plethora of materials and mediums to explore their thoughts, feelings and ideas, and develop skills to make critical judgements about artworks and art practices through the study of visual arts. Collaborative art-making also encourages bonding amongst our members and provides a safe space for our students to explore, experiment and create art together.&nbsp;
 
 Some of our art activities include
 
@@ -36,36 +34,8 @@ Mrs Nettie Viknesh ([nettie\_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg))
 
 **CCA Day and Time**
 
-Tuesday: 3:30 pm to 5:30 pm.
+Tuesday:&nbsp;3:30 pm to 5:30 pm.
 
 ### Photos
 
-![](/images/Photo-1-SYF-Art-exhibition-2020-sculpey-clay-scaled.jpg)
-SYF Art Exhibition 2020 Super Sculpey clay
-
-![](/images/Photo-2-SGIOCC-Silver-Award-Athena-Tong-scaled.jpeg)
-Singapore International Original Comics Competition Silver Award “Foodilicious”, Watercolour Illustration Artist : Athena Tong
-
-![](/images/Photo-3-Acrylic-Liquid-Pour-scaled.jpeg)
-Having fun with Acrylic Liquid Pour
-
-![](/images/Photo-4-Printmaking-Monoprint-scaled.jpg)
-Printmaking – Monoprinting
-
-![](/images/Photo-5-Printmaking-Lino-Printing-Process-scaled.jpg)
-Printmaking - Lino Printing Process
-
-![](/images/Photo-6-Printmaking-Linoprint-scaled.jpg)
-Printmaking - Linoprint
-
-![](/images/Photo-7-Stop-Motion-Animation-art-club.jpg)
-Stop Motion Animation
-
-![](/images/Photo-8-Acrylic-Painting-Practice.jpg)
-Acrylic Painting Practice
-
-![](/images/Photo-9-VIA-with-SPCA-scaled.jpg)
-Values in Action project Crafting dog and cat toys for SPCA.
-
-![](/images/Photo-10-Pixel-Art-GIFs-using-phone-apps.gif)
-Values in Action project Crafting dog and cat toys for SPCA.
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3Xsatst_9rKv484XtYpc4I5VwSP4QEdiGEl22XP4aTRJlNI-ivbASNaw3uIX8hJcpq6IvsbQZQ7cf/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

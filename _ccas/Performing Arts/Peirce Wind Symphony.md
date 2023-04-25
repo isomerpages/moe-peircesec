@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-peirce-w
 description: ""
 third_nav_title: Performing Arts
 ---
-
-
 ###### Teachers-in-charge:
 
 | Name | Email Address |
@@ -47,17 +45,4 @@ Band students should be able to
 
 ### Photos
 
-![](/images/WBAS-Youth-Arts-Conference-2019.jpeg)
-WBAS Youth Arts Conference 2019
-
-![](/images/Talent-Scouting-2020.jpg)
-Talent Scouting 2020
-
-![](/images/Talent-Scouting-2020-2.jpg)
-Talent Scouting 2020 2
-
-![](/images/Sec-1-CCA-Talent-Scouting-2019-scaled.jpg)
-Sec 1 CCA Talent Scouting 2019
-
-![](/images/Sec-1-CCA-Talent-Scouting-2019-2-scaled.jpg)
-Sec 1 CCA Talent Scouting 2019 2
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRISXWzBB3-twpTXlyZ8Jl4E49quJGvUO3Spl9i0OxVidUgZm_G4X7fl6MHhidvvrcVk70aEEyKsFc/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
