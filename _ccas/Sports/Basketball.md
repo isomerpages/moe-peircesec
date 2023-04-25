@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-basketball/
 description: ""
 third_nav_title: Sports
 ---
-
-
 **Learning Outcomes**
 
 *   To develop in players strong technical and tactical foundation in basketball
@@ -35,22 +33,4 @@ Friday: 2:30 p.m.to 5:00 p.m.
 
 ### Photos
 
-![](/images/B-Boys-South-Zone-Competition_1.jpeg)
-
-![](/images/B-Boys-South-Zone-Competition_3.jpeg)
-
-![](/images/B-Boys-South-Zone-Competition_4.jpeg)
-
-![](/images/B-Boys-South-Zone-Competition_5.jpeg)
-
-![](/images/C-Boys-Friendly-Match_1.jpeg)
-
-![](/images/C-Boys-Friendly-Match_2.jpeg)
-
-![](/images/B-Boys-South-Zone-Competition_2.jpeg)
-
-![](/images/C-Boys-Friendly-Match_3.jpeg)
-
-![](/images/C-Boys-Friendly-Match_4.jpeg)
-
-![](/images/Sec-4-Farewell.jpeg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfcGIM3XvJQfmflIW9MpDcM9nA1WMDuX6O4nm9JYfANEzV44E97qd1q2baDaKTxLn4FRmYp2_uimLs/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
