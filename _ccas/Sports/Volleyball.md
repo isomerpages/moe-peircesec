@@ -4,9 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-volleyball/
 description: ""
 third_nav_title: Sports
 ---
-
-
-The Volleyball team trains and plays hard twice a week (either in school or online) under the expert hands of Mr Ho, the coach.  The team has also participated in the B Division Zonal Competition, tapping on every possible opportunity to further hone our skills and achieve high standards of performance.  We would like our members to enhance volleyball skill mastery through comprehensive and rigorous training.  Through the intensive programme, the students would have the passion to excel and be imbued with a sense of responsibility.  Participation in competitions allow the members to develop sportsmanship, resilience, self and social awareness – values that would stand them in good stead in future.  Lastly, we encourage team mates to treat each other with respect, courtesy and care.
+The Volleyball team trains and plays hard twice a week (either in school or online) under the expert hands of Mr Ho, the coach.&nbsp; The team has also participated in the B Division Zonal Competition, tapping on every possible opportunity to further hone our skills and achieve high standards of performance.&nbsp; We would like our members to enhance volleyball skill mastery through comprehensive and rigorous training.&nbsp; Through the intensive programme, the students would have the passion to excel and be imbued with a sense of responsibility.&nbsp; Participation in competitions allow the members to develop sportsmanship, resilience, self and social awareness – values that would stand them in good stead in future.&nbsp; Lastly, we encourage team mates to treat each other with respect, courtesy and care.
 
 **Learning Outcomes:**
 
@@ -34,18 +32,4 @@ Thursday: 3:30 to 6 p.m.
 
 ### Photos
 
-![](/images/Photo-2-1.jpg)
-Display of Sportsmanship
-
-![](/images/Photo-3-1.jpg)
-Intensive Training
-
-![](/images/Photo-4-1-1.jpg)
-Resilience and Independence
-
-![](/images/Photo-1-7.jpg)
-Active Participation in Competitions
-
-![](/images/Pic-1.jpeg)
-
-![](/images/Pic-2.jpeg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpIXMZHUg9RfT4L4Mm0aJPpR9NguswjzkBcF7KvzWDsGEG1_KkGWrvJ9aJEUZfRxMqyASWWd7-ERoa/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
