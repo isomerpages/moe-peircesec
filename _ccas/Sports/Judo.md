@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-ccas/sports-judo/
 description: ""
 third_nav_title: Sports
 ---
-
-
 **Learning outcomes**
 
 *   Become more self-confident, improve self-esteem and increased sense of personal security.
@@ -19,14 +17,14 @@ third_nav_title: Sports
 
 **Achievements**
 
-*   2018- Individual B Div (Boys) Silver x1
-*   2019- Individual B Div (Girls) Silver x1 and Bronze x2
+*   2018-&nbsp;Individual B Div (Boys) Silver x1
+*   2019-&nbsp;Individual B Div (Girls) Silver x1 and Bronze x2
 *   Team- B Division (Girls) Bronze x1
 *   Individual C Div (Girls) Silver x1 and Bronze x1
-*   Team- C Div (Girls) 4th position
-*   2022- Individual B Div (Girls) Bronze x1
-*   2022- B Div (Girls) 4th position
-*   2022- C Div (Girls) Bronze x2
+*   Team- C Div (Girls) 4th&nbsp;position
+*   2022-&nbsp;Individual B Div (Girls) Bronze x1
+*   2022- B&nbsp;Div (Girls) 4th&nbsp;position
+*   2022-&nbsp;C Div (Girls) Bronze x2
 
 **Teachers-in-Charge:**
 
@@ -45,17 +43,4 @@ Monday: 3:30 to 5:30 p.m.
 Thursday: 3:30 to 5:30 p.m.
 
 ### Photos
-![](/images/Photo-4.png)
-
-![](/images/Photo-1-6.jpg)
-Physical training session
-
-![](/images/Photo-5-7-scaled.jpg)
-Highly skilled Judoka performing forward break fall with stacked human obstacle
-
-
-![](/images/Photo-3-6.jpg)
-Judokas practicing their throwing technique
-
-![](/images/Photo-2-6.jpg)
-Sparing during a training session
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTm-nZLMH3nzoOSXbug8kHv_r3N_17U2NWON0YiJnMG_oCNbaylSkxhYtGmU6_RSghjIBAyn2xouZdW/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
