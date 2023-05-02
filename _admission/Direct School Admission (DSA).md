@@ -46,7 +46,7 @@ Shortlisted candidates will attend an in-person interview and be assessed on the
 <div style="background-color: #999999;"><b>B. Application Procedures</b></div>
 
 Below are some information on the centralised application process.<br>
-1\.  You may submit your application through the online DSA-Sec Portal from&nbsp;**5 May 2022, 11am to 1 June 2022, 3pm.**   For more details, please refer to MOE website –&nbsp;[moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
+1\.  You may submit your application through the online DSA-Sec Portal from&nbsp;**4 May 2023, 11am to 31 May 2023, 3pm.**   For more details, please refer to MOE website –&nbsp;[moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
 2\.  It is free-of-charge.  
 
