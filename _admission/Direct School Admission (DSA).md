@@ -16,11 +16,10 @@ Peirce Secondary School is providing experiences with the focus on:<br>
 
 The Uniformed Groups (UGs) in Peirce Secondary is an important part of the Peircean community where the total membership forms almost a fifth of the student population.&nbsp; Vibrant and energetic, we see Uniformed Groups as one of our pillars of character development and leadership education at Peirce.&nbsp; They provide experiences for all-round holistic development of Peirceans to achieve our vision of ‘Resilient Learners, Gracious Citizens’.
 
-Currently there are&nbsp;**four**&nbsp;uniformed groups in the school:
+There will be&nbsp;**three**&nbsp;uniformed groups in the school in 2024:
 *   National Cadet Corps (Land) - Boys
 *   National Police Cadet Corps
 *   Scouts
-*   St John Brigade (not taking in secondary 1 students from 2023 onwards)
 
 We are proud of the growth and development of our Uniformed Groups which have consistently attained good achievements all these years.
 
