@@ -3,8 +3,6 @@ title: PDLP
 permalink: /parents/pdlp/
 description: ""
 ---
-
-
 Our Approach to PDLP
 
 <img style="width:50%" src="/images/Approach-to-PDLP-300x228.png">
@@ -52,6 +50,7 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
     <label for="accordion9">Student Device Information Kit (Windows 2023)</label>
     <div>
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasT-ar0lCP-VZ5H4gwS6sA7OqUMDQ0nvQ0OVO7-FqSwVxnazCIFYQ6KBgKNZ1mw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+			Please click <a href="https://www.peircesec.moe.edu.sg/files/option_a.pdf">here</a> for the DMA Option A guide.
     </div>
 	</li>
 	<li>
