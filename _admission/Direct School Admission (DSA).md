@@ -32,6 +32,8 @@ A student leader in primary school, preferably in a Uniformed Group (although ot
 Is medically fit to participate in PE programme and outdoor activities.
 *   **Character**   
 A disciplined and confident student with a conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school reports.
+<br>
+
 **II. Deepening Reflection and Developing Critical Thinking Through Media**
 The Applied Learning Programme (ALP) in Peirce Secondary School facilitates students’ reflection on print and non-print materials they read and view, allowing them to connect with and respond to what they read and view personally and critically. Responding both in written and audio formats, the programme provides students an authentic learning platform to hone their writing and oral skills. Students also participate in peer critique where they learn to think critically and provide constructive feedback to their peers for improvements. Collaboration is conducted via e-platforms such as Padlet and Google Classroom, building not just the digital literacy of our students but also providing opportunities for them to blossom into collaborative learners and confident speakers.
 
