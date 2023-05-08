@@ -15,7 +15,7 @@ sections:
         first Principal.
       button: Learn More
       url: /about-school/history/
-      image: /images/Img-About_Scaled1.png
+      image: /images/about 2.jpg
       alt: Image alt text
   - infobar:
       title: Curriculum
@@ -42,7 +42,6 @@ sections:
         partnership to support our children in their education journey here.
       button: Learn More
       url: /parents/pdlp/
-      image: /images/Img-Parents_Scaled.png
       alt: Image alt text
   - infopic:
       title: Students
