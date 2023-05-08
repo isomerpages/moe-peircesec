@@ -43,7 +43,7 @@ sections:
       button: Learn More
       url: /parents/pdlp/
       alt: Image alt text
-      image: /images/Img-Parents_Scaled.png
+      image: /images/parents.jpeg
   - infopic:
       title: Students
       description: Learn how our holistic education encourages our students to learn,
