@@ -34,7 +34,7 @@ sections:
       description: Join us through DSA
       button: Learn More
       url: /admissions/direct-school-admission-dsa/
-      image: /images/Picture1.png
+      image: /images/admission (team work 3).jpeg
       alt: Image alt text
   - infopic:
       title: Parents
@@ -50,6 +50,6 @@ sections:
         develop and blossom.
       button: Learn More
       url: /students/e-student-handbook/
-      image: /images/Img-Student-1_Scaled.png
+      image: /images/students 6.jpg
       alt: Image alt text
 ---
