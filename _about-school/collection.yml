@@ -2,6 +2,7 @@ collections:
   about-school:
     output: true
     order:
+      - Canteen Stall Application.md
       - Principal's Message.md
       - Mission & Vision.md
       - History.md
