@@ -15,7 +15,7 @@ sections:
         first Principal.
       button: Learn More
       url: /about-school/history/
-      image: /images/Img-About_Scaled1.png
+      image: /images/about 2.jpg
       alt: Image alt text
   - infobar:
       title: Curriculum
@@ -34,7 +34,7 @@ sections:
       description: Join us through DSA
       button: Learn More
       url: /admissions/direct-school-admission-dsa/
-      image: /images/Picture1.png
+      image: /images/admission (team work 3).jpeg
       alt: Image alt text
   - infopic:
       title: Parents
@@ -42,14 +42,14 @@ sections:
         partnership to support our children in their education journey here.
       button: Learn More
       url: /parents/pdlp/
-      image: /images/Img-Parents_Scaled.png
       alt: Image alt text
+      image: /images/parents_v2.jpeg
   - infopic:
       title: Students
       description: Learn how our holistic education encourages our students to learn,
         develop and blossom.
       button: Learn More
       url: /students/e-student-handbook/
-      image: /images/Img-Student-1_Scaled.png
+      image: /images/students 6.jpg
       alt: Image alt text
 ---
