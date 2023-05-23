@@ -34,7 +34,7 @@ sections:
       description: Join us through DSA
       button: Learn More
       url: /admissions/direct-school-admission-dsa/
-      image: /images/admission (team work 3).jpeg
+      image: /images/admission 4.jpeg
       alt: Image alt text
   - infopic:
       title: Parents
