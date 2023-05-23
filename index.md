@@ -34,7 +34,7 @@ sections:
       description: Join us through DSA
       button: Learn More
       url: /admissions/direct-school-admission-dsa/
-      image: /images/admission (team work 3).jpeg
+      image: /images/admission 4.jpeg
       alt: Image alt text
   - infopic:
       title: Parents
@@ -43,13 +43,13 @@ sections:
       button: Learn More
       url: /parents/pdlp/
       alt: Image alt text
-      image: /images/parents_v2.jpeg
+      image: /images/parentsv2.jpg
   - infopic:
       title: Students
       description: Learn how our holistic education encourages our students to learn,
         develop and blossom.
       button: Learn More
       url: /students/e-student-handbook/
-      image: /images/students 6.jpg
+      image: /images/students 8.jpg
       alt: Image alt text
 ---
