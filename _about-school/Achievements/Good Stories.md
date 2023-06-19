@@ -61,4 +61,15 @@ I intend to become a social worker upon my graduation from university. If there 
     </p>
 </div>
 </li>
+	
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">“Love What You Teach, but Love Who You Teach More”… the rapport between teachers and students is key in nurturing budding learners.</label>
+<div>
+      <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms Khairiah, masquerade as a student using the latest text lingo in a gameshow, highlighting the strong connection teachers and students share nowadays.</p>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6hfpTcD7c3U" height="315" width="560"></iframe>
+	
+</div>
+</li>
 	</ul>
