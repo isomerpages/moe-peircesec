@@ -27,8 +27,8 @@ third_nav_title: Achievements
 
 <img src="/images/Peirce-Sec-Amalia-Bte-Ariffin-scaled.jpg">
 <p>
-<b>Shining Bright at Peirce and Beyond**
-
+<b>Shining Bright at Peirce and Beyond
+<br>
 Former Student Amalia Bte Ariffin recently graduated from Nanyang Polytechnic with the top honour of her course – NCSS Gold Medal</b>
 	</p>
 	<p>
