@@ -4,8 +4,6 @@ permalink: /about-school/achievements/academic-acheivements/
 description: ""
 third_nav_title: Achievements
 ---
-
-
 <ul class="jekyllcodex_accordion">
 	
 <li>
@@ -29,17 +27,6 @@ third_nav_title: Achievements
 <p>We would like to congratulate our parents, teachers, counsellors, allied educators (LBS) and students for the good work done.</p>
 		 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSC_3VZDNTs-tMUkWgnlUSkRr_RQloXqhWOZsPK2JwAsBk3ruHyAcgo6aqrUqrtEA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 
-</div>
-</li>
-	
-	
- <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Singapore Junior Chemistry Olympiad 2022: Igniting Passion in our Young Scientists</label>
-<div>
-      <p>14 Secondary 4 students took part in 2022 Singapore Junior Chemistry Olympiad. This programme was mentally stimulating for the students, who rose up to the challenge and set the standard for future cohorts. Notably, Penghao not only qualified for Round 2 of the competition, but also garnered a Bronze medal. Congratulations to our fine ladies and gentlemen.</p>
-	 <p><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Certificate-Presentation-1536x1152.jpg"><br><img src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Participants-Actual-Day-1536x1152.jpg">
-    </p>
 </div>
 </li>
 	<li>

@@ -50,6 +50,6 @@ sections:
         develop and blossom.
       button: Learn More
       url: /students/e-student-handbook/
-      image: /images/students 8.jpg
+      image: /images/students.JPG
       alt: Image alt text
 ---
