@@ -68,8 +68,20 @@ I intend to become a social worker upon my graduation from university. If there 
 <div>
       <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms Khairiah, masquerade as a student using the latest text lingo in a gameshow, highlighting the strong connection teachers and students share nowadays.</p>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6hfpTcD7c3U" height="315" width="560"></iframe>
-	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6hfpTcD7c3U" height="315" width="560"></iframe>	
 </div>
 </li>
-	</ul>
+	
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Words to Pack for your Journey</label>
+<div>
+      <p>Our staff, Ms Khairiah Bte Hairoman, a recipient of the 2021 President's Award for Teachers, is featured in the video series by MOE, Words to Pack for your Journey. </p>
+	<p>In the video, Ms Khai encourages students who have been disappointed by their grades and, citing examples she has seen, assures them that life will unveil to them their strengths and talents. She also shares her personal journey in finding purpose in life.</p>
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wmfviwtDRLA" height="315" width="560"></iframe>
+
+</div>
+</li>	
+
+</ul>
