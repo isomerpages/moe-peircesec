@@ -51,7 +51,7 @@ description: ""
 <td style="width: 25%;"></td>
 <td style="width: 25%;"></td>
 <td style="width: 25%;"></td>
-<td style="width: 25%;"><a href="timetable5a.pdf">5 A</a></td>
+<td style="width: 25%;"><a href="/files/timetable5a.pdf">5 A</a></td>
 </tr>
 </tbody>
 </table>
