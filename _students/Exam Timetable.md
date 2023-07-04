@@ -3,8 +3,6 @@ title: Exam Timetable
 permalink: /students/exam-timetable/
 description: ""
 ---
-
-
 Please click on the respective streams for the exam schedules.
 
 <ul class="jekyllcodex_accordion">
