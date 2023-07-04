@@ -3,86 +3,21 @@ title: Exam Timetable
 permalink: /students/exam-timetable/
 description: ""
 ---
-
-
 Please click on the respective streams for the exam schedules.
 
 <ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Sec 1NT</label>
-    <div>
-      <p><img src="/images/2022-Sec-1NT-EOY-Exam-Timetable-updated-230822-2048x1578.jpg"></p>
-    </div>
-	</li>
-	  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Sec 1NA</label>
-    <div>
-      <p><img src="/images/2022-Sec-1NA-EOY-Exam-Timetable-updated-230822_Page_1.jpg"></p>
-    </div>
-	</li>
-		  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Sec 1E</label>
-    <div>
-      <p><img src="/images/2022-Sec-1-Express-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Sec 2NT</label>
-    <div>
-      <p><img src="/images/2022-Sec-2NT-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Sec 2NA</label>
-    <div>
-      <p><img src="/images/2022-Sec-2NA-EOY-Exam-Timetable-updated-230822.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Sec 2E</label>
-    <div>
-      <p><img src="/images/2022-Sec-2-Express-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Sec 3NT</label>
-    <div>
-      <p><img src="/images/2022-Sec-3NT-EOY-Exam-Timetable-updated-230822-scaled.jpg"></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">Sec 3NA</label>
-    <div>
-      <p><img src="/images/2022-Sec-3NA-EOY-Exam-Timetable-updated-230822.jpg"></p>
-    </div>
-	</li>
-				<li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">Sec 3E</label>
-    <div>
-      <p><img src="/images/2022-Sec-3-Express-EOY-Exam-Timetable-updated-230822.jpg"></p>
-    </div>
-	</li>
 				<li>
     <input type="checkbox" id="accordion10">
-    <label for="accordion10">Sec 4A</label>
+    <label for="accordion10">Sec 4NA</label>
     <div>
-      <p><img src="/images/2022-4A-MYE-Timetable-170322.jpg"></p>
+      <p><img src="/images/2023-4na-prelim-exam-timetable.png"></p>
     </div>
 	</li>
   <li>
     <input type="checkbox" id="accordion11">
-    <label for="accordion11">Sec 4E/5A</label>
+    <label for="accordion11">Sec 4NT</label>
     <div>
-			<p><img src="/images/2022-O-Prelim-Timetable-280722_Page_1.jpg"><img src="/images/2022-O-Prelim-Timetable-280722_Page_2.jpg"></p>
+			<p><img src="/images/2023-4nt-prelim-exam-timetable.png"></p>
     </div>
 	</li>
 	</ul>

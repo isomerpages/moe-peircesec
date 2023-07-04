@@ -4,9 +4,6 @@ permalink: /about-school/Staff/Staff-list/
 description: ""
 third_nav_title: Staff
 ---
-
-
-
 | Name 	| Designation 	| Email Address 	|
 |---	|---	|---	|
 | Mrs Betty Chow 	| Principal 	| [peirce_ss@moe.edu.sg](mailto:peirce_ss@moe.edu.sg) 	|
@@ -44,7 +41,7 @@ third_nav_title: Staff
 | Ms Galkisage Amanda P Fernando 	| Teacher 	| [amanda_fernando@moe.edu.sg](mailto:amanda_fernando@moe.edu.sg) 	|
 | Mdm Bai Meiqi 	| Teacher 	| [bai_meiqi@moe.edu.sg](mailto:bai_meiqi@moe.edu.sg) 	|
 | Ms Bhavana Thiagarajan 	| Teacher 	| [bhavana_thiagarajan@moe.edu.sg](mailto:bhavana_thiagarajan@moe.edu.sg) 	|
-| Ms Chai Hsueh Chi Michelle 	| Teacher 	| [chai_hsueh_chi_michelle@moe.edu.sg](mailto:chai_hsueh_chi_michelle@moe.edu.sg) 	|
+| Ms Tham Wing Kong 	| Teacher 	| [chai_hsueh_chi_michelle@moe.edu.sg](mailto:tham_wing_kong@moe.edu.sg) 	|
 | Mr Chan Jie Yong 	| Teacher 	| [chan_jie_yong@moe.edu.sg](mailto:chan_jie_yong@moe.edu.sg) 	|
 | Mr Chia Teck Hong 	| Teacher 	| [chia_teck_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg) 	|
 | Mr Chiz Poh Seng 	| Teacher 	| [chiz_poh_seng@moe.edu.sg](mailto:chiz_poh_seng@moe.edu.sg) 	|
@@ -100,7 +97,6 @@ third_nav_title: Staff
 | Mdm Robicka Bte Karim 	| CSO 	| - 	|
 | Mdm Shantti D/O Annamalai 	| CSO 	| - 	|
 | Ms Nur Khaizurah Binte Zainalabiddin 	| Laboratory Technician 	| - 	|
-| Mr Zulkifli Bin Jabal 	| Laboratory Technician 	| - 	|
 | Mdm Siti Saripah Binte Sanusi 	| EWI 	| - 	|
 | Mdm Chua Geok Lan 	| OSO 	| - 	|
 | Mdm Lee Mei Fong 	| OSO 	| - 	|
