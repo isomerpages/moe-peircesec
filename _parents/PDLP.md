@@ -43,6 +43,8 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
     <label for="accordion3">Student Device Information Kit</label>
     <div>
      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYDuzvGBs9aLnIT6QK-eZJ9ZMRN1c7Rt5Fnr5O-ZytZbQNO4USCJhpz4rD0pcWSA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
+			<br>
+Please click <a href="https://www.peircesec.moe.edu.sg/files/porc5-dma_parent_guide_for_option_a_chrome_devices.pdf">here</a> for the DMA Option A guide.
     </div>
 	</li>
 	 <li>
@@ -73,20 +75,6 @@ Please click <a href="https://www.peircesec.moe.edu.sg/files/option_a.pdf">here<
     <label for="accordion6"> Parent Handbook (II) on Learning with a PLD</label>
     <div>
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSaV2ibYy1NDdcVrXY2K4dSvfeiOv5eAzQ6daXkbmGtX7ljC2juQaLFZnaYk1h1qA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="397" height="591" allowfullscreen="true"></iframe>
-    </div>
-	</li>
-			<li>
-    <input id="accordion7" type="checkbox">
-    <label for="accordion7">DMA Parent Guide v2.0 - Default</label>
-    <div>
-      <p><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_01.png"><br><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_02.png"><br><img src="/images/DMA-Parent-Guide-v2-Default-Chrome-OS_Page_03.png">uploaded 3/16 images</p>
-    </div>
-	</li>
-	<li>
-    <input id="accordion8" type="checkbox">
-    <label for="accordion8">DMA Parent Guide v2.0 - Option B</label>
-    <div>
-      <p><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_1.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_2.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_3.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_4.png"><br><img src="/images/DMA-Parent-Guide-v2-Option-B-Chrome-OS_Page_5.png"></p>
     </div>
 	</li>
 	</ul>
