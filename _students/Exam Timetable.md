@@ -24,8 +24,8 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion12">
     <label for="accordion12">Sec 4E &amp; 5A</label>
     <div>
-      <p><img src="/images/olvl-tt1.jpg"></p>
-			<p><img src="/images/olvl-tt2.jpg"></p>
+      <p><img src="/images/olvl-tt1.JPG"></p>
+			<p><img src="/images/olvl-tt2.JPG"></p>
     </div>
 	</li>
 	</ul>
