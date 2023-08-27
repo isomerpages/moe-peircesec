@@ -11,6 +11,9 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
+          url: /parents/announcement/
+        - title: Updates
+          description: ""
           url: /about-school/acheivements/good-stories/
   - infopic:
       title: About
