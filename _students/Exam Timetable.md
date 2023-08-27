@@ -52,14 +52,14 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Sec 3NA</label>
     <div>
-      <p><img src="/images/eoy_3a.png"></p>
+      <p><img src="/images/eoy_3a_v2.png"></p>
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">Sec 3E</label>
     <div>
-      <p><img src="/images/eoy_3e.png"></p>
+      <p><img src="/images/eoy_3e_v2.png"></p>
     </div>
 	</li>
 	<li>
