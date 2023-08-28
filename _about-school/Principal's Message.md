@@ -3,7 +3,6 @@ title: Principal's Message
 permalink: /about-school/principals-message/
 description: ""
 ---
-
 <img src="/images/Yue-Fei-300x225.jpg" style="width:300px;height:200px;margin-left:15px;" align="right">
 
 When I first stepped into Peirce Secondary School, I saw a statue of army general Yue Fei and his mother outside the school foyer. Yue Fei was reminded by his mother to be responsible and contribute to his country dutifully, when she carved the words 精忠报国 on his back. Yue Fei went on to inspire many as a military strategist and courageous warrior.
