@@ -2,7 +2,7 @@
 title: Sec 2 Subject Options Exercise
 permalink: /parents/briefing-webinar-resources/sec-2-subject-options-exercise/
 description: ""
-third_nav_title: Briefing &amp; Webinar Resources
+third_nav_title: Briefing & Webinar Resources
 ---
 
 
