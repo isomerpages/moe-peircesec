@@ -27,8 +27,10 @@ sections:
   - infopic:
       title: Staff Learning Day 2023
       id: infopic
-      description: Click to view programme
-      button: Learn more
+      description: |-
+        6 November 2023 - 
+        Nurturing Future-Ready Learners
+      button: Click to view programme
       url: /about-school/staff-learning-day
       image: /images/staff at work.jpeg
       alt: Image alt text
