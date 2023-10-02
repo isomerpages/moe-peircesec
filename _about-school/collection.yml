@@ -2,7 +2,6 @@ collections:
   about-school:
     output: true
     order:
-      - Staff Learning Day 2023.md
       - Principal's Message.md
       - Mission & Vision.md
       - History.md
@@ -15,3 +14,4 @@ collections:
       - Staff/Staff List.md
       - Staff/Form Teachers.md
       - Canteen Stall Application.md
+      - Staff Learning Day 2023.md
