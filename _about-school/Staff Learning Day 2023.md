@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/sld%202023%20programme_v2.jpeg)
 
-# Concurrrent Sessions
+# Concurrent Sessions
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
