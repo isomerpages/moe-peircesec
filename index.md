@@ -24,16 +24,6 @@ sections:
       url: /about-school/history/
       image: /images/about 2.jpg
       alt: Image alt text
-  - infopic:
-      title: Staff Learning Day 2023
-      id: infopic
-      description: |-
-        6 November 2023 - 
-        Nurturing Future-Ready Learners
-      button: Click to view programme
-      url: /about-school/staff-learning-day
-      image: /images/staff at work.jpeg
-      alt: Image alt text
   - infobar:
       title: Curriculum
       description: We offer various curriculum and co-curriculum for our students.
