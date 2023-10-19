@@ -109,7 +109,7 @@ Highlights of Concurrent Sessions:
 			<p><img src="/images/design.jpg"></p>	
 			<p><span>Highlight: Data captured in Padlet and Knowledge Forum were used to analyse C&amp;T students’ thinking, how they learnt when they were involved in peer assessment to determine if peer assessment and scaffold had enhanced students’ metacognition.</span></p>
 				<ol start="3">
-<li>3.	English Language: <u>Examining Efficacy of Feedback Style for Summary Writing for Secondary 2 Express</u></li>
+<li>English Language: <u>Examining Efficacy of Feedback Style for Summary Writing for Secondary 2 Express</u></li>
 </ol>
 			<p><img src="/images/english.jpg"></p>	
 			<p><span>Highlight: The inquiry method employed is a variant of confirmation inquiry which seeks to affirm the value of peer feedback as opposed to self- evaluation on refining the summary writing process. Each class is split into two, with one solely pursuing self-evaluation/feedback while the other engages in peer evaluation/feedback in assessing the style of summary writing. It employs a modified checklist based on a simplified version of the SEAB rubrics. </span></p>
