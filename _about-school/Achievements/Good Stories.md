@@ -113,6 +113,32 @@ Highlights of Concurrent Sessions:
 </ol>
 			<p><img src="/images/english.jpg"></p>	
 			<p><span>Highlight: The inquiry method employed is a variant of confirmation inquiry which seeks to affirm the value of peer feedback as opposed to self- evaluation on refining the summary writing process. Each class is split into two, with one solely pursuing self-evaluation/feedback while the other engages in peer evaluation/feedback in assessing the style of summary writing. It employs a modified checklist based on a simplified version of the SEAB rubrics. </span></p>
+				<ol start="4">
+<li>History: <u>The Use of Rubrics in the Feedback Cycle for Source-Based Case Study Purpose Skill for Secondary 3 History Students 
+</u></li>
+</ol>
+			<p><img src="/images/history.jpg"></p>	
+			<p><span>Highlight: As students need to have clarity of what the SBQ skill entails, the History teachers allowed for peer and teacher feedback to have students to identify their gaps and monitor their understanding of the skill in this project. After which, students will adjust their own learning by using the rubrics and applying the learning from the feedback to check for understanding once more. </span></p>
+			<ol start="5">
+<li>Chinese Language: <u>Enhance Secondary 1 Students’ Writing Skills through Peer Evaluation</u></li>
+</ol>
+			<p><img src="/images/chinese.jpg"></p>	
+			<p><span>Highlight: In groups, students collaboratively wrote draft 1 based on the writing skills required on Google Doc. After completing draft 1, the teacher got students to highlight sentences which demonstrate the required writing skills taught. The teacher then led the class to understand the checklist on using the required writing skills in the appropriate way (tone, suitability of situation and choice of words). Students then looked at another group’s essay to assess them on the use and suitability of writing skills, based on a simplified rubrics and checklist. Students then completed draft 2 based on peer feedback. This is a very guided process of using peer feedback for a group of very weak students which leads to positive outcome. </span></p>
+			<ol start="6">
+<li>Mathematics: <u>Using Flowcharts for Self-Assessment to Build Metacognition</u></li>
+</ol>
+			<p><img src="/images/mathematics.jpg"></p>	
+			<p><span>Highlight: The intentional use of flowcharts and self and/or peer assessment in the Feed up – Feedback – Feed forward cycle would encourage students to be actively involved in assessment feedback, thus developing their competence in monitoring, evaluating, and improving their own learning and enhancing their capacities for lifelong learning.   </span></p>
+			<ol start="7">
+<li>Pathlight School:<u>Understanding the Learning and Behavioural Needs of Students with ASD Informs Decisions on Classroom Strategies to Improve Their Overall Classroom Engagement</u></li>
+</ol>
+			<p><img src="/images/pathlight.jpg"></p>	
+			<p><span>Highlight: The presentation provides actual classroom examples that have been developed with the understanding that Students with ASD have preferences and strengths we can leverage on to improve their engagement in the classroom. It has enabled us to deliver the MOE curriculum in our Mathematics and Science lessons, build our own efficacy to meet the needs of our students and more importantly, improve the students’ self-reflection and self-management. This in turn enables them to achieve their learning and behavioural goals.</span></p>
+			<ol start="8">
+<li>Physical Education: <u>Using ICT in Physical Education (PE)</u></li>
+</ol>
+			<p><img src="/images/physical.jpg"></p>	
+			<p><span>Highlight:  It was observed that students tend to forget the teaching cue and were not able to execute the correct technical skills during practice. The large space in which PE is being taught poses a challenge for PE teachers to provide feedback to all students within a teaching period. By taping on feedback and Kolb’s Cycle of Experiential Learning, students could become more reflective learners who take ownership of improving their own technical skills. </span></p>
     </div>
 	</li>
 </ul>
