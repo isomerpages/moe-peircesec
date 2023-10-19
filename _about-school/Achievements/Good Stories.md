@@ -83,5 +83,36 @@ I intend to become a social worker upon my graduation from university. If there 
 
 </div>
 </li>	
-
+<li>
+    <input id="accordion6" type="checkbox">
+    <label for="accordion6">Staff Learning Day</label>
+    <div>
+      <p>This is the third year we are organising our bi-annual Staff Learning Day since its inception in 2019. </p>
+			<p><b>The theme for 2023 is “Nurturing Future-Ready Learners”</b></p>
+			<p><img src="/images/staff_at_work.jpeg"></p>
+			<p><img src="/images/sld%202023%20programme_v2.jpeg"></p>
+			<p>We believe that to nurture our students to be future-ready, we need to enhance their ability to adjust their own <span style="background-color: #ffff00;">cognition and learning</span> and the <span style="color: #3366ff;">one of the most effective ways</span> to achieve this will be via<span style="color: #3366ff;"> the use of the</span> feedback loop.</p>
+<p>Be it self or peer feedback, feedback is one of the most important strategies of Formative Assessment, which emphasizes on giving students more autonomy to reflect on their learning, evaluate and make adjustment to their own learning. Thus, our Professional Learning Teams (PLTs) embarked on this journey to explore how to make use of self and/or peer assessment to strengthen students’ metacognition.</p>
+<p><span>For 2023 Staff Learning Day, each department has selected one Professional Learning Team to present and share their learning during the two concurrent sessions. <span style="color: #3366ff;">We are pleased to share the highlights of the concurrent sessions (see below).</span> To affirm and celebrate the learning and efforts by all teams, all PLT synopses including those of the non-presenting teams, will be housed in our Staff Learning Portal. Indeed, this Staff Learning Day is a testimonial of the rich learning of our staff and their efforts in bringing the learning of students to a new level while leveraging on the use of feedback. </span></p>
+			<p><span>For keynote address, we have invited Dr Farhan Ali, Assistant Professor in the Learning Sciences and Assessment Academic Group, National Institute of Education to share his insights on the topic of Social Emotional Learning (SEL). In his talk, Dr Farhan Ali will highlight emerging research related to the science of social-emotional learning. One of the key highlights presented will be Dr Farhan’s integrated framework which involves emotion experiences, emotion awareness, emotion regulation, and meta-emotion. His presentation will also highlight some applications to the specific educational contexts such as the learning of content-heavy subjects of Mathematics and Science, Character and Citizenship Education, and promotion of self-directed learning.&nbsp;</span></p>
+<p><span>We look forward to learn from Dr Farhan how to enhance the use of feedback in our teaching through knowledge of cognitive functions and self-directedness. &nbsp;</span></p>
+<p><span>2023 Staff Learning Day promises to be a rich learning experience for us all! </span></p>
+Highlights of Concurrent Sessions:
+			<ol>
+<li><span>Biology: <u>Using Success Criteria in the Feedback Cycle for Biology Planning Practical Task</u></span></li>
+</ol>
+		<p><img src="/images/biology.jpg"></p>	
+			<p><span>Highlight: The Biology teachers designed a Learning Experience (LE) using the extended Feedback model that allow students to consider the relationship between these variables in diverse contexts, before transferring their knowledge to a given scenario in an assessment. </span></p>
+			<ol start="2">
+<li>Craft and Technology: <u>Strategies to Promote Metacognition through Peer Assessment and Self Assessment</u></li>
+</ol>
+			<p><img src="/images/design.jpg"></p>	
+			<p><span>Highlight: Data captured in Padlet and Knowledge Forum were used to analyse C&amp;T students’ thinking, how they learnt when they were involved in peer assessment to determine if peer assessment and scaffold had enhanced students’ metacognition.</span></p>
+				<ol start="3">
+<li>3.	English Language: <u>Examining Efficacy of Feedback Style for Summary Writing for Secondary 2 Express</u></li>
+</ol>
+			<p><img src="/images/english.jpg"></p>	
+			<p><span>Highlight: The inquiry method employed is a variant of confirmation inquiry which seeks to affirm the value of peer feedback as opposed to self- evaluation on refining the summary writing process. Each class is split into two, with one solely pursuing self-evaluation/feedback while the other engages in peer evaluation/feedback in assessing the style of summary writing. It employs a modified checklist based on a simplified version of the SEAB rubrics. </span></p>
+    </div>
+	</li>
 </ul>
