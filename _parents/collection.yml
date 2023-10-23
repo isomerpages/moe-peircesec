@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Home School Partnership.md
       - Announcement.md
       - PDLP.md
       - Full SBB @ Peirce.md
