@@ -31,27 +31,27 @@ description: ""
 </tr>
 <tr style="height: 21px;">
 
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2E_2024.pdf">2 Express</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3E_2024.pdf">3 Express</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4E_2024.pdf">4 Express</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_2e_2024.pdf">2 Express</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_3e_2024.pdf">3 Express</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_4e_2024.pdf">4 Express</a></td>
 </tr>
 <tr style="height: 21px;">
 
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2NA_2024.pdf">2 Normal Academic</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3NA_2024.pdf">3 Normal Academic</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4NA_2024.pdf">4 Normal Academic</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_2na_2024.pdf">2 Normal Academic</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_3na_2024.pdf">3 Normal Academic</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_4na_2024.pdf">4 Normal Academic</a></td>
 </tr>
 <tr style="height: 21px;">
 
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2NT_2024.pdf">2 Normal Technical</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3NT_2024.pdf">3 Normal Technical</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4NT_2024.pdf">4 Normal Technical</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_2nt_2024.pdf">2 Normal Technical</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_3nt_2024.pdf">3 Normal Technical</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_4nt_2024.pdf">4 Normal Technical</a></td>
 </tr>
 <tr style="height: 21px;">
 
 <td style="width: 25%; height: 21px;"></td>
 <td style="width: 25%; height: 21px;"></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_5NA_2024.pdf">5 Normal Academic</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/pss_5na_2024.pdf">5 Normal Academic</a></td>
 </tr>
 </tbody>
 </table>
