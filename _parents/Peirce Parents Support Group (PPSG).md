@@ -3,6 +3,8 @@ title: Peirce Parents Support Group (PPSG)
 permalink: /parents/parents-support-group/
 description: ""
 ---
+![](/images/ppsg_logo.jpeg)
+
 <p><strong>About Us</strong></p>
 <p>We are a dedicated and passionate community of parents who come together to provide support and assistance to one another in navigating the educational journey of our children.&nbsp;</p>
 <p><strong>Peirce PSG Vision &amp; Mission</strong></p>
@@ -13,4 +15,3 @@ description: ""
 <p>You can write-in to us at <a href="mailto:ppsgconnect@gmail.com">ppsgconnect@gmail.com</a> should you have any inquires.</p>
 
 
-[![Photo 1](/images/Photo-1.jpg)](http://peircesecparent.blogspot.com/)
