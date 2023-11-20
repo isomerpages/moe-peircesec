@@ -15,6 +15,7 @@ sections:
         - title: Updates
           description: ""
           url: /about-school/Acheivements/good-stories/
+      variant: image
   - infopic:
       title: About
       description: Peirce Secondary School started operating in 1994 on the premises
