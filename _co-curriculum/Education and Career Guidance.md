@@ -2,9 +2,8 @@
 title: Education and Career Guidance
 permalink: /co-curriculum/education-and-career-guidance-ecg/
 description: ""
+variant: markdown
 ---
-
-
 **Goals of Education and Career Guidance (ECG)**
 
 In Peirce, we aim to equip our students with the necessary knowledge, skills and values so that they are&nbsp;**Future Ready**&nbsp;– have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
@@ -32,8 +31,6 @@ Sec 2 learning journey to Urban Redevelopment Authority
 ![](/images/Photo-6.png)
 Sec 2 learning journey to Sunningdale Tech
 
-(uploaded 3/8 images)
-
 
 **ECG Counselling**
 
@@ -51,7 +48,7 @@ For more information on ECG resources and post-secondary education institutions,
 
 My SkillsFuture ECG Portal
 
-![](/images/ecg-portal.jpg)
+![](/images/MSF_Header.png)
 
 [My SkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
