@@ -156,7 +156,7 @@ If parents/ guardians do not respond by **26 Dec 10 am**, the school understands
 
 There is a pre-recorded briefing link on SBB. Do click on the [link](/files/Presentation_Sec_1_Registration_21_Dec_2023_updated13dec.pdf)link to view the briefing slides or the link below for a presentation. Link: &nbsp;[https://go.gov.sg/pssfsbbbriefing23](https://go.gov.sg/pssfsbbbriefing23)
 
-**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Higher Mother Tongue (Chinese Language)**
+**5.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Higher Mother Tongue (Chinese Language)**
 
 Students who are eligible to study Higher Mother Tongue Languages (HMTL) will receive an option form. **Eligibility Criteria:**
 
@@ -172,7 +172,7 @@ Students who are eligible to study Higher Mother Tongue Languages (HMTL) will re
 
 Higher Chinese lessons will be conducted at Peirce. Other HMTL will be conducted outside curriculum hours at MOE designated centres. This form must be completed and submitted to us by Thu 4 Jan at the General Office. For further clarification regarding MTL matters, please contact Mrs Teo Chui Wan, HOD/ Mother Tongue Languages at [seet\_chui\_wan@schools.gov.sg](mailto:seet_chui_wan@schools.gov.sg).
 
-**2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact Persons**
+**6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact Persons**
 
 The email addresses of relevant staff on different matters are given below:
 
@@ -190,11 +190,11 @@ Assistant Year Head (Sec 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbs
 
 You may also call 64576454 and be re-directed to the above staff.
 
-**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Briefing on First Week of School Matters**
+**7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Briefing on First Week of School Matters**
 
 A briefing on the first week of school matters by Year Head Mrs Stephanie Lee can be accessed at this [link](https://go.gov.sg/pss-s1registrationbriefing23). 
 
-**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Purchasing of textbooks and uniforms**
+**8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Purchasing of textbooks and uniforms**
 
 We encourage all parents/ guardians to purchase textbooks and uniforms **online**. Parents/ Guardians can make use of available online transactions to make your purchases and pick up from the stores in school during the operating hours stated below in 1(a). Alternatively, home delivery service may be arranged at a fee.
 
