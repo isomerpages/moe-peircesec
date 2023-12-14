@@ -493,3 +493,5 @@ For your easy reference, we have consolidated the various methods available for 
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:
   EN-US;mso-bidi-language:AR-SA" lang="EN-GB"></span></p></td></tr></tbody></table>
+	
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR77RxM2QT0QRk-PDmHGKp49QHkbRxaRYm_pdfHB1yZ0_M6dMWLVw-ihlcaOgQZg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
