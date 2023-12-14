@@ -146,7 +146,7 @@ To take up the offer, parents/ guardians can choose to:
 
 (1)&nbsp; reply the PG notification
 
-(2)&nbsp; send an email with signed form (PDF) to lee\_mei\_chen\_cheryl@schools.gov.sg
+(2)&nbsp; send an email with signed form (PDF) to [lee\_mei\_chen\_cheryl@schools.gov.sg](mailto:lee_mei_chen_cheryl@schools.gov.sg)
 
 (3)&nbsp; call the school at 6457 6454; parent/ guardian will be given a contact number to send a text message
 
@@ -154,7 +154,7 @@ This is to ensure the clarity of the decision without any misunderstanding.
 
 If parents/ guardians do not respond by **26 Dec 10 am**, the school understands that the student **will not take up the offer** and the decision is final. Also, please only **buy the books after the decision is made**. There will also be insertions at the end of Sec 1 Semester 1 (Mid-Year) and Semester 2 (End of year). Eligible students will be invited.
 
-There is a pre-recorded briefing link on SBB. Do click on the [link]() to view the briefing slides or the link below for a presentation. Link: &nbsp;[https://go.gov.sg/pssfsbbbriefing23](https://go.gov.sg/pssfsbbbriefing23)
+There is a pre-recorded briefing link on SBB. Do click on the [link](/files/Presentation_Sec_1_Registration_21_Dec_2023_updated13dec.pdf)link to view the briefing slides or the link below for a presentation. Link: &nbsp;[https://go.gov.sg/pssfsbbbriefing23](https://go.gov.sg/pssfsbbbriefing23)
 
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Higher Mother Tongue (Chinese Language)**
 
