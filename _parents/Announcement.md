@@ -4,7 +4,6 @@ permalink: /parents/announcement/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Header.jpg)
 #### Announcement: Peirce Secondary School Secondary 1 posting and registration matters 20-21 December 2022
 
@@ -75,4 +74,68 @@ Full Subject-Based Banding (Full SBB) will be implemented in secondary schools f
 
 <u>The eligibility criteria for offering of subjects at a more demanding level:</u>
 
-
+  <table style="width:448.7pt;margin-left:32.3pt;border-collapse:collapse;mso-yfti-tbllook:
+ 1056;mso-padding-alt:0in 0in 0in 0in" width="598" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:3.95pt"><td style="width:448.7pt;border:solid black 1.0pt;
+  background:#D4E3ED;padding:.05in .1in .05in .1in;height:3.95pt" colspan="3" width="598"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;
+  mso-color-alt:windowtext;mso-ansi-language:EN-SG" lang="EN-SG">To take </span></b><b><u><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;mso-color-alt:
+  windowtext">English Language, Mathematics, Science, Mother Tongue Languages</span></u></b><b><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;mso-color-alt:
+  windowtext"> at <u>G2/G3</u></span></b><span style="font-size:10.0pt;
+  mso-bidi-font-size:9.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;height:12.95pt"><td style="width:136.6pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black 1.0pt;background:#D4E3ED;padding:.05in .1in .05in .1in;
+  height:12.95pt" width="182"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;mso-color-alt:
+  windowtext">PSLE Standard grade</span></b><span style="font-size:10.0pt;
+  mso-bidi-font-size:9.0pt"></span></p></td><td style="width:148.8pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;background:#D4E3ED;
+  padding:.05in .1in .05in .1in;height:12.95pt" width="198"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;mso-color-alt:
+  windowtext">PSLE Foundation grade</span></b><span style="font-size:10.0pt;
+  mso-bidi-font-size:9.0pt"></span></p></td><td style="width:163.3pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;background:#D4E3ED;
+  padding:.05in .1in .05in .1in;height:12.95pt" width="218"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;color:black;mso-color-alt:
+  windowtext">Option to offer subject at</span></b><span style="font-size:10.0pt;
+  mso-bidi-font-size:9.0pt"></span></p></td></tr><tr style="mso-yfti-irow:2;height:4.85pt"><td style="width:136.6pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:4.85pt" width="182"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">AL 5 or better</span><span style="font-size:10.0pt;mso-bidi-font-size:
+  9.0pt"></span></p></td><td style="width:148.8pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:4.85pt" width="198"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">-</span></p></td><td style="width:163.3pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:4.85pt" width="218"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">G3</span></p></td></tr><tr style="mso-yfti-irow:3;height:.9pt"><td style="width:136.6pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="182"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">AL 5 or better</span><span style="font-size:10.0pt;mso-bidi-font-size:
+  9.0pt"></span></p></td><td style="width:148.8pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="198"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">-</span></p></td><td style="width:163.3pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="218"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">G2 / G3</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:.9pt"><td style="width:136.6pt;border:solid black 1.0pt;border-top:none;
+  mso-border-top-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="182"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt;mso-ansi-language:
+  EN-SG" lang="EN-SG">AL 6</span><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt"></span></p></td><td style="width:148.8pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="198"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">AL A</span></p></td><td style="width:163.3pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;padding:.05in .1in .05in .1in;
+  height:.9pt" width="218"><p style="margin-top:0in;margin-right:0in;
+  margin-bottom:0in;margin-left:.25in;text-align:center;line-height:normal" align="center" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:9.0pt">G2</span></p></td></tr></tbody></table>
+	
+	
