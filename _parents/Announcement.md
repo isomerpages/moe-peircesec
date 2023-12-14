@@ -60,7 +60,7 @@ Transfer will be subject to available vacancies and the school’s admission cri
 
 (1)&nbsp;&nbsp;&nbsp; The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on non-medical reasons. For appeals based on medical reasons (serious medical conditions or severe physical impairments), please request through the posted school before 12pm on the next working day after the release of the S1 Posting result.
 
-(2)&nbsp;&nbsp;&nbsp; The deadline for the submission of appeals is on 28 December 2023, 12pm. Late submission will not be allowed.
+(2)&nbsp;&nbsp;&nbsp; The deadline for the submission of appeals is on 26 December 2023, 12pm. Late submission will not be allowed.
 
 (3)&nbsp;&nbsp;&nbsp; Schools do not disclose reasons for selection / non-selection of students.
 
@@ -493,4 +493,3 @@ For your easy reference, we have consolidated the various methods available for 
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:
   EN-US;mso-bidi-language:AR-SA" lang="EN-GB"></span></p></td></tr></tbody></table>
-	
