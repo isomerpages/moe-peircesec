@@ -418,10 +418,10 @@ For your easy reference, we have consolidated the various methods available for 
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:
-  EN-US;mso-bidi-language:AR-SA" lang="EN-GB">Website: </span><a href="http://www.asencio.com.sg"><span style="mso-bidi-font-size:
+  EN-US;mso-bidi-language:AR-SA" lang="EN-GB">Website: </span><a href="https://asencio.com.sg/login-or-register/"><span style="mso-bidi-font-size:
   10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;color:blue;mso-ansi-language:EN-GB;
-  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-GB">www.asencio.com.sg</span></a><span style="mso-bidi-font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-GB">https://asencio.com.sg/login-or-register/</span></a><span style="mso-bidi-font-size:10.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;;
   mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-ansi-language:
   EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA" lang="EN-GB"></span></p><p style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal" class="MsoNormal"><span style="mso-bidi-font-size:
@@ -493,5 +493,5 @@ For your easy reference, we have consolidated the various methods available for 
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-GB;mso-fareast-language:
   EN-US;mso-bidi-language:AR-SA" lang="EN-GB"></span></p></td></tr></tbody></table>
-	
+	<br>
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR77RxM2QT0QRk-PDmHGKp49QHkbRxaRYm_pdfHB1yZ0_M6dMWLVw-ihlcaOgQZg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
