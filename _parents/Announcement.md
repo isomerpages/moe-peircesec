@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ![](/images/Header.jpg)
-#### Announcement: Peirce Secondary School Secondary 1 posting and registration matters 20-21 December 2022
+#### Announcement: Peirce Secondary School Secondary 1 posting and registration matters 20-21 December 2023
 
       
 Dear **Secondary One Ladies and Gentlemen,**
