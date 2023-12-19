@@ -3,32 +3,6 @@ title: Form Teachers
 permalink: /about-school/staff/form-teachers/
 third_nav_title: Staff
 description: ""
+variant: tiptap
 ---
-
-
-| Class | FT | FT |
-| --- | --- | --- |
-| 1 P(assion) | Mrs Christina Lim | Ms Sim Ying Xuan | 
-| 1 Ex(cellence) | Miss Pang Yin Yin | Mdm Suriyanti | 
-| 1 I(ntegrity) | Mrs Nettie Vicknesh | Mr Max Lee | 
-| 1 R(espect) | Mrs Chung Mee Choo | Ms Lam Yong Peng | 
-| 1 C(are) | Mdm Cynthia Yow | Mdm Chua Geok Song | 
-| 1 Em(pathy) | Mrs Irene Stevens | Mr Retnam | 
-| 2 P(assion) | Mdm Lee Chun Nee | Mr Tan Kok Heong | 
-| 2 Ex(cellence) | Ms Nurul Syakinah | Mrs Hana Chia | 
-| 2 I(ntegrity) | Ms Nicole Lee | Mr Tan Kay Yong | 
-| 2 R(espect) | Ms Bhavana | Ms Tan Wei Nah | 
-| 2 C(are) | Mr Brandon Low | Ms Bai Meiqi | 
-| 3 P(assion) | Mr Chan Jie Yong | Ms Tan Yin Chin | 
-| 3 Ex(cellence) | Mrs Jasmine Yau | Mdm Kousalya | 
-| 3 I(ntegrity) | Mr Siva | Ms Karyl Lin | 
-| 3 R(espect) | Ms Noelene Liew | Ms Michelle Chai | 
-| 3 C(are) | Ms Hong Wee Fui | Mdm Sin Boon Yiah | 
-| 3 Em(pathy) | Mr Ng Chenyee | Ms Lee Xiu-Ping  | 
-| 4 P(assion) | Mdm Chua Weilin | Mdm Loh Hwee Hwa | 
-| 4 Ex(cellence) | Ms Amanda Fernando | Ms Kimberley Ong | 
-| 4 I(ntegrity) | Ms Grace Sek |  | 
-| 4 R(espect) | Mdm Ng Yee Lee | Mr Ng Bing Fu | 
-| 4 C(are) | Mr Kan Cheng Mun | Mdm Kavitha | 
-| 4 Em(pathy) | Mdm Jasmine Yap | Mdm Lam Tze Kim | 
-| 5 A | Ms Nai Chheu Yee (ST) | Mr Royston Tang |
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>FT</p></th><th rowspan="1" colspan="1"><p>FT</p></th></tr><tr><td rowspan="1" colspan="1"><p>1 P(assion)</p></td><td rowspan="1" colspan="1"><p>Mrs Nicole Fossas</p></td><td rowspan="1" colspan="1"><p>Mr Tan Kay Yong</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Ms Bhavana</p></td><td rowspan="1" colspan="1"><p>Mr Lin Kuen Ping</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Ms Tan Wei Nah</p></td><td rowspan="1" colspan="1"><p>Ms Yao Lingyun</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mrs Jasmine Yap</p></td><td rowspan="1" colspan="1"><p>Mrs Cheryl Lin</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 C(are)</p></td><td rowspan="1" colspan="1"><p>Mr Ng Bing Fu</p></td><td rowspan="1" colspan="1"><p>Mdm Bai Meiqi</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Ms Sim Ying Xuan</p></td><td rowspan="1" colspan="1"><p>Ms Wong Lai Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 P(assion)</p></td><td rowspan="1" colspan="1"><p>Ms Christina Lim</p></td><td rowspan="1" colspan="1"><p>Mr Kan Cheng Mun</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Miss Pang Ying Ying</p></td><td rowspan="1" colspan="1"><p>Mr Brandon Low</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Mr Wong Liang Soon</p></td><td rowspan="1" colspan="1"><p>Mdm Chua Weilin</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mrs Chung Mee Choo</p></td><td rowspan="1" colspan="1"><p>Ms Lam Yong Peng</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 C(are)</p></td><td rowspan="1" colspan="1"><p>Mdm Cynthia Yow</p></td><td rowspan="1" colspan="1"><p>Mrs Loo Pei Ghee</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Mrs Irene Stevens</p></td><td rowspan="1" colspan="1"><p>Mr Retnam</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 P(assion)</p></td><td rowspan="1" colspan="1"><p>Mdm Lee Chun Nee</p></td><td rowspan="1" colspan="1"><p>Mr Tan Kok Heong</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Mr Vincent Tham</p></td><td rowspan="1" colspan="1"><p>Mrs Hana Chia</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Ms Grace Sek</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mdm Kavitha</p></td><td rowspan="1" colspan="1"><p>Mdm Lam Tze Kim</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 C(are)</p></td><td rowspan="1" colspan="1"><p>Ms Hong Wee Fui</p></td><td rowspan="1" colspan="1"><p>Mdm Sin Boon Yiah</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Mdm Ng Yee Lee</p></td><td rowspan="1" colspan="1"><p>Ms Amanda Fernando</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 P(assion)</p></td><td rowspan="1" colspan="1"><p>Ms Tan Yin Chin</p></td><td rowspan="1" colspan="1"><p>Ms Adinursuryani B M Rashid</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Mrs Jasmine Yau</p></td><td rowspan="1" colspan="1"><p>Mdm Kousalya</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Mr Siva</p></td><td rowspan="1" colspan="1"><p>Ms Karyl Lin</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 R(espect)</p></td><td rowspan="1" colspan="1"><p>Ms Noelene Liew</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>4 C(are)</p></td><td rowspan="1" colspan="1"><p>Ms Hong Wee Fui</p></td><td rowspan="1" colspan="1"><p>Mdm Sin Boon Yiah</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Mr Ng Chenyee</p></td><td rowspan="1" colspan="1"><p>Ms Lee Xiu-Ping</p></td></tr><tr><td rowspan="1" colspan="1"><p>5 A</p></td><td rowspan="1" colspan="1"><p>Mdm Loh Hwee Hwa</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
