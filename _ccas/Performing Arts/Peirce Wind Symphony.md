@@ -3,13 +3,14 @@ title: Peirce Wind Symphony
 permalink: /co-curriculum/co-curricular-activities-ccas/performing-arts-peirce-wind-symphony/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ###### Teachers-in-charge:
 
 | Name | Email Address |
 | --- | --- |
 | Mrs Irene Stevens (OIC) | [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) |
-| Mr Ng Bing Fu (2nd IC) | [ng_bing_fu@moe.edu.sg](mailto:ng_bing_fu@moe.edu.sg) |
+| Ms Wong Lai Lee (2nd IC) | [wong_lai_lee@moe.edu.sg](mailto:wong_lai_lee@moe.edu.sg) |
 | Ms Pang Yin Yin | [pang_yin_yin@moe.edu.sg](mailto:pang_yin_yin@moe.edu.sg) |
 
 
@@ -34,6 +35,7 @@ Band students should be able to
 *   Singapore International Band Festival 2018 – Silver
 *   Singapore Youth Festival Arts Presentation 2019 – Certificate of Accomplishment
 *   Singapore Youth Festival Arts Presentation 2021 – Certificate of Distinction (Flexible Band: Team A)
+*   SYF 2023 Certificate of Accomplishment
 
 ###### CCA training days and time:
 
