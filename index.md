@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/1__Use_of_AL_in_D_T_in_PSS_for_Banner.jpg
+      background: /images/Banner/D_T_banner.jpg
       key_highlights:
         - title: Announcements
           description: ""
