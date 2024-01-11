@@ -10,8 +10,8 @@ variant: markdown
 | Name | Email Address |
 | --- | --- |
 | Mrs Irene Stevens (OIC) | [irene_ong_ching_ling@moe.edu.sg](mailto:irene_ong_ching_ling@moe.edu.sg) |
-| Ms Wong Lai Lee (2nd IC) | [wong_lai_lee@moe.edu.sg](mailto:wong_lai_lee@moe.edu.sg) |
 | Ms Pang Yin Yin | [pang_yin_yin@moe.edu.sg](mailto:pang_yin_yin@moe.edu.sg) |
+| Ms Wong Lai Lee | [wong_lai_lee@moe.edu.sg](mailto:wong_lai_lee@moe.edu.sg) |
 
 
 **Learning Outcomes:**
