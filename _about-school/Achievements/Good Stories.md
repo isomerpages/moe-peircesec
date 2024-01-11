@@ -3,8 +3,23 @@ title: Good Stories
 permalink: /about-school/Acheivements/good-stories/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</label>
+<div>
+	
+<img src="/images/lee%20ming%20heng.JPG">
+	
+<p>a
+	</p>
+
+</div>
+</li>	
+	
+	
 <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Celebration and Reunion</label>
