@@ -11,9 +11,9 @@ variant: markdown
     <label for="accordion7">Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</label>
 <div>
 	
-<img src="/images/lee%20ming%20heng.JPG">
+<img src="/images/DnT.jpg">
 	
-<p>a
+<p>Please click <a href="https://www.straitstimes.com/singapore/politics/students-are-taught-to-use-ai-ethically-and-responsibly-at-different-levels-chan-chun-sing">here</a> for the news link.
 	</p>
 
 </div>
