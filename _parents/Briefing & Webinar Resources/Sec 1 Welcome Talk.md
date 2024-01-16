@@ -3,11 +3,9 @@ title: Sec 1 Welcome Talk
 permalink: /parents/briefing-webinar-resources/sec-1-welcome-talk/
 description: ""
 third_nav_title: Briefing & Webinar Resources
+variant: markdown
 ---
-
-
-
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWKslYpT62TLwljiotQPd6lIGnxZ8tfs5ZN4JzzXAUVFToXhvLexX4FLLkAWHWgg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCMRgoGrUVAFYy2UpJQk-O3hpgcEfakRjZKnwgtw2cWr1TNjp5ldNdh4t1MO9_Lw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Sec 1 Webinar FAQ
 
