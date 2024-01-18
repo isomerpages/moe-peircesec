@@ -11,7 +11,7 @@ variant: markdown
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2023 GCE 'O' Level Results</label>
 <div>
-<p>As we know, school life was significantly impacted by Covid-19 in the past few years. Despite the challenges, our students excelled at 2022 GCE ‘O’ Level Examinations.</p>
+<p>As we know, school life was significantly impacted by Covid-19 in the past few years. Despite the challenges, our students excelled at 2023 GCE ‘O’ Level Examinations.</p>
 <p>85% of our 4E students qualified for admission to JCs/MI and more than 95%, for polytechnics.</p>
 	<p>We are proud of our class of 2023, and we celebrate their story of struggle and success.</p>
 	
