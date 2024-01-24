@@ -1,0 +1,16 @@
+collections:
+  about-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - Mission & Vision.md
+      - History.md
+      - School Song.md
+      - Achievements/.keep
+      - Achievements/Good Stories.md
+      - Achievements/Academic Achievements.md
+      - School Advisory Committee.md
+      - Staff/.keep
+      - Staff/Staff List.md
+      - Staff/Form Teachers.md
+      - Canteen Stall Application.md

@@ -1,0 +1,12 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language and Literature.md
+      - Mathematics.md
+      - Computing.md
+      - Science Department.md
+      - Humanities Department.md
+      - Mother Tongue Language Department.md
+      - Craft and Technology.md
+      - PE and Aesthetics.md
