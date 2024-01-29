@@ -2,9 +2,8 @@
 title: Sexuality Education in Schools (SED)
 permalink: /co-curriculum/sexuality-education-in-schools/
 description: ""
+variant: markdown
 ---
-
-
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The **Goals** of Sexuality Education are to:
@@ -55,28 +54,28 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion1">Secondary 2</label>
+    <label for="accordion2">Secondary 2</label>
     <div>
     <img src="/images/Sec%202.png">
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion1">Secondary 3</label>
+    <label for="accordion3">Secondary 3</label>
     <div>
     <img src="/images/Sec%203.png">
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion1">Secondary 4</label>
+    <label for="accordion4">Secondary 4</label>
     <div>
     <img src="/images/Sec%204.png">
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion1">Secondary 5</label>
+    <label for="accordion5">Secondary 5</label>
     <div>
     <img src="/images/Sec%205.png">
     </div>
