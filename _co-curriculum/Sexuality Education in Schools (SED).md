@@ -199,5 +199,5 @@ The completed form is to be submitted by 29/02/2024.</p>
 need to complete an opt-out form. This form will be communicated to parents
 at the start of the year via PG and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 29/02/2024.</p>
-<p>13. Parents can contact the school at <a href="mailto:peirce_ss@moe.edu" rel="noopener noreferrer nofollow" target="_blank">peirce_ss@moe.edu</a>.sg for discussion
+<p>13. Parents can contact the school at <a href="mailto:peirce_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peirce_ss@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
