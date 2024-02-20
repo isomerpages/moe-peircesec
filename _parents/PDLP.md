@@ -2,6 +2,7 @@
 title: PDLP
 permalink: /parents/pdlp/
 description: ""
+variant: markdown
 ---
 Our Approach to PDLP
 
@@ -49,7 +50,7 @@ Please click <a href="https://www.peircesec.moe.edu.sg/files/porc5-dma_parent_gu
 	</li>
 	 <li>
     <input id="accordion9" type="checkbox">
-    <label for="accordion9">Student Device Information Kit (Windows 2023)</label>
+    <label for="accordion9">Student Device Information Kit (Windows 2024)</label>
     <div>
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasT-ar0lCP-VZ5H4gwS6sA7OqUMDQ0nvQ0OVO7-FqSwVxnazCIFYQ6KBgKNZ1mw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 			<br>
