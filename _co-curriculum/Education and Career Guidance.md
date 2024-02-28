@@ -38,7 +38,7 @@ Our Education and Career Guidance (ECG) Counsellor, Mr Colin Tan, is in the scho
 
 Students (and their parents) who would like to find out more about their post-secondary education options, subject choices, career interests, or discover their strengths and interests, can have a chat with our ECG Counsellor.
 
-To make an appointment, please click here:&nbsp;&nbsp;[https://go.gov.sg/peirce-ecg](https://moeecg.appointeze.com/onlinelink/ColinTan)&nbsp;or scan the QR Code below. You may also email Mr Colin Tan at&nbsp;[colin\_tan\_thian\_hock@schools.gov.sg](mailto:colin_tan_thian_hock@schools.gov.sg)
+To make an appointment, please click here:&nbsp;&nbsp;[https://go.gov.sg/ecg-pss](https://go.gov.sg/ecg-pss)&nbsp;or scan the QR Code below. You may also email Mr Colin Tan at&nbsp;[colin\_tan\_thian\_hock@schools.gov.sg](mailto:colin_tan_thian_hock@schools.gov.sg)
 
 <img src="/images/QR-code.png" style="width:25%">
 		 
@@ -56,7 +56,7 @@ Journey with Our Children, Achieving their Aspirations
 
 <img src="/images/journey.png" style="width:40%">
 		 
-[Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg-parent-guide.ashx?la=en&amp;hash=E7DDC93E69179D8B4E9373DC48138F7DDBCFCA35)
+[Journey with Our Children, Achieving their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx)
 
 The Next Step Forward
 
