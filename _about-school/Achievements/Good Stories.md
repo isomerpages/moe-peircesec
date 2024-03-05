@@ -6,6 +6,20 @@ third_nav_title: Achievements
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
+	
+<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Letter of Commendation from Parent</label>
+<div>
+	
+<img src="/images/Letter_of_commendation.jpg">
+	
+<p>We were heartened to receive this letter of commendation for Tan Yi Rui, Clara Babe. We are proud of our student leader who demonstrated the spirit of service by going the extra mile. 
+	</p>
+
+</div>
+</li>	
+	
 <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</label>
