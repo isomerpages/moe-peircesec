@@ -36,8 +36,7 @@ Our Applied Learning Programme (ALP) fosters media literacy and cultivates stude
 ALP also empowers students who demonstrate greater interest and passion for media and communication. Apart from curricular learning, students also hone their skills through leadership and co-curricular activities, where projects of greater merit are showcased on schoolwide and external platforms, enabling students to become advocates for positive change. Through these experiences, students develop confidence, strengthen media and communication skills and learn to use media skills for the betterment of the community.
 
 **Qualifying Criteria**<br>
-We are looking for enthusiastic P6 students who:<br>1. possess experience and accomplishments in communication (including media). Examples include public speaking and online media publications<br><br>
-2. demonstrate interest in current affairs, both local and global.
+We are looking for enthusiastic P6 students who:<br>1. possess experience and accomplishments in communication (including media). Examples include public speaking and online media publications<br>2. demonstrate interest in current affairs, both local and global.
 
 
 <div style="background-color: #999999;"><b>B. Application Procedures</b></div>
