@@ -2,47 +2,43 @@
 title: Direct School Admission (DSA)
 permalink: /admissions/direct-school-admission-dsa/
 description: ""
+variant: markdown
 ---
-# **DSA Exercise 2023**
+# **DSA Exercise 2024**
 
-### DIRECT SCHOOL ADMISSION EXERCISE 2023  
+### DIRECT SCHOOL ADMISSION EXERCISE 2024  
 (For Secondary One Intake in 2024)
 
 <div style="background-color: #999999;">&nbsp;<b>A. Distinctive Programmes</b></div>
 
 Peirce Secondary School is providing experiences with the focus on:<br>
-**I.Developing Community Leaders with the Heart to Serve through Uniformed Groups**
+**I. Developing Community Leaders with the Heart to Serve**
 ![](/images/dsa221-1024x382-1.png)
 
-The Uniformed Groups (UGs) in Peirce Secondary is an important part of the Peircean community where the total membership forms almost a fifth of the student population.&nbsp; Vibrant and energetic, we see Uniformed Groups as one of our pillars of character development and leadership education at Peirce.&nbsp; They provide experiences for all-round holistic development of Peirceans to achieve our vision of ‘Resilient Learners, Gracious Citizens’.
+We seek students who can contribute to our Learning for Life Programme (LLP) in Community Leadership, such as, by leading student groups and school initiatives. Successful candidates will have the opportunity to hone their character and leadership skills while making a valuable contribution to our school community.
+Students who wish to be part of the Peircean experience should apply via the 2024 Direct School Admission Exercise.
 
-There will be&nbsp;**three**&nbsp;uniformed groups in the school in 2024:
-*   National Cadet Corps (Land) - Boys
-*   National Police Cadet Corps
-*   Scouts
-
-We are proud of the growth and development of our Uniformed Groups which have consistently attained good achievements all these years.
-
-We are looking for students who can contribute to building our Learning for Life Programme (LLP) in character and leadership development through the Uniformed Groups. Students who wish to be part of the Peircean experience should apply via the 2023 Direct School Admission Exercise.
-
-**Qualifying Criteria**
-*   **Leadership**   
-A student leader in primary school, preferably in a Uniformed Group (although other co-curricular leadership experiences may be considered).
-*   **Physical Fitness**   
-Is medically fit to participate in PE programme and outdoor activities.
-*   **Character**   
-A disciplined and confident student with a conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school reports.
-<br>
-
-**II. Deepening Reflection and Developing Critical Thinking Through Media**
-The Applied Learning Programme (ALP) in Peirce Secondary School facilitates students’ reflection on print and non-print materials they read and view, allowing them to connect with and respond to what they read and view personally and critically. Responding both in written and audio formats, the programme provides students an authentic learning platform to hone their writing and oral skills. Students also participate in peer critique where they learn to think critically and provide constructive feedback to their peers for improvements. Collaboration is conducted via e-platforms such as Padlet and Google Classroom, building not just the digital literacy of our students but also providing opportunities for them to blossom into collaborative learners and confident speakers.
 
 **Qualifying Criteria**<br>
-We are looking for enthusiastic P6 students who:
-*   possess accomplishments in media, such as, videos, podcasts, presentations, publications and/or other related skills and competencies;
-*   demonstrate keen interest in current affairs, both local and global.
+1. Leadership<br>
+* Gained leadership experience in primary school through roles such as class monitor, prefect/student leader, CCA leader, or similar positions. UG leaders will be expected to join Uniformed Groups upon admission.
+* Demonstrated passion in contributing to the school or the community
+2. Physical Fitness<br>
+* Is medically fit to participate in PE programme and outdoor activities.
+3. Character<br>
+* A disciplined and confident student with a conduct grade of at least ‘Very Good’ in his/her Primary 5 and Primary 6 school reports.
 
-Shortlisted candidates will attend an in-person interview and be assessed on their experiences of the above as well as confidence and quality in oral presentation.
+<br>
+
+**II. Deepening Reflection and Developing Critical Thinking Through Media**<br>
+Our Applied Learning Programme (ALP) fosters media literacy and cultivates student agency within our Peircean community. By seamlessly integrating media skills into diverse subjects, ALP allows students to delve into subject knowledge, sharpen critical thinking, and connect their learning to real-world challenges. This culminates in sharing of disciplinary insights for the growth of the school population. 
+
+ALP also empowers students who demonstrate greater interest and passion for media and communication. Apart from curricular learning, students also hone their skills through leadership and co-curricular activities, where projects of greater merit are showcased on schoolwide and external platforms, enabling students to become advocates for positive change. Through these experiences, students develop confidence, strengthen media and communication skills and learn to use media skills for the betterment of the community.
+
+**Qualifying Criteria**<br>
+We are looking for enthusiastic P6 students who:<br>1. possess experience and accomplishments in communication (including media). Examples include public speaking and online media publications<br><br>
+2. demonstrate interest in current affairs, both local and global.
+
 
 <div style="background-color: #999999;"><b>B. Application Procedures</b></div>
 
