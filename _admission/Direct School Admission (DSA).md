@@ -18,7 +18,6 @@ Peirce Secondary School is providing experiences with the focus on:<br>
 We seek students who can contribute to our Learning for Life Programme (LLP) in Community Leadership, especially those who can or with the potential and wish to lead student groups and school initiatives to benefit the community. Successful candidates will have the opportunity to hone their character and leadership skills while making a valuable contribution to our school community, and beyond through various exciting experiences.
 
 <br>
-
 **II. Deepening Reflection and Developing Critical Thinking Through Media**<br>
 Our Applied Learning Programme (ALP) fosters media literacy and cultivates student agency within our Peircean community. By seamlessly integrating media skills into diverse subjects, ALP allows students to delve into subject knowledge, sharpen critical thinking, and connect their learning to real-world challenges. This culminates in sharing of disciplinary insights for the growth of the school population. 
 
