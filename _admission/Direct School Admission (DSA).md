@@ -7,7 +7,7 @@ variant: markdown
 # **DSA Exercise 2024**
 
 ### DIRECT SCHOOL ADMISSION EXERCISE 2024  
-(For Secondary One Intake in 2024)
+(For Secondary One Intake in 2025)
 
 <div style="background-color: #999999;">&nbsp;<b>A. Distinctive Programmes</b></div>
 
