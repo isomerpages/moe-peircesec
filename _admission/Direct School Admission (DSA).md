@@ -13,7 +13,7 @@ variant: markdown
 
 Peirce Secondary School is providing experiences with the focus on:<br>
 **I. Developing Community Leaders with the Heart to Serve**
-![](/images/dsa221-1024x382-1.png)
+![](/images/DSA.jpg)
 
 We seek students who can contribute to our Learning for Life Programme (LLP) in Community Leadership, especially those who can or with the potential and wish to lead student groups and school initiatives to benefit the community. Successful candidates will have the opportunity to hone their character and leadership skills while making a valuable contribution to our school community, and beyond through various exciting experiences.
 <br>
