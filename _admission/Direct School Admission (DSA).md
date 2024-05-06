@@ -83,7 +83,6 @@ student’s aptitudes and strengths, bearing in mind the school’s academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.
 <br>
-<br>
 </p>
 <h4>&nbsp;<strong>C. Selection Details</strong></h4>
 <p>1. The school will contact short-listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
