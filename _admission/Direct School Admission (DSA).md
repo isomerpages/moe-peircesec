@@ -38,7 +38,7 @@ We are looking for enthusiastic P6 students who:<br>1. possess experience and ac
 
 <div style="background-color: #999999;">&nbsp;<b>B. Application Procedures</b></div>
 
-Below are some information on the centralised application process.<br> 1.	You may submit your application through the online DSA-Sec Portal from*** 7 May 2024, 11am to 3 June 2024, 3pm.*** For more details, please refer to MOE website: [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)<br><br>2.	It is free-of-charge. <br><br>3.	Accessing the DSA Portal:<br>
+Below are some information on the centralised application process.<br> 1.	You may submit your application through the online DSA-Sec Portal from ***7 May 2024, 11am to 3 June 2024, 3pm.*** For more details, please refer to MOE website: [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec)<br><br>2.	It is free-of-charge. <br><br>3.	Accessing the DSA Portal:<br>
 i.	Applicants studying in MOE mainstream primary schools: Only one parent’s SingPass is needed to log in. If parent/ guardian is unable to apply online, they can approach the child’s primary school for assistance.<br> 
 ii.	Applicants not studying in MOE mainstream primary schools: They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please visit the MOE website at: https://go.gov.sg/nmsdsa-sec-application for details.<br><br>4.	Choices <br>
 Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas). In choosing DSA schools, parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’s academic and non-academic requirements, and the programmes available to develop the area of talent.<br><br>
