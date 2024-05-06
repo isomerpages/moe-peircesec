@@ -87,7 +87,7 @@ the area of talent.
 <br>
 </p>
 <h4>&nbsp;<strong>C. Selection Details</strong></h4>
-<p>1. The school will contact short listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
+<p>1. The school will contact short-listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
 <p>2. Short-listed candidates will attend an interview and a selection trial
 on <strong><em>Friday 19 July 2024, at 3.30 p.m.</em></strong>
 </p>
