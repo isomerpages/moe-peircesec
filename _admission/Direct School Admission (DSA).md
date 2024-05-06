@@ -55,7 +55,7 @@ skills and learn to use media skills for the betterment of the community.
 <p><strong>Qualifying Criteria</strong> 
 <br>We are looking for enthusiastic P6 students who:
 <br>1. possess experience and accomplishments in communication (including
-media). Examples include public speaking and online media publications
+media). Examples include public speaking and online media publications.
 <br>
 <br>2. demonstrate interest in current affairs, both local and global.
 <br>
