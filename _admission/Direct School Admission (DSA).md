@@ -91,13 +91,13 @@ the area of talent.
 </p>
 <p>&nbsp;<strong>C. Selection Details</strong>
 </p>
-<p>1. The school will contact short listed candidates by ***Friday 5 July
-2024***.</p>
+<p>1. The school will contact short listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
 <p>2. Short-listed candidates will attend an interview and a selection trial
-on Friday ***19 July 2024, at 3.30 p.m***.</p>
+on <strong><em>Friday 19 July 2024, at 3.30 p.m.</em></strong>
+</p>
 <p>3. All short-listed candidates will be informed of the result of their
 application (confirmation of DSA offer / placement on DSA waiting list
-/ unsuccessful application) via email by ***Friday 28 August 2024***</p>
+/ unsuccessful application) via email by <strong><em>Friday 28 August 2024</em></strong>.</p>
 <p>4. Do note that meeting all the criteria does not guarantee the student
 will be shortlisted or given an offer.</p>
 <p>5. Students who are successfully admitted to the school via DSA are expected
