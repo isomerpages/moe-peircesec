@@ -63,7 +63,7 @@ media). Examples include public speaking and online media publications.
 <h4>&nbsp;<strong>B. Application Procedures</strong></h4>
 <p>Below are some information on the centralised application process.
 <br>1. You may submit your application through the online DSA-Sec Portal from <strong><em>7 May 2024, 11am to 3 June 2024, 3pm.</em></strong> For
-more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>
+more details, please refer to MOE website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a> 
 <br>
 <br>2. It is free-of-charge.
 <br>
