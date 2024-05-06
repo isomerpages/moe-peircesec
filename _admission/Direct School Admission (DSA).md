@@ -7,8 +7,7 @@ variant: tiptap
 <h1><strong>DSA Exercise 2024</strong></h1>
 <h3>DIRECT SCHOOL ADMISSION EXERCISE 2024</h3>
 <p>(For Secondary One Intake in 2025)</p>
-<p>&nbsp;<strong>A. Distinctive Programmes</strong>
-</p>
+<h4>&nbsp;<strong>A. Distinctive Programmes</strong></h4>
 <p>Peirce Secondary School is providing experiences with the focus on:
 <br><strong>I. Developing Community Leaders with the Heart to Serve</strong>
 </p>
@@ -60,10 +59,8 @@ media). Examples include public speaking and online media publications
 <br>
 <br>2. demonstrate interest in current affairs, both local and global.
 <br>
-<br>
 </p>
-<p>&nbsp;<strong>B. Application Procedures</strong>
-</p>
+<h4>&nbsp;<strong>B. Application Procedures</strong></h4>
 <p>Below are some information on the centralised application process.
 <br>1. You may submit your application through the online DSA-Sec Portal from <strong><em>7 May 2024, 11am to 3 June 2024, 3pm.</em></strong> For
 more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
@@ -89,8 +86,7 @@ the area of talent.
 <br>
 <br>
 </p>
-<p>&nbsp;<strong>C. Selection Details</strong>
-</p>
+<h4>&nbsp;<strong>C. Selection Details</strong></h4>
 <p>1. The school will contact short listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
 <p>2. Short-listed candidates will attend an interview and a selection trial
 on <strong><em>Friday 19 July 2024, at 3.30 p.m.</em></strong>
