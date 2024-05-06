@@ -63,7 +63,7 @@ media). Examples include public speaking and online media publications.
 <h4>&nbsp;<strong>B. Application Procedures</strong></h4>
 <p>Below are some information on the centralised application process.
 <br>1. You may submit your application through the online DSA-Sec Portal from <strong><em>7 May 2024, 11am to 3 June 2024, 3pm.</em></strong> For
-more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> 
+more details, please refer to MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>
 <br>
 <br>2. It is free-of-charge.
 <br>
@@ -73,8 +73,7 @@ SingPass is needed to log in. If parent/ guardian is unable to apply online,
 they can approach the child’s primary school for assistance.
 <br>ii. Applicants not studying in MOE mainstream primary schools: They need
 to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal.
-Please visit the MOE website at: https://go.gov.sg/nmsdsa-sec-application
-for details.
+Please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Apply</a> for details.
 <br>
 <br>4. Choices
 <br>Students can indicate up to three choices (maximum of two choices for
