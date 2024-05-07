@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p><strong>Former student clinches Mediacorp Silver Medal</strong>
+<p><strong>Former student clinches Mediacorp Silver Medal and Mediacorp Specialisation Prize</strong>
 </p>
 </li>
 </ul>
