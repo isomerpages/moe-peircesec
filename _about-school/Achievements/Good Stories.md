@@ -16,8 +16,8 @@ variant: tiptap
 </div>
 <p><strong>Congratulations to Peirce Alumnus Suen Wai Kit on His Outstanding Achievements!</strong>
 </p>
-<p>Peirce Secondary School is proud to congratulate Suen Wai Kit, who is
-graduating from Singapore Polytechnic with a Diploma in Media, Arts &amp;
+<p>Peirce Secondary School is proud to congratulate Suen Wai Kit, who has
+graduated from Singapore Polytechnic with a Diploma in Media, Arts &amp;
 Design. He has also received the Mediacorp Silver Medal and the Mediacorp
 Specialisation Prize for his outstanding accomplishments.</p>
 <p>Wai Kit's journey into content creation began here at Peirce Secondary
