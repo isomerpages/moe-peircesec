@@ -14,7 +14,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_07_at_12_50_15_PM.jpg">
 </div>
-<p>Congratulations to Peirce Alumnus Suen Wai Kit on His Outstanding Achievements!</p>
+<p><strong>Congratulations to Peirce Alumnus Suen Wai Kit on His Outstanding Achievements!</strong>
+</p>
 <p>Peirce Secondary School is proud to congratulate Suen Wai Kit, who is
 graduating from Singapore Polytechnic with a Diploma in Media, Arts &amp;
 Design. He has also received the Mediacorp Silver Medal and the Mediacorp
