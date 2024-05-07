@@ -7,7 +7,38 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p>Letter of Commendation from Parent</p>
+<p><strong>Former student clinches Mediacorp Silver Medal</strong>
+</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_07_at_12_50_15_PM.jpg">
+</div>
+<p>Congratulations to Peirce Alumnus Suen Wai Kit on His Outstanding Achievements!</p>
+<p>Peirce Secondary School is proud to congratulate Suen Wai Kit, who is
+graduating from Singapore Polytechnic with a Diploma in Media, Arts &amp;
+Design. He has also received the Mediacorp Silver Medal and the Mediacorp
+Specialisation Prize for his outstanding accomplishments.</p>
+<p>Wai Kit's journey into content creation began here at Peirce Secondary
+School, where he discovered his passion for current affairs and filmmaking.
+He was an active member of the Peirce Wind Symphony, where he not only
+honed his ear for music and sound production but also began exploring other
+creative interests. As the band's volunteer photographer, he set up its
+Facebook page and produced a well-received video for the Handing Over Ceremony.
+Wai Kit credits the opportunities he had through the Co-Curricular Activities
+(CCA) and the guidance of Ms. Khai in Social Studies for inspiring his
+career path, which now blends media, arts, and current affairs.</p>
+<p>Wai Kit's accomplishments serve as an inspiration to all our students,
+reminding us that discovering one's passion is a journey that often begins
+with small steps. Participating in a variety of school activities can lead
+to discovering new interests and pave the way for future success.</p>
+<p>We are incredibly proud of Wai Kit's achievements and wish him continued
+success as he embarks on the next steps in his journey. Congratulations,
+Wai Kit! We look forward to seeing the incredible things you will achieve.</p>
+<ul>
+<li>
+<p><strong>Letter of Commendation from Parent</strong>
+</p>
 <p>We were heartened to receive this letter of commendation for Tan Yi Rui,
 Clara Babe. We are proud of our student leader who demonstrated the spirit
 of service by going the extra mile.</p>
@@ -17,8 +48,8 @@ of service by going the extra mile.</p>
 <p></p>
 </li>
 <li>
-<p>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary
-School</p>
+<p><strong>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/DnT.jpg">
 </div>
@@ -26,7 +57,8 @@ School</p>
 the news link.</p>
 </li>
 <li>
-<p>Celebration and Reunion</p>
+<p><strong>Celebration and Reunion</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/lee%20ming%20heng.JPG">
 </div>
@@ -38,7 +70,8 @@ his success. It was a heartwarming moment of reunion and pride.</p>
 <p>Well done, Ming Heng! We wish more successes in your journey ahead.</p>
 </li>
 <li>
-<p>Former student clinches NCSS Gold Medal at NYP</p>
+<p><strong>Former student clinches NCSS Gold Medal at NYP</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Peirce-Sec-Amalia-Bte-Ariffin-scaled.jpg">
 </div>
@@ -105,8 +138,8 @@ Bronze medal. Congratulations to our fine ladies and gentlemen.</p>
 <p></p>
 </li>
 <li>
-<p>“Love What You Teach, but Love Who You Teach More”… the rapport between
-teachers and students is key in nurturing budding learners.</p>
+<p><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the
+rapport between teachers and students is key in nurturing budding learners.</p>
 <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms
 Khairiah, masquerade as a student using the latest text lingo in a gameshow,
 highlighting the strong connection teachers and students share nowadays.</p>
@@ -115,7 +148,8 @@ highlighting the strong connection teachers and students share nowadays.</p>
 </div>
 </li>
 <li>
-<p>Words to Pack for your Journey</p>
+<p><strong>Words to Pack for your Journey</strong>
+</p>
 <p>Our staff, Ms Khairiah Bte Hairoman, a recipient of the 2021 President's
 Award for Teachers, is featured in the video series by MOE, Words to Pack
 for your Journey.</p>
@@ -128,7 +162,8 @@ journey in finding purpose in life.</p>
 </div>
 </li>
 <li>
-<p>Staff Learning Day</p>
+<p><strong>Staff Learning Day</strong>
+</p>
 <p>This is the third year we are organising our bi-annual Staff Learning
 Day since its inception in 2019.</p>
 <p><strong>The theme for 2023 is “Nurturing Future-Ready Learners”</strong>
