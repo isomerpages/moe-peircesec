@@ -5,4 +5,288 @@ third_nav_title: Staff
 description: ""
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p>Class</p></th><th rowspan="1" colspan="1"><p>FT</p></th><th rowspan="1" colspan="1"><p>FT</p></th></tr><tr><td rowspan="1" colspan="1"><p>1 P(assion)</p></td><td rowspan="1" colspan="1"><p>Mrs Nicole Fossas</p></td><td rowspan="1" colspan="1"><p>Mr Tan Kay Yong</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Ms Bhavana</p></td><td rowspan="1" colspan="1"><p>Mr Lin Kuen Ping</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Ms Tan Wei Nah</p></td><td rowspan="1" colspan="1"><p>Ms Yao Lingyun</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mrs Jasmine Yap</p></td><td rowspan="1" colspan="1"><p>Mrs Cheryl Lin</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 C(are)</p></td><td rowspan="1" colspan="1"><p>Mr Ng Bing Fu</p></td><td rowspan="1" colspan="1"><p>Mdm Bai Meiqi</p></td></tr><tr><td rowspan="1" colspan="1"><p>1 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Ms Sim Ying Xuan</p></td><td rowspan="1" colspan="1"><p>Ms Wong Lai Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 P(assion)</p></td><td rowspan="1" colspan="1"><p>Ms Christina Lim</p></td><td rowspan="1" colspan="1"><p>Mr Kan Cheng Mun</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Miss Pang Ying Ying</p></td><td rowspan="1" colspan="1"><p>Mr Brandon Low</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Mr Wong Liang Soon</p></td><td rowspan="1" colspan="1"><p>Mdm Chua Weilin</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mrs Chung Mee Choo</p></td><td rowspan="1" colspan="1"><p>Ms Lam Yong Peng</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 C(are)</p></td><td rowspan="1" colspan="1"><p>Mdm Cynthia Yow</p></td><td rowspan="1" colspan="1"><p>Mrs Loo Pei Ghee</p></td></tr><tr><td rowspan="1" colspan="1"><p>2 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Mrs Irene Stevens</p></td><td rowspan="1" colspan="1"><p>Mr Retnam</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 P(assion)</p></td><td rowspan="1" colspan="1"><p>Mdm Lee Chun Nee</p></td><td rowspan="1" colspan="1"><p>Mr Tan Kok Heong</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Mr Vincent Tham</p></td><td rowspan="1" colspan="1"><p>Mrs Hana Chia</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Ms Grace Sek</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 R(espect)</p></td><td rowspan="1" colspan="1"><p>Mdm Kavitha</p></td><td rowspan="1" colspan="1"><p>Mdm Lam Tze Kim</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 C(are)</p></td><td rowspan="1" colspan="1"><p>Mdm Ng Yee Lee</p></td><td rowspan="1" colspan="1"><p>Ms Amanda Fernando</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 P(assion)</p></td><td rowspan="1" colspan="1"><p>Ms Tan Yin Chin</p></td><td rowspan="1" colspan="1"><p>Ms Adinursuryani B M Rashid</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Ex(cellence)</p></td><td rowspan="1" colspan="1"><p>Mrs Jasmine Yau</p></td><td rowspan="1" colspan="1"><p>Mdm Kousalya</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 I(ntegrity)</p></td><td rowspan="1" colspan="1"><p>Mr Siva</p></td><td rowspan="1" colspan="1"><p>Ms Karyl Lin</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 R(espect)</p></td><td rowspan="1" colspan="1"><p>Ms Noelene Liew</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>4 C(are)</p></td><td rowspan="1" colspan="1"><p>Ms Hong Wee Fui</p></td><td rowspan="1" colspan="1"><p>Mdm Sin Boon Yiah</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Em(pathy)</p></td><td rowspan="1" colspan="1"><p>Mr Ng Chenyee</p></td><td rowspan="1" colspan="1"><p>Ms Lee Xiu-Ping</p></td></tr><tr><td rowspan="1" colspan="1"><p>5 A</p></td><td rowspan="1" colspan="1"><p>Mdm Loh Hwee Hwa</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 P(assion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Nicole Fossas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kay Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Ex(cellence)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Kuen Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr George Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 I(ntegrity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wei Nah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yao Lingyun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 R(espect)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jie Heng Alfred</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 C(are)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Bing Fu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bai Meiqi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Em(pathy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Ying Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Lai Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 P(assion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Christina Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kan Cheng Mun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Ex(cellence)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Pang Ying Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Brandon Low</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 I(ntegrity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Liang Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Weilin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 R(espect)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chung Mee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lam Yong Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 C(are)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cynthia Yow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Loo Pei Ghee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Em(pathy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Stevens</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Retnam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 P(assion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Chun Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kok Heong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Ex(cellence)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Arion Lai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 I(ntegrity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Sek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ian Tan Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 R(espect)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kavitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lam Tze Kim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 C(are)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Yee Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Fernando</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 P(assion)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yin Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Adinursuryani B M Rashid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Ex(cellence)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jasmine Yau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kousalya</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 I(ntegrity)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Siva</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Karyl Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 R(espect)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Noelene Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 C(are)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hong Wee Fui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sin Boon Yiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Em(pathy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Chenyee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Xiu-Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Loh Hwee Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
