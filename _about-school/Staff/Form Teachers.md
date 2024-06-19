@@ -185,7 +185,7 @@ variant: tiptap
 <p>Ms Grace Sek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Tan Wei</p>
+<p>Mr Eugene Lim</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Ms Noelene Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ian Tan Wei</p>
 </td>
 </tr>
 <tr>
