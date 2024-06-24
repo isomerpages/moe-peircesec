@@ -1,29 +1,26 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **Terms of Use**
 
-### Agreement – Terms
+1.  Thank you for visiting peircesec.moe.edu.sg. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site. 
 
-1.  Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Ministry of Education, Singapore (hereinafter “MOE”).
-2.  All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
-3.  In these Terms, the words “we,” “our” and “us” refer to MOE.
-4.  MOE reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
+### General
 
-### Access to The Website
+2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
-1.  The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of The Website.
+### Proprietary Rights 
 
-### Relying on Information
+3. This Web Site is maintained by **Peirce Secondary School**. It is owned by **Peirce Secondary School**.
+4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by **Peirce Secondary School**. 
 
-1.  The Website is provided for general information only. We do not guarantee the timeliness, accuracy, completeness or reliability of any statements, opinion, representation or other information in The Website. You should do your own checks.
-2.  The materials located on The Website, including the information as well as software programs available on or through it (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by MOE.
 
-### Security
 
-1.  Where appropriate we use available technology to protect the security of communications made through The Website. We do not, however, accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
-2.  Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+### Privacy Policy
+
+5. Click here to review this Web Site Privacy Statement. 
 
 ### Hyperlinks
 
