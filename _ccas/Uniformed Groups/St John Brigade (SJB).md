@@ -39,24 +39,44 @@ St John Brigade is a CCA that encourages cadets to perform works of humanity and
 
 **Achievements:**
 
-*   2016 Corp Achievement Award – Gold
-*   2017 Corp Achievement Award – Gold
-*   Zone Annual First Aid and Home Nursing Competition 2017
-*   1st&nbsp;(Ambulance Cadet Category)
-*   1st&nbsp;(Ambulance Adult Category)
-*   Best TOC (Transport of Casualty)
-*   Best Leader
-*   Best in First Aid
-*   Best in CPR-AED
-*   Best in Foot Drill
-*   1st&nbsp;runner-up (Nursing Cadet category)
-*   Best in CPR-AED
-*   1st&nbsp;(Nursing Adult category)
-*   2018 Corp Achievement Award – Gold
-*   2019 Corp Achievement Award – Gold
-*   Zone Annual First Aid and Home Nursing Competition 2019
-*   2nd&nbsp;runner-up (Nursing Cadet Category)
-*   Best in CPR-AED
+* 2016 Corp Achievement Award – Gold
+* 2017 Corp Achievement Award – Gold
+
+Zone Annual First Aid and Home Nursing Competition 2017
+* 1st (Ambulance Cadet Category)
+* 1st (Ambulance Adult Category)
+* Best TOC (Transport of Casualty)
+* Best Leader
+* Best in First Aid
+* Best in CPR
+* Best in Foot Drill
+
+* 1st runner-up (Nursing Cadet category)
+* Best in CPR
+
+* 1st (Nursing Adult category)
+
+* 2018 Corp Achievement Award – Gold
+* 2019 Corp Achievement Award – Gold
+
+Zone Annual First Aid and Home Nursing Competition 2019
+* 2nd runner-up (Nursing Cadet Category)
+* Best in CPR
+
+* 2020 Corp Achievement Award – Gold
+* 2022 Corp Achievement Award – Gold
+* 2023 Corp Achievement Award – Gold
+
+District Annual First Aid and Home Nursing Competition 2023
+* 1st runner-up (Ambulance Adult Category)
+* Best TOC (Transport of Casualty)
+* Best in CPR
+* Best in Foot Drill
+
+District Annual First Aid and Home Nursing Competition 2024
+* 1st runner-up (Ambulance Adult Category)
+
+* Best in Home Nursing (Nursing Adult Category)
 
 **Teachers-in-charge:**
 
@@ -64,13 +84,10 @@ Ms Toh Xin Rong (toh_xin_rong@moe.edu.sg)
 
 Ms Ng Yee Lee (ng_yee_lee@moe.edu.sg)
 
-Ms Michelle Chai (chai_hsueh_chi_michelle@moe.edu.sg)
-
 **CCA Training Days and Time:**
 
 Mondays: 3.30 p.m. – 6:00 p.m.
-
-Fridays:&nbsp;&nbsp; &nbsp;3:00 p.m. – 6:00 p.m. (For cadets involved in competition training sessions)
+*Additional days of training will be added when training for competition (only for competition teams)
 
 #### Photos
 
