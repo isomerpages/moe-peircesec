@@ -3,6 +3,7 @@ title: St John Brigade (SJB)
 permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-st-johns-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 St John Brigade is a CCA that encourages cadets to perform works of humanity and charity in serving the society. St John cadets will be trained in lifesaving skills so as to serve humankind by relieving pain and suffering, and provide assistance in emergencies.
 
@@ -14,21 +15,27 @@ St John Brigade is a CCA that encourages cadets to perform works of humanity and
 
 **Key Events:**
 
-*   Games Day
-*   CPR-AED course
-*   Basic Cardiac Life Support (BCLS) course
-*   Basic First Aid Examination
-*   Advanced First Aid Examination
-*   Basic Drill Instructor Course
-*   St. John Flag Day
-*   District First Aid and Home Nursing Competition
-*   National First Aid and Home Nursing Competition
-*   NCO Camp / Course (Basic / Advanced)
-*   District Sports Day
-*   Annual General Inspection
-*   St. John Walkathon
-*   Hospital Attachment Programme
-*   Outdoor Adventure Activities (e.g. kayaking, hiking)
+*  Games Day
+*  CPR-AED course
+*  Basic Cardiac Life Support (BCLS) course
+*  Essential First Aid Assessment
+*  Standard First Aid Assessment
+*  Essential Home Nursing Assessment
+*  Standard Home Nursing Assessment
+*  Basic Drill Instructor Course
+*  First Aid Instructor Course
+*  Home Nursing Instructor Course
+*  St. John Flag Day
+*  District First Aid and Home Nursing Competition
+*  National First Aid and Home Nursing Competition
+*  St. John Day Award Ceremony and Trooping of Colours
+*  District Presentation
+*  NCO Camp / Course (Basic / Advanced)
+*  Corps Camp
+*  Annual General Inspection
+*  St. John Walkathon
+*  Hospital Attachment Programme
+*  Outdoor Adventure Activities (e.g. kayaking, hiking)
 
 **Achievements:**
 
