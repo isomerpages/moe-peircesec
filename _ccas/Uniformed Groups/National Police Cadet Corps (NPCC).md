@@ -3,14 +3,15 @@ title: National Police Cadet Corps (NPCC)
 permalink: /co-curriculum/co-curricular-activities-ccas/uniformed-groups-national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 **Teachers-in-charge**
 
-Ms Nurul Syakinah Binti Sahak ([nurul\_syakinah\_sahak@moe.edu.sg](mailto:nurul_syakinah_sahak@moe.edu.sg))
+Mr Tham Wing Kong ([tham\_wing\_kong@moe.edu.sg](mailto:tham_wing_kong@moe.edu.sg))
 
 Ms Yap Qian Yi Jasmine ([yap\_qian\_yi\_jasmine@moe.edu.sg](mailto:yap_qian_yi_jasmine@moe.edu.sg))
 
-Mr Tan Kay Yong ([tan\_kay\_yong@moe.edu.sg](mailto:tan_kay_yong@moe.edu.sg))
+Ms Adinursuryani Binte Mohamed Rashid ([Adinursuryani\_A@moe.edu.sg](mailto:Adinursuryani_A@moe.edu.sg))
 
 Ms Adelia Ng Meiyu ([adelia\_ng\_meiyu@moe.edu.sg](mailto:adelia_ng_meiyu@moe.edu.sg))
 
