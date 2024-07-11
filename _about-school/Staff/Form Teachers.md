@@ -119,7 +119,7 @@ variant: tiptap
 <p>Mr Wong Liang Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Weilin</p>
+<p>Mdm Chua Weilin; Muhammad Hanif Bin Mustadza</p>
 </td>
 </tr>
 <tr>
