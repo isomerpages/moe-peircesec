@@ -99,19 +99,13 @@ of service by going the extra mile.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/Letter_of_commendation.jpg">
 </div>
 <p></p>
-</li>
-<li>
-<p><strong>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</strong>
-</p>
+<h4><strong>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/DnT.jpg">
 </div>
 <p>Please click <a href="https://www.straitstimes.com/singapore/politics/students-are-taught-to-use-ai-ethically-and-responsibly-at-different-levels-chan-chun-sing" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the news link.</p>
-</li>
-<li>
-<p><strong>Celebration and Reunion</strong>
-</p>
+<h4><strong>Celebration and Reunion</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/lee%20ming%20heng.JPG">
 </div>
@@ -123,19 +117,17 @@ his success. It was a heartwarming moment of reunion and pride.</p>
 <p>Well done, Ming Heng! We wish more successes in your journey ahead.</p>
 <p></p>
 </li>
+</ul>
+<h4><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the rapport between teachers and students is key in nurturing budding learners.</h4>
+<ul>
 <li>
-<p><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the
-rapport between teachers and students is key in nurturing budding learners.</p>
 <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms
 Khairiah, masquerade as a student using the latest text lingo in a gameshow,
 highlighting the strong connection teachers and students share nowadays.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hfpTcD7c3U"></iframe>
 </div>
-</li>
-<li>
-<p><strong>Words to Pack for your Journey</strong>
-</p>
+<h4><strong>Words to Pack for your Journey</strong></h4>
 <p>Our staff, Ms Khairiah Bte Hairoman, a recipient of the 2021 President's
 Award for Teachers, is featured in the video series by MOE, Words to Pack
 for your Journey.</p>
@@ -146,10 +138,7 @@ journey in finding purpose in life.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wmfviwtDRLA"></iframe>
 </div>
-</li>
-<li>
-<p><strong>Staff Learning Day</strong>
-</p>
+<h4><strong>Staff Learning Day</strong></h4>
 <p>This is the third year we are organising our bi-annual Staff Learning
 Day since its inception in 2019.</p>
 <p><strong>The theme for 2023 is “Nurturing Future-Ready Learners”</strong>
