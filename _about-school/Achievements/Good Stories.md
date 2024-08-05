@@ -5,12 +5,65 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
+<h4><strong>Second Minister for Education Visit</strong></h4>
 <ul>
 <li>
-<p><strong>Former student clinches Mediacorp Silver Medal and Mediacorp Specialisation Prize</strong>
-</p>
+<p>This week began with a visit from a very special guest, our Second Minister
+for Education, Dr. Maliki Osman! Our VIP was warmly welcomed and accompanied
+by the school leaders on a walkabout, where he first observed the areas
+of the school affected by the LTA construction of an underground tunnel
+for the Cross Island Line. He displayed concern for the well-being of staff
+and students as he inquired about the nature of the construction.</p>
+<p></p>
+<p>Amici Locus, meaning "a place where friends gather" in Latin, is a room
+specifically set up to engage students after school and also used for some
+GEAR-UP (Guiding &amp; Empowering Students for Affiliation &amp; Resilience
+to Unlock their Potential) programmes. It piqued Dr. Maliki’s interest
+as he sought to find out more about the school’s collaboration with external
+organisations. He was also informed about how some of Pathlight School’s
+students use PSS classrooms and participate in some of the school’s programmes.
+Dr. Maliki also saw the heritage wall showing the memorable moments of
+both Peirce Secondary and Bishan Park Secondary before they merged.</p>
+<p>The highlights were certainly the dialogues with students and staff. Students
+from various segments of the student population were set at ease at the
+start of the dialogue when Dr. Maliki asked them how much they enjoyed
+studying at PSS. During the session, Dr. Maliki patiently shared his advice,
+insights, and even his life story on how they can take ownership of their
+learning and avoid being trapped by societal pressures.</p>
+<p>To the staff, Dr. Maliki acknowledged their suggestions and responded
+to their questions. He affirmed the good work they have put in, assuring
+them that the MOE would stand by them as long as their actions are in the
+interest of the students.</p>
+<p>It was certainly our honour that Dr. Maliki chose our school to share
+his Teachers’ Day message with the fraternity! Dr. Maliki ended the visit
+with a photo with the school leaders against the backdrop of the statue
+of Yue Fei and his mother, a reminder of the values of loyalty to the nation
+and filial piety.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m2.jpg">
+</div>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m7.jpg">
+</div>
+<h4><strong>Former student clinches Mediacorp Silver Medal and Mediacorp Specialisation Prize</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_07_at_12_50_15_PM.jpg">
 </div>
@@ -36,10 +89,9 @@ to discovering new interests and pave the way for future success.</p>
 <p>We are incredibly proud of Wai Kit's achievements and wish him continued
 success as he embarks on the next steps in his journey. Congratulations,
 Wai Kit! We look forward to seeing the incredible things you will achieve.</p>
+<h4><strong>Letter of Commendation from Parent</strong></h4>
 <ul>
 <li>
-<p><strong>Letter of Commendation from Parent</strong>
-</p>
 <p>We were heartened to receive this letter of commendation for Tan Yi Rui,
 Clara Babe. We are proud of our student leader who demonstrated the spirit
 of service by going the extra mile.</p>
@@ -47,19 +99,13 @@ of service by going the extra mile.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/Letter_of_commendation.jpg">
 </div>
 <p></p>
-</li>
-<li>
-<p><strong>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</strong>
-</p>
+<h4><strong>Use of Artificial Intelligence in D&amp;T lessons in Peirce Secondary School</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/DnT.jpg">
 </div>
 <p>Please click <a href="https://www.straitstimes.com/singapore/politics/students-are-taught-to-use-ai-ethically-and-responsibly-at-different-levels-chan-chun-sing" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the news link.</p>
-</li>
-<li>
-<p><strong>Celebration and Reunion</strong>
-</p>
+<h4><strong>Celebration and Reunion</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/lee%20ming%20heng.JPG">
 </div>
@@ -69,88 +115,19 @@ and Finance at Singapore Polytechnic's Graduation Ceremony on 3 May 2023.
 His former teacher, Mr Ashwin Selvarajan, attended the ceremony to honor
 his success. It was a heartwarming moment of reunion and pride.</p>
 <p>Well done, Ming Heng! We wish more successes in your journey ahead.</p>
-</li>
-<li>
-<p><strong>Former student clinches NCSS Gold Medal at NYP</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Peirce-Sec-Amalia-Bte-Ariffin-scaled.jpg">
-</div>
-<p><strong>Shining Bright at Peirce and Beyond <br>Former Student Amalia Bte Ariffin recently graduated from Nanyang Polytechnic with the top honour of her course – NCSS Gold Medal</strong>
-</p>
-<p>The care and compassion from the teachers at Peirce will always resonate
-with me. Ever ready to provide a listening ear and sage advice, they connected
-with sincerity, and it was this sincerity that inspired me to pursue social
-work.</p>
-<p>A student who was all heart, Amalia graduated from Peirce in 2016 with
-numerous accolades to her name. Having been relentless in her academic
-pursuits, Amalia clinched the Edusave Scholarship Award for 3 consecutive
-years from 2013-2015.</p>
-<p>With leadership opportunities being aplenty at Peirce, Amalia was not
-only an active member of the Student Council but thrived in her CCA- St
-John’s Brigade. She was bestowed the coveted title of Senior Staff Sergeant
-in 2016, the highest achievement at the secondary school level. With the
-guidance of her CCA teachers, she was awarded Best Unit Cadet Award as
-well as the Chief Commissioner’s Award in 2016. Apart from her academic
-and CCA achievements, the school recognized Amalia for her exemplary character
-and personal qualities and awarded her the Peirce Secondary Character Award
-in 2016.</p>
-<p>Teachers who were blessed with her presence in class remember her fondly
-as an all-rounded young lady who displayed the passion to excel and care
-for others in all aspects of her school life. “Amalia went above and beyond
-what was required by the syllabus and was always keen to develop the skills
-for content mastery. She also willingly shared learning resources with
-her friends and never failed to help her classmates who were weaker”, Ms
-Khai, the HoD of Humanities, had this to share about Amalia. Mr Dennis
-Goh, the HoD of Mathematics, also had glowing words for her. “Apart from
-being a hardworking and exemplary student, Amalia was unrivaled in her
-ability to cultivate and maintain strong peer relationships.”</p>
-<p>Amalia graduated from Peirce Secondary and went on to pursue the Diploma
-in Social Sciences (Social Work) at Nanyang Polytechnic. There, she was
-awarded the National Council of Social Service (NCSS) Gold Medal. Amalia
-is currently majoring in Social Work and minoring in Sociology at the National
-University of Singapore. Having developed a keen interest in youth advocacy,
-Amalia contributed a series of articles to non-profit organizations in
-hopes of reaching out to troubled youth. She also interned at Beyond Social
-Services and MSF’s Child Protective Service, where she continues to volunteer
-today.</p>
-<p>I intend to become a social worker upon my graduation from university.
-If there is one thing I’ve taken away from my time at Peirce, it is the
-kindness and compassion my teachers have showered on me, and I want to
-be able to touch lives and pay this forward!</p>
-</li>
-<li>
-<p>Singapore Junior Chemistry Olympiad 2022: Igniting Passion in our Young
-Scientists</p>
-<p>14 Secondary 4 students took part in 2022 Singapore Junior Chemistry Olympiad.
-This programme was mentally stimulating for the students, who rose up to
-the challenge and set the standard for future cohorts. Notably, Penghao
-not only qualified for Round 2 of the competition, but also garnered a
-Bronze medal. Congratulations to our fine ladies and gentlemen.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Certificate-Presentation-1536x1152.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Singapore-Junior-Chemistry-Olympiad-2022-Participants-Actual-Day-1536x1152.jpg">
-</div>
 <p></p>
 </li>
+</ul>
+<h4><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the rapport between teachers and students is key in nurturing budding learners.</h4>
+<ul>
 <li>
-<p><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the
-rapport between teachers and students is key in nurturing budding learners.</p>
 <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms
 Khairiah, masquerade as a student using the latest text lingo in a gameshow,
 highlighting the strong connection teachers and students share nowadays.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hfpTcD7c3U"></iframe>
 </div>
-</li>
-<li>
-<p><strong>Words to Pack for your Journey</strong>
-</p>
+<h4><strong>Words to Pack for your Journey</strong></h4>
 <p>Our staff, Ms Khairiah Bte Hairoman, a recipient of the 2021 President's
 Award for Teachers, is featured in the video series by MOE, Words to Pack
 for your Journey.</p>
@@ -161,10 +138,7 @@ journey in finding purpose in life.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wmfviwtDRLA"></iframe>
 </div>
-</li>
-<li>
-<p><strong>Staff Learning Day</strong>
-</p>
+<h4><strong>Staff Learning Day</strong></h4>
 <p>This is the third year we are organising our bi-annual Staff Learning
 Day since its inception in 2019.</p>
 <p><strong>The theme for 2023 is “Nurturing Future-Ready Learners”</strong>
