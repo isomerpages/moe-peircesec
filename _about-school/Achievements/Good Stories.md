@@ -6,8 +6,6 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h4><strong>Second Minister for Education Visit</strong></h4>
-<ul>
-<li>
 <p>This week began with a visit from a very special guest, our Second Minister
 for Education, Dr. Maliki Osman! Our VIP was warmly welcomed and accompanied
 by the school leaders on a walkabout, where he first observed the areas
@@ -46,8 +44,6 @@ and filial piety.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m2.jpg">
 </div>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2m3.jpg">
 </div>
@@ -90,8 +86,6 @@ to discovering new interests and pave the way for future success.</p>
 success as he embarks on the next steps in his journey. Congratulations,
 Wai Kit! We look forward to seeing the incredible things you will achieve.</p>
 <h4><strong>Letter of Commendation from Parent</strong></h4>
-<ul>
-<li>
 <p>We were heartened to receive this letter of commendation for Tan Yi Rui,
 Clara Babe. We are proud of our student leader who demonstrated the spirit
 of service by going the extra mile.</p>
@@ -116,11 +110,7 @@ His former teacher, Mr Ashwin Selvarajan, attended the ceremony to honor
 his success. It was a heartwarming moment of reunion and pride.</p>
 <p>Well done, Ming Heng! We wish more successes in your journey ahead.</p>
 <p></p>
-</li>
-</ul>
 <h4><strong>“Love What You Teach, but Love Who You Teach More”… </strong>the rapport between teachers and students is key in nurturing budding learners.</h4>
-<ul>
-<li>
 <p>Watch Peirce’s History and Social Studies Teacher and PAT recipient, Ms
 Khairiah, masquerade as a student using the latest text lingo in a gameshow,
 highlighting the strong connection teachers and students share nowadays.</p>
@@ -307,6 +297,4 @@ to provide feedback to all students within a teaching period. By taping
 on feedback and Kolb’s Cycle of Experiential Learning, students could become
 more reflective learners who take ownership of improving their own technical
 skills.</p>
-</li>
-</ul>
 <p></p>
