@@ -1,6 +1,6 @@
 ---
 title: Sec 1 Outdoor Education Camp
-permalink: /parents/briefing-and-webinar-resources/permalink/
+permalink: /parents/briefing-and-webinar-resources/sec-1-outdoor-education-camp/
 variant: tiptap
 description: ""
 third_nav_title: Briefing & Webinar Resources
