@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Prospectus.md
       - Take a Quick Tour.md
       - 2023 Sec 1 intake Details.md
       - e Brochure.md
