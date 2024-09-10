@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Lin Kuen Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr George Yeo</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ variant: tiptap
 <p>Ms Noelene Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ian Tan Wei</p>
+<p></p>
 </td>
 </tr>
 <tr>
