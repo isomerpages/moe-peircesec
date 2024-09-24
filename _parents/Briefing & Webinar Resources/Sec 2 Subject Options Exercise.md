@@ -24,7 +24,7 @@ Please click <a href="/files/Sec_2A_SSOE_2024_updated_24_Sept.pdf">here</a> for 
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Sec 2E Subject Options Slides</label>
     <div>
-Please click <a href="/files/Sec_2E_SSOE_2024_updated_24_Sept.pdf">here</a> for the sildes in PDF.
+Please click <a href="/files/Sec_2E_SSOE_2024_24_Sept.pdf">here</a> for the sildes in PDF.
     </div>
 	</li>
 	</ul>
