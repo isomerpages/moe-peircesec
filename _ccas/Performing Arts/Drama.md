@@ -114,6 +114,8 @@ foster empathy.</p>
 <p><strong>CCA Training Days &amp; Time</strong>
 <br>Monday: 3:30 – 5:30 p.m.
 <br>Thursday: 3:30 – 5:30 p.m.&nbsp;</p>
+<p>Join us at Peirce Secondary School Drama Club, where your voice and creativity
+take centre stage, and the possibilities are endless!</p>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CCA Selection Day" src="/images/Picture-1-2.jpg">
