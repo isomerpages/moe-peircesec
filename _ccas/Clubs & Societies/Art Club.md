@@ -3,34 +3,28 @@ title: Art Club
 permalink: /co-curriculum/co-curricular-activities-ccas/clubs-art-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 **Learning Outcomes**
 
-The Art Club aims to cultivate a strong interest in the visual arts in our students to undertake challenging and meaningful Visual Arts activities. Through VIA (Values in Action) projects, art competitions, art workshops and learning journeys, students gain exposure and awareness of social issues and the visual arts scene in Singapore.&nbsp;
+The Art Club aims to cultivate a strong interest in the visual arts in our students through&nbsp; enhancing their art-making skills and appreciation for the visual arts. From participating in various art competitions to learning from artists and learning journeys to art galleries and museums, students gain exposure and awareness of social issues and the visual arts scene in Singapore and globally.
 
-Students are encouraged to experiment with a plethora of materials and mediums to explore their thoughts, feelings and ideas, and develop skills to make critical judgements about artworks and art practices through the study of visual arts. Collaborative art-making also encourages bonding amongst our members and provides a safe space for our students to explore, experiment and create art together.&nbsp;
+Students are encouraged to experiment with a plethora of materials and mediums to explore their thoughts, feelings and ideas, and develop skills to make critical judgments about artworks and art practices through the study of visual arts. Collaborative art-making also encourages bonding amongst our members and provides a safe space for our students to explore, experiment and create art together.&nbsp;
 
-Some of our art activities include
+Some of our art activities include:
 
 *   3D art – Ceramics, Super Sculpey clay-sculpting
 *   Printmaking – Monoprints and Linoleum printing
-*   Digital Art – Digital painting on Procreate, Pixel art and Stop Motion Animation
-*   Wet media – Acrylic Liquid Pour, Palette knife painting, Watercolour, Spray Painting
-*   Papercutting and Stencils
-*   Fabric Art – Embroidery, Batik painting, Reversible Plushies and Tie Dye
-*   Jewellery Art – Resin charms
-
-**Key Events**
-
-*   Learning Journeys to explore public art
-*   Overseas art trips and exchange
-*   SYF Art Exhibition  
-    
+*   Digital Art – Digital painting on Procreate, Pixel art GIFs and Stop Motion Animation
+*   Wet media – Oil painting, Acrylic Liquid Pour, Palette knife painting, Watercolour, Spray Painting
+*   Paper crafts – Papercuts and Origami 
+*   Textile Art –&nbsp; Embroidery, Batik painting
+*   Jewellery Art –&nbsp; Resin charms, polymer clay crafting
 
 **Teachers-in-charge**
 
 Ms Arion Lai Jia Hui ([lai\_jia\_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg))  
-Mrs Nettie Viknesh ([nettie\_tan@moe.edu.sg](mailto:nettie_tan@moe.edu.sg))
+Mrs Hana Chia ([ng\_jia\_lin\_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg))
 
 **CCA Day and Time**
 
