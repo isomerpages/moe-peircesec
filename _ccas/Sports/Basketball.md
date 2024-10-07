@@ -3,34 +3,25 @@ title: Basketball
 permalink: /co-curriculum/co-curricular-activities-ccas/sports-basketball/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-**Learning Outcomes**
-
-*   To develop in players strong technical and tactical foundation in basketball
-*   To create opportunities for all members to participate in competitive games
-*   To nurture resilience, responsibility and sportsmanship through the training programme.
-*   To develop 21st century competencies in players so that they could strive in the rapid changing world we live in.
-
-**Event Highlight**
-
-*   South Zone National School Basketball Championships
-*   CCA Open House
-*   Community Involvement Project, e.g. newspaper collection
-
-**Achievements**
-
-*   2016: South Zone ‘C’ Division 3rd position
-*   SSSC Best Sportsboy Award for Basketball 2019 – Branson Tan
-
-**Teachers-in-charge**  
-
-Mr Chia Teck Hong ([chia\_teck\_hong@moe.edu.sg](mailto:chia_teck_hong@moe.edu.sg))  
-Ms Miranda Tham ([miranda\_tham@moe.edu.sg](mailto:miranda_tham@moe.edu.sg))
-
-**CCA Training days and time**  
-Tuesday: 3:30 p.m. to 6:00 p.m.  
-Friday: 2:30 p.m.to 5:00 p.m.
-
-### Photos
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfcGIM3XvJQfmflIW9MpDcM9nA1WMDuX6O4nm9JYfANEzV44E97qd1q2baDaKTxLn4FRmYp2_uimLs/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>The Basketball team trains twice a week under the caring Coach Kian Hao.
+The team has participated in the NSG South Zone Basketball Competition
+(B &amp; C Divisions) as well as Yio Chu Kang Cup annually. The B Division
+has won the Yio Chu Kang Cup Championship for 2 consecutive years (2022
+and 2023). Through the comprehensive programme, the students would have
+the right amount of exposure and have a sense of pride for the CCA.&nbsp;
+Participation in competitions allows the members to develop sportsmanship
+and resilience. Teammates are also expected to treat one another with respect,
+courtesy and care.</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Mr Chia Teck Hong (<a href="mailto:chia_teck_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_teck_hong@moe.edu.sg</a>)
+<br>Ms Miranda Tham (<a href="mailto:miranda_tham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miranda_tham@moe.edu.sg</a>)</p>
+<p><strong>CCA Training days and time</strong>
+<br>Tuesday: 3:30 to 6 p.m.
+<br>Thursday: 3:30 to 6 p.m.</p>
+<h3>Photos</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfcGIM3XvJQfmflIW9MpDcM9nA1WMDuX6O4nm9JYfANEzV44E97qd1q2baDaKTxLn4FRmYp2_uimLs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
