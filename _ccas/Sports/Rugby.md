@@ -3,29 +3,64 @@ title: Rugby
 permalink: /co-curriculum/co-curricular-activities-ccas/sports-rugby/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-Peirce Rugby team’s vision is to train the members to rise above challenges. The team often aims to stretch each member’s potential in and out of the field through teamwork and camaraderie.&nbsp;
-
-A strong emphasis placed on training hard, playing hard with resilience and looking out for one another while bringing each of the individualities together to move the team forward.
-
-Most of the boys joined the rugby team for a game of excitement, fun, vigour. The tackling element of the game cannot be removed otherwise the game itself is removed so the boys’ physical capability to accurately tackle throughout the game is a necessity. They are taught to tackle safely.
-
-The trainings ensure that boys are in good physical condition as well as they have the strength to play the games within their age group.
-
-They reap benefits from rugby training and playing; they build strength, increases bone capacity and boost cardiovascular performance.
-
-For the mental aspect, our boys build confidence and boost their self-esteem. Playing rugby also helps them to de-stress.&nbsp;
-
-The training sessions and games at the field have taught the boys to respect for their team mates, the opposition and the coach, teachers-in-charge and also the referee.
-
-After each session, the boys are given the time and space to reflect, bounce off ideas and voice their suggestions on improving their rugby skills, fitness levels and team work.
-
-Our B Division players clinched the Runners-up of the Bowl Category at the National School Games (Rugby) 2019. With the presence of the COVID-19 in 2020, the B Division boys had their competition cut short and the C Division category had its game called off. In 2021, the National School Games (Rugby) cannot resume but the training sessions carry on online and face-to-face.
-
-Despite the COVID-19 outbreaks and challenges, the boys are still conscientiously and consistently attending trainings online and face-to face. The current situation which they face has illustrated that the training sessions are no longer like before and indeed, the boys have made the most of them while they possibly can.
-
-Training sessions are on Monday and Thursday and the timings are from 3.30 to 6 pm.
-
-### Photos
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-n_W4cR1iNJ7pRB3RsQndnjtdQFNcP9Bqpy_AkT8tY4j1rcieyBWxJhV1Xgko01YQgG3RQ9OR5Tbd/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<p>Peirce Rugby team’s vision is to train the members to rise above challenges.
+The team often aims to stretch each member’s potential in and out of the
+field through teamwork and camaraderie.&nbsp;</p>
+<p>Our mission is to develop skilled athletes who embrace challenges, support
+one another, and represent our school with pride. Through hard work and
+dedication, we aim to create a positive environment that encourages personal
+growth, camaraderie, and a lifelong love for rugby.</p>
+<p>&nbsp;A strong emphasis placed on training hard, playing hard with resilience
+and looking out for one another while bringing each of the individualities
+together to move the team forward.</p>
+<p>Peirce Rugby also aims to develop not just strong players but also well-rounded
+individuals.&nbsp;</p>
+<p><strong>Here are some key areas we focus on for the rugby boys:</strong>
+<br>1. Teamwork
+<br>2. Respect
+<br>3. Discipline
+<br>4. Resilience
+<br>5. Leadership
+<br>6. Sportsmanship
+<br>7. Communication
+<br>8. Community Involvement
+<br>9. Goal Setting
+<br>10. Inclusivity</p>
+<p>By focusing on these areas, we aim to help the rugby boys develop character
+traits that will benefit them both in sport and in life.</p>
+<p><strong>Key Events</strong>
+</p>
+<ul>
+<li>
+<p>Talent Scouting for the Sec 1 boys</p>
+</li>
+<li>
+<p>CCA Orientation</p>
+</li>
+<li>
+<p>C &amp; B Boys National School Games</p>
+</li>
+<li>
+<p>March, June &amp; December school holiday training</p>
+</li>
+<li>
+<p>VIA project involvement</p>
+</li>
+<li>
+<p>Friendly games</p>
+</li>
+</ul>
+<p><strong>Training days and time</strong>
+<br>Mondays &amp; Wednesdays
+<br>3.30 - 6.00 pm</p>
+<p><strong>Teachers-in-charge</strong>
+<br>Mrs Jasmine Yau (<a href="mailto:low_ngiap_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">low_ngiap_lee@moe.edu.sg</a>)
+<br>Mdm Suriyanti&nbsp;(<a href="mailto:suriyanti_jumari@moe.edu.sg" rel="noopener nofollow" target="_blank">suriyanti_jumari@moe.edu.sg</a>)
+<br>Mr Brandon Low (<a href="mailto:low_delong_brandon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_delong_brandon@moe.edu.sg</a>)</p>
+<h3>Photos</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-n_W4cR1iNJ7pRB3RsQndnjtdQFNcP9Bqpy_AkT8tY4j1rcieyBWxJhV1Xgko01YQgG3RQ9OR5Tbd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
