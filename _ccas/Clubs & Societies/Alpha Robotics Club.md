@@ -3,26 +3,27 @@ title: Alpha Robotics Club
 permalink: /co-curriculum/co-curricular-activities-ccas/clubs-robotics-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 **Learning Outcomes**
 
-*   To learn basic, intermediate and advance programming skills.
-*   To learn research skill and presentation.
-*   To learn to work in teams and develop 21st&nbsp;century skills
-*   To gain experience from participation in robotics based competitions.
+*   Develop programming skills from basic to advanced levels.  
+*   Enhance teamwork and 21st-century skills through collaborative projects.    
+*   Gain valuable experience by participating in robotics-based competitions.
+    
 
 **Key Events**
 
-*   First LEGO League
-*   National Robotics Competition
+*   IDE Robotics Competition
+*   Karneval Fundraising
 
 **Teachers-in-charge**  
-Ms Nai Chheu Yee&nbsp;([nai\_chheu\_yee@moe.edu.sg](mailto:nai_chheu_yee@moe.edu.sg))  
-Mdm Chua Geok Song&nbsp;([chua\_geok\_song@moe.edu.sg](mailto:chua_geok_song@moe.edu.sg))
+Mdm Tan Yin Chin&nbsp;([tan\_yin\_chin@moe.edu.sg](mailto:tan_yin_chin@moe.edu.sg))  
+Mr Tan Kay Yong&nbsp;([tan\_kay\_yong@moe.edu.sg](mailto:tan_kay_yong@moe.edu.sg))
 
 **CCA Training Day and Time**  
 Tuesday: 3:30 p.m. to 5:30 p.m.  
-Zoom sessions: 3:30 p.m. to 5:30 p.m. (during HBL days)
+*From 2025, Robotics Club will be integrated into the Science curriculum and not offered to secondary ones as a CCA.*
 
 ### Photos
 
