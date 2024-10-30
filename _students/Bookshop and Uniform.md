@@ -2,57 +2,47 @@
 title: Bookshop and Uniform
 permalink: /students/bookshop-and-uniform/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### General Information and Service
-
-*   School Bookshop  
-    School Book Supplier: Casco Educational Supply Pte Ltd  
-    Bookshop Location: School Canteen  
-    Person in-charge: Li Fang  
-    Operating Hours: Monday to Friday, 9 am to 3 pm  
-    Tel: 6256 3139
-
-*   School Uniform Services  
-    School Uniform Supplier: Asencio Uniforms &amp; Bookshops Specialist  
-    Stall Location: School Canteen  
-    Operating Hours: Monday to Friday, 9 am to 3 pm  
-    Tel: 6764 3102
-
-### Booklist 2024
-
-
-<table border="1" style="border-collapse: collapse; width: 100%; height: 146px;">
-<tbody>
-<tr style="height: 20px;">
-<td style="width: 25%; height: 20px;"><strong>Sec 1</strong></td>
-<td style="width: 25%; height: 20px;"><strong>Sec 2</strong></td>
-<td style="width: 25%; height: 20px;"><strong>Sec 3</strong></td>
-<td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"><a href="/files/PSS_G3.pdf">1 G3</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2e_2024.pdf">2 Express</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3e_2024.pdf">3 Express</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4e_2024.pdf">4 Express</a></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"><a href="/files/PSS_G2.pdf">1 G2</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2na_2024.pdf">2 Normal Academic</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3na_2024.pdf">3 Normal Academic</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4na_2024.pdf">4 Normal Academic</a></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"><a href="/files/PSS_G1.pdf">1 G1</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_2nt_2024.pdf">2 Normal Technical</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_3nt_2024.pdf">3 Normal Technical</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_4nt_2024.pdf">4 Normal Technical</a></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"></td>
-<td style="width: 25%; height: 21px;"></td>
-<td style="width: 25%; height: 21px;"></td>
-<td style="width: 25%; height: 21px;"><a href="/files/pss_5na_2024.pdf">5 Normal Academic</a></td>
-</tr>
-</tbody>
-</table>
+<h3>General Information and Service</h3>
+<ul>
+<li>
+<p>School Bookshop
+<br>School Book Supplier: Casco Educational Supply Pte Ltd
+<br>Bookshop Location: School Canteen
+<br>Person in-charge: Li Fang
+<br>Operating Hours: Monday to Friday, 9 am to 3 pm
+<br>Tel: 6256 3139</p>
+</li>
+<li>
+<p>School Uniform Services
+<br>School Uniform Supplier: Asencio Uniforms &amp; Bookshops Specialist
+<br>Stall Location: School Canteen
+<br>Operating Hours: Monday to Friday, 9 am to 3 pm
+<br>Tel: 6764 3102</p>
+</li>
+</ul>
+<h3>Booklist 2025</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <a href="/files/Booklist/sec1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sec 1 Booklist</p>
+</li>
+<li>
+<p>Click <a href="/files/Booklist/sec2_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+Sec 2 Booklist</p>
+</li>
+<li>
+<p>Click <a href="/files/Booklist/sec3_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+Sec 3 Booklist</p>
+</li>
+<li>
+<p>Click <a href="/files/Booklist/sec4_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+Sec 4 Booklist</p>
+</li>
+<li>
+<p>Click <a href="/files/Booklist/sec5_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+Sec 5 Booklist</p>
+</li>
+</ul>
+<p></p>
