@@ -7,17 +7,10 @@ variant: tiptap
 <h3>General Information and Service</h3>
 <ul>
 <li>
-<p>School Bookshop
-<br>School Book Supplier: Casco Educational Supply Pte Ltd
-<br>Bookshop Location: School Canteen
-<br>Person in-charge: Li Fang
-<br>Operating Hours: Monday to Friday, 9 am to 3 pm
-<br>Tel: 6256 3139</p>
-</li>
-<li>
-<p>School Uniform Services
-<br>School Uniform Supplier: Asencio Uniforms &amp; Bookshops Specialist
+<p>School Uniform Services &amp; School Bookshop
+<br>School Uniform Supplier: Asencio Pte Ltd
 <br>Stall Location: School Canteen
+<br>Person in-charge: Li Fang
 <br>Operating Hours: Monday to Friday, 9 am to 3 pm
 <br>Tel: 6764 3102</p>
 </li>
