@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/open_house_Banner_for_school_website_v2.png
+      background: /images/Banner/open_house_Banner_for_school_website_v3.jpg
       key_highlights:
         - title: Announcements
           description: ""
