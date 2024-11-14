@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3>Unleashing the Future Innovators: Our Signature STEM Applied Learning Programme (ALP)</h3>
+<h4>AI-Driven STEM: Building Skills for the Digital Age</h4>
 <p>At Peirce Secondary, we are committed to equipping our students with the
 skills they need to excel in a rapidly changing world. Starting in 2025,
 we proudly offer STEM as our Applied Learning Programme (ALP). This programme
