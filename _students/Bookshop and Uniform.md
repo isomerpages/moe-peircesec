@@ -7,8 +7,7 @@ variant: tiptap
 <h3>General Information and Service</h3>
 <ul>
 <li>
-<p>School Uniform Services &amp; School Bookshop
-<br>School Uniform Supplier: Asencio Pte Ltd
+<p>School Bookshop &amp; Uniform Services Supplier: Asencio Pte Ltd
 <br>Stall Location: School Canteen
 <br>Person in-charge: Li Fang
 <br>Operating Hours: Monday to Friday, 9 am to 3 pm
