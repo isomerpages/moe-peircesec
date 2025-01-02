@@ -2,9 +2,12 @@
 title: e Student Handbook
 permalink: /students/e-student-handbook/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Please click [here](/files/studenthandbook2024.pdf) for the PDF version.
-
-![](/images/studenthandbook2024.png)
-![](/images/e-Student-Handbook-2023%20(Updated%2012%20Dec%202022)%20last.jpg)
+<p>Please click <a href="/files/student_handbook_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the PDF version.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_handbook_2025_1.png">
+</div>
+<p></p>
