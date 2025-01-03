@@ -31,19 +31,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Yin Yin</p>
+<p>Ms Wong Lai Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_yin_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yin_yin@moe.edu.sg</a>
+<p><a href="mailto:wong_lai_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Lai Lee</p>
+<p>Ms Adelia Ng Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_lai_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_lee@moe.edu.sg</a>
+<p><a href="mailto:adelia_ng_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adelia_ng_meiyu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Asia Pacific Band Festival 2024 - Gold Award</p>
 </li>
 <li>
-<p>Limelight@Esplanage 2024</p>
+<p>Limelight@Esplanade 2024</p>
 </li>
 </ul>
 <h6><strong>CCA training days and time:</strong></h6>
