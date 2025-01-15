@@ -9,439 +9,590 @@ variant: tiptap
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1t1w1jL2vpsYuR0qFGaU0qcB_pX9J2pTtecidguFOMRa9zO1jqqYWIjn-GEoSxA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Sec 1 Webinar FAQ</h3>
-<h4><strong>Student management and well-being</strong></h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How does the school manage disciplinary issues such as vaping, bullying, etc.?</em></strong>
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Question</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Answer</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A: [Addressed during Parent Engagement]</p>
-<p>Whenever we manage any misconduct committed by the students, be it bullying
-or other unacceptable behaviour, even in the cyber environment, we always
-place the child at the center of what we do. Every misconduct surfaced
-is an opportunity for us to guide our students to strengthen the 5 Social
-and Emotional Learning (SEL) domains- self-awareness, self-management,
-social awareness, relationship skills, and responsible decision-making.</p>
-<p></p>
-<p>At the end of the day, we want every child in the school to be able to
-self-manage and feel happy to come to school. To achieve this, we need
-parents to keep calm and trust the school to conduct a thorough investigation
-before updating you. Consequences, when meted out, serve to let the students
-involved take responsibility for their actions and work towards the repair
-of a strained relationship.</p>
-<p>Should your child highlight any wrongdoings committed by fellow Peirceans,
-please alert us immediately so that prompt measures can be carried out
-to curb the misbehaviour.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Q. Would the school be able to encourage the use of hp only after school instead of during recess time where they use it to play games?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: In general, the school takes a balanced approach toward the usage of
-personal devices, such as the students’ personal learning devices (PLD),
-handphones, etc. Students are taught to use their devices responsibly,
-including habits to self-regulate their device usage, so that they can
-focus on their learning in the classroom, and to spend time with their
-friends. Students may also use their devices for learning tasks during
-breaks.</p>
+<p>Strategy for Post Secondary JC Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Focus on consistent study habits, time management, and seeking help early
+for subjects your child struggles with.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. Why did the school not practice name tags?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: Peirce does not have a name tag on the school uniform. This is because
-we do not want teachers to spend time managing students without their name
-tags on the school uniform. Hence this precious time could have been channelled
-to build strong teacher and student relationships (TSR). Countless research
-has shown that strong TSR helps to make students feel happy and will lead
-to more effective learning, enhancing students’ motivation and improving
-emotional well-being and self-esteem.</p>
+<p>"Sharing of school's previous years' performances
+<br>- Academic results; and
+<br>- Percentage of students who have moved on to JC / Polytechnic"</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For the 2023 O-level cohort, 95.2% qualify for Polytechnic, 68% qualify
+for junior college and 85% qualify for pre-U.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. Under what circumstances, form teachers will call/inform parents about the student's wellbeing?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: When a child does not report to school, Form Teachers will exercise
-their duty of care on the same day to call parents to find out the reason
-for absent from school or it can be to share their concerns with you on
-areas where your child did not manage herself/himself well despite a few
-sessions of pep talk with them. For example, personal grooming offence.</p>
+<p>What to look out for to prepare my son for his O level exam or ITE if
+he can't make it for O level ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To prepare your son for the O-Level exams, focus on consistent study habits,
+time management, and seeking help early for subjects he struggles with.
+If O-Levels are challenging, explore ITE options that align with his interests
+and strengths, as they provide hands-on learning and clear pathways for
+future education and careers. Staying open to both pathways ensures he’s
+prepared for success regardless of the outcome.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>CCA and student leadership</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What is the timeline for CCA try-outs, submission of CCA choices, enrolment in CCAs, and starting of CCA programme?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] Please refer to the briefing materials
-distributed via Parent Gateway.</p>
+<p>Is passing Chinese compulsory to progress from sec 1 to sec 2, then to
+sec 3 etc ? My child is in G3 Chinese. Can she opt to do chinese at a lower
+level ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>It is not compulsory to pass Chinese for progression from one level to
+the next. However, students are offered the option to take Mother Tongue
+at a less demanding level only if they score an E8 or below in their end-of-year
+examinations.
+<br>
+<br>We encourage your child to give their best effort before deciding whether
+to move to a less demanding level, as developing academic resilience is
+an important value we aim to instill in our students.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How does the school assign students to their CCAs? Are their primary school CCA experiences taken into consideration?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] As part of the Orientation programme,
-students had the opportunity to attend CCA trials to demonstrate their
-skills and find out more about each CCA. Based on their interests and performance
-at the CCA trials, the school will try to match them to a CCA that best
-suits their needs. Not every CCA will have another selection trial, if
-they do have it, it would be in week 4 for students who are shortlisted
-into CCAs which are over-subscribed.</p>
+<p>My kid doesnt take Higher Chinese. On days when Higher Chinese is the
+last period, does she get to go home earlier ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes, then your child will end that day earlier. However, your child may
+have CCA on that day.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. Is there a trial period for CCAs? Can students change their CCA if they do not like the CCA they were assigned to?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: In general, students will benefit from staying with the same CCA throughout
-their four years. However, if a student would like to switch CCA for valid
-reasons, please approach the CCA teacher-in-charge. Please also refer to
-slides distributed via PG for details on LEAPS 2.0 and other CCA matters.</p>
+<p>May I ask during the O level exams are the students taking different papers
+basesd on their level ie G3 to G1., Or is the same papers for all ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will sit for the paper based on their level.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How do students gain the two bonus points for ______ CCA?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] Refer to slides distributed via
-PG for details on LEAPS 2.0</p>
+<p>What are the subjects combinatiom choices during Sec 3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For 2024, we offered G3 students two options for subject combinations:
+an 8-subject combination or a 7-subject combination.
+<br>8-Subject Combination:
+<br>This option includes Pure Sciences and Additional Mathematics.
+<br>Students can choose to take either Pure Humanities, Computing, or Triple
+Science as part of this combination.
+<br>7-Subject Combination:
+<br>This option includes Combined Science.
+<br>Students have the flexibility to select from Additional Mathematics, or
+coursework-based subjects.
+<br>
+<br>Please note that subject combinations are subject to change based on school
+policies and resource availability.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What are the leadership paths in Peirce? Are they selected by the school or they can volunteer if they show the desire to serve?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: The 3 main leadership positions we have are (1) Class leaders, (2)
-Student Councillors, and (3) CCA leaders. For class leaders (8 vacancies),
-they are usually picked by form teachers, or the class may be asked to
-nominate and vote. For Student Councillors, candidates are nominated by
-teachers, peers and students may also self-nominate. We will shortlist
-and interview those who are keen. CCA leaders are usually picked by CCA
-teachers or in some cases, members will be invited to vote for their leaders.</p>
+<p>If my child in G3 doesn't do well in Sec 1, will she go to G2? On what
+basis? Is it recommended by teachers and can parents have a say?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Your child's progression will depend on her academic performance and overall
+readiness. Generally, we encourage students to continue at the G3 level.
+However, in some cases, we may recommend that a student either repeat the
+year or drop to the G2 level for certain subjects.
+<br>
+<br>These decisions are made based on teachers' recommendations and aligned
+with MOE guidelines, ensuring that the best interests of the student are
+considered. Each case is carefully assessed on an individual basis. Parents
+will be consulted during this process and will have an opportunity to discuss
+the recommendation and provide input.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Teaching and Learning</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What is the homework policy at Peirce Secondary School? With school ending later in general, how does the school ensure that students have sufficient time to complete homework?</em></strong>
+<p><strong>Academic</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: We try to give homework once a week and have a more flexible deadline,
-so that students have more time to complete the assigned work. For subjects
-like Math where homework may be assigned more frequently, shorter pieces
-of work are assigned.</p>
+<p>What is the percentage of students scoring less than 10 points for O levels
+?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We do not specifically track the percentage of students scoring below
+10 points for the O Levels, as our focus is on fostering holistic learning
+and personal growth. We believe in helping every student achieve their
+full potential rather than emphasizing numerical outcomes.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. Do students need to bring their PLDs to and from school daily?</em></strong>
+<p><strong>CCAs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: As the PLD is an important device for accessing learning materials
-in class and for homework, students should bring their PLDs (fully charged)
-to and from school daily.</p>
+<p>What does it mean for NPCC, NCC and Band to be “mandatory CCAs”?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The term “Mandatory CCA,” as used by MOE, refers to CCAs that school must
+offer. Hence, students are only allowed to switch to a different CCA once,
+either at the end of Secondary 1 or Secondary 2.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How does the school support students who are struggling academically at the end of Sec 1? Can a student drop a subject level if he/she is struggling?</em></strong>
+<p><strong>CCAs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] Under Full SBB, students may take
-subjects across different subject levels. If students are struggling for
-a subject, they may consider dropping the subject to a lower level at the
-end of a semester or the school year. However, academic resilience is an
-important part of students’ holistic development. We encourage students
-to discuss with parents and teachers on how they can overcome their learning
-difficulties, before considering dropping a subject level.</p>
+<p>What other CCA are available for consideration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All the CCAs mentioned in the slides are those offered at Peirce Secondary
+School.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What is the assessment schedule for Sec 1? Will this be shared with parents?</em></strong>
+<p><strong>CCAs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] The assessment schedule has been
-uploaded on the school website. The End of Year (EOY) Examination will
-be between Term 4 Week 3 to Week 5. Students will be given the exam timetable
-a month before the start of the EOY Examination.</p>
+<p>My child has Higher Mother Tongue lessons on Tuesday afternoons. Does
+it mean he cannot select a CCA that falls on Tuesday afternoons?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>He can still choose that CCA, the teacher will dismiss class at 3.45pm.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What are the school’s 2023 N- and O-Level results for graduating cohorts?</em></strong>
+<p><strong>CCAs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: 2023 O level- 85% of our 4E students qualified for admission to JCs/MI
-and more than 95%, for polytechnics.</p>
-<p>2023 N level - 70.4% of our 4A students were eligible for 5A and 15.6%
-were eligible for PFP</p>
+<p>Are students required to return to school for CCA on HBL days?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are generally not required to return to school for CCA on HBL
+days. However, exceptions may be made if there is an upcoming performance
+or competition that necessitates additional preparation.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How is Full SBB conducted in Peirce? Will students be moving between venues a lot?</em></strong>
+<p><strong>CCAs</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] Under Full SBB, students will need
-to attend lessons at their subject level, which may not be in their home
-classroom. Most of the movement will be between classrooms on the same
-level, thereby reducing movement time. Currently, lower secondary students
-end their lessons by 2 pm.</p>
+<p>Can our kid go to other school for other CCA?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Generally we do not allow that. For more information, please email HOD
+CCA, Mdm Foong Sau Wan.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. What is the assessment like for students who are taking Higher MTL? Will they need to take both the MTL and Higher MTL exams at the end of Sec 1?</em></strong>
+<p><strong>School Policies and Procedures</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] The assessment schedule has been
-uploaded on the school website. Students taking Higher MTL will only sit
-for the Higher MTL exam at the end of the year.</p>
+<p>Will muslim girls be allowed to wear long black slacks instead of shorts
+during PE sessions?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Currently, our school follows the standard school uniform policy, which
+includes wearing the prescribed PE attire during physical education sessions.
+While we understand and respect individual cultural and religious practices,
+the policy is designed to ensure consistency, practicality, and safety
+for all students during PE activities.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h4><strong>Parent engagement</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. How does Peirce communicate with parents and how can parents share information with Form Teachers? Will there be chat groups?</em></strong>
+<p><strong>School Policies and Procedures</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>A: [Answered during parent engagement] In general, we encourage parents
-to communicate with teachers via email. Teachers’ email addresses can be
-found on the school website. If parents wish to communicate with teachers
-via their mobile number, please only contact teachers during working hours
-(i.e. 8am - 5pm on weekdays).</p>
+<p>Will the school be able to share a price list of the food sold at the
+school canteen?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The prices of food and drinks at the school canteen vary depending on
+the items. Drinks typically range from $0.80 to $1.50. Snacks, such as
+waffles and chicken wraps, cost between $1.30 and $2.20. Noodles are priced
+from $2.50 to $4.00, and rice dishes also range from $2.50 to $4.00.</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><em>Q. Under what circumstances will the school contact parents regarding student well-being matters?</em></strong>
+<p><strong>School Policies and Procedures</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Why is there a need to bring a set of PE attire when there is PE lesson
+rather than allowing student to just wear PE attire to attend school?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school requires students to wear their full uniform on Mondays and
+Tuesdays to maintain a professional and disciplined appearance, fostering
+a sense of pride and identity. On Wednesdays and Thursdays, students have
+the flexibility to wear the school polo tee with school shorts or skirts,
+and on Fridays, they can wear the PE shirt with school shorts or skirts.
+Changing into PE attire for lessons helps ensure comfort and hygiene, as
+physical activities can leave students sweaty and uncomfortable. We appreciate
+your understanding and support in upholding these standards.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A: The school takes into consideration several factors, including the
-individual student’s well-being, the severity of issues faced, if a student
-needs to return home due to health reasons, etc.</p>
+<p><strong>School Policies and Procedures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>students are only given the PLD on 28 feb. if we do not have any suitable
+device to support HBL, can the school advise further</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please get in touch with the school through your child's form teacher
+(by email), as the school may be able to loan a device to your child.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Policies and Procedures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>What’s the opening hours of the school canteen?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Some stalls open as early as 6.30am while others may open only at 7.30am.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Policies and Procedures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The canteen accept wat kind of payment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cash payment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Policies and Procedures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Will the school calendar be provided?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Currently, we do not provide a full-year school calendar to parents. However,
+we keep parents informed of upcoming events in a timely manner through
+the Parents Gateway platform.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Policies and Procedures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>How the school will support and nurture our children's interests and passion
+in specific areas, so that they will in turn contribute to the school in
+these areas.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Starting in Term 2, our school will introduce the Student-Initiated Learning
+(SIL) programme during the fortnightly Home-Based Learning (HBL) sessions.
+This initiative provides students with dedicated time and opportunities
+to explore their interests and passions beyond the classroom. For example,
+last year, a student who self-taught video editing created a beautiful
+video montage for Deepavali, which was featured on our school’s Instagram
+account. Through such experiences, we aim to nurture students’ talents
+and encourage them to contribute meaningfully to the school community in
+their areas of passion.
+<br>
+<br>Additionally, we encourage students to participate in internal and external
+competitions, which provide valuable platforms to showcase their skills
+and further develop their interests.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hybrid learning, oversea study trip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For the year 2025, our school plans to organize two overseas trips: one
+to Bali and another to Cambodia. These trips are designed for selected
+students, primarily from Secondary Three, to provide them with meaningful
+learning experiences beyond the classroom. However, please note that overseas
+trips are not guaranteed to take place every year, as they depend on various
+factors such as available opportunities and resources.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We would like more information about the Art Elective Programme (AEP)
+and the support provided by the school for students enrolled in the programme.
+Thank you.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For more information about the Art Elective Programme (AEP), you can refer
+to the details available on the Ministry of Education's website here. Additionally,
+our school’s AEP coordinator is available to support students by reviewing
+their portfolios and providing guidance as they prepare for the application
+process.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If we apply for Art Elective Program, (every tues 3 to 6pm at NJC), how
+said the school adjust the student's timetable to accomodate this AEP ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unfortunately, the school is unable to adjust the student's timetable
+to accommodate the AEP sessions at NJC. As a result, your child may need
+to leave before the last period to reach NJC on time. In such cases, we
+encourage students to take initiative by seeking guidance from their subject
+teachers and ensuring they catch up on any missed lessons or work.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Does the school organise any overseas learning trip during sec 1 /2?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overseas learning trips are primarily organized for our Secondary 3 students.
+However, there are occasional opportunities where certain trips may also
+be open to Secondary 2 students.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>if my child takes Art Elective Program, can she be excused from D&amp;T,
+F&amp;C &amp; Art classes ? what will she do during these classes? eg,
+go home earlier or ?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If your child is accepted into the Art Elective Program (AEP), they will
+be excused from D&amp;T, F&amp;N, and Art classes. During these periods,
+your child will engage in self-directed learning activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Is there a helpline for all students?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>When students encounter challenges in school, they can reach out to their
+form teachers, subject teachers, or year head, who are all available to
+provide guidance and support. For more specialized assistance, such as
+emotional or mental health support, students can be referred to the school
+counsellors, who are trained to help them navigate personal difficulties
+in a safe and confidential environment. Our goal is to ensure that every
+student feels supported and has access to the help they need.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special education needs support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our school’s Special Educational Needs (SEN) officer will engage with
+students with SEN early in the year to better understand their unique needs
+and identify the most appropriate forms of support. This process ensures
+that we can work collaboratively with students, parents, and teachers to
+create a supportive environment that enables the student to thrive both
+academically and socially.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hope there is a talk for new comers with some encouragement and support
+from the above level of students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>While we did not arrange a formal talk by seniors for the Secondary 1
+students, the orientation programme was led by our dedicated student leaders
+from Secondary 2 to 4. Throughout the programme, these leaders engaged
+with the Secondary 1 students, sharing valuable tips and advice on how
+to adapt to and thrive in secondary school life. Their guidance and support
+were integral to helping our newcomers feel welcomed and prepared for this
+new chapter.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bully in sch</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>While incidents of bullying can occur, our school takes a firm and proactive
+stance against such behavior. We are committed to fostering a safe and
+inclusive environment where every student feels respected and supported.
+Any cases of bullying are addressed promptly and seriously, with measures
+in place to support affected students and educate those involved to prevent
+recurrence. We also encourage open communication, so students and parents
+can feel confident in reporting concerns to ensure timely intervention.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>What will be the help given to a special needs student?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our SEN (Special Educational Needs) Officer works closely with students
+to identify the support and assistance they need. The officer will also
+update and collaborate with relevant teachers to ensure the student’s needs
+are addressed effectively.
+<br>
+<br>At the same time, we focus on helping students develop independence and
+essential life skills to prepare them for life beyond school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Are students allowed to use phones in class? Will this distract them from
+paying attention to the teachers? Thanks to clarify if there is a system
+on this.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are not allowed to use their handphones during lessons. Each
+morning, they are required to securely store their handphones in lockers
+before lessons begin. They may retrieve their handphones during recess
+and after school.
+<br>
+<br>Starting from Term 2, we aim to encourage students to minimize handphone
+usage during recess to promote meaningful interactions and other activities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Development and Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Can the class chat grp be moderated by the form teacher or the class monitor
+so that only official class matters are discussed?</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If the class chat group is created by the form teacher, the teacher will
+typically moderate the content to ensure discussions are focused on official
+class matters. However, if students create their own chat groups, the school
+will not be able to regulate their contents.
+<br>
+<br>We generally discourage students from forming unofficial chat groups in
+order to minimise occurrence of misunderstandings and potential conflict.</p>
 </td>
 </tr>
 </tbody>
