@@ -53,7 +53,7 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>Overview of Peirce Secondary School’s Sexuality Education Programme for 2024</h3>
+<h3>Overview of Peirce Secondary School’s Sexuality Education Programme for 20245</h3>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
 for Sexuality Education is grouped into five main themes: Human Development,
@@ -91,48 +91,54 @@ Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<h4>At Peirce Secondary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</h4>
+<h4>At Peirce Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</h4>
 <h3>Secondary 1</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SED_SEC1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1.jpg">
 </div>
 <h3>Secondary 2</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SED_SEC2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2.jpg">
 </div>
 <h3>Secondary 3</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SED_SEC3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec3.jpg">
 </div>
 <h3>Secondary 4</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SED_SEC4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4.jpg">
 </div>
 <h3>Secondary 5</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SED_SEC5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec5.jpg">
 </div>
 <h4><em><u>eTeens</u></em><u> Programme:</u></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens is a programme
 developed by Health Promotion Board, in collaboration with the Ministry
 of Education, to provide Secondary 3 students with accurate information
-on STIs, HIV and protection from a health perspective. eTeens is conducted
-in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p></p>
-<p><strong>At Peirce Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Peirce Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -152,23 +158,22 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Raise awareness and provide knowledge on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-</li>
-<li>
-<p>Managing relationships and risky situations in a healthy way.</p>
+<p>Raise awareness and provide knowledge on:</p>
 </li>
 </ul>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4/6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -176,12 +181,15 @@ and consistent condom use).</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4/6</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -193,11 +201,11 @@ out of the Sexuality Education lessons, eTeens and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year via PG and is also downloadable <a href="/files/Annex_A_SEd_Parent_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 29/02/2024.</p>
+to parents at the start of the year via PG and is also downloadable <a href="/files/ANNEX_A_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 28 February 2025.</p>
 <p>12. Parents who wish to opt their children out of the eTeens programme
 need to complete an opt-out form. This form will be communicated to parents
-at the start of the year via PG and is also downloadable <a href="/files/Annex_B_eTeens_Parent_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 29/02/2024.</p>
+at the start of the year via PG and is also downloadable <a href="/files/ANNEX_B_Opt_Out_Form__for_E_teens_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 28 February 2025.</p>
 <p>13. Parents can contact the school at <a href="mailto:peirce_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peirce_ss@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
