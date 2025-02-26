@@ -40,17 +40,8 @@ Peirce's approach to PDLP can be described as Transformative, Integrated and Res
     </div>
 	</li>
 	 <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Student Device Information Kit</label>
-    <div>
-     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYDuzvGBs9aLnIT6QK-eZJ9ZMRN1c7Rt5Fnr5O-ZytZbQNO4USCJhpz4rD0pcWSA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
-			<br>
-Please click <a href="https://www.peircesec.moe.edu.sg/files/porc5-dma_parent_guide_for_option_a_chrome_devices.pdf">here</a> for the DMA Option A guide.
-    </div>
-	</li>
-	 <li>
     <input id="accordion9" type="checkbox">
-    <label for="accordion9">Student Device Information Kit (Windows 2024)</label>
+    <label for="accordion9">Student Device Information Kit (Windows)</label>
     <div>
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRasT-ar0lCP-VZ5H4gwS6sA7OqUMDQ0nvQ0OVO7-FqSwVxnazCIFYQ6KBgKNZ1mw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true"></iframe>
 			<br>
