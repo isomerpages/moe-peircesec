@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Academic Calendars.md
       - Timetable.md
       - Assessment Plan 2025.md
       - Exam Timetable.md
