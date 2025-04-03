@@ -3,28 +3,29 @@ title: Sec 2 Subject Options Exercise
 permalink: /parents/briefing-webinar-resources/sec-2-subject-options-exercise/
 description: ""
 third_nav_title: Briefing & Webinar Resources
-variant: markdown
+variant: tiptap
 ---
-<ul class="jekyllcodex_accordion">
-		<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Sec 2NT Subject Options Slides</label>
-    <div>
-			Please click <a href="/files/Sec_2NT_SSOE_2024_updated_24_Sept.pdf">here</a> for the sildes in PDF.
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Sec 2NA Subject Options Slides</label>
-    <div>
-Please click <a href="/files/Sec_2A_SSOE_2024_updated_24_Sept.pdf">here</a> for the sildes in PDF.
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">Sec 2E Subject Options Slides</label>
-    <div>
-Please click <a href="/files/Sec_2E_SSOE_2024_24_Sept.pdf">here</a> for the sildes in PDF.
-    </div>
-	</li>
-	</ul>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>G1 Subject Options</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please click <a href="/files/Sec_3_G1_Booklet_25_updated_2_April.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download G1 Subject Options Booklet</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>G2 Subject Options</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please click <a href="/files/Sec_3_G2_Booklet_25_updated_2_April.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download G2 Subject Options Booklet</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>G3 Subject Options</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please click <a href="/files/Sec_3_G3_Booklet_25_updated_2_April.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download G3 Subject Options Booklet</p>
+</div>
+</details>
+</div>
+<p></p>
