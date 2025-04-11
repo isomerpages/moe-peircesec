@@ -173,7 +173,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
