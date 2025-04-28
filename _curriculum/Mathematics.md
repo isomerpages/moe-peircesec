@@ -256,13 +256,5 @@ opportunities to participate in various enrichment activities including:</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4>Ngee Ann Poly Math Challenge 2021</h4>
-<p>Our students challenged themselves to&nbsp;a zesty series of exciting
-mathematics quests&nbsp;in the&nbsp;Maths Challenge organized by Nee Ann
-Polytechnic. They had the opportunity to&nbsp;marvel at and see the use
-of mathematics beyond the classroom. Participants learn that mathematics
-can be fun, interesting, exciting and beneficial to daily life.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQznn7v9ktJx5KwtCo21jE8Ed3ZKpPvO0JUMSnq0SnbRJ0O1n8xtHZfYcJACfLgZGeBYVu46lzYS2_E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<h4></h4>
 <p></p>
