@@ -84,6 +84,9 @@ to help them achieve their musical potential</p>
 <li>
 <p>2023: Platinum Award</p>
 </li>
+<li>
+<p>2024: Diamond Award &amp; Best Showmanship Award</p>
+</li>
 </ul>
 </li>
 </ul>
