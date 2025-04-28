@@ -94,6 +94,9 @@ variant: tiptap
 <li>
 <p>Limelight@Esplanade 2024</p>
 </li>
+<li>
+<p>Singapore Youth Festival Arts Presentation 2025 – Certificate of Distinction</p>
+</li>
 </ul>
 <h6><strong>CCA training days and time:</strong></h6>
 <table style="minWidth: 75px">
