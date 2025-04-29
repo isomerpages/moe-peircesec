@@ -57,6 +57,9 @@ to help them achieve their musical potential</p>
 <li>
 <p>2023: Certification of Accomplishment</p>
 </li>
+<li>
+<p>2025: Certification of Accomplishment</p>
+</li>
 </ul>
 </li>
 <li>
