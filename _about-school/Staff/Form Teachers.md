@@ -273,7 +273,7 @@ variant: tiptap
 <p>Mdm Ng Yee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Fernando (CCE)</p>
+<p>Ms Amanda Fernando</p>
 </td>
 </tr>
 <tr>
