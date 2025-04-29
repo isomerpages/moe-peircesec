@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms Tan Yin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Fangzhe</p>
+<p></p>
 </td>
 </tr>
 </tbody>
