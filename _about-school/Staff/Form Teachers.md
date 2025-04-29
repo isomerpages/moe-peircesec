@@ -72,7 +72,7 @@ variant: tiptap
 <p>1 C(are)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chung</p>
+<p>Mrs Chung Mee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jie Heng Alfred</p>
@@ -273,7 +273,7 @@ variant: tiptap
 <p>Mdm Ng Yee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Fernando (CCE)</p>
+<p>Ms Amanda Fernando</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms Tan Yin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Fangzhe</p>
+<p></p>
 </td>
 </tr>
 </tbody>

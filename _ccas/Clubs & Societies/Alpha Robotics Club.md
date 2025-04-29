@@ -19,7 +19,6 @@ variant: markdown
 
 **Teachers-in-charge**  
 Mdm Tan Yin Chin&nbsp;([tan\_yin\_chin@moe.edu.sg](mailto:tan_yin_chin@moe.edu.sg))  
-Mr Tan Kay Yong&nbsp;([tan\_kay\_yong@moe.edu.sg](mailto:tan_kay_yong@moe.edu.sg))
 
 **CCA Training Day and Time**  
 Tuesday: 3:30 p.m. to 5:30 p.m.  
