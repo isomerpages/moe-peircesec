@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kwan Qi Xiang</p>
+<p>Kwan Qi Xiang (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (S2) (Internal)</p>
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Keng Kiat</p>
+<p>Ang Keng Kiat (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -143,7 +143,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ashwin Selvarajan</p>
+<p>Ashwin Selvarajan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Discipline (Internal) / 3 Excellence (3)</p>
@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheng Shing Kim</p>
+<p>Cheng Shing Kim (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD ICT</p>
@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Chun Loong Dennis</p>
+<p>Goh Chun Loong Dennis (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
@@ -215,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Joon Yong</p>
+<p>Ng Joon Yong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Craft &amp; Technology</p>
@@ -263,7 +263,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Bing Fu</p>
+<p>Ng Bing Fu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher Biology / 2 Care (1)</p>
@@ -275,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Chenyee</p>
+<p>Ng Chenyee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher Geography / 3 Empathy (1)</p>
@@ -299,7 +299,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Yeok Jin Eugene</p>
+<p>Lim Yeok Jin Eugene (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Data Management &amp; Security / 4 Integrity (2)</p>
@@ -311,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Kian Lai Jonathan</p>
+<p>Ong Kian Lai Jonathan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Well-Being / 3 Passion (2)</p>
@@ -502,7 +502,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kan Cheng Mun</p>
+<p>Kan Cheng Mun (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -538,7 +538,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Hwee Lin Joscelyn (Ms) (CAJT)</p>
+<p>Lee Hwee Lin Joscelyn (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -574,29 +574,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lin Fangzhe (Intern)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lin Kuen Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_kuen_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">lin_kuen_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lin Yuzhi Karyl (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -609,7 +586,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Delong Brandon</p>
+<p>Low Delong Brandon (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -681,17 +658,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Wei Shyan (Ms) (Intern)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Pang Yin Yin (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -704,7 +670,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P Sivapathasundaram</p>
+<p>P Sivapathasundaram (Mr Siva)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -740,13 +706,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sim Hui Zhen Crystal (Ms) (UT)</p>
+<p>Sim Hui Zhen Crystal (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Sim_Hui_Zhen_Crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sim_Hui_Zhen_Crystal@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -787,18 +754,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Jie Heng Alfred</p>
+<p>Tan Jie Heng Alfred (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:how_jie_heng_alfred@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_jie_heng_alfred@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Kok Heong Godberg</p>
+<p>Tan Kok Heong Godberg (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -834,7 +802,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tham Wing Kong Vincent</p>
+<p>Tham Wing Kong Vincent (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -847,7 +815,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tham Yee Mui Miranda Mirabelle (Ms)</p>
-<p>(CAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -883,7 +850,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Liang Soon</p>
+<p>Wong Liang Soon (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -919,7 +886,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Elysha Siriwardene (Ms) (UT)</p>
+<p>Elysha Siriwardene (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -942,7 +909,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yee Pui Ling Vivian (Ms)</p>
+<p>Yee Pui Ling Vivian (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -954,7 +921,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Jun Qiang Matthias</p>
+<p>Goh Jun Qiang Matthias (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer</p>
@@ -966,7 +933,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Chee Chong</p>
+<p>Tan Chee Chong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEN Officer</p>
@@ -1002,7 +969,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Balakrishnan V.</p>
+<p>Balakrishnan V. (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -1014,7 +981,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teo Wei Siong Christopher</p>
+<p>Teo Wei Siong Christopher (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager / ICT Manager</p>
@@ -1092,7 +1059,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ee Chong Choon Daniel</p>
+<p>Ee Chong Choon Daniel (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjunct TSO</p>
