@@ -335,7 +335,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Pei Ghee (Mrs Loo) (NPL)</p>
+<p>Tan Pei Ghee (Mrs Loo)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
