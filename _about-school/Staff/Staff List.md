@@ -146,7 +146,7 @@ variant: tiptap
 <p>Ashwin Selvarajan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Discipline (Internal) / 3 Excellence (3)</p>
+<p>HOD Discipline (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ashwin_selvarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashwin_selvarajan@moe.edu.sg</a>
@@ -254,7 +254,7 @@ variant: tiptap
 <p>Lam Tze Kim (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Chinese Lang / 4 Respect (1)</p>
+<p>Lead Teacher Chinese Lang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lam_tze_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_tze_kim@moe.edu.sg</a>
@@ -266,7 +266,7 @@ variant: tiptap
 <p>Ng Bing Fu (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Biology / 2 Care (1)</p>
+<p>Lead Teacher Biology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_bing_fu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bing_fu@moe.edu.sg</a>
@@ -278,7 +278,7 @@ variant: tiptap
 <p>Ng Chenyee (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher Geography / 3 Empathy (1)</p>
+<p>Lead Teacher Geography</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_chenyee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chenyee@moe.edu.sg</a>
@@ -290,7 +290,7 @@ variant: tiptap
 <p>Lai Jia Hui Arion (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Art (Internal) / 1 Passion (2)</p>
+<p>SH Art (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jia_hui@moe.edu.sg</a>
@@ -302,7 +302,7 @@ variant: tiptap
 <p>Lim Yeok Jin Eugene (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Data Management &amp; Security / 4 Integrity (2)</p>
+<p>SH Data Management &amp; Security</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yeok_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yeok_jin@moe.edu.sg</a>
@@ -314,7 +314,7 @@ variant: tiptap
 <p>Ong Kian Lai Jonathan (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Well-Being / 3 Passion (2)</p>
+<p>SH Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jonathon_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jonathon_ong@moe.edu.sg</a>
@@ -326,7 +326,7 @@ variant: tiptap
 <p>Seet Jia Le Valerie (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE (Internal) / 1 Integrity (1)</p>
+<p>SH CCE (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie_seet@moe.edu.sg" rel="noopener nofollow" target="_blank">valerie_seet@moe.edu.sg</a>
@@ -350,7 +350,7 @@ variant: tiptap
 <p>Yao Lingyun (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH EL &amp; Lit / 2 Integrity (2)</p>
+<p>SH EL &amp; Lit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yao_ling_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yao_ling_yun@moe.edu.sg</a>
@@ -362,7 +362,7 @@ variant: tiptap
 <p>Yeo Yah Hwee June (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Mathematics / 2 Respect (2)</p>
+<p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -373,7 +373,7 @@ variant: tiptap
 <p>Lim Christina (Mrs Lai)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Educational Support / 3 Passion (1)</p>
+<p>ST Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:christina_camillus_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_camillus_lim@moe.edu.sg</a>
