@@ -72,7 +72,7 @@ variant: tiptap
 <p>1 C(are)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chung</p>
+<p>Mrs Chung Mee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Jie Heng Alfred</p>
