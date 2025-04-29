@@ -253,8 +253,10 @@ opportunities to participate in various enrichment activities including:</p>
 </ul>
 <p>All Singapore Secondary Mathematics Competition Normal Course Students</p>
 <h3>3. Photo Gallery</h3>
+<p>Math Learning Day</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTWPYwOsOi1sk_Pgy26APDz0SWvrjKAjZK8O0FDiY09Pm8fz57jX8b_Q9h_8JEKUh-7z8wNAstNfOJr/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt5MaYv28ROEdFbRyEZaYDPA_E5xEke4HDbKtc8wnxuvPpCk9TKhYOmlxx5dB1ToYL7peBq57CNCu1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4></h4>
+<p></p>
+<p></p>
 <p></p>
