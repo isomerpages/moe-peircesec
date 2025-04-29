@@ -442,7 +442,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Teck Hong</p>
+<p>Chia Teck Hong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1103,7 +1103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rapi’e bin Maksoodi</p>
+<p>Rapi’e bin Maksoodi (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
