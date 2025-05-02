@@ -7,7 +7,8 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p>2023 GCE 'O' Level Results</p>
+<p><strong>2024 GCE 'O' Level Results</strong>
+</p>
 <p>Our students rose to the occasion and performed well at the 2024 GCE 'O'
 Level Examinations.</p>
 <p>73.9% of our 4E students qualified for admission to JCs/MI and more than
@@ -19,7 +20,8 @@ and success.</p>
 </div>
 </li>
 <li>
-<p>2023 GCE 'N' Level Results</p>
+<p><strong>2024 GCE 'N' Level Results</strong>
+</p>
 <p>Our 2024 Secondary 4N students have achieved commendable results in the
 2024 GCE N-Level Examination, a reflection of their hard work, determination,
 and commitment to learning.</p>
