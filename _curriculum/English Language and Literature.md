@@ -232,15 +232,16 @@ and build up a strong foundation in the study of Literature.</p>
 <p>(iv) Mini Debates</p>
 <p>(v) Alternative Assessment</p>
 <p>(vi) Literature Trail (for Sec 1)</p>
-<p>(vii) Watch a play / musical (for Sec 2)</p>
+<p>(vii) <a href="https://drive.google.com/file/d/1V5BjUU-GCRqj_RZ3Q2Gov78A1VxrKtNb/view?usp=sharing" rel="noopener nofollow" target="_blank">Watch a play / musical (for Sec 2)</a>
+</p>
 <p>These varied learning activities help students actively and creatively
 construct their understanding and interpretations of their literature texts
 as well as allow students to experience joy of learning.</p>
-<p>Secondary One Literature texts:</p>
+<p><strong>Secondary One Literature texts</strong>:</p>
 <p>(i) Percy Jack and the Lightning Thief – Rick Riordan</p>
 <p>(ii) Little Things (Poetry Anthology) – edited by Loh Chin Ee, Angelia
 Poon and Esther Vincent</p>
-<p>Secondary Two Literature texts:</p>
+<p><strong>Secondary Two Literature texts</strong>:</p>
 <p>(i) Little Ironies – Catherine Lim</p>
 <p>(ii) Frankenstein (Play) – adapted by Philip Pullman</p>
 <p>(iii) Little Things (Poetry Anthology) – edited by Loh Chin Ee, Angelia
