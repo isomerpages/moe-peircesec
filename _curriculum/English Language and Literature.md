@@ -191,8 +191,8 @@ educational technology to develop self-directed and digitally literate
 learners. Teachers incorporate platforms such as Padlet, Classkick, ClassPoint,
 Quizziz, SLS, and Google Classroom to create blended learning environments
 that are interactive, collaborative, and learner-centred.</p>
-<p>These platforms support real-time feedback, formative assessment for learning
-(AfL), and provide opportunities for students to participate in peer discussions
+<p>These platforms support real-time feedback, assessment for learning (AfL),
+and provide opportunities for students to participate in peer discussions
 and collaborative tasks beyond the physical classroom. Flipped learning
 practices also enable students to take ownership of their progress by exploring
 content independently and coming prepared for deeper in-class engagement.</p>
