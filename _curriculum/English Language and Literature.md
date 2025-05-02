@@ -231,7 +231,8 @@ and build up a strong foundation in the study of Literature.</p>
 <p>(iii) Hot Seating</p>
 <p>(iv) Mini Debates</p>
 <p>(v) Alternative Assessment</p>
-<p>(vi) Literature Trail (for Sec 1)</p>
+<p>(vi) <a href="https://drive.google.com/file/d/1qio2_DZUvwCOjSDoui5DgAdEmnk-CJ5R/view?usp=sharing" rel="noopener nofollow" target="_blank">Literature Trail (for Sec 1)</a>
+</p>
 <p>(vii) <a href="https://drive.google.com/file/d/1V5BjUU-GCRqj_RZ3Q2Gov78A1VxrKtNb/view?usp=sharing" rel="noopener nofollow" target="_blank">Watch a play / musical (for Sec 2)</a>
 </p>
 <p>These varied learning activities help students actively and creatively
