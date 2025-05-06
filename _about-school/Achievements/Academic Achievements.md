@@ -16,7 +16,7 @@ Level Examinations.</p>
 <p>We are proud of our class of 2024, and we celebrate their story of struggle
 and success.</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzQc5xjUw7ElUKis9ZkwKvboBYfkPRuoTUCc5x1JLDUmQbCvxVHfcijH7a-OHhsA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzQc5xjUw7ElUKis9ZkwKvboBYfkPRuoTUCc5x1JLDUmQbCvxVHfcijH7a-OHhsA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </li>
 <li>
@@ -29,7 +29,7 @@ and commitment to learning.</p>
 appreciation to our parents, teachers, counsellors, and allied educators
 (LBS) for their unwavering support and dedication.</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT92uM5jWbaLtcZjz6znvkeqg-NmLRR7Jv5u5-2lQVQRscL68QFNe8bb5iDE1_NrA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT92uM5jWbaLtcZjz6znvkeqg-NmLRR7Jv5u5-2lQVQRscL68QFNe8bb5iDE1_NrA/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </li>
 </ul>
