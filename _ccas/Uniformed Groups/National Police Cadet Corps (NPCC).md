@@ -32,15 +32,15 @@ and experience revolver shooting first-hand. In addition, they will also
 build their courage and tenacity through annual school camps and outdoor
 camps organised by NPCC HQ.</p>
 <p><strong>Achievements:<br></strong>Unit Overall Proficiency Award: DISTINCTION
-(2023)</p>
+(2023)
+<br>UOPA Distinction (2024)</p>
 <p></p>
 <p><strong>Teachers-in-charge</strong>
 <br>Mr Tham Wing Kong (<a href="mailto:tham_wing_kong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_wing_kong@moe.edu.sg</a>)
 <br>Ms Yap Qian Yi Jasmine (<a href="mailto:yap_qian_yi_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_qian_yi_jasmine@moe.edu.sg</a>)
-<br>Ms Adinursuryani Binte Mohamed Rashid (<a href="mailto:Adinursuryani_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Adinursuryani_A@moe.edu.sg</a>)
-<br>Ms Adelia Ng Meiyu (<a href="mailto:adelia_ng_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adelia_ng_meiyu@moe.edu.sg</a>)</p>
+<br>Ms Adinursuryani Binte Mohamed Rashid (<a href="mailto:Adinursuryani_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Adinursuryani_A@moe.edu.sg</a>)</p>
 <p><strong>CCA Training Day and Time</strong>
-<br>Monday:&nbsp;&nbsp; 3:00 to 6:00 p.m.</p>
+<br>Monday:&nbsp;&nbsp; 3:30 p.m. to 6:00 p.m.</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFCF9fVeNBStiwIt439QSB1YDE9_IEm_LAck-otLWK0WjZmstkwX8q4VnhIJG9g-wmUcofqVOWeIUY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
