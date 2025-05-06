@@ -1,6 +1,6 @@
 ---
-title: Infocomm Club
-permalink: /co-curriculum/co-curricular-activities-ccas/clubs-infocomm-club/
+title: Digital Media Club
+permalink: /co-curriculum/co-curricular-activities-ccas/clubs-digital-media-club/
 description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
