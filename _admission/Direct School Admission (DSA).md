@@ -42,16 +42,16 @@ efforts are encouraged, and your growth is our priority.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants should have:
-<br>1) Gained leadership experience in primary school through roles such as
+<br>1) gained leadership experience in primary school through roles such as
 class monitor,&nbsp;prefect/ student leader,&nbsp;CCA leader,&nbsp;or similar
-positions. UG leaders will be expected to join Uniformed Groups upon admission.
-<br>2) Demonstrated passion in contributing to the school or the community</p>
+positions. UG leaders will be expected to join Uniformed Groups upon admission,
+<br>2) demonstrated passion in contributing to the school or the community,</p>
 <p><strong>Physical Fitness Requirement:</strong>
-<br>- Are medically fit to participate in PE programme and outdoor activities.</p>
+<br>3)are medically fit to participate in PE programme and outdoor activities,</p>
 <p><strong>Character:</strong>
-<br>1) Demonstrate responsibility and confidence.
-<br>2) Have a conduct grade of at least ‘Very Good’ in their Primary 5 and
-Primary 6 school reports.</p>
+<br>4) demonstrate responsibility, confidence, care and empathy, and
+<br>5) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
+6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,21 +67,21 @@ on Tues<strong><u>day 22 July 2025, at 3.30 p.m.</u></strong>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants should be:
-<br>1) Active in a performing arts (instrumental) CCA in their primary school
-or an external organization.
-<br>2) Have a strong interest in music.
-<br>3) Have participated in music performances or competitions.</p>
+<br>1) active in a performing arts (instrumental) CCA in their primary school
+or an external organization,
+<br>2) have a strong interest in music,
+<br>3) have participated in music performances or competitions, and</p>
 <p><strong>Character:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Have a conduct grade of at least ‘Very Good’
-in their Primary 5 and Primary 6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
+6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will attend an audition and be prepared to:
-<br>1) Perform a piece of their choice using a Concert Band instrument of
-their choice, such as brass, woodwind and/or percussion. The piece can
-be either a solo piece or from a part of a band piece.
-<br>2) Sight-read a score provided during the audition.</p>
+<br>1) perform a piece of their choice using a Concert Band instrument of
+their choice, such as brass, woodwind and/or percussion and the piece can
+be either a solo piece or from a part of a band piece, and
+<br>2) sight-read a score provided during the audition.</p>
 <p>Applicants who are further shortlisted will attend an interview.</p>
 </td>
 </tr>
@@ -93,22 +93,21 @@ choir performances</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
-<br>1) Have a passion for singing and dancing.
-<br>2) Be willing to showcase their musicality and perform with confidence
-on stage.</p>
+<br>1) have a passion for singing and dancing.
+<br>2)be willing to showcase their musicality and perform with confidence
+on stage,</p>
 <p><strong>Physical Fitness Requirement</strong>:
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Is medically fit and able to participate in
-PE programme.</p>
+<br>3) Is medically fit and able to participate in PE programme, and</p>
 <p><strong>Character:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Have a conduct grade of at least ‘Very Good’
-in their Primary 5 and Primary 6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
+6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will attend an audition and be prepared to:
-<br>1) Do a solo vocal performance.
-<br>2) Perform a solo dance.
-<br>3) Reproduce a dance sequence provided.</p>
+<br>1) do a solo vocal performance,
+<br>2) perform a solo dance, and
+<br>3) reproduce a dance sequence provided.</p>
 <p>Applicants who are further shortlisted will attend an interview.</p>
 </td>
 </tr>
@@ -118,16 +117,16 @@ in their Primary 5 and Primary 6 school reports.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
-<br>1) Demonstrate a passion for the game through regular practice and participation
-in school or external chess activities.
-<br>2) Have participated in school-level, zonal, national, or online-rated
+<br>1) demonstrate a passion for the game through regular practice and participation
+in school or external chess activities,
+<br>2) have participated in school-level, zonal, national, or online-rated
 chess competitions (e.g., National Schools Individual Chess Championship,
-SSPA, etc.).
-<br>3) Possesses sound knowledge of chess fundamentals (openings, tactics,
-strategy, endgames).</p>
+SSPA, etc.),
+<br>3) possesses sound knowledge of chess fundamentals (openings, tactics,
+strategy, endgames), and</p>
 <p><strong>Character:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp; Have a conduct grade of at least ‘Very Good’
-in their Primary 5 and Primary 6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
+6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,16 +140,15 @@ in their Primary 5 and Primary 6 school reports.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
-<br>1) Be an active member of the table tennis CCA in primary school or a
-table tennis club or participated in the Junior Sports Academy.
-<br>2) Participated in the &nbsp;National School Games (NSG) and/or relevant
-competitions.&nbsp;</p>
+<br>1) be an active member of the table tennis CCA in primary school or a
+table tennis club or participated in the Junior Sports Academy,
+<br>2) participated in the &nbsp;National School Games (NSG) and/or relevant
+competitions,&nbsp;</p>
 <p><strong>Physical Fitness Requirement</strong>:&nbsp;
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Is medically and physically
-fit.</p>
+<br>3) Is medically and physically fit, and</p>
 <p><strong>Character:</strong>
-<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a conduct grade of at least
-‘Very Good’ in their Primary 5 and Primary 6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
+6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,16 +164,16 @@ fit.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
-<br>1) Demonstrate</p>
+<br>1) demonstrate</p>
 <p>passion and aptitude in STEM, e.g participation in STEM-related competitions,
 projects, coding courses, robotics clubs, science fairs, or personal STEM
-projects.
-<br>2) Possess problem-solving and critical thinking skills, e.g. performance
+projects,
+<br>2) possess problem-solving and critical thinking skills, e.g. performance
 in a school-based task or interview involving hands-on problem-solving,
-design challenges, or logical reasoning puzzles.</p>
+design challenges, or logical reasoning puzzles, and</p>
 <p><strong>Character:</strong>
-<br>-&nbsp;&nbsp;&nbsp; Have a conduct grade of at least ‘Very Good’ in their
-Primary 5 and Primary 6 school reports</p>
+<br>3) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All shortlisted applicants will attend a selection trial and an interview.</p>
@@ -213,96 +211,4 @@ at <strong>3:00 p.m.</strong>
 application (confirmation of DSA offer / placement on DSA waiting list
 / unsuccessful application) via email by <strong><u>Friday 22 August 2025.</u></strong>
 </p>
-<p>&nbsp;</p>
 <p></p>
-<p></p>
-<h4>&nbsp;<strong>A. Distinctive Programmes</strong></h4>
-<p>Peirce Secondary School is providing experiences with the focus on:
-<br><strong>I. Developing Community Leaders with the Heart to Serve</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA.jpg">
-</div>
-<p>We seek students who can contribute to our Learning for Life Programme
-(LLP) in Community Leadership, especially those who can or with the potential
-and wish to lead student groups and school initiatives to benefit the community.
-Successful candidates will have the opportunity to hone their character
-and leadership skills while making a valuable contribution to our school
-community, and beyond through various exciting experiences.
-<br>
-</p>
-<p><strong>Qualifying Criteria</strong> 
-<br><strong>1. Leadership</strong> 
-<br>• Gained leadership experience in primary school through roles such as
-class monitor, prefect/student leader, CCA leader, or similar positions.
-UG leaders will be expected to join Uniformed Groups upon admission.
-<br>
-<br>• Demonstrated passion in contributing to the school or the community
-<br>
-<br><strong>2. Physical Fitness</strong> 
-<br>• Is medically fit to participate in PE programme and outdoor activities.
-<br>
-<br><strong>3. Character</strong> 
-<br>• A disciplined and confident student with a conduct grade of at least
-‘Very Good’ in his/her Primary 5 and Primary 6 school reports.</p>
-<p><strong>II. Deepening Reflection and Developing Critical Thinking Through Media</strong> 
-<br>Our Applied Learning Programme (ALP) fosters media literacy and cultivates
-student agency within our Peircean community. By seamlessly integrating
-media skills into diverse subjects, ALP allows students to delve into subject
-knowledge, sharpen critical thinking, and connect their learning to real-world
-challenges. This culminates in sharing of disciplinary insights for the
-growth of the school population.</p>
-<p>ALP also empowers students who demonstrate greater interest and passion
-for media and communication. Apart from curricular learning, students also
-hone their skills through leadership and co-curricular activities, where
-projects of greater merit are showcased on schoolwide and external platforms,
-enabling students to become advocates for positive change. Through these
-experiences, students develop confidence, strengthen media and communication
-skills and learn to use media skills for the betterment of the community.
-<br>
-</p>
-<p><strong>Qualifying Criteria</strong> 
-<br>We are looking for enthusiastic P6 students who:
-<br>1. possess experience and accomplishments in communication (including
-media). Examples include public speaking and online media publications.
-<br>
-<br>2. demonstrate interest in current affairs, both local and global.
-<br>
-</p>
-<h4>&nbsp;<strong>B. Application Procedures</strong></h4>
-<p>Below are some information on the centralised application process.
-<br>1. You may submit your application through the online DSA-Sec Portal from <strong><em>7 May 2024, 11am to 3 June 2024, 3pm.</em></strong> For
-more details, please refer to MOE website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a> 
-<br>
-<br>2. It is free-of-charge.
-<br>
-<br>3. Accessing the DSA Portal:
-<br>i. Applicants studying in MOE mainstream primary schools: Only one parent’s
-SingPass is needed to log in. If parent/ guardian is unable to apply online,
-they can approach the child’s primary school for assistance.
-<br>ii. Applicants not studying in MOE mainstream primary schools: They need
-to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal.
-Please visit the MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Apply</a> for details.
-<br>
-<br>4. Choices
-<br>Students can indicate up to three choices (maximum of two choices for
-the same school under two different talent areas). In choosing DSA schools,
-parents and students are encouraged to choose schools wisely based on the
-student’s aptitudes and strengths, bearing in mind the school’s academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.
-<br>
-</p>
-<h4>&nbsp;<strong>C. Selection Details</strong></h4>
-<p>1. The school will contact short-listed candidates by <strong><em>Friday 5 July 2024</em></strong>.</p>
-<p>2. Short-listed candidates will attend an interview and a selection trial
-on <strong><em>Friday 19 July 2024, at 3.30 p.m.</em></strong>
-</p>
-<p>3. All short-listed candidates will be informed of the result of their
-application (confirmation of DSA offer / placement on DSA waiting list
-/ unsuccessful application) via email by <strong><em>Friday 28 August 2024</em></strong>.</p>
-<p>4. Do note that meeting all the criteria does not guarantee the student
-will be shortlisted or given an offer.</p>
-<p>5. Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
