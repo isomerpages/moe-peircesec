@@ -76,7 +76,7 @@ Primary 6 school reports.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Short-listed candidates will attend an interview and a selection trial
-on <strong><u>Tuesday 22 July 2025, at 3.30 p.m.</u></strong>
+on <strong><u>Tuesday 22 July 2025,  at 3.30 p.m.</u></strong>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -114,7 +114,7 @@ choir performances</p>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
 <br>1) have a passion for singing and dancing.
-<br>2)be willing to showcase their musicality and perform with confidence
+<br>2) be willing to showcase their musicality and perform with confidence
 on stage,</p>
 <p><strong>Physical Fitness Requirement</strong>:
 <br>3) Is medically fit and able to participate in PE programme, and</p>
