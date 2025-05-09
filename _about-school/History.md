@@ -83,7 +83,7 @@ Primary and Marymount Convent.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 to 28^</strong>
+<p><strong>26 to 30^</strong>
 </p>
 </td>
 </tr>
