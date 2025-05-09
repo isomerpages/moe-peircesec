@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yao Lingyun (SH English Language)</p>
+<p>Ms Yao Lingyun (SH English Language &amp; Literature)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yao_ling_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yao_ling_yun@moe.edu.sg</a>
