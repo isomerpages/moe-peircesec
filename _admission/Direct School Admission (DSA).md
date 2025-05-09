@@ -50,8 +50,8 @@ positions. UG leaders will be expected to join Uniformed Groups upon admission,
 <br>3)are medically fit to participate in PE programme and outdoor activities,</p>
 <p><strong>Character:</strong>
 <br>4) demonstrate responsibility, confidence, care and empathy, and
-<br>5) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>5) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,8 +72,8 @@ or an external organization,
 <br>2) have a strong interest in music,
 <br>3) have participated in music performances or competitions, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,8 +99,8 @@ on stage,</p>
 <p><strong>Physical Fitness Requirement</strong>:
 <br>3) Is medically fit and able to participate in PE programme, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘ Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,8 +125,8 @@ SSPA, etc.),
 <br>3) possesses sound knowledge of chess fundamentals (openings, tactics,
 strategy, endgames), and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,8 +147,8 @@ competitions,&nbsp;</p>
 <p><strong>Physical Fitness Requirement</strong>:&nbsp;
 <br>3) Is medically and physically fit, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
