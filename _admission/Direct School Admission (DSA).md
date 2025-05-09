@@ -67,7 +67,7 @@ class monitor,&nbsp;prefect/ student leader,&nbsp;CCA leader,&nbsp;or similar
 positions. UG leaders will be expected to join Uniformed Groups upon admission,
 <br>2) demonstrated passion in contributing to the school or the community,</p>
 <p><strong>Physical Fitness Requirement:</strong>
-<br>3)are medically fit to participate in PE programme and outdoor activities,</p>
+<br>3) are medically fit to participate in PE programme and outdoor activities,</p>
 <p><strong>Character:</strong>
 <br>4) demonstrate responsibility, confidence, care and empathy, and
 <br>5) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
@@ -76,7 +76,7 @@ Primary 6 school reports.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Short-listed candidates will attend an interview and a selection trial
-on <strong><u>Tuesday 22 July 2025,  at 3.30 p.m.</u></strong>
+on <strong><u>Tuesday 22 July 2025, at 3.30 p.m.</u></strong>
 </p>
 <p>&nbsp;</p>
 </td>
