@@ -5,13 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2026)</h3>
-<p>Dear Primary 6 (or equivalent) Students,</p>
+<p>Dear Prospective Students,</p>
 <p>Peirce Secondary School invites you to be part of our vibrant and inclusive
 community through the Direct School Admission (DSA) exercise!</p>
 <p>At Peirce, we believe in nurturing every student’s unique strengths and
 interests. This year, we are inviting students with passion and talent
-in <strong>Community Leadership</strong>, <strong>Concert Band</strong>, <strong>Choir</strong>, <strong>International Chess</strong>, <strong>Table Tennis</strong>,
-and <strong>STEM</strong> to join us through the DSA-Sec route.</p>
+to join us through the DSA-Sec route through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Community Leadership</strong>,</p>
+</li>
+<li>
+<p><strong>Concert Band</strong>,</p>
+</li>
+<li>
+<p><strong>Choir</strong>,</p>
+</li>
+<li>
+<p><strong>International Chess</strong>,</p>
+</li>
+<li>
+<p><strong>Table Tennis</strong>, and</p>
+</li>
+<li>
+<p><strong>STEM</strong> 
+</p>
+</li>
+</ul>
 <p>If you have a strong sense of initiative, a love for music, a sharp mind
 for strategy, a competitive spirit in sports, or a flair for problem-solving,
 we warmly invite you to take this opportunity to grow your potential in
