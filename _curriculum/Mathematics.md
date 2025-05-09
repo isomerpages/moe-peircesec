@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Shing Kim (Year Head (HOD ICT)</p>
+<p>Mr Cheng Shing Kim (HOD ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_shing_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shing_kim@moe.edu.sg</a>
