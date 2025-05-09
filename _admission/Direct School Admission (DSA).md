@@ -56,7 +56,7 @@ positions. UG leaders will be expected to join Uniformed Groups upon admission,
 </td>
 <td rowspan="1" colspan="1">
 <p>Short-listed candidates will attend an interview and a selection trial
-on Tues<strong><u>day 22 July 2025, at 3.30 p.m.</u></strong>
+on <strong><u>Tuesday 22 July 2025, at 3.30 p.m.</u></strong>
 </p>
 <p>&nbsp;</p>
 </td>
