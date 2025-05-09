@@ -28,7 +28,7 @@ to join us through the DSA-Sec route through:</p>
 <p><strong>Table Tennis</strong>, and</p>
 </li>
 <li>
-<p><strong>STEM</strong> 
+<p><strong>STEM</strong>
 </p>
 </li>
 </ul>
