@@ -2,8 +2,8 @@
 title: PE and Aesthetics
 permalink: /curriculum/pe-and-aesthetics/
 description: ""
+variant: markdown
 ---
-
 ### 1\. Department Teachers
 
 | Name 	| Email Address 	|
@@ -16,7 +16,7 @@ description: ""
 
 
 **Vision**
-Happy and Healthy Peirceans**
+Happy and Healthy Peirceans
 
 **Mission**
 Peirceans will acquire a variety of movement skills and health-related knowledge in a safe and collaborative setting so that they can play a range of games and keep themselves active and healthy.
