@@ -119,7 +119,7 @@ on stage,</p>
 <p><strong>Physical Fitness Requirement</strong>:
 <br>3) Is medically fit and able to participate in PE programme, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘ Very Good’ in their Primary 5 and
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
 Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
