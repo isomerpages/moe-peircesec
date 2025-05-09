@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2025)</h3>
+<h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2026)</h3>
 <p>Dear Primary 6 (or equivalent) Students,</p>
 <p>Peirce Secondary School invites you to be part of our vibrant and inclusive
 community through the Direct School Admission (DSA) exercise!</p>
