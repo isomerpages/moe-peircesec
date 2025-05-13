@@ -1,5 +1,5 @@
 ---
-title: 2023 Sec 1 intake Details
+title: 2025 Sec 1 intake Details
 permalink: /admissions/2023-sec-1-intake-details/
 description: ""
 variant: markdown
