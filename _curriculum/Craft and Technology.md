@@ -41,7 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Arion Lai Jia Hui</p>
+<p>Ms Arion Lai Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jia_hui@moe.edu.sg</a>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Karyl Lin Yuzhi</p>
+<p>Ms Karyl Lin Yuzhi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_yuzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuzhi@moe.edu.sg</a>

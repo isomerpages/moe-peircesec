@@ -5,13 +5,33 @@ description: ""
 variant: tiptap
 ---
 <h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2026)</h3>
-<p>Dear Primary 6 (or equivalent) Students,</p>
+<p>Dear Prospective Students,</p>
 <p>Peirce Secondary School invites you to be part of our vibrant and inclusive
 community through the Direct School Admission (DSA) exercise!</p>
 <p>At Peirce, we believe in nurturing every student’s unique strengths and
 interests. This year, we are inviting students with passion and talent
-in <strong>Community Leadership</strong>, <strong>Concert Band</strong>, <strong>Choir</strong>, <strong>International Chess</strong>, <strong>Table Tennis</strong>,
-and <strong>STEM</strong> to join us through the DSA-Sec route.</p>
+to join us through the DSA-Sec route through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Community Leadership</strong>,</p>
+</li>
+<li>
+<p><strong>Concert Band</strong>,</p>
+</li>
+<li>
+<p><strong>Choir</strong>,</p>
+</li>
+<li>
+<p><strong>International Chess</strong>,</p>
+</li>
+<li>
+<p><strong>Table Tennis</strong>, and</p>
+</li>
+<li>
+<p><strong>STEM</strong>
+</p>
+</li>
+</ul>
 <p>If you have a strong sense of initiative, a love for music, a sharp mind
 for strategy, a competitive spirit in sports, or a flair for problem-solving,
 we warmly invite you to take this opportunity to grow your potential in
@@ -47,16 +67,16 @@ class monitor,&nbsp;prefect/ student leader,&nbsp;CCA leader,&nbsp;or similar
 positions. UG leaders will be expected to join Uniformed Groups upon admission,
 <br>2) demonstrated passion in contributing to the school or the community,</p>
 <p><strong>Physical Fitness Requirement:</strong>
-<br>3)are medically fit to participate in PE programme and outdoor activities,</p>
+<br>3) are medically fit to participate in PE programme and outdoor activities,</p>
 <p><strong>Character:</strong>
 <br>4) demonstrate responsibility, confidence, care and empathy, and
-<br>5) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>5) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Short-listed candidates will attend an interview and a selection trial
-on Tues<strong><u>day 22 July 2025, at 3.30 p.m.</u></strong>
+on <strong><u>Tuesday 22 July 2025, at 3.30 p.m.</u></strong>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -72,8 +92,8 @@ or an external organization,
 <br>2) have a strong interest in music,
 <br>3) have participated in music performances or competitions, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,13 +114,13 @@ choir performances</p>
 <td rowspan="1" colspan="1">
 <p>Applicants should:
 <br>1) have a passion for singing and dancing.
-<br>2)be willing to showcase their musicality and perform with confidence
+<br>2) be willing to showcase their musicality and perform with confidence
 on stage,</p>
 <p><strong>Physical Fitness Requirement</strong>:
 <br>3) Is medically fit and able to participate in PE programme, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,8 +145,8 @@ SSPA, etc.),
 <br>3) possesses sound knowledge of chess fundamentals (openings, tactics,
 strategy, endgames), and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,8 +167,8 @@ competitions,&nbsp;</p>
 <p><strong>Physical Fitness Requirement</strong>:&nbsp;
 <br>3) Is medically and physically fit, and</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Good’ in their Primary 5 and Primary
-6 school reports.</p>
+<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
