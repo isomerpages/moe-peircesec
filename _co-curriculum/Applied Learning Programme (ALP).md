@@ -72,17 +72,6 @@ to participate in national-level research projects and competitions. These
 experiences not only stretch their abilities but also deepen their passions,
 allowing them to explore their interests on a larger scale and broaden
 their perspectives.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSS_Drone_Challenge_Champions.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_09_13_at_5_28_53_PM.jpg">
-</div>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1vkXLDoG4NORro87hHq5mcOcujyBQJuFi-ReQpAWf4_u5XG6y0Xfst4nwOEelJJgXlcNDy_XabUrP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>
 <br>
 </p>
