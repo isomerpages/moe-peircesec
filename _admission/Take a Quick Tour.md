@@ -8,13 +8,13 @@ variant: markdown
 
 **School Entrance**
 
-Our school is located at 10 Sin Ming Walk, accessible by car, bus and MRT. We also have a back gate access to Upper Thomson Road
+Our school is located at 10 Sin Ming Walk, accessible by car, bus and MRT. We also have a back gate access to Upper Thomson Road.
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!4v1670308172674!6m8!1m7!1sA9v-J-2yTOxHUn5N2e3yoQ!2m2!1d1.36556259496993!2d103.8305259458993!3f319.28!4f6.560000000000002!5f0.5970117501821992"></iframe>
 
 <b>Front Porch</b>
 
-Our driveway features a wide roundabout for you to drop off and pick up your child/ward, with our iconic statue of Yue Fei and his mother. Our porch also has benches for use, so that students need not stand around to wait. Our OM frequently oversees the traffic in order to facilitate dismissal- this not only guarantees your child’s safety but it also means no traffic jams during pick up!
+Our driveway features a wide roundabout for you to drop off and pick up your child/ward, with our iconic statue of Yue Fei and his mother. Our porch also has benches for use, so that students need not stand around to wait. Our OM frequently oversees the traffic in order to facilitate dismissal - this not only guarantees your child’s safety but it also means no traffic jams during pick up!
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1670308219799!6m8!1m7!1sCAoSLEFGMVFpcFB5TzdvMnVPbHo0SUdwNHJpY19iaFVraDhJS1FJRW1jbFk4Rl9v!2m2!1d1.3653435!2d103.8304318!3f140!4f20!5f0.5970117501821992" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -29,14 +29,14 @@ A vast, colourful space for assemblies, PE lessons, free play and CCA trainings.
 
 <b>School Hall</b>
 
-Our school hall is spacious and well ventilated. It plays host to assemblies, PE lessons, CCA trainings and examinations.
+Our school hall is spacious and air-conditioned. It plays host to assemblies, PE lessons, CCA trainings and examinations.
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!4v1670308348441!6m8!1m7!1sCAoSLEFGMVFpcE1xYjYtRHdjUnkxX3U5VGVtVTFBRkhLandMSTNxWnZKeEVnbWd6!2m2!1d1.3664512!2d103.8295174!3f17.73!4f-3.230000000000004!5f0.4000000000000002"></iframe>
 
 
 <b>Library</b>
 
-Our fully air conditioned library has a wide range of titles to appeal to both growing and adept readers. It also has smaller rooms for group activities.
+Our fully air-conditioned library has a wide range of titles to appeal to both growing and adept readers. It also has smaller rooms for group activities.
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1670308440694!6m8!1m7!1sCAoSLEFGMVFpcE5Eb0E0S3RpemRJd05GT3NKMDN5YjlBMktNU2xyRGZ0UGdCWTlC!2m2!1d1.3660692!2d103.830104!3f126.1!4f-9.86!5f1.455089096075342" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
