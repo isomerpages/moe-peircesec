@@ -4,7 +4,14 @@ permalink: /co-curriculum/advanced-elective-modules-aems/
 description: ""
 variant: tiptap
 ---
-### Power Boating for Leisure
-
-Conducted by the Singapore Polytechnic, Power Boating for Leisure provides students with the knowledge and skills to handle powered pleasure crafts in Singapore. It emphasises the practical aspects of good seamanship, and allows students to apply their knowledge from Geography and Mathematics to calculate and estimate navigation. The course also exposes students to exciting career opportunities in cruise ship and leisure boating industry.
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeB4DUOo0AqbVHxjnQU3xDR3z-EXzzmFqVoTFp4UxmoDXNb71Dt2lFfgX_i5FXnSYdYCuuZcOpfDg5/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<h3>Applied Learning @ Polytechnics</h3>
+<p>ApLM are enrichment modules that broaden the learning experiences of students
+and complement the secondary school curriculum with a focus on the practical
+application of knowledge. These modules provide our students with applied
+learning opportunities – learning that involves learning by doing, learning
+about the real world, and learning for life. It allows students to discover
+their interests and strengths and make informed education and career choices.</p>
+<p>At Peirce Secondary School, we expose Secondary 2 - 4 students to ApLMs
+@ Polytechnics to inspire them to have an aspirational pathway to work
+towards. These modules will be conducted at the Polytechnics, and may take
+place during Term time or the school holidays.</p>
