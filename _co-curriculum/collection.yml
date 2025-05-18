@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
       - Applied Learning Modules (ApLM).md
       - Co Curricular Activities (CCAs).md
