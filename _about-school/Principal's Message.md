@@ -35,5 +35,5 @@ rooted in Values.</p>
 <p>Wishing everyone a good year ahead.</p>
 <p>Benedict Keh
 <br>Principal / Peirce Secondary School</p>
-<p></p>
+<p>a</p>
 <p></p>
