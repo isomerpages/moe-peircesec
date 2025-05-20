@@ -36,4 +36,3 @@ rooted in Values.</p>
 <p>Benedict Keh
 <br>Principal / Peirce Secondary School</p>
 <p>a</p>
-<p></p>
