@@ -115,7 +115,8 @@ variant: tiptap
 <p>Year Head (S4,5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leong_siew_yin_frieda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siew_yin_frieda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +127,8 @@ variant: tiptap
 <p>Year Head (S3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loke_pui_san@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_pui_san@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +367,20 @@ variant: tiptap
 <p>SH Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yeo_yah_hwee_june@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yah_hwee_june@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gay Wei Guang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gay_wei_zhuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_wei_zhuang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
