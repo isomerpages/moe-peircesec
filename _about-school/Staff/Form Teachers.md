@@ -50,7 +50,7 @@ variant: tiptap
 <p>1 I(ntegrity)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Seet &amp; Mr Zhuang Wei Guang</p>
+<p>Ms Valerie Seet &amp; Mr Zhuang Wei Zhuang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kousalya</p>
