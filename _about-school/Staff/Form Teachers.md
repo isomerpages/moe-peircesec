@@ -50,7 +50,7 @@ variant: tiptap
 <p>1 I(ntegrity)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Valerie Seet</p>
+<p>Ms Valerie Seet &amp; Mr Gay Wei Zhuang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kousalya</p>
@@ -196,7 +196,7 @@ variant: tiptap
 <p>Ms Hong Wee Fui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Helen Lee</p>
+<p>Mrs Loo Pei Ghee</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ variant: tiptap
 <p>Mdm Lee Chun Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Heong</p>
+<p>Mr Tan Kok Heong &amp; Mr Chua</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ variant: tiptap
 <p>Ms Tan Yin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Qin Jie</p>
 </td>
 </tr>
 </tbody>
