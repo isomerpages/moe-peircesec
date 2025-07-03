@@ -6,6 +6,6 @@ description: ""
 third_nav_title: Briefing & Webinar Resources
 ---
 <div class="iframe-wrapper">
-<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSi-sJXBYk6pv-aQapcQjWV4QlLvHTwZ4B4oTImwU7cXETo7rJeIJCeje0An_dPmg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDxfWW4ru2ahenOlqOa66yGELDvt6G5aBOi4dfjT-ZNnxADD16Mt_jeYcCIgDPhw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
