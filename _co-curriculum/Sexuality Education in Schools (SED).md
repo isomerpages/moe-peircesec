@@ -100,12 +100,12 @@ which are of prime concern at this age.</p>
 <h3>Secondary 2</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S2p1.png">
 </div>
 <h3>Secondary 3</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S3.jpg">
 </div>
 <h3>Secondary 4</h3>
 <p></p>
