@@ -61,7 +61,7 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Sec 4NT</label>
     <div>
-			Please click <a href="/files/Exam%20Timetable/2024_GCE_NT_Prelim_Timetable.pdf">here </a> for the timetable.
+			Please click <a href="/files/Exam%20Timetable/2025_Sec_4NT_Prelim_Exam_TT_020725.pdf">here </a> for the timetable.
     </div>
 	</li>
 	<li>
