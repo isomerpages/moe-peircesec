@@ -68,7 +68,7 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Sec 4NA</label>
     <div>
-      Please click <a href="/files/Exam%20Timetable/2024_GCE_NA_Prelim_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/2025_Sec_4NA_Prelim_Exam_TT_020725.pdf">here </a> for the timetable.
     </div>
 	</li>
 	<li>
