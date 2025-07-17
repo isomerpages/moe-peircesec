@@ -75,7 +75,7 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sec 4E &amp; 5A</label>
     <div>
-      Please click <a href="/files/Exam%20Timetable/202025_Sec_4E5A_Prelim_Exam_TT_130725.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/2025_Sec_4E5A_Prelim_Exam_TT_130725.pdf">here </a> for the timetable.
     </div>
 	</li>
 	</ul>
