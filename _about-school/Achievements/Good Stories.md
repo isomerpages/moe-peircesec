@@ -5,6 +5,22 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
+<h4><strong>Outstanding Science Teacher Award – Mr Ang Keng Kiat</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Ang Keng Kiat HOD Science receiving the Outstanding Science Teacher Award 2025 Physics" src="/images/Peirce_PSS_Outstanding_Science_Teacher_Award_2025_Ang_Keng_Kiat.jpg">
+</div>
+<p>We are proud to announce that Mr Ang Keng Kiat (second from right), our
+Head of Department for Science, has been awarded the <strong>Outstanding Science Teacher Award 2025</strong> for
+his excellence in teaching and leadership in Science education.</p>
+<p>An engineer by training, Mr Ang brings real-world relevance into the classroom.
+Under his guidance, the Science Department at Peirce has championed inquiry-based
+learning, hands-on experimentation, and the innovative use of educational
+technology. His belief that Science should empower students to make a positive
+impact shapes everything the department does.</p>
+<p>This award reflects not just Mr Ang’s personal achievement, but the shared
+passion and dedication of the entire Science Department.</p>
+<p>Congratulations, Mr Ang, on this much deserved recognition!</p>
 <h4><strong>Second Minister for Education Visit</strong></h4>
 <p>This week began with a visit from a very special guest, our Second Minister
 for Education, Dr. Maliki Osman! Our VIP was warmly welcomed and accompanied
