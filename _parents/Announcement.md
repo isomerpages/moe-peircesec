@@ -22,7 +22,7 @@ teachers who make a real difference! 🙌
 <br>
 <br>
 </p>
-<p>_______________________________________________________________________________________________________________
+<p>________________________________________________________________________________________________________
 <br>
 <br>Drug Victims Remembrance Day Announcement</p>
 <p><strong><u>Background: Drug Victims Remembrance Day</u>.</strong> Since
