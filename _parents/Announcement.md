@@ -4,7 +4,27 @@ permalink: /parents/announcement/
 description: ""
 variant: tiptap
 ---
-<h4>Drug Victims Remembrance Day Announcement</h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
+</div>
+<h4><a rel="noopener noreferrer nofollow" target="_blank">Know a teacher who truly cares and goes the extra mile for your child?</a></h4>
+<p>Nominate them for the CTA to show your appreciation! 💖 Let’s thank the
+teachers who make a real difference! 🙌
+<br>📅 Deadline: 31 Dec 2025
+<br>To nominate your teachers:
+<br>1. Log in to <a rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg</a>
+<br>2. Click ‘NOMINATE NOW’
+<br>3. Write the teacher’s full name
+<br>(Refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/</a>)
+<br>4. Follow the instructions to fill in the form
+<br>5. Click ‘SUBMIT’
+<br>
+<br>
+</p>
+<p>________________________________________________________________________________________________________
+<br>
+<br>Drug Victims Remembrance Day Announcement</p>
 <p><strong><u>Background: Drug Victims Remembrance Day</u>.</strong> Since
 2024, Singapore has designated every third Friday of May as Drug Victims
 Remembrance Day. This day serves as a reminder of the harms caused by drug
