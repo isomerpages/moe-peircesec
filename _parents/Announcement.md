@@ -19,11 +19,8 @@ teachers who make a real difference! 🙌
 <br>(Refer to <a href="https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/" rel="noopener noreferrer nofollow" target="_blank">https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/</a>)
 <br>4. Follow the instructions to fill in the form
 <br>5. Click ‘SUBMIT’
-<br>
-<br>
-</p>
-<p>________________________________________________________________________________________________________
-<br>
+<br>________________________________________________________________________________________________________</p>
+<p>
 <br>Drug Victims Remembrance Day Announcement</p>
 <p><strong><u>Background: Drug Victims Remembrance Day</u>.</strong> Since
 2024, Singapore has designated every third Friday of May as Drug Victims
