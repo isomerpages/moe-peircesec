@@ -8,15 +8,15 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
 </div>
-<h4><a rel="noopener noreferrer nofollow" target="_blank">Know a teacher who truly cares and goes the extra mile for your child?</a></h4>
+<h4><u>Know a teacher who truly cares and goes the extra mile for your child?</u></h4>
 <p>Nominate them for the CTA to show your appreciation! 💖 Let’s thank the
 teachers who make a real difference! 🙌
 <br>📅 Deadline: 31 Dec 2025
 <br>To nominate your teachers:
-<br>1. Log in to <a rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg</a>
+<br>1. Log in to <a href="https://www.cta.nie.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg</a>
 <br>2. Click ‘NOMINATE NOW’
 <br>3. Write the teacher’s full name
-<br>(Refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/</a>)
+<br>(Refer to <a href="https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/" rel="noopener noreferrer nofollow" target="_blank">https://www.peircesec.moe.edu.sg/about-school/Staff/Staff-list/</a>)
 <br>4. Follow the instructions to fill in the form
 <br>5. Click ‘SUBMIT’
 <br>
