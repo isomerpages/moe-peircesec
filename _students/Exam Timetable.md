@@ -12,35 +12,35 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Sec 1</label>
     <div>
-      Please click <a href="/files/Exam%20Sec_1_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/Sec_1_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
     </div>
 	</li>
 			<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Sec 2</label>
     <div>
-      Please click <a href="/files/Exam%20Sec_2_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/Sec_2_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
     </div>
 	</li>
 					<li>
     <input type="checkbox" id="accordion8">
     <label for="accordion8">Sec 3A</label>
     <div>
-      Please click <a href="/files/Exam%20Sec_3A_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/Sec_3A_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
     </div>
 	</li>
 						<li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">Sec 3E</label>
     <div>
-      Please click <a href="/files/Exam%20Sec_3E_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/Sec_3E_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
     </div>
 	</li>
 							<li>
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Sec 3T</label>
     <div>
-      Please click <a href="/files/Exam%20Sec_3T_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/Sec_3T_2025_EOY_Exam_Timetable.pdf">here </a> for the timetable.
     </div>
 	</li>
 		<li>
