@@ -91,10 +91,10 @@ School’s General Office by the closing date.</p>
 <p>Contact No: 6457 6454</p>
 </li>
 <li>
-<p>Email: Toh_Shufen@schools.gov.sg</p>
+<p>Email: peirce_ss@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Ms Toh Shufen</p>
+<p>Contact Person: Toh Shufen</p>
 </li>
 </ul>
 <p>How to get there?</p>
