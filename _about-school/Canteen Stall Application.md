@@ -158,6 +158,5 @@ attend and pass the Food Safety Course Level 1 conducted by SkillsFuture
 Singapore approved training providers.</p>
 <p>•Successful applicant is required to apply for a food stall license from
 Singapore Food Agency (SFA) to operate the stall.</p>
-<p></p>
 <p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
