@@ -54,9 +54,7 @@ General Office.</p>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Attached the following documents together with the application form
-<br>
-</p>
+<p>Attached the following documents together with the application form</p>
 </li>
 </ol>
 <table style="minWidth: 25px">
