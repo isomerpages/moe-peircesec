@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Japanese Stall</p>
+<p>Muslim Cooked Food</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Dec 2025</p>
