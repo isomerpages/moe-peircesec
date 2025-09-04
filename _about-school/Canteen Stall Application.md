@@ -48,7 +48,8 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
+<p><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual</a>
+<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank"> stallholder</a>
 </p>
 </li>
 </ul>
