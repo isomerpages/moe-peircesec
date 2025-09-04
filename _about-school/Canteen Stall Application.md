@@ -48,14 +48,15 @@ General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual</a>
-<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank"> stallholder</a>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual stallholder</a>
 </p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Attached the following documents together with the application form</p>
+</li>
+</ol>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -68,18 +69,14 @@ General Office.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
-back)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and pricing
-for all items</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
-such as Food Safety Course Level 1, etc</p>
+<p>• Photocopy of the NRIC (front and back)</p>
+<p>• List of proposed menu and pricing for all items</p>
+<p>• Photocopy of relevant certificates such as Food Safety Course Level
+1, etc</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Submit the completed Application Form and documents via email OR to the
