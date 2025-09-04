@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4>School Canteen Advertisement</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -18,13 +19,19 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Closing Date</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muslim Cooked Food</p>
+<p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal Rice / Noodle</p>
 </td>
 </tr>
 </tbody>
@@ -34,37 +41,49 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
+<p>Download and complete the Application Form (click on the link below).
+You may also request for a hardcopy of the Application Form from the School’s
+General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for individual</a>
+<a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank"> stallholder</a>
 </p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Attached the following documents together with the application form:</p>
+<p>Attached the following documents together with the application form</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Individuals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front and
+back)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; List of proposed menu and pricing
+for all items</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of relevant certificates
+such as Food Safety Course Level 1, etc</p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Photocopy of the NRIC (front and back)</p>
-</li>
-<li>
-<p>List of proposed menu and pricing for all items</p>
-</li>
-<li>
-<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc</p>
-</li>
-</ul>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>Submit the completed application form and documents by closing date via
-email OR to the School's General Office.</p>
+<p>Submit the completed Application Form and documents via email OR to the
+School’s General Office by the closing date.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
