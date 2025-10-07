@@ -6,15 +6,79 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h3><strong>Highlights of Concurrent Sessions (2025)</strong></h3>
-<p>English Department:</p>
-<p></p>
+<p><strong>English Department:</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/EL.jpg">
 </div>
 <p>The English team explored how feedback from writing tasks can be transferred
 to enhance oral communication. Using the PEEL structure and a colour-coded
 feedback system, students analysed their own and peers' work, leading to
 improved organisation and elaboration in both written and spoken responses.</p>
+<p><strong>Science Department:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Sci.jpg">
+</div>
+<p>Science teachers implemented feedforward strategies to help student volunteers
+in an enrichment programme improve their communication and collaboration.
+By acting on feedback and planning ahead, students grew in confidence and
+engagement as facilitators.</p>
+<p>Craft &amp; Technology Department:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/C_T.jpg">
+</div>
+<p>The C&amp;T team introduced a Co-Thinking Framework in FCE lessons to
+help students use AI critically when designing healthy meals. Through AI-augmented
+debates and scaffolded reflection, students made more values-driven decisions
+while improving critical thinking and awareness of AI limitations.</p>
+<p><strong>Pathlight School:</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Pathlight.jpg">
+</div>
+<p>Pathlight School reimagined history writing by integrating AI chatbots
+to support students in crafting historical news reports. This tool, used
+in a supervised environment, enabled personalised prompts and feedback,
+enriching students' writing and self-regulation skills.</p>
+<p><strong>Mother Tongue Languages Department:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MTL.jpg">
+</div>
+<p>The MTL team used gamification and the Parlay platform to build students’
+confidence and fluency in oral communication. By combining interactive
+games with scaffolded peer feedback, students became more reflective and
+articulate in discussing real-world issues.</p>
+<p><strong>Mathematics Department:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Maths.jpg">
+</div>
+<p>Math teachers applied the Constructive Alignment framework with feedforward
+strategies to help students reflect on and close learning gaps. Through
+EdTech tools and guided reattempts, students improved their metacognition,
+self-regulation, and confidence in mathematics.</p>
+<p><strong>Humanities Department:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Hum.jpg">
+</div>
+<p>The Humanities team used the PAOME framework and Gradual Release of Responsibility
+model to improve students’ ability to analyse purpose in SBQs. Structured
+reflection and scaffolded practice helped students produce more analytical
+and independent responses.</p>
+<p><strong>Physical Education Department:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PE.jpg">
+</div>
+<p>The PE team adopted a feedforward approach to improve students’ broad
+jump performance. Using video analysis and self-reflection, students identified
+improvement areas and took ownership of their progress, leading to increased
+engagement and technical skill gains.</p>
 <p></p>
 <h4><strong>Outstanding Science Teacher Award – Mr Ang Keng Kiat</strong></h4>
 <p></p>
