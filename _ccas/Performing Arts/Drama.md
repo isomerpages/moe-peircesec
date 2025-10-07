@@ -117,7 +117,12 @@ foster empathy.</p>
 <p>Join us at Peirce Secondary School Drama Club, where your voice and creativity
 take centre stage, and the possibilities are endless!</p>
 <h3>Photos</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CCA Selection Day" src="/images/Picture-1-2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DRS059_PIERCE_SECONDARY_SCHOOL_20.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSS_2025_CCA_8.jpg">
 </div>
 <p></p>
