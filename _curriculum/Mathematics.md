@@ -184,52 +184,64 @@ variant: tiptap
 </tbody>
 </table>
 <h3>2. Department Programmes</h3>
-<p>The Department focuses on the following approaches to enrich the learning
-of Mathematics of our students:</p>
-<p><strong><em>a) Curriculum:</em></strong>&nbsp;Our curriculum designed
-to equip students with useful Mathematical skills and concepts for everyday
-life and for continuous learning in Mathematics and other disciplines.
-Students will also develop skills to reason logically, and learn to work
-cooperatively as well as independently. The pedagogies employed include:</p>
+<p>The Mathematics Department is committed to developing and nurturing our
+students into confident problem solvers and self-directed learners who
+are also critical thinkers who recognise the value and relevance of Mathematics
+in everyday life.</p>
+<p><strong><em>a) Curriculum:</em></strong>&nbsp;Our curriculum is designed
+to equip students with essential <u>M</u>athematical knowledge, skills,
+and dispositions for lifelong learning. <strong>Students will also develop logical reasoning, the ability to work both cooperatively and independently, and competencies for self-directed learning. </strong>To
+support this, we employ a range of pedagogies such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>effective use of Mathematics talk moves</p>
+<p>Effective use of <em>Mathematics talk moves</em> to deepen classroom discourse</p>
 </li>
 <li>
-<p>co-creating success criteria with students</p>
+<p>Co-creation of success criteria with students to promote ownership of
+learning</p>
 </li>
 <li>
-<p>differentiated approach and assignments in a mixed ability class environment</p>
+<p>Differentiated instruction and assignments to cater to students with diverse
+readiness levels</p>
+</li>
+<li>
+<p>Leveraging on <strong>educational technology</strong> tools (e.g. SLS, online
+platforms) to strengthen conceptual understanding and metacognition</p>
 </li>
 </ul>
-<p><strong><em>b) Learning Experiences:</em></strong>&nbsp;In classroom teaching,
-we strive to create meaningful Learning Experiences, for students to find
-joy and relevance in Mathematics learning and see purpose in taking ownership
-of their learning.</p>
-<p>The activities include:</p>
+<p><strong><em>b) Learning Experiences:</em></strong>&nbsp;We aim to create
+meaningful and engaging learning experiences that help students see both
+purpose and joy in Mathematics. Classroom activities <strong>are designed to </strong>encourage
+exploration, collaboration, and critical thinking, including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>students collaborating on Mathematical Tasks</p>
+<p>Collaborating on <u>M</u>athematical tasks to promote shared learning and
+problem-solving approaches</p>
 </li>
 <li>
-<p>students taking part in Problems in Real World Context (PRWC) activities
-and competitions</p>
+<p>Using flowcharts and algorithmic thinking to build computational thinking
+skills which are essential in Mathematics. Such skills are essential to
+train and equip students to to break down complex problems into smaller,
+manageable steps, recognize patterns, and design logical solutions—skills
+that are transferable to problem-solving in real-life contexts and across
+disciplines</p>
 </li>
 </ul>
-<p><strong><em>c) Formative Assessment:</em></strong>&nbsp;Regular formative
-assessments for learning are conducted during classroom lesson to inform
-students on their learning. They provide feedback on areas for improvement
-and follow up for progressive understanding and successes in the learning
-process. Some formative assessment strategies include the use of:</p>
+<p><strong><em>c) Formative Assessment:</em></strong>&nbsp;Assessment for
+learning (AfL) is an integral part of our lessons. Through regular formative
+assessments, students receive timely feedback to identify strengths, <u>close</u> (<strong>address)</strong> learning
+gaps, and <u>track</u> (<strong>monitor their)</strong> progress. <strong>We use a variety of</strong> strategies,
+including:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mini whiteboards with hinge point questions</p>
+<p>Interactive online platforms (e.g. Kahoot, Classkick) to provide <u>real-time feedback and enhance student engagement</u>
+</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Online tools e.g. Kahoot, Classkick which facilitate real time 2 way feedback</p>
-</li>
-<li>
-<p>Exit passes and quizzes</p>
+<p>Exit passes and quizzes to check for understanding and inform the next
+steps in teaching and learning</p>
 </li>
 </ul>
 <p><strong><em>d) Enrichment Programmes:</em></strong>&nbsp;We believe that
