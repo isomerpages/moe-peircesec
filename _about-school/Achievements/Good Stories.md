@@ -79,6 +79,32 @@ and independent responses.</p>
 jump performance. Using video analysis and self-reflection, students identified
 improvement areas and took ownership of their progress, leading to increased
 engagement and technical skill gains.</p>
+<h4><strong>2025 Staff Learning Day</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/test1.png">
+</div>
+<p>At Peirce Secondary School, we are dedicated to developing self-directed
+learners who think critically, reflect deeply, and take charge of their
+own learning journey.</p>
+<p>This is the fourth year we are organising our bi-annual Staff Learning
+Day since its inception in 2019. The theme, <em>'Unlocking the Brain for Self-Directed Growth,'</em> reflects
+our belief that empowering learners starts with metacognitive strategies
+that align with how the brain learns most effectively.</p>
+<p>To deepen our collective understanding, we are honoured to have Mr Tan
+Cher Chong, Master Teacher at the Academy of Singapore Teachers (Education
+Support Chapter), deliver the keynote address titled: “Overview of How
+People Learn and the Cognitive Learning Model.”</p>
+<p>In line with the theme, 7 teams of teachers will showcase how they have
+designed learning experiences that enhance students’ ability to think more
+critically, reflect more intentionally, and take greater charge of their
+own learning journeys. We are also excited to welcome our valued partner,
+Pathlight School, who will present in a concurrent session on <em>“How an AI Chatbot Was Used to Support Students in Writing.”</em>
+</p>
+<p>The Staff Learning Day celebrates not only the professional spirit of
+our teachers, but also our shared commitment to designing learning experiences
+that truly unlock the thinking brain. When our teachers grow, your child
+thrives.</p>
+<p></p>
 <p></p>
 <h4><strong>Outstanding Science Teacher Award – Mr Ang Keng Kiat</strong></h4>
 <p></p>
