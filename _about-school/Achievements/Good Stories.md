@@ -49,7 +49,8 @@ improved organisation and elaboration in both written and spoken responses.</p>
 in an enrichment programme improve their communication and collaboration.
 By acting on feedback and planning ahead, students grew in confidence and
 engagement as facilitators.</p>
-<p>Craft &amp; Technology Department:</p>
+<p><strong>Craft &amp; Technology Department:</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/C_T.jpg">
 </div>
