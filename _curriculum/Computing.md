@@ -218,6 +218,6 @@ to collect tokens.</p>
 </table>
 <h3>3. Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC2gnccWAD_TCQ3Im2WBk_POadrmAt4DJn97q9hRQTH3B-bNly6OduIgVs-XqRxnBVyJvTIrT8r2fG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC2gnccWAD_TCQ3Im2WBk_POadrmAt4DJn97q9hRQTH3B-bNly6OduIgVs-XqRxnBVyJvTIrT8r2fG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
