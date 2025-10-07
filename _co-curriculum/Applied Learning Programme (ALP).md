@@ -72,6 +72,14 @@ to participate in national-level research projects and competitions. These
 experiences not only stretch their abilities but also deepen their passions,
 allowing them to explore their interests on a larger scale and broaden
 their perspectives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_ALP_2025_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_ALP_2025_02.jpg">
+</div>
 <p>
 <br>
 </p>
