@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
+<h3><strong>Highlights of Concurrent Sessions (2025)</strong></h3>
+<p>English Department:</p>
+<p>The English team explored how feedback from writing tasks can be transferred
+to enhance oral communication. Using the PEEL structure and a colour-coded
+feedback system, students analysed their own and peers' work, leading to
+improved organisation and elaboration in both written and spoken responses.</p>
+<p></p>
 <h4><strong>Outstanding Science Teacher Award – Mr Ang Keng Kiat</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
