@@ -19,8 +19,7 @@ Lastly, we encourage teammates to treat each other with respect, courtesy
 and care.</p>
 <p><strong>Teachers-in-Charge:</strong>
 <br>Ms Hong Wee Fui (<a href="mailto:hong_wee_fui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hong_wee_fui@moe.edu.sg</a>)
-<br>Ms Tan Wei Nah (<a href="mailto:tan_wei_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_nah@moe.edu.sg</a>)
-<br>Ms Sim Ying Xuan (<a href="mailto:sim_ying_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ying_xuan@moe.edu.sg</a>)</p>
+<br>Ms Tan Wei Nah (<a href="mailto:tan_wei_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_nah@moe.edu.sg</a>)</p>
 <p><strong>CCA Days and Time:</strong>
 <br>Monday: 3:30 to 6 p.m.
 <br>Wednesday: 3:30 to 6 p.m.</p>
