@@ -5,17 +5,15 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<p>The Basketball team trains twice a week under the caring Coach Kian Hao.
-The team has participated in the NSG South Zone Basketball Competition
-(B &amp; C Divisions) as well as Yio Chu Kang Cup annually. The B Division
-has won the Yio Chu Kang Cup Championship for 2 consecutive years (2022
-and 2023). Through the comprehensive programme, the students would have
-the right amount of exposure and have a sense of pride for the CCA.&nbsp;
-Participation in competitions allows the members to develop sportsmanship
-and resilience. Teammates are also expected to treat one another with respect,
-courtesy and care.</p>
+<p>The Basketball team trains twice a week. The team has participated in
+the NSG South Zone Basketball Competition (B &amp; C Divisions) as well
+as Yio Chu Kang Cup annually. Through the comprehensive programme, the
+students would have the right amount of exposure and have a sense of pride
+for the CCA.&nbsp; Participation in competitions allows the members to
+develop sportsmanship and resilience. Teammates are also expected to treat
+one another with respect, courtesy and care.</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Mr Chia Teck Hong (<a href="mailto:chia_teck_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_teck_hong@moe.edu.sg</a>)
+<br>Ms Ng Yee Lee (<a rel="noopener noreferrer nofollow" target="_blank">ng_yee_lee@moe.edu.sg</a>)
 <br>Ms Miranda Tham (<a href="mailto:miranda_tham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">miranda_tham@moe.edu.sg</a>)</p>
 <p><strong>CCA Training days and time</strong>
 <br>Tuesday: 3:30 to 6 p.m.
