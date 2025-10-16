@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website_homepage_banner_2025_no_logo.png
+      background: /images/Open_House_Banner_2025__PPT_.png
       key_highlights:
         - title: Announcements
           description: ""
