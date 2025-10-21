@@ -17,6 +17,15 @@ sections:
           url: /about-school/Acheivements/good-stories/
       variant: center
   - infopic:
+      title: Prospectus
+      subtitle: Why Peirce Secondary?
+      id: infopic
+      description: Here's what you can look forward to in Secondary 1
+      button: Read our Prospectus here
+      url: https://www.peircesec.moe.edu.sg/prospectus/
+      image: /images/Peirce_Banner_Prospectus.jpg
+      alt: Peirce Prospectus
+  - infopic:
       title: About
       description: Peirce Secondary School started operating in 1994 on the premises
         of Bishan Park Secondary School. Mr Chia Choon Kiat was the school's
