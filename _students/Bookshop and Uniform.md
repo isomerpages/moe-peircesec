@@ -21,19 +21,19 @@ variant: tiptap
 Sec 1 Booklist</p>
 </li>
 <li>
-<p>Click <a href="/files/Booklist/sec2_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Booklist/Sec2_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Sec 2 Booklist</p>
 </li>
 <li>
-<p>Click <a href="/files/Booklist/sec3_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Booklist/Sec3_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Sec 3 Booklist</p>
 </li>
 <li>
-<p>Click <a href="/files/Booklist/sec4_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Booklist/Sec4_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Sec 4 Booklist</p>
 </li>
 <li>
-<p>Click <a href="/files/Booklist/sec5_2025.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="/files/Booklist/Sec5_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Sec 5 Booklist</p>
 </li>
 </ul>
