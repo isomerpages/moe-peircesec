@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_2025__PPT_.png
+      background: /images/Banner/banner_open_house.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -20,8 +20,10 @@ sections:
       title: Prospectus
       subtitle: Why Peirce Secondary?
       id: infopic
-      description: Here's what you can look forward to in Secondary 1
-      button: Read our Prospectus here
+      description: For the latest updates on learning, life, and activities at Peirce,
+        follow us on Instagram @Peirce_Secondary. Alternatively, you can read
+        our Prospectus.
+      button: Click here to find out more
       url: https://www.peircesec.moe.edu.sg/prospectus/
       image: /images/Peirce_Banner_Prospectus.jpg
       alt: Peirce Prospectus
