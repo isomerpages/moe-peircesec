@@ -20,7 +20,8 @@ sections:
       title: Prospectus
       subtitle: Why Peirce Secondary?
       id: infopic
-      description: Here's what you can look forward to in Secondary 1
+      description: For the latest updates of learning, life and activities at Peirce,
+        follow us on Instagram @Peirce_Secondary.  Otherwise,
       button: Read our Prospectus here
       url: https://www.peircesec.moe.edu.sg/prospectus/
       image: /images/Peirce_Banner_Prospectus.jpg
