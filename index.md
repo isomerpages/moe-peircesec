@@ -27,6 +27,12 @@ sections:
       url: https://www.peircesec.moe.edu.sg/prospectus/
       image: /images/Peirce_Banner_Prospectus.jpg
       alt: Peirce Prospectus
+  - infobar:
+      title: Exciting life in Peirce Secondary School
+      subtitle: School Instagram
+      id: infobar
+      button: Check out instagram here
+      url: https://www.instagram.com/peirce_secondary/
   - infopic:
       title: About
       description: Peirce Secondary School started operating in 1994 on the premises
