@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_posting_for_2026.jpg">
 </div>
-<p><strong><u>Announcement: Peirce Secondary School Secondary 1 posting and registration matters</u></strong>
+<p><strong><u>Announcement: Peirce Secondary School Secondary 1 Posting and Registration Matters</u></strong>
 <br><strong><u>19 December 2025</u></strong>
 <br>Dear <strong>Secondary One,</strong>
 <br><strong>Congratulations</strong> on completing PSLE and your primary school
@@ -22,7 +22,7 @@ to speak to any of them. Please enter the school via the front gate as
 construction works are ongoing at the back gate.
 <br>The school will be using&nbsp;<strong>Parents Gateway (PG)</strong>&nbsp;to
 communicate useful information with you on how to prepare your child/ward
-for the first day of school. about
+for the first day of school.
 <br><a href="/files/Announcement_on_school_website_Sec_1_Registration_2025.pdf" rel="noopener nofollow" target="_blank">Click here to read </a>about
 the administrative matters!</p>
 <p></p>
