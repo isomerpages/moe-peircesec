@@ -23,8 +23,8 @@ construction works are ongoing at the back gate.
 <br>The school will be using&nbsp;<strong>Parents Gateway (PG)</strong>&nbsp;to
 communicate useful information with you on how to prepare your child/ward
 for the first day of school.
-<br><a href="/files/Announcement_on_school_website_Sec_1_Registration_2025.pdf" rel="noopener nofollow" target="_blank">Click here to read </a>about
-the administrative matters!</p>
+<br>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
