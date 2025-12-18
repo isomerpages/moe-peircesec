@@ -10,7 +10,7 @@ sections:
       background: /images/Banner/banner_open_house.jpg
       key_highlights:
         - title: Announcements
-          description: ""
+          description: Sec 1 Registration for 2026
           url: /parents/announcement/
         - title: Updates
           description: ""
