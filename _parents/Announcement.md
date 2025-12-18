@@ -104,7 +104,10 @@ offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
 <p>For more details please <a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">click_here </a>to
 read about it.</p>
-<p></p>
+<h4><strong><u>Release of GCE 'N' Level Results 2025</u></strong></h4>
+<div class="iframe-wrapper">
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlvJFUGYUWlXM61UOpAfD9plI2_3COiXHanLjeGumIdpMd6noW_Gxet8u-_jaaCg/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
 </div>
