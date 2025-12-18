@@ -106,7 +106,7 @@ uniform.</p>
 read about it.</p>
 <h4><strong><u>Release of GCE 'N' Level Results 2025</u></strong></h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlvJFUGYUWlXM61UOpAfD9plI2_3COiXHanLjeGumIdpMd6noW_Gxet8u-_jaaCg/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlvJFUGYUWlXM61UOpAfD9plI2_3COiXHanLjeGumIdpMd6noW_Gxet8u-_jaaCg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
