@@ -122,8 +122,7 @@ staff.
 <br>Please refer to the letter below for details on registration, appeals,
 offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
-<p><a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">Click_here</a> for
-more details.</p>
+<p>For more details, click here to read <a href="/files/Letter_with_Details_on_Sec_1_Registration__19_Dec_Fri_.pdf" rel="noopener nofollow" target="_blank">Letter on Secondary 1 Registration</a>.</p>
 <h4><strong><u>Release of GCE 'N' Level Results 2025</u></strong></h4>
 <div class="iframe-wrapper">
 <iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlvJFUGYUWlXM61UOpAfD9plI2_3COiXHanLjeGumIdpMd6noW_Gxet8u-_jaaCg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
