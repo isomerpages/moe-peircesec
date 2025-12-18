@@ -17,8 +17,8 @@ variant: tiptap
 <h3>Booklist 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="/files/Booklist/sec1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-Sec 1 Booklist</p>
+<p>Click <a href="/files/Booklist/sec1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">her</a>
+<a href="/files/Booklist_for_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">e</a>for Sec 1 Booklist</p>
 </li>
 <li>
 <p>Click <a href="/files/Booklist/Sec2_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">here</a> for
