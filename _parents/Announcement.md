@@ -101,6 +101,8 @@ should bring:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wet wipes or rags for cleaning,
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a small lock, and
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; money for recess.</p>
+<p>Students who are waiting for the results of their transfer may report
+in their primary school uniforms.</p>
 <p>
 <br><strong>6. Queries and Clarification</strong>
 <br>The email addresses of relevant staff for various matters are given below:
