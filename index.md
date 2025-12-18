@@ -31,7 +31,7 @@ sections:
       title: Exciting life in Peirce Secondary School
       subtitle: School Instagram
       id: infobar
-      button: Check out instagram here
+      button: Check out our Instagram here
       url: https://www.instagram.com/peirce_secondary/
   - infopic:
       title: About
