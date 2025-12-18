@@ -29,8 +29,9 @@ on Parent Gateway.
 and report on 2 January 2025, Friday, 7:30 am at the Parade Square until
 the transfer is approved.
 <br>For parents/guardians who are unable to access Parent Gateway, you may
-use this link to complete the registration. If you are unable to register
-online, please call the school at 6457 6454. Our staff will assist you.
+use this link to complete the registration. Link: (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/peircesec1registration2025</a>)
+<br>If you are unable to register online, please call the school at 6457 6454.
+Our staff will assist you.
 <br><strong>2.Appeals</strong>
 <br><strong>2a. Medical Appeal Exercise (MAE)</strong>
 <br>For MAE, transfer appeals will only be considered on exceptional basis
@@ -101,7 +102,9 @@ staff.
 <br>Please refer to the letter below for details on registration, appeals,
 offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
-<p>For more details please</p>
+<p>For more details please <a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">click_here </a>to
+read about it.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
 </div>
