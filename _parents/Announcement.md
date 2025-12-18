@@ -20,7 +20,7 @@ some construction going on at the back gate this week. The back gate will
 be available for use when school reopens.&nbsp;
 <br>Parents, please take note of the following important matters. Thank you
 for your attention.
-<br> <strong>1. Registration</strong>
+<br><strong>1. Registration</strong>
 <br><strong>All parents must register their child at their posted school</strong> even
 if they are seeking a transfer to another school. Registration must be
 completed <strong>by 22 December 2025, 12 noon </strong>via the link shared
@@ -29,9 +29,9 @@ on Parent Gateway.
 and report on 2 January 2025, Friday, 7:30 am at the Parade Square until
 the transfer is approved.
 <br>For parents/guardians who are unable to access Parent Gateway, you may
-<a href="https://go.gov.sg/peircesec1registration2025" rel="noopener noreferrer nofollow" target="_blank">use this link</a>to complete the registration. If you are unable to register
+use this link to complete the registration. If you are unable to register
 online, please call the school at 6457 6454. Our staff will assist you.
-<br> <strong>2.Appeals</strong>
+<br><strong>2.Appeals</strong>
 <br><strong>2a. Medical Appeal Exercise (MAE)</strong>
 <br>For MAE, transfer appeals will only be considered on exceptional basis
 for students with serious medical conditions. All appeals must be accompanied
@@ -101,7 +101,7 @@ staff.
 <br>Please refer to the letter below for details on registration, appeals,
 offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
-<p></p>
+<p>For more details please</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CTA_2026_A3_Poster__002_.jpg">
 </div>
