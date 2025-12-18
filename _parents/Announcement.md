@@ -9,17 +9,22 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_posting_for_2026.jpg">
 </div>
 <p><strong><u>Announcement: Peirce Secondary School Secondary 1 posting and registration matters</u></strong>
+<br>
 <br>A very warm welcome to our Peirce Family!
+<br>
 <br>Please note that students <strong><u>do not need to report</u></strong> to
 their posted secondary schools upon receiving their Secondary 1 posting
 results.
+<br>
 <br>Should parents wish to speak with our Year Heads, School Counsellor, or
-Special Needs Education Officer, you may do so on 19 December, Thursday,
+Special Needs Education Officer, you may do so on 19 December, Friday,
 from 9am to 12pm. Please enter the school via the front gate as there is
 some construction going on at the back gate this week. The back gate will
-be available for use when school reopens.&nbsp;
+be available for use when school reopens.&nbsp;</p>
+<p>
 <br>Parents, please take note of the following important matters. Thank you
 for your attention.
+<br>
 <br><strong>1. Registration</strong>
 <br><strong>All parents must register their child at their posted school</strong> even
 if they are seeking a transfer to another school. Registration must be
@@ -31,7 +36,8 @@ the transfer is approved.
 <br>For parents/guardians who are unable to access Parent Gateway, you may
 use this link to complete the registration. Link: (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/peircesec1registration2025</a>)
 <br>If you are unable to register online, please call the school at 6457 6454.
-Our staff will assist you.
+Our staff will assist you.</p>
+<p>
 <br><strong>2.Appeals</strong>
 <br><strong>2a. Medical Appeal Exercise (MAE)</strong>
 <br>For MAE, transfer appeals will only be considered on exceptional basis
@@ -42,7 +48,8 @@ General Office before 12 noon on 22 December 2025.
 <br>Primary 6 students who wish to appeal to Peirce Secondary School may use
 the following form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/appeal-in-2025</a>.
 <br>Transfer requests will be subject to available vacancies and Peirce’s
-cut-off point for this year.
+cut-off point for this year.</p>
+<p>
 <br><strong>3. Accepting offer to study subjects at a more demanding level</strong>
 <br>Full Subject-Based Banding (Full SBB) has been implemented in all secondary
 schools since 2024. Students may take English Language, Mother Tongue Languages,
@@ -54,7 +61,8 @@ whether to take up the offer <strong>by 26 December 2025, </strong>
 <br><strong>10 am.</strong>
 <br>If parents/ guardians do not respond by the deadline, the school will
 take it as the student will not take up the offer, and the decision is
-final.
+final.</p>
+<p>
 <br><strong>4. Purchase of textbooks and uniforms</strong>
 <br>We encourage all parents/ guardians to <a href="http://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">purchase textbooks and uniforms online</a>.
 You can collect your purchases from the school bookshop or arrange for
@@ -73,7 +81,8 @@ home delivery for a fee. The bookshop’s operating hours are as below:
 <br>Details on school rules on attire and appearances can be found in the
 Student Handbook on the school website. (Students -&gt; e Student Handbook)
 <br>Students under FAS should present their approval letter at the General
-Office to collect their textbooks and uniform.
+Office to collect their textbooks and uniform.</p>
+<p>
 <br><strong>5. First day of school</strong>
 <br>Secondary 1 students should report on 2 January 2026, Friday by <strong>7:30 am at the Parade Square in full school uniform.</strong> They
 should bring:
@@ -83,7 +92,8 @@ should bring:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a water bottle,
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wet wipes or rags for cleaning,
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a small lock, and
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; money for recess.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; money for recess.</p>
+<p>
 <br><strong>6. Queries and Clarification</strong>
 <br>The email addresses of relevant staff for various matters are given below:
 <br>Mother Tongue Languages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Teo Chui
@@ -102,8 +112,8 @@ staff.
 <br>Please refer to the letter below for details on registration, appeals,
 offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
-<p>For more details please <a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">click_here </a>to
-read about it.</p>
+<p>Please <a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">click_here</a> for
+more details.</p>
 <h4><strong><u>Release of GCE 'N' Level Results 2025</u></strong></h4>
 <div class="iframe-wrapper">
 <iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRlvJFUGYUWlXM61UOpAfD9plI2_3COiXHanLjeGumIdpMd6noW_Gxet8u-_jaaCg/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
