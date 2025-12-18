@@ -20,8 +20,8 @@ results.
 Special Needs Education Officer, you may do so on 19 December, Friday,
 from 9am to 12pm. Please enter the school via the front gate as there is
 some construction going on at the back gate this week. The back gate will
-be available for use when school reopens.&nbsp;</p>
-<p>
+be available for use when school reopens.&nbsp;
+<br>
 <br>Parents, please take note of the following important matters. Thank you
 for your attention.
 <br>
@@ -33,8 +33,10 @@ on Parent Gateway.
 <br>Students seeking transfers should complete all administrative matters
 and report on 2 January 2025, Friday, 7:30 am at the Parade Square until
 the transfer is approved.
+<br>
 <br>For parents/guardians who are unable to access Parent Gateway, you may
 use this link to complete the registration. Link: (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/peircesec1registration2025</a>)
+<br>
 <br>If you are unable to register online, please call the school at 6457 6454.
 Our staff will assist you.</p>
 <p>
@@ -44,6 +46,7 @@ Our staff will assist you.</p>
 for students with serious medical conditions. All appeals must be accompanied
 by relevant supporting documents and submitted to Peirce Secondary School
 General Office before 12 noon on 22 December 2025.
+<br>
 <br><strong>2b. Appealing to Peirce Secondary School (Non-Medical reason)</strong>
 <br>Primary 6 students who wish to appeal to Peirce Secondary School may use
 the following form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/appeal-in-2025</a>.
@@ -55,10 +58,11 @@ cut-off point for this year.</p>
 schools since 2024. Students may take English Language, Mother Tongue Languages,
 Mathematics and/or Science, at a more demanding level from the start of
 Secondary 1 based on their PSLE AL scores in the subject.
+<br>
 <br>Eligible students will be given letters of offer via Parent Gateway (PG)
 or email. Parents/Guardians, together with their child/ward, must decide
-whether to take up the offer <strong>by 26 December 2025, </strong>
-<br><strong>10 am.</strong>
+whether to take up the offer <strong>by 26 December 2025, 10 am.</strong>
+<br>
 <br>If parents/ guardians do not respond by the deadline, the school will
 take it as the student will not take up the offer, and the decision is
 final.</p>
@@ -67,10 +71,12 @@ final.</p>
 <br>We encourage all parents/ guardians to <a href="http://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">purchase textbooks and uniforms online</a>.
 You can collect your purchases from the school bookshop or arrange for
 home delivery for a fee. The bookshop’s operating hours are as below:
+<br>
 <br>9am to 3pm (Mon to Fri)
 <br>Closed on Sat, Sun, eve of PH and PH
 <br>Location: Canteen
 <br>Tel: 6764 3102
+<br>
 <br>Recommendations for purchase:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 button‑blouse/shirts
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3 skirts/shorts
@@ -78,8 +84,10 @@ home delivery for a fee. The bookshop’s operating hours are as below:
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 School Polo T-Shirt
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 School Tie
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 pairs of school socks
+<br>
 <br>Details on school rules on attire and appearances can be found in the
 Student Handbook on the school website. (Students -&gt; e Student Handbook)
+<br>
 <br>Students under FAS should present their approval letter at the General
 Office to collect their textbooks and uniform.</p>
 <p>
@@ -107,12 +115,14 @@ Wan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" ta
 <a rel="noopener noreferrer nofollow" target="_blank">vivian_yee_pui_ling@schools.gov.sg</a>
 <br>Year Head (Sec 1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp; Ms Yao Ling Yun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">yao_ling_yun@moe.edu.sg</a>
-<br>You may also call the school at 6457 6454 and be re-directed to the relevant
+<br>
+<br>You may also call the school at 6457 6454 to be re-directed to the relevant
 staff.
+<br>
 <br>Please refer to the letter below for details on registration, appeals,
 offering subjects at a more demanding level, purchase of textbooks and
 uniform.</p>
-<p>Please <a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">click_here</a> for
+<p><a href="/files/Letter_with_Details_on_Sec_1_Registration_2026.pdf" rel="noopener nofollow" target="_blank">Click_here</a> for
 more details.</p>
 <h4><strong><u>Release of GCE 'N' Level Results 2025</u></strong></h4>
 <div class="iframe-wrapper">
