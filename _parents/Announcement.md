@@ -35,7 +35,7 @@ and report on 2 January 2025, Friday, 7:30 am at the Parade Square until
 the transfer is approved.
 <br>
 <br>For parents/guardians who are unable to access Parent Gateway, you may
-use this link to complete the registration. Link: (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/peircesec1registration2025</a>)
+use this link to complete the registration. Link: <a href="https://go.gov.sg/peircesec1registration2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/peircesec1registration2025</a>
 <br>
 <br>If you are unable to register online, please call the school at 6457 6454.
 Our staff will assist you.</p>
@@ -49,7 +49,7 @@ General Office before 12 noon on 22 December 2025.
 <br>
 <br><strong>2b. Appealing to Peirce Secondary School (Non-Medical reason)</strong>
 <br>Primary 6 students who wish to appeal to Peirce Secondary School may use
-the following form: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/appeal-in-2025</a>.
+the following form: <a href="https://go.gov.sg/appeal-in-2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/appeal-in-2025</a>
 <br>Transfer requests will be subject to available vacancies and Peirce’s
 cut-off point for this year.</p>
 <p>
