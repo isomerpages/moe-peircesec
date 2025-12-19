@@ -68,7 +68,7 @@ take it as the student will not take up the offer, and the decision is
 final.</p>
 <p>
 <br><strong>4. Purchase of textbooks and uniforms</strong>
-<br>We encourage all parents/ guardians to <a href="http://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">purchase textbooks and uniforms online</a>.
+<br>We encourage all parents/ guardians to <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">purchase textbooks and uniforms online</a>.
 You can collect your purchases from the school bookshop or arrange for
 home delivery for a fee. The bookshop’s operating hours are as below:
 <br>
