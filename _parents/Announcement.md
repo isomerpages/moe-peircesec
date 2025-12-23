@@ -70,7 +70,12 @@ final.</p>
 <br><strong>4. Purchase of textbooks and uniforms</strong>
 <br>We encourage all parents/ guardians to <a href="https://asenciobookshop.sg/" rel="noopener noreferrer nofollow" target="_blank">purchase textbooks and uniforms online</a>.
 You can collect your purchases from the school bookshop or arrange for
-home delivery for a fee. The bookshop’s operating hours are as below:
+home delivery for a fee.
+<br>
+<br><strong>(Update as of 23 December):</strong> Online ordering has been closed
+by the vendor. Parents may proceed with a walk-in purchase instead.
+<br>
+<br>The bookshop’s operating hours are as below:
 <br>
 <br>9am to 3pm (Mon to Fri)
 <br>Closed on Sat, Sun, eve of PH and PH
