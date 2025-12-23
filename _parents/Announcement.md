@@ -72,10 +72,12 @@ final.</p>
 You can collect your purchases from the school bookshop or arrange for
 home delivery for a fee.
 <br>
-<br><strong>(Update as of 23 December):</strong> Online ordering has been closed
-by the vendor. Parents may proceed with a walk-in purchase instead.
-<br>
-<br>The bookshop’s operating hours are as below:
+<br><strong>Update as of 23 December:</strong> For parents who were unable
+to place their orders by 21 December, Asencio will be extending online
+ordering until 29 December 2025. Please note that due to logistical constraints,
+these orders will only be delivered by 12 January 2026.</p>
+<p>As such, the school advises parents to proceed with a walk-in purchase
+instead. The bookshop’s operating hours are as below:
 <br>
 <br>9am to 3pm (Mon to Fri)
 <br>Closed on Sat, Sun, eve of PH and PH
