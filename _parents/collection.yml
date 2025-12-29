@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - 2026 School Year Calendar.md
       - Announcement.md
+      - 2026 School Year Calendar.md
       - Home School Partnership.md
       - PDLP.md
       - Full SBB @ Peirce.md
