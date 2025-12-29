@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2026 School Year Calendar/.keep
       - Announcement.md
       - Home School Partnership.md
       - PDLP.md
