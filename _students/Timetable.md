@@ -13,10 +13,10 @@ variant: markdown
 <td style="width: 25%; height: 20px;"><strong>Sec4 &amp; 5</strong></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/2025t31p.pdf">Sec 1 Term 1 2026</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/2025t32p.pdf">Sec 2 Term 1 2026</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/2025t33p.pdf">Sec 3 Term 1 2026</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/2025t34p.pdf">Sec 4&amp;5 Term 1 2026</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Sec_1_TT_for_all_Classes_2026_Sem_1__For_Sch_Website_.pdf">Sec 1 Term 1 2026</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Sec_2_TT_for_all_Classes_2026_Sem_1__For_Sch_Website_.pdf">Sec 2 Term 1 2026</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Sec_3_TT_for_all_Classes_2026_Sem_1__For_Sch_Website_.pdf">Sec 3 Term 1 2026</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Sec_4_5_TT_for_all_Classes_2026_Sem_1__For_Sch_Website_.pdf">Sec 4&amp;5 Term 1 2026</a></td>
 </tr>
 <tr style="height: 21px;">
 
