@@ -4,7 +4,7 @@ permalink: /students/e-student-handbook/
 description: ""
 variant: tiptap
 ---
-<p>Please click <a href="/files/Student_Handbook_2026_v2_301225.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Student_Handbook_2026_v3_010126.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the PDF version.</p>
 <p></p>
 <p></p>
