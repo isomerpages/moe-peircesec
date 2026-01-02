@@ -976,10 +976,22 @@ variant: tiptap
 <p>Teo Wei Siong Christopher (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager / ICT Manager</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_wei_siong_christopher@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_wei_siong_christopher@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yan Hong Yi (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yan_hongyi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yan_hongyi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1008,6 +1020,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Robicka Bte Karim (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Choi Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
