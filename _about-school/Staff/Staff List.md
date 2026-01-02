@@ -313,18 +313,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Seet Jia Le Valerie (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:valerie_seet@moe.edu.sg" rel="noopener nofollow" target="_blank">valerie_seet@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tan Pei Ghee (Mrs Loo)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -680,18 +668,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yin_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_yin_yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P Sivapathasundaram (Mr Siva)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:p_sivapathasundaram@moe.edu.sg" rel="noopener nofollow" target="_blank">p_sivapathasundaram@moe.edu.sg</a>
 </p>
 </td>
 </tr>
