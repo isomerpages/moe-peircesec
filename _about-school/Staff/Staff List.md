@@ -325,18 +325,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yao Lingyun (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH EL &amp; Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yao_ling_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yao_ling_yun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Yeo Yah Hwee June (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,6 +344,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gay_wei_zhuang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_wei_zhuang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bhavana Thiagarajan (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH English Literature (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bhavana_thiagarajan@moe.edu.sg" rel="noopener nofollow" target="_blank">bhavana_thiagarajan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -385,10 +385,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Galkisage Amanda P Fernando (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST History (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amanda_fernando@moe.edu.sg" rel="noopener nofollow" target="_blank">amanda_fernando@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nai Chheu Yee (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Mathematics</p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nai_chheu_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nai_chheu_yee@moe.edu.sg</a>
@@ -421,18 +433,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bhavana Thiagarajan (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bhavana_thiagarajan@moe.edu.sg" rel="noopener nofollow" target="_blank">bhavana_thiagarajan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chia Teck Hong (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,18 +452,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_weilin@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_weilin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Galkisage Amanda P Fernando (Ms)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_fernando@moe.edu.sg" rel="noopener nofollow" target="_blank">amanda_fernando@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -861,6 +849,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yow_ee-linn_cynthia@moe.edu.sg" rel="noopener nofollow" target="_blank">yow_ee-linn_cynthia@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deborah Wang Jia Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (UT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
