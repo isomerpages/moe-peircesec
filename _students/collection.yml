@@ -2,9 +2,10 @@ collections:
   students:
     output: true
     order:
+      - Home Based Learning (HBL).md
+      - Assessment Plan 2025.md
       - Academic Calendars.md
       - Timetable.md
-      - Assessment Plan 2025.md
       - Exam Timetable.md
       - SWN Login Guide.md
       - Student Learning Space.md
