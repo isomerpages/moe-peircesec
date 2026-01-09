@@ -983,7 +983,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Nurshawallah Binte Rashid (Ms) (NPL)</p>
+<p>Siti Nurshawallah Binte Rashid (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
