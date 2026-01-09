@@ -97,18 +97,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kwan Qi Xiang (Mr)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (S3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Qi_xiang_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qi_xiang_kwan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lee Mei Chen Cheryl (Mrs Lin)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,6 +104,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_mei_chen_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_mei_chen_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kwan Qi Xiang (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (S3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Qi_xiang_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qi_xiang_kwan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -983,7 +983,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Nurshawallah Binte Rashid (Ms) (NPL)</p>
+<p>Siti Nurshawallah Binte Rashid (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -1022,7 +1022,9 @@ variant: tiptap
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="mailto:shantti_annamalai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shantti_annamalai@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
