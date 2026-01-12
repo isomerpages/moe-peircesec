@@ -73,7 +73,7 @@ dance to grow as dancers and as individuals.</p>
 <br>Ms Nicole Lee-Fossås (<a href="mailto:nicole_lee_kim_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_lee_kim_hui@moe.edu.sg</a>)</p>
 <p><strong>CCA Training Days and Time:</strong>
 <br>Monday: 3:30 – 6:00 p.m.
-<br>Thursday: 3:30 – 6:00 p.m</p>
+<br>Wednesday: 3:30 – 6:00 p.m</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe0SmD7JeB_5Y0uT5IW5W1ZiLL7PTVE-zRKOFEQShFMEf9rnAm2sVqMTjvpWsuDftZ8nihdhmwIXoY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
