@@ -5,12 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_AuH7qWtilSNU0hYeJmpcuQ8BQHpmuzjzIIM1-X8kYRhRrtTos4qW_ifNUFT0Ww/pubembed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_O_Level_Parent_Information_Sheet__002_.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="535" width="900" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_AuH7qWtilSNU0hYeJmpcuQ8BQHpmuzjzIIM1-X8kYRhRrtTos4qW_ifNUFT0Ww/pubembed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_posting_for_2026.jpg">
