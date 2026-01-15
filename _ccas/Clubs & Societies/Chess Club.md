@@ -66,3 +66,8 @@ activities</p>
 <br>Every Friday 1-3pm (includes HBL days)&nbsp;</p>
 <p><strong>Venue: </strong>
 <br>Digital Studio (Level 3)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chess_Club_Poster.jpg">
+</div>
+<p></p>
