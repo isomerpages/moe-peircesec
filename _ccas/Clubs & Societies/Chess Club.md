@@ -1,6 +1,6 @@
 ---
 title: Chess Club
-permalink: /chess-club/
+permalink: /co-curriculum/co-curricular-activities-ccas/chess-club/
 variant: tiptap
 description: ""
 image: /images/Chess_Club_Poster.jpg
