@@ -55,7 +55,7 @@ activities</p>
 </ul>
 <p></p>
 <p><strong>Teachers:</strong>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Mrs. Chia Jia Lin Hana&nbsp;(Teacher in- charge)
+<br>Mrs. Chia Jia Lin Hana&nbsp;(Teacher in-charge)
 <br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Ng_Jia_Lin_Hana@moe.edu.sg</a>
 </p>
 <p>Mrs. Jasbir Koh
@@ -66,3 +66,8 @@ activities</p>
 <br>Every Friday 1-3pm (includes HBL days)&nbsp;</p>
 <p><strong>Venue: </strong>
 <br>Digital Studio (Level 3)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chess_Club_Poster.jpg">
+</div>
+<p></p>
