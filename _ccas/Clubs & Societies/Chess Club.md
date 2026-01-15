@@ -64,4 +64,5 @@ activities</p>
 <p></p>
 <p><strong>CCA Training Days: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
 <br>Every Friday 1-3pm (includes HBL days)&nbsp;</p>
-<p><strong>Venue: </strong>Digital Studio (Level 3)</p>
+<p><strong>Venue: </strong>
+<br>Digital Studio (Level 3)</p>
