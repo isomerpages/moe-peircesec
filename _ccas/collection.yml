@@ -2,6 +2,7 @@ collections:
   ccas:
     output: true
     order:
+      - Chess Club.md
       - Clubs & Societies/Alpha Robotics Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Digital Media Club.md
