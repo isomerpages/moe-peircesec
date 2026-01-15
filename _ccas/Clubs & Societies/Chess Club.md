@@ -56,7 +56,7 @@ activities</p>
 <p></p>
 <p><strong>Teachers:</strong>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Mrs. Chia Jia Lin Hana&nbsp;(Teacher in-charge)
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Ng_Jia_Lin_Hana@moe.edu.sg</a>
+<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Ng_Jia_Lin_Hana@schools.gov.sg</a>
 </p>
 <p>Mrs. Jasbir Koh
 <br>Email: &nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Koh_Kok_Keong_Nee@schools.gov.sg</a>
