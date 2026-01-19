@@ -2,9 +2,8 @@
 title: School Song
 permalink: /about-school/school-song/
 description: ""
+variant: markdown
 ---
-
-
 Fax Mentis Incendium Gloriae  
 The passion for glory is the torch to the mind  
 We of Peirce do pledge to achieve  
@@ -19,6 +18,8 @@ Let our ambitions be fulfilled
 Let our minds be liberated  
 Let the flame of Peirce be ignited  
 Fax Mentis Incendium Gloriae
+
+[Click here to listen to our School Song!](https://drive.google.com/file/d/1rUrDwRCt8V85YTVYhW5PKVoQXLczv6Zo/view?usp=sharing)
 
 
 ![](/images/Fax-Mentis-Incendium-Gloriae-Music-Sheet.png)
