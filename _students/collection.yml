@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - WA Briefing.md
       - Home Based Learning (HBL).md
+      - WA Briefing.md
       - Assessment Plan 2026.md
       - Academic Calendars.md
       - Timetable.md
