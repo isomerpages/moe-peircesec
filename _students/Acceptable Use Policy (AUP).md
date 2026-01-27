@@ -7,6 +7,7 @@ description: ""
 <h4><strong>Peirce Secondary School<br><br><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h4>
 <p></p>
 <h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
+<p></p>
 <p>Technology is an essential part of learning in today’s world.</p>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
