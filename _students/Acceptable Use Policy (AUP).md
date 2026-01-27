@@ -4,10 +4,10 @@ permalink: /acceptable-use-policy-aup/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Peirce Secondary School</strong><br><br><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h3>
+<h4><strong>Peirce Secondary School<br><br><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong></h4>
 <p></p>
 <h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
-<p>Technology is an essential part of learning in today’s world.</p>
+<h4>Technology is an essential part of learning in today’s world.</h4>
 <p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
 use of EdTech resources to help you understand how to use these resources
 safely and responsibly, in line with efforts to develop your digital literacies
@@ -26,13 +26,13 @@ and school internet networks.&nbsp;</p>
 <br>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a href="https://go.gov.sg/cw-studentkit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
-<h4><strong>General</strong></h4>
+<h4>General</h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not attempt to access data,
 system and information that you are not authorised to.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded that the use of learning
 devices and school’s EdTech resources should solely be for the purpose
 of learning.</p>
-<h4><strong>Using your PLD</strong></h4>
+<h4>Using your PLD</h4>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are responsible for your PLD. In
 the event of loss or theft of the device, you must make a police report
 and report the matter to the school.</p>
@@ -49,7 +49,7 @@ Management Application (DMA) to support a safe and conducive learning environmen
 You should not attempt to bypass the DMA.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are responsible for regularly backing
 up your learning materials in your PLD to prevent data loss.</p>
-<h4><strong>Being a Responsible Digital Citizen</strong></h4>
+<h4>Being a Responsible Digital Citizen</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should interact with others in a
 respectful and responsible way. You should not post online remarks that
 are</p>
@@ -81,13 +81,13 @@ others.</p>
 any commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.</p>
-<h4><strong>Respecting Copyright</strong></h4>
+<h4>Respecting Copyright</h4>
 <p>11.&nbsp; You are reminded to obtain explicit permission from the content
 owner(s) before downloading, copying or sharing any copyrighted materials
 (e.g. pictures, videos, music).</p>
 <p>12.&nbsp; &nbsp;You should not use, copy, edit or share digital files
 in an unauthorised or illegal manner.</p>
-<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
+<h4>Using Artificial Intelligence (AI)</h4>
 <p>13.&nbsp; You must ensure that you meet the minimum age requirement specified
 in each AI tool's age restrictions before using it.</p>
 <p>14.&nbsp; If the use of AI is permitted, you should acknowledge the use
@@ -95,7 +95,7 @@ of AI in weighted assessments and homework as required.</p>
 <p>15.&nbsp; You are to practice academic integrity and be responsible for
 your own learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
-<h4><strong>Staying Safe and Secure online</strong></h4>
+<h4>Staying Safe and Secure online</h4>
 <p>16. You should report any incidents (e.g. unusual device behaviour or
 inappropriate use of devices), to the school through your Form Teachers
 or Subject Teachers.</p>
@@ -109,7 +109,7 @@ by not engaging with strangers.</p>
 <p>18. You should exercise caution regarding the limitations of AI tools,
 including potential inaccuracies / fabricated responses, inherent biases
 and outdated information.</p>
-<h4><strong>Digital Wellbeing and Balance</strong></h4>
+<h4>Digital Wellbeing and Balance</h4>
 <p>19. You are reminded to balance screentime with other activities including
 physical exercise and face-to-face social interactions.</p>
 <p>20. You should avoid excessive use of your devices outside learning hours.</p>
