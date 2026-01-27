@@ -196,17 +196,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert hyperlink
-here [PDF 1: Annex A - SEd Opt-out Form]). The completed form is to be
-submitted by 13/02/2026.</p>
+of the year and is also available <a href="/files/PSS_2026_Annex_A_SEd_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
+completed form is to be submitted by 13/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>B</strong> and insert hyperlink:
-here [PDF 2: Annex B - eTeens Opt-out Form]).). &nbsp;The completed form
-is to be submitted by 13/02/2026.</p>
+the year and is also available <a href="/files/PSS_2026_Annex_B_eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.The
+completed form is to be submitted by 13/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a href="mailto:peirce_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peirce_ss@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
