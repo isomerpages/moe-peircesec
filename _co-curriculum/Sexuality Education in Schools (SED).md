@@ -83,29 +83,24 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <h4><strong>At Peirce Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h4>
 <h3>Secondary 1</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_1.png">
 </div>
 <h3>Secondary 2</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S2p1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_2.png">
 </div>
 <h3>Secondary 3</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_3.png">
 </div>
 <h3>Secondary 4</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_4.png">
 </div>
 <h3>Secondary 5</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S5_1.png">
 </div>
 <h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
