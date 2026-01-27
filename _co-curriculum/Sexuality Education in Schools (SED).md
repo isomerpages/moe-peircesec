@@ -83,29 +83,24 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <h4><strong>At Peirce Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h4>
 <h3>Secondary 1</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_1.png">
 </div>
 <h3>Secondary 2</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S2p1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_2.png">
 </div>
 <h3>Secondary 3</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_3.png">
 </div>
 <h3>Secondary 4</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_Sec_4.png">
 </div>
 <h3>Secondary 5</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sec5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_S5_1.png">
 </div>
 <h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
@@ -201,17 +196,13 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert hyperlink
-here [PDF 1: Annex A - SEd Opt-out Form]). The completed form is to be
-submitted by 13/02/2026.</p>
+of the year and is also available <a href="/files/PSS_2026_Annex_A_SEd_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>. The
+completed form is to be submitted by 13/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>B</strong> and insert hyperlink:
-here [PDF 2: Annex B - eTeens Opt-out Form]).). &nbsp;The completed form
-is to be submitted by 13/02/2026.</p>
+the year and is also available <a href="/files/PSS_2026_Annex_B_eTeens_Opt_out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.The
+completed form is to be submitted by 13/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a href="mailto:peirce_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peirce_ss@moe.edu.sg</a>for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
