@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcement.md
+      - Parent Welcome Session.md
       - 2026 School Year Calendar.md
       - Home School Partnership.md
       - PDLP.md
