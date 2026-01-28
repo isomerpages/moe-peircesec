@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parent Welcome Session.md
       - Announcement.md
       - 2026 School Year Calendar.md
       - Home School Partnership.md
