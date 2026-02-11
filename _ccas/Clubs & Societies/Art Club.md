@@ -23,8 +23,8 @@ Some of our art activities include:
 
 **Teachers-in-charge**
 
+Ms Jessica Lai ([jessica\_lai\_kit\_mun@moe.edu.sg](mailto:jessica_lai_kit_mun@moe.edu.sg))
 Ms Arion Lai Jia Hui ([lai\_jia\_hui@moe.edu.sg](mailto:lai_jia_hui@moe.edu.sg))  
-Mrs Hana Chia ([ng\_jia\_lin\_hana@moe.edu.sg](mailto:ng_jia_lin_hana@moe.edu.sg))
 
 **CCA Day and Time**
 
