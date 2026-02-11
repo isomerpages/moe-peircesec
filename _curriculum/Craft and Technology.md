@@ -41,8 +41,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Arion Lai Jia Hui</p>
-<p>(SH Art)</p>
+<p>Ms Arion Lai Jia Hui
+<br>(SH Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jia_hui@moe.edu.sg</a>
