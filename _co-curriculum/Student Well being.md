@@ -2,6 +2,7 @@
 title: Student Well being
 permalink: /co-curriculum/student-well-being/
 description: ""
+variant: markdown
 ---
 ### Motivate. Engage. Uplift
 
@@ -30,10 +31,6 @@ Some of the key interventions we provide are:
 *   small group skills training (e.g. social skills, study, and organizational skills);
 *   in-class support
 
-Our AED-LBS are:
-
-*   Ms. Kelly Lim | Senior AED-LBS | 6458 7138 ext 235
-*   Mr. Matthias Goh | AED-LBS | 6458 7138 ext 234
 
 #### Support from Student Welfare Officer
 

@@ -32,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Kian Lai Jonathan
-<br>(HOD Student Guidance)</p>
+<br>(SH Student Well-being)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jonathon_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jonathon_ong@moe.edu.sg</a>
@@ -41,7 +41,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Arion Lai Jia Hui</p>
+<p>Ms Arion Lai Jia Hui
+<br>(SH Art)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jia_hui@moe.edu.sg</a>
@@ -50,10 +51,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sim Hui Zhen Crystal</p>
+<p>Ms Jessica Lai Kit Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hui_zhen_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_zhen_crystal@moe.edu.sg</a>
+<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -105,24 +106,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3>2. Department Programmes</h3>
-<p><strong><em>a)&nbsp; Artist-in-School Scheme (AISS)<br></em></strong>Objective:
-To develop students’ awareness, skills, and understanding of the visual
-arts, with a focus on art criticism, portfolio building, and exhibition
-curation.</p>
-<p>The Artist-in-School Scheme (AISS) provides students with unique, customised
-art learning experiences by connecting them directly with practising art
-professionals. Through workshops and mentorship sessions, students deepen
-their understanding of artistic concepts and processes while gaining first-hand
-exposure to industry practices.</p>
-<p>Students refine essential skills such as critical analysis of artworks,
-portfolio development for further studies, and curating exhibitions to
-showcase artistic narratives. The programme also offers rare behind-the-scenes
-insights into the realities of working in the creative sector, as artists
-share personal experiences and career journeys within the evolving art
-scene.</p>
-<p>Ultimately, AISS empowers students not just to create art, but to think,
-critique, and present like true art practitioners.</p>
-<p><strong><em>b) Museum Art Education Package</em></strong>
+<p><strong><em>a) Museum Art Education Package</em></strong>
 <br>Objective: To develop students’ ability to perceive, appreciate, and communicate
 through the visual arts.</p>
 <p>To immerse students in Singapore’s vibrant art landscape, the school organises
@@ -139,7 +123,7 @@ students learn to localise artistic concepts and select meaningful subject
 matter for their own creative expressions. These encounters with authentic
 art experiences not only broaden their perspectives but also inspire and
 inform their personal art-making journeys.</p>
-<p><strong><em>c) Lower Secondary Design &amp; Create Curriculum</em></strong>
+<p><strong><em>b) Lower Secondary Design &amp; Create Curriculum</em></strong>
 <br>Objective: To develop students’ design capability through Knowledge Building.</p>
 <p>The Lower Secondary D&amp;T curriculum immerses students in design experiences
 that mirror real-world practice. Students are guided to build knowledge
@@ -153,7 +137,7 @@ concepts into reality by creating prototypes in the workshop, where they
 learn to work safely and effectively with materials, tools, and machines.</p>
 <p>This combination of knowledge building, creative thinking, and hands-on
 making nurtures students into confident, reflective, and innovative problem-solvers.</p>
-<p><strong><em>d)</em></strong>&nbsp;<strong><em>Upper Secondary Design and Technology Enrichment Programme<br></em></strong>Objective:
+<p><strong><em>c)</em></strong>&nbsp;<strong><em>Upper Secondary Design and Technology Enrichment Programme<br></em></strong>Objective:
 To cultivate students’ ability to design for sustainability, human flourishing,
 and the responsible use of AI, equipping them to create solutions that
 are environmentally responsible, socially meaningful, and future-ready.</p>
@@ -172,7 +156,7 @@ and make human-centred, ethically informed design choices.</p>
 AI, students develop technical expertise, creativity, and an ethical sensibility,
 preparing them to contribute thoughtfully to a future where design serves
 both people and the planet.</p>
-<p><strong>e)</strong>&nbsp;<strong><em>Upper Secondary Food and Beverage Enrichment Programme</em><br></strong>Objective:
+<p><strong>d)</strong>&nbsp;<strong><em>Upper Secondary Food and Beverage Enrichment Programme</em><br></strong>Objective:
 To spark students’ interest in Singapore’s Food and Beverage (F&amp;B)
 industry.
 <br>The programme offers two pathways:</p>
@@ -191,6 +175,6 @@ of a commercial kitchen</p>
 </ul>
 <h3>3. Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

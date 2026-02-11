@@ -104,14 +104,15 @@ B Boys 3rd Runner-up - 2023</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge:</strong>
-<br>Mr Chan Jie Yong (OIC)&nbsp;<a href="mailto:chan_jie_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jie_yong@moe.edu.sg</a>
-<br>Mrs Chung-Gay Mee Choo (2IC)&nbsp;<a href="mailto:gay_mee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_mee_choo@moe.edu.sg</a>
+<br>Ms Pang Yin Yin <a href="mailto:gay_mee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_yin_yin@moe.edu.sg</a>
+</p>
+<p>Mrs Chung-Gay Mee Choo (2IC)&nbsp;<a href="mailto:gay_mee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_mee_choo@moe.edu.sg</a>
 </p>
 <p><strong>CCA Schedule:</strong>
 <br>Monday&nbsp;–&nbsp;3.30pm to 6pm
 <br>Friday&nbsp;–&nbsp;2.30pm to 5pm</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7XEgdrzmYamLI0QcKvjv94XCbrzSuVw8IO7uJDoUdl_YVzhDrkX7PE0wXdgyYMI8BOVAaV5YbNx9M/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7XEgdrzmYamLI0QcKvjv94XCbrzSuVw8IO7uJDoUdl_YVzhDrkX7PE0wXdgyYMI8BOVAaV5YbNx9M/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
