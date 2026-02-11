@@ -32,7 +32,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Kian Lai Jonathan
-<br>(HOD Student Guidance)</p>
+<br>(SH Student Well-being)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jonathon_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jonathon_ong@moe.edu.sg</a>
