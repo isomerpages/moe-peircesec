@@ -67,15 +67,14 @@ discovering the strength and determination within!</p>
 </ul>
 <p></p>
 <p><strong>Teachers-in-Charge:</strong>
-<br>Mdm Kavitha D/O Supramaniam (<a href="mailto:kavitha_supramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_supramaniam@moe.edu.sg</a>)
-<br>Mdm Sellaiah Kousalya (<a href="mailto:sellaiah_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sellaiah_kousalya@moe.edu.sg</a>)
-<br>Miss Lam (<a href="mailto:lam_yong_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_yong_peng@moe.edu.sg</a>)</p>
+<br>Mdm Sellaiah Kousalya (<a href="mailto:sellaiah_kousalya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sellaiah_kousalya@moe.edu.sg</a>)</p>
+<p>Mr Wong Liang Soon (<a href="mailto:kavitha_supramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_soon@moe.edu.sg</a>)</p>
 <p></p>
 <p><strong>CCA Days and Time:</strong>
 <br>Monday: 3:30 to 5:30 p.m.
 <br>Thursday: 3:30 to 5:30 p.m.</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTm-nZLMH3nzoOSXbug8kHv_r3N_17U2NWON0YiJnMG_oCNbaylSkxhYtGmU6_RSghjIBAyn2xouZdW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTm-nZLMH3nzoOSXbug8kHv_r3N_17U2NWON0YiJnMG_oCNbaylSkxhYtGmU6_RSghjIBAyn2xouZdW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
