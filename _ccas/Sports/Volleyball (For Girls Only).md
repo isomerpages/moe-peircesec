@@ -25,6 +25,6 @@ and care.</p>
 <br>Wednesday: 3:30 to 6 p.m.</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpIXMZHUg9RfT4L4Mm0aJPpR9NguswjzkBcF7KvzWDsGEG1_KkGWrvJ9aJEUZfRxMqyASWWd7-ERoa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRpIXMZHUg9RfT4L4Mm0aJPpR9NguswjzkBcF7KvzWDsGEG1_KkGWrvJ9aJEUZfRxMqyASWWd7-ERoa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
