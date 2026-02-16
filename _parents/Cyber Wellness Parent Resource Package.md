@@ -176,7 +176,7 @@ family</p>
 <p>PfW resources – when your child is the victim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-cyberbullying-victim</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-cyberbullying-victim</a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ family</p>
 <p>PfW resources – how to report incidents through online platforms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/pfw-web-app-safety" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-web-app-safety</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-web-app-safety</a>
 </p>
 </td>
 </tr>
@@ -200,7 +200,7 @@ family</p>
 <p>PfW resources – when your child is the bully</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-cyberbullying-bully</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-cyberbullying-bully</a>
 </p>
 </td>
 </tr>
@@ -212,7 +212,7 @@ family</p>
 <p>Information on Online Challenges and Conversation Starters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-web-online-challenges-hoaxes</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-web-online-challenges-hoaxes</a>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ family</p>
 <p>Scam Shield resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/scamshield-resource</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/scamshield-resource</a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ family</p>
 <p>Verifying information online – S.U.R.E.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-positive-presence-online</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-positive-presence-online</a>
 </p>
 </td>
 </tr>
@@ -248,7 +248,7 @@ family</p>
 <p>Parenting for Wellness Toolbox for Parents (condensed info)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw-toolbox-for-parents</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw-toolbox-for-parents</a>
 </p>
 </td>
 </tr>
@@ -260,7 +260,7 @@ family</p>
 <p>Parenting for Wellness Website (full content)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/pfw</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/pfw</a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ family</p>
 <p>Positive Use Guide on Technology and Social Media</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/positive-use-guide</a>
+<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/positive-use-guide</a>
 </p>
 </td>
 </tr>
@@ -288,9 +288,8 @@ this QR code</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cwresources-parents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cwresources-parents</a>
+<p><a href="https://go.gov.sg/cwresources-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/cwresources-parents</a>
 </p>
-<p></p>
 </td>
 </tr>
 </tbody>
