@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Cyber Wellness Parent Resource Package.md
       - Announcement.md
+      - Cyber Wellness Parent Resource Package.md
       - Parent Welcome Session.md
       - 2026 School Year Calendar.md
       - Home School Partnership.md
