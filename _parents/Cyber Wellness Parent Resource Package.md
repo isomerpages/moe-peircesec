@@ -224,7 +224,7 @@ family</p>
 <p>Scam Shield resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">go.gov.sg/scamshield-resource</a>
+<p><a href="https://go.gov.sg/scamshield-resource" rel="noopener nofollow" target="_blank">go.gov.sg/scamshield-resource</a>
 </p>
 </td>
 </tr>
@@ -288,7 +288,7 @@ this QR code</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cwresources-parents" rel="noopener nofollow" target="_blank">https://go.gov.sg/cwresources-parents</a>
+<p><a href="https://go.gov.sg/cwresources-parents" rel="noopener nofollow" target="_blank">go.gov.sg/cwresources-parents</a>
 </p>
 </td>
 </tr>
