@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2026)</h3>
+<h3>2026 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2027)</h3>
 <p>Dear Prospective Students,</p>
 <p>Peirce Secondary School invites you to be part of our vibrant and inclusive
 community through the Direct School Admission (DSA) exercise!</p>
@@ -150,7 +150,7 @@ assessing the potential of the applicants.<strong>&nbsp;</strong>
 <h4><strong>Application Procedures and Information</strong></h4>
 <p>1) Centralised DSA-Sec Application Process
 <br>You may submit your application through the online DSA-Sec Portal. The
-application is free-of-charge and will be opened from <strong>7 May</strong>  <strong>2025, 11am to 3 June 2025, 3pm. </strong>For
+application is free-of-charge and will be opened from <strong>Wed, 7 May to Tue, 3 Jun 2025, 3pm. </strong>For
 more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <p>2) Parents and students are encouraged to choose schools wisely based
 on the student’s aptitudes and strengths, bearing in mind the schools’
