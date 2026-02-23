@@ -150,7 +150,7 @@ assessing the potential of the applicants.<strong>&nbsp;</strong>
 <h4><strong>Application Procedures and Information</strong></h4>
 <p>1) Centralised DSA-Sec Application Process
 <br>You may submit your application through the online DSA-Sec Portal. The
-application is free-of-charge and will be opened from <strong>Wed, 7 May to Tue, 3 Jun 2025, 3pm (2026 dates will be available and updated in April). </strong>
+application is free-of-charge and will be opened from <strong>Wed, 7 May to Tue, 3 Jun 2025, 3pm (2026 dates will be available and updated in April).</strong>
 </p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <p>2) Parents and students are encouraged to choose schools wisely based
