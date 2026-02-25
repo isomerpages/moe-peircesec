@@ -4,23 +4,25 @@ permalink: /cyber-wellness-parent-resource-package/
 variant: tiptap
 description: ""
 ---
-<p>In line with the national Safer Internet Day 2026 theme, <strong>“Practise Healthy Digital Habits Together”,</strong> Peirce
-Secondary School is committed to supporting our students in developing
-safe, responsible, and balanced online behaviours.</p>
-<p>As a school, we recognise that children’s digital habits are shaped not
-only in school, but also through everyday interactions and routines at
-home. Local studies in Singapore have shown that youths spend significant
-time online and may encounter risks such as scams, cyberbullying, or harmful
-content. Students are <strong>best supported when parents and schools work together</strong> to
-guide their online experiences.</p>
-<p>In line with this, Peirce Secondary School adopts the school-based theme <strong>“Practise Healthy Digital Habits Together as a Peircean Family”</strong>,
-emphasising shared responsibility, open communication, and consistent guidance.</p>
-<p>The resources below are curated to support parents in having meaningful
-conversations with their child, setting healthy boundaries, and encouraging
-help-seeking when needed, so that our children can navigate the online
-space safely, responsibly, and confidently. As part of our Cyber Wellness
-Campaign, we encourage parents to partner the school in guiding our students
-to practise healthy digital habits.</p>
+<h3><strong>Cyber Wellness for Families</strong></h3>
+<h4><strong>Developing Healthy Digital Habits Together</strong></h4>
+<p>At Peirce Secondary School, we recognise that children's digital habits
+are shaped both in school and through everyday interactions at home. Local
+studies indicate that Singapore youths spend significant time online and
+may encounter various risks including scams, cyberbullying, and harmful
+content.</p>
+<p>Students benefit most when parents and schools collaborate to guide their
+online experiences. Our school adopts the theme <strong>"Practise Healthy Digital Habits Together as a Peircean Family"</strong>,
+emphasising shared responsibility, open communication, and consistent guidance
+in developing safe, responsible, and balanced online behaviours.</p>
+<h4><strong>Supporting Parents</strong></h4>
+<p>The school is committed to equipping parents with the necessary tools
+and knowledge to navigate digital wellness conversations with their children.
+Effective cyber wellness education involves setting appropriate boundaries,
+maintaining open dialogue, and encouraging students to seek help when needed.</p>
+<h4><strong>Resources</strong></h4>
+<p>The resources provided below support parents in fostering responsible
+digital citizenship and creating a safe online environment for their children.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

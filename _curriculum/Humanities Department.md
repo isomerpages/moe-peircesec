@@ -8,123 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/header.png">
 </div>
-<h3>1. Department Teachers</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chew Li Ling Stephanie (HOD Humanities)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_li_ling_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_li_ling_stephanie@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chenyee (Lead Teacher Geography)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_chenyee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chenyee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kwan Qi Xiang (Year Head (S2) Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Qi_xiang_kwan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Qi_xiang_kwan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Galkisage Amanda P Fernando</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:amanda_fernando@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_fernando@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nettie Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nettie_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nettie_tan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Irene Stevens-Ong Ching Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:irene_ong_ching_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_ong_ching_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kavitha D/O Supramaniam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_supramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_supramaniam@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Wei Nah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wei_nah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_nah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Chung-Gay Mee Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gay_mee_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_mee_choo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Adelia Ng Meiyu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:adelia_ng_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adelia_ng_meiyu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Yap Qianyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_qian_yi_jasmine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_qian_yi_jasmine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>2. Department Philosophy</h3>
+<h3>1. Department Philosophy</h3>
 <p>The department is committed to nurturing resilient learners who are critical
 thinkers that honour the past, engage thoughtfully with the present, and
 confidently shape the future. Through the study of History, Geography,
@@ -155,7 +39,7 @@ to leave a meaningful impact on society.</p>
 <p>Together, the heart and fingerprint capture our vision of growing empathetic,
 thoughtful, and active global citizens who think deeply, communicate effectively,
 and act responsibly.</p>
-<h3>3. Department Programmes</h3>
+<h3>2. Department Programmes</h3>
 <p><strong>(a) Humanities Investigations</strong>
 <br><strong>Historical Investigations (HI), Geographical Investigations (GI) &amp; Issues Investigation (II)</strong>
 <br><strong>Objectives of the Programme</strong>
@@ -322,11 +206,11 @@ topics such as:</p>
 <p>Experiential Learning in Southeast Asia</p>
 </li>
 </ul>
-<h3>4. Photo Gallery</h3>
+<h3>3. Photo Gallery</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo-1-Humanities-Inquiry-Approach.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

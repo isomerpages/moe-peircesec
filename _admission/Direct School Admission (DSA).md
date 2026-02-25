@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h3>2025 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2026)</h3>
+<h3>2026 DIRECT SCHOOL ADMISSION EXERCISE<br>(For Secondary One Intake in 2027)</h3>
 <p>Dear Prospective Students,</p>
 <p>Peirce Secondary School invites you to be part of our vibrant and inclusive
 community through the Direct School Admission (DSA) exercise!</p>
@@ -13,22 +13,18 @@ interests. This year, we are inviting students with passion and talent
 to join us through the DSA-Sec route through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Community Leadership</strong>,</p>
+<p><strong>STEM</strong>
+</p>
 </li>
 <li>
 <p><strong>Concert Band</strong>,</p>
 </li>
 <li>
-<p><strong>Choir</strong>,</p>
+<p><strong>Scouts</strong>
+</p>
 </li>
 <li>
-<p><strong>International Chess</strong>,</p>
-</li>
-<li>
-<p><strong>Table Tennis</strong>, and</p>
-</li>
-<li>
-<p><strong>STEM</strong>
+<p><strong>International Chess</strong>
 </p>
 </li>
 </ul>
@@ -58,27 +54,23 @@ efforts are encouraged, and your growth is our priority.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Community Youth Leadership</strong> (Girls and Boys)</p>
+<p><strong>STEM</strong> (Girls and Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants should have:
-<br>1) gained leadership experience in primary school through roles such as
-class monitor,&nbsp;prefect/ student leader,&nbsp;CCA leader,&nbsp;or similar
-positions. UG leaders will be expected to join Uniformed Groups upon admission,
-<br>2) demonstrated passion in contributing to the school or the community,</p>
-<p><strong>Physical Fitness Requirement:</strong>
-<br>3) are medically fit to participate in PE programme and outdoor activities,</p>
+<p>Applicants should:
+<br>1) demonstrate</p>
+<p>passion and aptitude in STEM, e.g participation in STEM-related competitions,
+projects, coding courses, robotics clubs, science fairs, or personal STEM
+projects,
+<br>2) possess problem-solving and critical thinking skills, e.g. performance
+in a school-based task or interview involving hands-on problem-solving,
+design challenges, or logical reasoning puzzles, and</p>
 <p><strong>Character:</strong>
-<br>4) demonstrate responsibility, confidence, care and empathy, and
-<br>5) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
-Primary 6 school reports.</p>
-<p>&nbsp;</p>
+<br>3) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+Primary 6 school reports</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Short-listed candidates will attend an interview and a selection trial
-on <strong><u>Tuesday 22 July 2025, at 3.30 p.m.</u></strong>
-</p>
-<p>&nbsp;</p>
+<p>All shortlisted applicants will attend a selection trial and an interview.</p>
 </td>
 </tr>
 <tr>
@@ -107,27 +99,19 @@ be either a solo piece or from a part of a band piece, and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Choir </strong>(Girls and Boys)</p>
-<p>Our Choir engages in both traditional choral singing and energetic show
-choir performances</p>
+<p><strong>Scouts</strong> (Girls and Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants should:
-<br>1) have a passion for singing and dancing.
-<br>2) be willing to showcase their musicality and perform with confidence
-on stage,</p>
-<p><strong>Physical Fitness Requirement</strong>:
-<br>3) Is medically fit and able to participate in PE programme, and</p>
+<p>All applicants should be:
+<br>1) active in a uniformed group in their primary school or an external
+organization</p>
 <p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
+<br>2) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
 Primary 6 school reports.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All shortlisted applicants will attend an audition and be prepared to:
-<br>1) do a solo vocal performance,
-<br>2) perform a solo dance, and
-<br>3) reproduce a dance sequence provided.</p>
+<p>All shortlisted applicants will attend a selection trial.</p>
 <p>Applicants who are further shortlisted will attend an interview.</p>
 </td>
 </tr>
@@ -154,51 +138,6 @@ Primary 6 school reports.</p>
 <p>Applicants who are further shortlisted will attend an interview.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Table Tennis</strong> (Girls and Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants should:
-<br>1) be an active member of the table tennis CCA in primary school or a
-table tennis club or participated in the Junior Sports Academy,
-<br>2) participated in the &nbsp;National School Games (NSG) and/or relevant
-competitions,&nbsp;</p>
-<p><strong>Physical Fitness Requirement</strong>:&nbsp;
-<br>3) Is medically and physically fit, and</p>
-<p><strong>Character:</strong>
-<br>4) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
-Primary 6 school reports.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All shortlisted applicants will attend a selection trial.</p>
-<p>Applicants who are further shortlisted will attend an interview.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>STEM</strong> (Girls and Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants should:
-<br>1) demonstrate</p>
-<p>passion and aptitude in STEM, e.g participation in STEM-related competitions,
-projects, coding courses, robotics clubs, science fairs, or personal STEM
-projects,
-<br>2) possess problem-solving and critical thinking skills, e.g. performance
-in a school-based task or interview involving hands-on problem-solving,
-design challenges, or logical reasoning puzzles, and</p>
-<p><strong>Character:</strong>
-<br>3) have a conduct grade of at least ‘Very Good’ in their Primary 5 and
-Primary 6 school reports</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All shortlisted applicants will attend a selection trial and an interview.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>Please note that
@@ -211,8 +150,9 @@ assessing the potential of the applicants.<strong>&nbsp;</strong>
 <h4><strong>Application Procedures and Information</strong></h4>
 <p>1) Centralised DSA-Sec Application Process
 <br>You may submit your application through the online DSA-Sec Portal. The
-application is free-of-charge and will be opened from <strong>7 May</strong>  <strong>2025, 11am to 3 June 2025, 3pm. </strong>For
-more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
+application is free-of-charge and will be opened from <strong>Wed, 7 May to Tue, 3 Jun 2025, 3pm (2026 dates will be available and updated in April).</strong>
+</p>
+<p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <p>2) Parents and students are encouraged to choose schools wisely based
 on the student’s aptitudes and strengths, bearing in mind the schools’
 academic and non-academic requirements, and the programmes available to

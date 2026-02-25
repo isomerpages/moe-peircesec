@@ -4,108 +4,7 @@ permalink: /curriculum/craft-and-technology/
 description: ""
 variant: tiptap
 ---
-<h3>1. Department Members</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Joon Yong
-<br>(HOD Craft &amp; Technology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_joon_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_joon_yong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Kian Lai Jonathan
-<br>(SH Student Well-being)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jonathon_ong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jonathon_ong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Arion Lai Jia Hui
-<br>(SH Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lai_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jia_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jessica Lai Kit Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jessica_lai_kit_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_lai_kit_mun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lin Kuen Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_kuen_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_kuen_ping@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Karyl Lin Yuzhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yuzhi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yuzhi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Liang Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_liang_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_liang_soon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Sam Peng Kuen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sam_peng_kuen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ee Chong Choon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ee_chong_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_chong_choon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>2. Department Programmes</h3>
+<h3>1. Department Programmes</h3>
 <p><strong><em>a) Museum Art Education Package</em></strong>
 <br>Objective: To develop students’ ability to perceive, appreciate, and communicate
 through the visual arts.</p>
@@ -173,7 +72,7 @@ working life of a professional chef and gain insight into the operations
 of a commercial kitchen</p>
 </li>
 </ul>
-<h3>3. Photo Gallery</h3>
+<h3>2. Photo Gallery</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
