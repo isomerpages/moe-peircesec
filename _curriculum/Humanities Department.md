@@ -206,7 +206,7 @@ topics such as:</p>
 <p>Experiential Learning in Southeast Asia</p>
 </li>
 </ul>
-<h3>4. Photo Gallery</h3>
+<h3>3. Photo Gallery</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo-1-Humanities-Inquiry-Approach.png">
 </div>
