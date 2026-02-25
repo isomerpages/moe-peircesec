@@ -5,49 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3>1. Information Communication Technology (ICT) Department</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Yeok Jin Eugene (Computing)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yeok_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yeok_jin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Cheng Shing Kim (Computing)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_shing_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_shing_kim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Weilin (Computer Applications)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_weilin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_weilin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>In Peirce Secondary School, ICT department adopts the Computer Education
 (CE) Framework. An important aspect of the framework is the relationship
 between the Core Concepts, Computation Thinking and Practices: Core Concepts
@@ -218,6 +175,6 @@ to collect tokens.</p>
 </table>
 <h3>3. Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC2gnccWAD_TCQ3Im2WBk_POadrmAt4DJn97q9hRQTH3B-bNly6OduIgVs-XqRxnBVyJvTIrT8r2fG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC2gnccWAD_TCQ3Im2WBk_POadrmAt4DJn97q9hRQTH3B-bNly6OduIgVs-XqRxnBVyJvTIrT8r2fG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
