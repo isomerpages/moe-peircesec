@@ -4,141 +4,7 @@ permalink: /curriculum/science/
 description: ""
 variant: tiptap
 ---
-<h4><strong>1. Department Staff</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Email Address</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ang Keng Kiat (HOD Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_keng_kiat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Hei Man (HOD CCE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_hei_man@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ashwin Selvarajan (HOD Discipline (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ashwin_selvarajan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Bing Fu (Lead Teacher Biology)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_bing_fu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kan Cheng Mun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kan_cheng_mun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Yee Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_yee_lee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Yin Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pang_yin_yin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Jie Heng Alfred</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">how_jie_heng_alfred@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kok Heong Godberg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kok_heong_godberg@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Yin Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yin_chin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Lai Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_lai_lee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Vincent Tham Wing Kong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tham_wing_kong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Khaizurah Binte Zainalabiddin (STEM Educator)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_khaizurah_zainalabiddin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2. Department Vision, Mission, Values and Motto</strong></h4>
+<h4><strong>1. Department Vision, Mission, Values and Motto</strong></h4>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -188,7 +54,7 @@ Scepticism
 </tr>
 </tbody>
 </table>
-<h4><strong>3. Department Programme</strong></h4>
+<h4><strong>2. Department Programme</strong></h4>
 <p>At Peirce Secondary School, the learning of Science is guided by a holistic
 philosophy that seeks to strike thoughtful and purposeful balances in the
 way we teach and engage students. These balances reflect our commitment
@@ -240,8 +106,8 @@ These experiences are designed to deepen their scientific curiosity, broaden
 their perspectives, and apply their learning in authentic contexts. Do
 visit our photo gallery to catch a glimpse of these exciting programmes
 in action.</p>
-<h4><strong>4. Photo Gallery</strong></h4>
+<h4><strong>3. Photo Gallery</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5ZmMiaT_VZ-C4BxE0AKy2YCbeYfr0YJg2FR4bC8_n1eSdKADHmnz3LlsrUi4FNiQKOCZoDGBEmkh-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5ZmMiaT_VZ-C4BxE0AKy2YCbeYfr0YJg2FR4bC8_n1eSdKADHmnz3LlsrUi4FNiQKOCZoDGBEmkh-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
