@@ -924,13 +924,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Toh Shufen (Ms)</p>
+<p>Ang Hui Mieng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_shufen@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_shufen@moe.edu.sg</a>
+<p><a href="mailto:toh_shufen@moe.edu.sg" rel="noopener nofollow" target="_blank">amg_hui_mieng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
