@@ -122,6 +122,9 @@ Mankind).&nbsp;</p>
 <li>
 <p>2024 Corp Achievement Award – Gold</p>
 </li>
+<li>
+<p>2025 Corp Achievement Award – Gold</p>
+</li>
 </ul>
 <p>Zone Annual First Aid and Home Nursing Competition 2017</p>
 <ul>
@@ -214,6 +217,6 @@ Mankind).&nbsp;</p>
 when training for competition (only for competition teams)</p>
 <h4>Photos</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVLh3JDyhFcgKTvBvwCWYnTwbXs1XTulIlWdxsHdPZG6iKQIRKMkVaCIlWL7NgJffEDKt-99T1Od_l/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVLh3JDyhFcgKTvBvwCWYnTwbXs1XTulIlWdxsHdPZG6iKQIRKMkVaCIlWL7NgJffEDKt-99T1Od_l/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
