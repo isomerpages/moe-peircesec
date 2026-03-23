@@ -16,7 +16,7 @@ variant: markdown
 <td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Term_2_Sec_1_TT_Classes_16_Mar.pdf">Sec 1 Term 2 2026</a></td>
 <td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Term_2_Sec_2_TT_Classes_16_Mar.pdf">Sec 2 Term 2 2026</a></td>
 <td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Term_2_Sec_3_TT_Classes_16_Mar.pdf">Sec 3 Term 2 2026</a></td>
-<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Term_2_Sec_4_and_5_TT_Classes_16_Mar.pdf">Sec 4&amp;5 Term 2 2026</a></td>
+<td style="width: 25%; height: 21px;"><a href="/files/TimeTable/Term_2_Sec_4_and_5_TT_Classes_24_Mar.pdf">Sec 4&amp;5 Term 2 2026</a></td>
 </tr>
 <tr style="height: 21px;">
 
