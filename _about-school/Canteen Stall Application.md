@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Halal (noodle/rice)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>30 April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -94,7 +94,7 @@ School’s General Office by the closing date.</p>
 <p>Email: peirce_ss@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Toh Shufen</p>
+<p>Contact Person: Ang Hui Mieng</p>
 </li>
 </ul>
 <p>How to get there?</p>
