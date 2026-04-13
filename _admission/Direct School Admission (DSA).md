@@ -150,7 +150,7 @@ assessing the potential of the applicants.<strong>&nbsp;</strong>
 <h4><strong>Application Procedures and Information</strong></h4>
 <p>1) Centralised DSA-Sec Application Process
 <br>You may submit your application through the online DSA-Sec Portal. The
-application is free-of-charge and will be opened from <strong>Wed, 7 May to Tue, 3 Jun 2025, 3pm (2026 dates will be available and updated in April).</strong>
+application is free-of-charge and will be opened from <strong>Wed, 6 May to Tue, 2 Jun 2026, 3pm. </strong>
 </p>
 <p>For more details, please refer to MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;</p>
 <p>2) Parents and students are encouraged to choose schools wisely based
@@ -161,14 +161,14 @@ develop the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <h4><strong>DSA Schedule</strong></h4>
-<p>1) The school will contact shortlisted candidates by Tuesday <strong><u>15 July 2025 </u></strong>via
+<p>1) The school will contact shortlisted candidates by Tuesday <strong><u>16 July 2026 </u></strong>via
 email.</p>
 <p>2) Shortlisted candidates will be scheduled to attend a trial/audition/assessment,
-and interview session on one of the days between <strong>Friday, 18 July and Thursday, 24 July 2025</strong>,
+and interview session on one of the days between <strong>Friday, 17 July and Thursday, 23 July 2026</strong>,
 at <strong>3:00 p.m.</strong>
 </p>
 <p>3) All short-listed candidates will be informed of the result of their
 application (confirmation of DSA offer / placement on DSA waiting list
-/ unsuccessful application) via email by <strong><u>Friday 22 August 2025.</u></strong>
+/ unsuccessful application) via email by <strong><u>Friday 21 August 2026.</u></strong>
 </p>
 <p></p>
