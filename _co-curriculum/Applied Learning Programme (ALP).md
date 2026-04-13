@@ -108,7 +108,7 @@ collaborate with like-minded peers, and challenge themselves beyond the
 classroom.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p>
 <br>
