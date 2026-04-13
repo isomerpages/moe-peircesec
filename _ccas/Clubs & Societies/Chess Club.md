@@ -67,7 +67,7 @@ activities</p>
 <p><strong>Venue: </strong>
 <br>Digital Studio (Level 3)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chess_Club_Poster.jpg">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkKDPVOc-aV8oTrs7sRisthNRrqyghEEGY_X3dWPbrAMDQKm6Vee6pJOnkHBDmJXgt2jR08bYuNrgN/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p></p>
