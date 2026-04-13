@@ -80,6 +80,10 @@ their perspectives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_ALP_2025_02.jpg">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>
 <br>
 </p>
