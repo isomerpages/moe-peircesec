@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/2026_Peirce_Website_Banner__3_.png
+      background: /images/Banner/2026_Peirce_Website_Banner__2026_light_.png
       key_highlights:
         - title: Announcements
           description: Sec 1 Registration for 2026
