@@ -5,7 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Briefing & Webinar Resources
 ---
-<div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQDxfWW4ru2ahenOlqOa66yGELDvt6G5aBOi4dfjT-ZNnxADD16Mt_jeYcCIgDPhw/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p></p>
+<p>Please click <a href="https://cms.isomer.gov.sg/files/G1__Sec_2_Subject_Options_Exercise_updated_100426.pdf" rel="noopener nofollow" target="_blank"><u>here</u></a> to
+download G1 Subject Options Exercise</p>
