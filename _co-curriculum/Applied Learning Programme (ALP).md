@@ -4,74 +4,111 @@ permalink: /applied-learning-programme-alp/
 variant: tiptap
 description: ""
 ---
-<h3>Unleashing the Future Innovators: Our Signature STEM Applied Learning Programme (ALP)</h3>
-<h4>AI-Driven STEM: Building Skills for the Digital Age</h4>
-<p>At Peirce Secondary, we are committed to equipping our students with the
-skills they need to excel in a rapidly changing world. Starting in 2025,
-we proudly offer STEM as our Applied Learning Programme (ALP). This programme
-is designed to provide an integrated approach to learning, developing 21st
-Century Competencies (21CC), while encouraging exploratory learning and
-fostering connections across different subjects.&nbsp;</p>
-<p>Our STEM ALP empowers students to be self-directed, engaged, and motivated
-learners, ready to tackle the challenges of tomorrow.</p>
-<h4>A Hands-On Approach to Learning: The Tier 1 STEM ALP Curriculum</h4>
-<p>At Tier 1, the programme is designed to be inclusive, offering every student
-the opportunity to explore STEM in a hands-on, dynamic learning environment.
-In their lower secondary years, every student will embark on a STEM journey
-through our Tier 1 programme, gaining exposure to the exciting worlds of
-coding, artificial intelligence (AI), and design thinking. Led by our in-house
-computing experts and external partners like STEM Inc, IMDA and AI Singapore,
-students will develop core skills to:</p>
-<p><strong>1. </strong>&nbsp;<strong>Ignite a Passion for Programming:</strong> Students
-embark on an exciting journey into coding with micro-controllers, laying
-the foundation for future computer scientists.</p>
-<p><strong>2.&nbsp; Unleash the Power of AI: </strong>Our curriculum explores
-artificial intelligence, teaching students responsible use of AI to create
-stunning images and videos.</p>
-<p><strong>3.&nbsp; Cultivate Creative Thinkers: </strong>We encourage innovative
-problem-solving through design and computational thinking, equipping students
-to tackle challenges confidently.</p>
-<p><strong>4.&nbsp; Communicate with Clarity:</strong> Students learn effective
-communication skills, presenting ideas clearly while simplifying complex
-information and identifying patterns.</p>
-<p><strong>5.&nbsp; Explore Technology’s Role:</strong> They gain insights
-into how computers and data shape daily life, understanding the importance
-of programming in today’s industries.</p>
+<h3><strong>Unleashing Future Innovators: Our Signature STEM Applied Learning Programme (ALP)</strong></h3>
+<p><strong>AI-Driven STEM: Building Skills for a Changing World</strong>
+</p>
+<p>At Peirce Secondary School, we are committed to preparing our students
+for a rapidly evolving, technology-driven world. Our STEM Applied Learning
+Programme (ALP), introduced in 2025, provides an integrated and authentic
+learning experience that develops students’ Artificial Intelligence (AI)
+literacy, technological skills and 21st Century Competencies (21CC) through
+real-world problem solving.</p>
+<p>Anchored in project-based learning, the programme nurtures students to
+be curious, self-directed and resilient learners who are able to think
+critically, collaborate effectively, and create meaningful solutions using
+technology.</p>
+<p><strong>A Strong Foundation for All: Tier 1 STEM ALP</strong>
+</p>
+<p>Our Tier 1 programme is designed for all lower secondary students, ensuring
+broad access and meaningful exposure to STEM learning. Through a structured
+and hands-on curriculum, students build foundational skills in coding,
+artificial intelligence (AI), and design thinking.</p>
+<p>Students will:</p>
+<ul>
+<li>
+<p><strong>Build Computational Thinking and Coding Skills</strong>
+<br>Learn programming through microcontrollers, developing logical thinking
+and problem-solving skills while creating interactive prototypes.&nbsp;</p>
+</li>
+<li>
+<p><strong>Explore AI in Meaningful Contexts</strong>
+<br>Understand how AI works, examine its impact on society, and learn to use
+AI tools responsibly to support ideation, design, and problem-solving.&nbsp;</p>
+</li>
+<li>
+<p><strong>Develop Design Thinking Mindsets</strong>
+<br>Apply human-centred design processes to identify problems, generate ideas,
+prototype solutions, and refine them through testing.&nbsp;</p>
+</li>
+<li>
+<p><strong>Strengthen Communication and Collaboration</strong>
+<br>Work in teams to present ideas, document their thinking, and communicate
+solutions clearly and effectively.&nbsp;</p>
+</li>
+<li>
+<p><strong>Understand Technology in the Real World</strong>
+<br>Appreciate how artificial intelligence and automation shape everyday life
+and future industries.&nbsp;
+<br>
+</p>
+</li>
+<li>
+<p><strong>Create and Prototype in the Makerspace</strong>
+</p>
+<p>Design and fabricate functional prototypes using tools such as 3D printers
+and laser cutters, translating ideas into tangible solutions through iterative
+making.</p>
+</li>
+</ul>
 <p></p>
-<p><strong>Bringing Ideas to Life: The Power of Projects</strong>
-<br>Students will not only learn contemporary STEM concepts—they will also
-put them into practice. In secondary 1, they will have the chance to work
-on curated STEM projects, applying their newly acquired knowledge. By secondary
-2, students can integrate these skills into a Values in Action (VIA) project,
-collaborating with community partners to solve real-world problems using
-technology. This gives them a chance to make a meaningful impact while
-honing their skills.</p>
-<h4>Tier 2: Specialising and Mastering Skills in the STEAM Makerspace</h4>
-<p>For students with a passion for STEM and who want to take their learning
-to the next level, our Tier 2 programme offers specialised opportunities
-to hone their skills.&nbsp;
-<br>In this space, students can:</p>
-<p><strong>Prototype and Tinker:</strong> Explore arts, robotics, and engineering
-in our STEAM Makerspace.</p>
-<p><strong>Integrate AI: </strong>Use AI to enhance design ideation, coding,
-and even report generation.</p>
-<p>With a four-year curriculum designed to deepen expertise in science, technology,
-engineering, arts, and mathematics, the Art and Makers Club prepares students
-for future careers in these exciting fields.</p>
-<p><strong>Pathways for All Learners</strong>
-<br>Whether part of our G3 Computing class or exploring STEM through Student
-Initiated Learning (SIL), students with a passion for AI and coding will
-have multiple opportunities to explore their interests. They can participate
-in coding workshops, learning journeys, and even internships with esteemed
-partners like AI Singapore and local polytechnics, gaining real-world experience
-and exposure to future-focused careers.</p>
 <p></p>
-<p><strong>Talent Development</strong>
-<br>For students eager to challenge themselves, Peirce offers opportunities
-to participate in national-level research projects and competitions. These
-experiences not only stretch their abilities but also deepen their passions,
-allowing them to explore their interests on a larger scale and broaden
-their perspectives.</p>
+<p>Learning in the STEM ALP is anchored in authentic, hands-on projects.</p>
+<ul>
+<li>
+<p><strong>Secondary 1:</strong> Students work on curated STEM projects (e.g.
+robotic grand prix), applying coding, electronics, and design thinking
+skills.&nbsp;</p>
+</li>
+<li>
+<p><strong>Secondary 2:</strong> Students deepen their learning through more
+complex projects, with opportunities to integrate STEM into Values-in-Action
+(VIA) initiatives, where they design solutions to address real community
+needs.&nbsp;</p>
+</li>
+</ul>
+<p>Through these experiences, students learn to iterate, problem-solve, and
+see the relevance of STEM in improving lives.</p>
+<p></p>
+<hr>
+<p></p>
+<p><strong>Deepening Passion and Expertise: Tier 2 STEAM Makerspace</strong>
+</p>
+<p>For students with a deeper interest in STEM, our Tier 2 opportunities
+provide platforms to further develop their skills and passions.</p>
+<p>In our STEM Makerspace, students will:</p>
+<ul>
+<li>
+<p><strong>Prototype and Innovate</strong>
+<br>Engage in advanced projects that integrate engineering, coding, and design,
+including interactive art and smart systems.&nbsp;</p>
+</li>
+<li>
+<p><strong>Leverage AI as a Tool</strong>
+<br>Use AI to support ideation, coding, data analysis, and documentation,
+enhancing both creativity and productivity.&nbsp;</p>
+</li>
+</ul>
+<p>Through collaboration with Singapore Polytechnic, the Tier 2 students
+experience a progressive four-year pathway that blends science, technology,
+engineering, arts, and mathematics.&nbsp;</p>
+<p>Students with strong interest and aptitude are further supported through
+enrichment and competition opportunities, including national-level projects
+and STEM competitions. These platforms allow students to deepen their expertise,
+collaborate with like-minded peers, and challenge themselves beyond the
+classroom.</p>
+<p>
+<br>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_ALP_2025_01.jpg">
