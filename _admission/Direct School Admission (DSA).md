@@ -161,14 +161,14 @@ develop the area of talent.</p>
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
 <h4><strong>DSA Schedule</strong></h4>
-<p>1) The school will contact shortlisted candidates by Tuesday <strong><u>16 July 2026 </u></strong>via
+<p>1) The school will contact shortlisted candidates by Tuesday <strong><u>14 July 2026 </u></strong>via
 email.</p>
 <p>2) Shortlisted candidates will be scheduled to attend a trial/audition/assessment,
-and interview session on one of the days between <strong>Friday, 17 July and Thursday, 23 July 2026</strong>,
+and interview session on one of the days between <strong>Monday, 20 July and Thursday, 23 July 2026</strong>,
 at <strong>3:00 p.m.</strong>
 </p>
 <p>3) All short-listed candidates will be informed of the result of their
 application (confirmation of DSA offer / placement on DSA waiting list
-/ unsuccessful application) via email by <strong><u>Friday 21 August 2026.</u></strong>
+/ unsuccessful application) via email by <strong><u>Friday, 14 August 2026.</u></strong>
 </p>
 <p></p>
