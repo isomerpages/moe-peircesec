@@ -22,16 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Stevens (OIC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:irene_ong_ching_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_ong_ching_ling@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Lai Lee</p>
+<p>Ms Wong Lai Lee (Covering OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_lai_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lai_lee@moe.edu.sg</a>
@@ -44,6 +35,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:adelia_ng_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adelia_ng_meiyu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Bing Fu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_bing_fu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bing_fu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Mei Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mei_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mei_wan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Stevens (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irene_ong_ching_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_ong_ching_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -143,6 +161,6 @@ variant: tiptap
 </table>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRISXWzBB3-twpTXlyZ8Jl4E49quJGvUO3Spl9i0OxVidUgZm_G4X7fl6MHhidvvrcVk70aEEyKsFc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRISXWzBB3-twpTXlyZ8Jl4E49quJGvUO3Spl9i0OxVidUgZm_G4X7fl6MHhidvvrcVk70aEEyKsFc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
