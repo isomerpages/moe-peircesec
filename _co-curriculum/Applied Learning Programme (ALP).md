@@ -4,9 +4,9 @@ permalink: /applied-learning-programme-alp/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Unleashing Future Innovators: Our Signature STEM Applied Learning Programme (ALP)</strong></h3>
-<p><strong>AI-Driven STEM: Building Skills for a Changing World</strong>
-</p>
+<h4><strong>Unleashing Future Innovators:</strong></h4>
+<h4><strong>Our Signature STEM Applied Learning Programme (ALP)</strong></h4>
+<h2><strong>AI-Driven STEM: Building Skills for a Changing World</strong></h2>
 <p>At Peirce Secondary School, we are committed to preparing our students
 for a rapidly evolving, technology-driven world. Our STEM Applied Learning
 Programme (ALP), introduced in 2025, provides an integrated and authentic
@@ -48,19 +48,14 @@ solutions clearly and effectively.&nbsp;</p>
 <li>
 <p><strong>Understand Technology in the Real World</strong>
 <br>Appreciate how artificial intelligence and automation shape everyday life
-and future industries.&nbsp;
-<br>
-</p>
+and future industries.&nbsp;</p>
 </li>
-<li>
+</ul>
 <p><strong>Create and Prototype in the Makerspace</strong>
 </p>
 <p>Design and fabricate functional prototypes using tools such as 3D printers
 and laser cutters, translating ideas into tangible solutions through iterative
 making.</p>
-</li>
-</ul>
-<p></p>
 <p></p>
 <p>Learning in the STEM ALP is anchored in authentic, hands-on projects.</p>
 <ul>
@@ -106,10 +101,7 @@ enrichment and competition opportunities, including national-level projects
 and STEM competitions. These platforms allow students to deepen their expertise,
 collaborate with like-minded peers, and challenge themselves beyond the
 classroom.</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
-</div>
 <p>
 <br>
 </p>
+<p></p>
