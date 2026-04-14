@@ -101,7 +101,9 @@ enrichment and competition opportunities, including national-level projects
 and STEM competitions. These platforms allow students to deepen their expertise,
 collaborate with like-minded peers, and challenge themselves beyond the
 classroom.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=5000&amp;rm=minimal"></iframe>
+</div>
+<p></p>
 <p></p>
