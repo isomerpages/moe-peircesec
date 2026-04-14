@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h3>1. Department Philosophy</h3>
 <p>The department is committed to nurturing resilient learners who are critical
-thinkers that honour the past, engage thoughtfully with the present, and
+thinkers who honour the past, engage thoughtfully with the present, and
 confidently shape the future. Through the study of History, Geography,
 and Social Studies, we empower our students with the knowledge and skills
 to engage meaningfully with the world and navigate its complexities with
@@ -73,17 +73,15 @@ a driving question rooted in historical, geographical, or societal contexts.
 Students then gather data to address their inquiry through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learning journeys for Lower Secondary students to sites such as the <strong>National Museum</strong>, <strong>Changi Chapel Museum</strong>, <strong>Former</strong>  <strong>Ford Factory</strong>,
-Reflections at Bukit Chandu and <strong>Bishan Park</strong>.</p>
+<p>Learning journeys for Lower Secondary students to sites such as the <strong>National Museum, Changi Chapel Museum, Former Ford Factory, Reflections at Bukit Chandu, Indian Heritage Centre, Chinatown Heritage Centre, and Bishan Park</strong>.</p>
 </li>
 <li>
-<p>Fieldwork for Upper Secondary students to locations such as <strong>Sentosa, HDB Gallery, URA City Gallery, Science Centre</strong> and <strong>Chinatown.</strong>
-</p>
+<p>Fieldwork for Upper Secondary students to locations such as <strong>the Parliament</strong>, <strong>Sentosa, HDB Gallery, URA City Gallery, Science Centre, and Chinatown</strong>.</p>
 </li>
 <li>
-<p>Engagements with community stakeholders like the <strong>Migrant Workers Association</strong> and <strong>MOM School Partnership Programme</strong> who
-provide valuable insights and data through talks, discussions and Learning
-Journey.</p>
+<p>Engagements with community stakeholders like the <strong>Migrant Workers Centre</strong> and <strong>Ministry Of Manpower School Partnership Programme</strong>,
+who provide valuable insights and data through talks, discussions, and
+Learning Journey.</p>
 </li>
 </ul>
 <p>After data collection, students return to class to analyse and interpret
@@ -113,8 +111,8 @@ and for Secondary 3 students new to Social Studies, these projects adopt
 a <strong>guided inquiry approach</strong>. Teachers provide structured
 support to help students navigate the inquiry process and understand performance
 expectations.</p>
-<p>Click on this <a href="https://www.instagram.com/reel/DIBucXcTzxo/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-view the photos for S1 Geographical Investigation 2025.&nbsp;
+<p>Click on this <a href="https://www.instagram.com/reel/DWU1l7LAoNS/?igsh=MTBnOHJidDN2YTZqaQ==" rel="noopener noreferrer nofollow" target="_blank"><u>link </u></a>to
+view the photos for S1 Geographical Investigation 2026.
 <br>Click on this <a href="https://www.instagram.com/reel/DFM1L36CzSs/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 view the photos for S4 Geographical Investigation 2025.</p>
 <p><strong>(b) The Humanities Inquiry Approach</strong>
@@ -155,8 +153,8 @@ and interaction sessions.</p>
 <p>NUS Geography Challenge is an annual Geography competition organised by
 the NUS Department of Geography and NUS Geographical Society, with support
 from the Ministry of Education.</p>
-<p>Click on this <a href="https://www.instagram.com/reel/DG9iew-CmyZ/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-view the photos for the NUS Geography Challenge 2025.</p>
+<p>Click on this <a href="https://www.instagram.com/p/DVZpFVDkrVw/?igsh=MXZudXpvbnIyc3k4Zw==" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a> to
+view the photos for the NUS Geography Challenge 2026.</p>
 <p><u>March: Model United Nations trainings</u>
 </p>
 <p>MUN training sessions prepare participants for Model MUN conferences,
