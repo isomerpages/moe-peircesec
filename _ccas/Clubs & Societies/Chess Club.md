@@ -68,6 +68,6 @@ activities</p>
 <br>Digital Studio (Level 3)</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkKDPVOc-aV8oTrs7sRisthNRrqyghEEGY_X3dWPbrAMDQKm6Vee6pJOnkHBDmJXgt2jR08bYuNrgN/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSkKDPVOc-aV8oTrs7sRisthNRrqyghEEGY_X3dWPbrAMDQKm6Vee6pJOnkHBDmJXgt2jR08bYuNrgN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

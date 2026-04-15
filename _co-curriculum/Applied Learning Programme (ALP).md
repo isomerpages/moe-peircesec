@@ -104,6 +104,6 @@ classroom.</p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="929" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSZXDcBuKLRzyRRSRsDeJXXrr9UQacSrKMyK98YP8sUGm6JlFa-HQmzF_dqbnzN_MFKO9I28scglPJq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
