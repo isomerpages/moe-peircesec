@@ -79,6 +79,6 @@ anywhere using ICT.</p>
 <p>Mondays: 3:30 p.m. to 5:30 p.m.</p>
 <h4>Photos</h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="929" width="1200" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTu89oNFILgEE8uA0flZsoacP9Vxs4Mw9aPf17B6Z5-oocdohzKGrz3Pl30FOjnrgMEecwRpIP6ETy0/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTu89oNFILgEE8uA0flZsoacP9Vxs4Mw9aPf17B6Z5-oocdohzKGrz3Pl30FOjnrgMEecwRpIP6ETy0/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p></p>
