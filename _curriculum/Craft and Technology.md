@@ -55,23 +55,42 @@ and make human-centred, ethically informed design choices.</p>
 AI, students develop technical expertise, creativity, and an ethical sensibility,
 preparing them to contribute thoughtfully to a future where design serves
 both people and the planet.</p>
-<p><strong>d)</strong>&nbsp;<strong><em>Upper Secondary Food and Beverage Enrichment Programme</em><br></strong>Objective:
-To spark students’ interest in Singapore’s Food and Beverage (F&amp;B)
-industry.
-<br>The programme offers two pathways:</p>
-<ul data-tight="true" class="tight">
+<p><strong>d) Lower Sec AI Augmented Food and Consumer Education (FCE) curriculum</strong>
+</p>
+<p>The Lower Secondary Food and Consumer Education (FCE) programme integrates
+AI-augmented learning modules to support student-centred, inquiry-based
+learning. Students are nurtured to be informed, reflective, and responsible
+individuals as they engage in meaningful tasks that deepen their understanding
+of the relationship of food with <strong>well-being, culture, consumerism, sustainable consumption and responsible living</strong>.</p>
+<p><strong>e) Upper Sec Nutrition and Food Science (NFS) Learning Journey</strong>
+</p>
+<p>The Upper Secondary Nutrition and Food Science (NFS) programme is enriched
+through curated learning journeys that bring classroom learning to life.
+These experiences provide students with <strong>authentic exposure to the Food and Beverage (F&amp;B) industry</strong>,
+allowing them to connect theory with real-world practice.</p>
+<p>Students explore key areas such as food preparation, food safety, and
+F&amp;B operations through hands-on and observational learning.&nbsp;</p>
+<p>For example,</p>
+<ul>
 <li>
-<p>Advanced Elective Modules (AEMs): Conducted by local polytechnics, these
-modules guide students in starting and managing their own F&amp;B businesses.
-Through hands-on activities, students will develop a simple, sustainable
-business plan and design their dream restaurant concept.</p>
+<p>At the Baking Industry Training College (BITC), they work in an industrial
+kitchen to prepare items such as macarons, gaining insight into the <strong>precision and discipline required in large-scale production.</strong>
+</p>
 </li>
 <li>
-<p>Elective Modules: A school-based programme where students experience the
-working life of a professional chef and gain insight into the operations
-of a commercial kitchen</p>
+<p>Through visits to industries like Pizza Hut, students observe food <strong>safety protocols, kitchen workflows, and service operations</strong> in
+a fast-paced environment.&nbsp;</p>
+</li>
+<li>
+<p>At Acetek College, they further develop food preparation skills, learn
+from industry professionals, and explore<strong> food presentation and plating techniques</strong>.</p>
 </li>
 </ul>
+<p>These learning journeys deepen understanding, strengthen critical thinking,
+and build confidence. More importantly, they inspire students to appreciate
+the relevance of their learning and <strong>explore future pathways in food science, nutrition, and the F&amp;B industry</strong>.
+<br>
+</p>
 <h3>2. Photo Gallery</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXJgw19Q-bBk0hCvDlvn0BARR7C0pBM17_6wuT1H9wgLLrM4g0Ief1Ls5WEedveiSCYWpUGsUCpsnQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
