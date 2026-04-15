@@ -74,6 +74,6 @@ of a commercial kitchen</p>
 </ul>
 <h3>2. Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT5uCSX5-O8RTUTrbLXRWcIDsS7siW2YaWrIGTX0uGPfEkbFnI01zVwyjh1vMuw9gBPHw7mDvXceac3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXJgw19Q-bBk0hCvDlvn0BARR7C0pBM17_6wuT1H9wgLLrM4g0Ief1Ls5WEedveiSCYWpUGsUCpsnQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
