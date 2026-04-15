@@ -56,6 +56,9 @@ dance to grow as dancers and as individuals.</p>
 <p>Singapore Youth Festival Arts Presentation 2023: Certificate of Accomplishment</p>
 </li>
 <li>
+<p>Singapore Youth Festival Arts Presentation 2023: Certificate of Accomplishment</p>
+</li>
+<li>
 <p>Singapore Youth Festival Arts Presentation 2021: Certificate of Accomplishment&nbsp;</p>
 </li>
 <li>
@@ -70,12 +73,13 @@ dance to grow as dancers and as individuals.</p>
 </ul>
 <p><strong>Teachers-in-charge:</strong>
 <br>Mdm Sin Boon Yiah (<a href="mailto:sin_boon_yiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sin_boon_yiah@moe.edu.sg</a>)
-<br>Ms Nicole Lee-Fossås (<a href="mailto:nicole_lee_kim_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_lee_kim_hui@moe.edu.sg</a>)</p>
+<br>Ms Nicole Lee-Fossås (<a href="mailto:nicole_lee_kim_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_lee_kim_hui@moe.edu.sg</a>)
+<br>Mdm Tan Yin Chin (<a href="mailto:tan_yin_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_chin@moe.edu.sg</a>)</p>
 <p><strong>CCA Training Days and Time:</strong>
 <br>Monday: 3:30 – 6:00 p.m.
 <br>Wednesday: 3:30 – 6:00 p.m</p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe0SmD7JeB_5Y0uT5IW5W1ZiLL7PTVE-zRKOFEQShFMEf9rnAm2sVqMTjvpWsuDftZ8nihdhmwIXoY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe0SmD7JeB_5Y0uT5IW5W1ZiLL7PTVE-zRKOFEQShFMEf9rnAm2sVqMTjvpWsuDftZ8nihdhmwIXoY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
