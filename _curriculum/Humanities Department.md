@@ -117,6 +117,7 @@ view the photos for S1 Geographical Investigation 2026.
 view the photos for S4 Geographical Investigation 2025.</p>
 <p><strong>(b) The Humanities Inquiry Approach</strong>
 </p>
+<p></p>
 <p>Our department uses the Inquiry-Based Approach in the teaching of all
 Humanities subjects. This approach is built on four key pedagogical elements:</p>
 <ul data-tight="true" class="tight">
@@ -209,6 +210,6 @@ topics such as:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo-1-Humanities-Inquiry-Approach.png">
 </div>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQE3VY-KkJ1a5txLaBS20WMq5KPi4E82cXYHHjDkKY_HuYduzPQ3ACw7Q7Gp3qZ0goBYJpU8gTnWOq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="317" width="384" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqFLzwKAXLJKmJjdiyKEdSdyDsf_IKWmaZ5BVktr7Y6iQQKbFz1Jy8MI6ePam-7gL-yqLk5M-8OUN_/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

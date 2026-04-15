@@ -25,12 +25,6 @@ for&nbsp;students to explore and develop their interests.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/co-curriculum/co-curricular-activities-ccas/clubs-robotics-club/" rel="noopener noreferrer nofollow" target="_blank">Alpha Robotics Club</a></strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/co-curriculum/co-curricular-activities-ccas/clubs-art-club/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a></strong>
 </p>
