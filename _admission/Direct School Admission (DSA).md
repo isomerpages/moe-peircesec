@@ -99,7 +99,7 @@ be either a solo piece or from a part of a band piece, and
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Scouts</strong> (Girls and Boys)</p>
+<p><strong>Scouts</strong> (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants should be:
