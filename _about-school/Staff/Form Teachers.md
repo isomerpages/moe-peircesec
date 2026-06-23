@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Nicole Fossås</p>
-<p>Miss Deborah Wong</p>
+<p>Miss Deborah Wang</p>
 </td>
 </tr>
 <tr>
