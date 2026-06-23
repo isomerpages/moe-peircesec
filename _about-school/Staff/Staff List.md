@@ -73,10 +73,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Siew Yin Frieda</p>
+<p>Leong Siew Yin Frieda (Mrs Tay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>School Staff Developer / Year Head (S1) - Sem 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_siew_yin_frieda@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_siew_yin_frieda@moe.edu.sg</a>
@@ -361,18 +361,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Christina (Mrs Lai)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christina_camillus_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina_camillus_lim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Loh Hwee Hwa (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -505,7 +493,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lai Jessica</p>
+<p>Lai Jessica (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
