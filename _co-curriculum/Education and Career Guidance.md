@@ -158,19 +158,19 @@ please click on the following:</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/journey.png">
 </div>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" rel="noopener noreferrer nofollow" target="_blank">Journey with Our Children, Achieving their Aspirations</a>
+<p><a href="/files/Journey_with_Our_Children__Achieving_their_Aspirations.pdf" rel="noopener noreferrer nofollow" target="_blank">Journey with Our Children, Achieving their Aspirations</a>
 </p>
 <p>The Next Step Forward</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/next-step.jpg">
 </div>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972" rel="noopener noreferrer nofollow" target="_blank">The Next Step Forward</a>
+<p><a href="https://drive.google.com/file/d/1XDHmgVGU5eXAIOe6hX9wvkxHeGuCTyEH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">The Next Step Forward</a>
 </p>
 <p>Post-Secondary Education</p>
 <p>Overview of Post-Secondary Education Institutions (PSEIs):&nbsp;<a href="https://www.moe.gov.sg/post-secondary/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/overview</a>&nbsp;(this
 website will link to other important topics like pathways, admission exercises,
 course finder etc)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndDVlzT-z0g"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndDVlzT-z0g"></iframe>
 </div>
 <p></p>

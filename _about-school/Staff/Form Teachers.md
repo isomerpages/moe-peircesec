@@ -53,7 +53,8 @@ variant: tiptap
 <p>Ms Toh Xinrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Peng Kuan</p>
+<p>Mrs Nicole Fossås</p>
+<p>Miss Deborah Wang</p>
 </td>
 </tr>
 <tr>
@@ -226,10 +227,10 @@ variant: tiptap
 <p>4 P(assion)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Lim</p>
+<p>Mr Jonathan Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Ong</p>
+<p>Ms Valerie Seet</p>
 </td>
 </tr>
 <tr>
