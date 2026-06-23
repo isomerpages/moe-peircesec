@@ -158,7 +158,7 @@ please click on the following:</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/journey.png">
 </div>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx" rel="noopener noreferrer nofollow" target="_blank">Journey with Our Children, Achieving their Aspirations</a>
+<p><a href="https://www.peircesec.moe.edu.sg/files/Journey_with_Our_Children__Achieving_their_Aspirations.pdf" rel="noopener noreferrer nofollow" target="_blank">Journey with Our Children, Achieving their Aspirations</a>
 </p>
 <p>The Next Step Forward</p>
 <div class="isomer-image-wrapper">
@@ -171,6 +171,6 @@ please click on the following:</p>
 website will link to other important topics like pathways, admission exercises,
 course finder etc)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndDVlzT-z0g"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ndDVlzT-z0g"></iframe>
 </div>
 <p></p>
