@@ -164,7 +164,7 @@ please click on the following:</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/next-step.jpg">
 </div>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972" rel="noopener noreferrer nofollow" target="_blank">The Next Step Forward</a>
+<p><a href="https://drive.google.com/file/d/1XDHmgVGU5eXAIOe6hX9wvkxHeGuCTyEH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">The Next Step Forward</a>
 </p>
 <p>Post-Secondary Education</p>
 <p>Overview of Post-Secondary Education Institutions (PSEIs):&nbsp;<a href="https://www.moe.gov.sg/post-secondary/overview" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/overview</a>&nbsp;(this
