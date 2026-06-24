@@ -150,10 +150,10 @@ variant: tiptap
 <p>2 Em(pathy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Stevens</p>
+<p>Mdm Suriyanti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriyanti</p>
+<p>Mrs Irene Stevens</p>
 </td>
 </tr>
 <tr>
