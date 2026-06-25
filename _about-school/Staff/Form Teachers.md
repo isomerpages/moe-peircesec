@@ -88,6 +88,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Nee</p>
+<p>Mrs Yvonne Lau</p>
 </td>
 </tr>
 <tr>
@@ -150,10 +151,10 @@ variant: tiptap
 <p>2 Em(pathy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Stevens</p>
+<p>Mdm Suriyanti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriyanti</p>
+<p>Ms Goh Sujuan</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +176,7 @@ variant: tiptap
 <p>Ms Adelia Ng Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Liang Kar Weng</p>
+<p>Mr Siva</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +264,7 @@ variant: tiptap
 <p>Ms Hong Wee Fui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Mdm Tan Pei Ghee</p>
 </td>
 </tr>
 <tr>
