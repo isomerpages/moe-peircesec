@@ -88,6 +88,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Nee</p>
+<p>Mrs Yvonne Lau</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +154,7 @@ variant: tiptap
 <p>Mdm Suriyanti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Stevens</p>
+<p>Ms Goh Sujuan</p>
 </td>
 </tr>
 <tr>
