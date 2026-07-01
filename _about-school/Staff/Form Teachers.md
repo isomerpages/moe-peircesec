@@ -32,6 +32,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gay Wei Zhuang</p>
+<p>Mrs Yvonne Lau</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +54,6 @@ variant: tiptap
 <p>Ms Toh Xinrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nicole Fossås</p>
 <p>Miss Deborah Wang</p>
 </td>
 </tr>
@@ -88,7 +88,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Chun Nee</p>
-<p>Mrs Yvonne Lau</p>
 </td>
 </tr>
 <tr>
