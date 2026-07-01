@@ -165,6 +165,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kavitha D/O Supramaniam</p>
+<p>Mr Sam Peng Kuan</p>
 </td>
 </tr>
 <tr>
