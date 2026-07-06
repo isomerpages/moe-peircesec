@@ -553,7 +553,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lin Kuen Ping</p>
+<p>Lin Kuen Ping (Mr)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -625,6 +625,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Mei Wan (Ms)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mei_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mei_wan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ong Ching Ling Irene (Mrs Stevens)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -644,6 +656,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_yin_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_yin_yin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P Sivapathasundaram (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:p_sivapathasundaram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">p_sivapathasundaram@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -841,7 +865,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deborah Wang Jia Xuan</p>
+<p>Deborah Wang Jia Xuan (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (UT)</p>
@@ -908,6 +932,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aishwariyaa_rajandra@moe.edu.sg" rel="noopener nofollow" target="_blank">aishwariyaa_rajandra@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Colin Tan Thian Hock (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -993,7 +1028,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Choi Peng</p>
+<p>Leong Choi Peng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
@@ -1029,6 +1064,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Siti Saripah Binte Sanusi (Mdm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eu Ai Ling (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TSO</p>
