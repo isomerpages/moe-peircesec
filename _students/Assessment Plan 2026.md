@@ -4,23 +4,23 @@ permalink: /students/assessment-plan/
 description: ""
 variant: tiptap
 ---
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_1_G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___1G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 1 G1 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_1_G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___1G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 1 G2 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_1_G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___1G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 1 G3 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_2_G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___2G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 2 G1 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_2_G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___2G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 2 G2 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_2_G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___2G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 2 G3 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_3_G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___3G1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 3 G1 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_3_G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___3G2.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 3 G2 Assessment Plan.</p>
-<p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_3_G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Assessment Plan/Assessment_Schedule_2026_updated_8_July___3G3.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 3 G3 Assessment Plan.</p>
 <p>Please click <a href="/files/Assessment Plan/Assessment Schedule 2026/Assessment_Schedule_2026___Sec_4T.pdf" rel="noopener nofollow" target="_blank">here</a> for
 Secondary 4T Assessment Plan.</p>
