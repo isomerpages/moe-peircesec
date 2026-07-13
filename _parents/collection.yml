@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Anti Bullying Policy.md
       - Announcement.md
+      - Anti Bullying Policy.md
       - Cyber Wellness Parent Resource Package.md
       - Parent Welcome Session.md
       - 2026 School Year Calendar.md
