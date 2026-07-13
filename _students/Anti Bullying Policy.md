@@ -4,8 +4,7 @@ permalink: /anti-bullying-policy/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Anti-Bullying Policy</u></strong>
-</p>
+<h3><strong><u>Anti-Bullying Policy</u></strong></h3>
 <p><strong><u>Our Commitment</u></strong>
 </p>
 <p>At Peirce Secondary School, we believe every child deserves to feel safe,
