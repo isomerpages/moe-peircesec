@@ -47,21 +47,21 @@ Please click on the respective streams for the exam schedules.
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Sec 4NT</label>
     <div>
-			Please click <a href="/files/Exam%20Timetable/2025_Sec_4NT_Prelim_Exam_TT_020725.pdf">here </a> for the timetable.
+			Please click <a href="/files/Exam%20Timetable/2026_Sec_4NT_Prelim_Exams_Exam_TT.pdf">here </a> for the timetable.
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Sec 4NA</label>
     <div>
-      Please click <a href="/files/Exam%20Timetable/2025_Sec_4NA_Prelim_Exam_TT_020725.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/2026_Sec_4NA_Prelim_Exams_Exam_TT.pdf">here </a> for the timetable.
     </div>
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sec 4E &amp; 5A</label>
     <div>
-      Please click <a href="/files/Exam%20Timetable/2025_Sec_4E5A_Prelim_Exam_TT_130725.pdf">here </a> for the timetable.
+      Please click <a href="/files/Exam%20Timetable/2026_Sec_4E5A_Prelim_Exams_Exam_TT.pdf">here </a> for the timetable.
     </div>
 	</li>
 	</ul>
